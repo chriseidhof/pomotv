@@ -1,0 +1,29 @@
+---
+title: iOS videos
+---
+
+<h1>Videos</h1>
+
+<div class="videos">
+  <% data.videos.each do |event, videos| %>
+  <% videos.each do |f| %>
+    <div class="video">
+      <h2><%= f.title %></h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/<%= f.youtube %>" frameborder="0" allowfullscreen></iframe> 
+      <div>
+        <% if data.events[event] %>
+          <%= link_to event, data.events[event].url %>
+        <% else %>
+          <%= event %>
+        <% end %>
+      <% f.speakers.each do |s| %>
+        <%= s %>
+        <% if data.speakers[s] and data.speakers[s]['twitter'] %>
+          - @<%= link_to(data.speakers[s].twitter, 'http://twitter.com/' + data.speakers[s].twitter) %><br/>
+        <% end %>
+      <% end %>
+    </div>
+    </div>
+  <% end %>
+  <% end %>
+</div>
