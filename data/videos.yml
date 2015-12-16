@@ -1,0 +1,32 @@
+Functional Swift Conference 2015:
+  - language: English
+    speakers: [Veronica Ray]
+    title: You Used To Inject Me In Your Constructor
+    tags: [dependency injection]
+    youtube: 2--pYf1T6Xc
+  - language: English
+    speakers: [Agnes Vasarhelyi]
+    title: Functional Thinking
+    tags: [reactive programming]
+    youtube: hHeideOmLs4
+  - language: English
+    speakers: [Alexis Gallagher]
+    title: Protocols with Associated Types
+    youtube: XWoNjiSPqI8
+  - language: English
+    speakers: [Brian Partridge]
+    title: Result Driven Development
+    youtube: aCm68xAWrno
+  - language: English
+    speakers: [Brandon Williams]
+    title: Lenses in Swift
+    youtube: ofjehH9f-CU
+  - language: English
+    speakers: [Chris Eidhof]
+    title: Functional View Controllers
+    tags: [view controllers, monad, flatMap]
+    youtube: sP156LW5BVs
+  - language: English
+    speakers: [Colin Barrett]
+    title: Structure and Interpretation of Swift Programs
+    youtube: V-YvI83QdMs
