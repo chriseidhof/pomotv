@@ -161,6 +161,107 @@ Functional Swift Conference 2014:
     title: The Functional Way
     tags: [functional programming]
     youtube: tohEJSq9gds
+NSConference 2015:
+  - language: English
+    speakers: [James Dempsey]
+    title: "The Future: A Look Back"
+    vimeo: 124391695
+  - language: English
+    speakers: [Laura Savino]
+    title: "Caring At Scale: Helping millions of learners without getting disenchanted"
+    vimeo: 124391694
+  - language: English
+    speakers: [Scott Morrison]
+    title: Lessons From 10 Years as a Mail Plugin Developer
+    vimeo: 124391693
+  - language: English
+    speakers: [Rob Rhyne]
+    title: SpriteKit with Crayons
+    vimeo: 124384528
+  - language: English
+    speakers: [Jessie Char]
+    title: Expert of Nothing
+    vimeo: 124384526
+  - language: English
+    speakers: [Jamiee Newberry]
+    title: "Through Burnout & Back Again: Design Skills that Saved My Life"
+    vimeo: 124384525
+  - language: English
+    speakers: [Francesco Frison]
+    title: Video Talk
+    vimeo: 124349707
+  - language: English
+    speakers: [Marco Arment]
+    title: iOS App Marketing For Small Developers
+    vimeo: 124349705
+  - language: English
+    speakers: [Matthias Steffens]
+    title: "JavaScript For Automation: A Quick Intro To Its Use For Debugging"
+    vimeo: 124349703
+  - language: English
+    speakers: [Halle Winkler]
+    title: Duct-Taping The Gates Of Chaos Shut
+    vimeo: 124349698
+  - language: English
+    speakers: [Kyle Richter]
+    title: The Last Job
+    vimeo: 124349695
+  - language: English
+    speakers: [Amy Worrall]
+    title: Here's To The Crazy Ones
+    vimeo: 124349469
+  - language: English
+    speakers: [Sally Shepard]
+    title: "Building Habits: Keeping Your Users Engaged"
+    vimeo: 124349468
+  - language: English
+    speakers: [Eelco Lempsink]
+    title: Retail Story
+    vimeo: 124349467
+  - language: English
+    speakers: [Taylan Pince]
+    title: Cocoa and Robots
+    vimeo: 124349466
+  - language: English
+    speakers: [Pieter Omvlee]
+    title: "Moving Goalposts: Adapting Existing Code For Future Needs"
+    vimeo: 124349465
+  - language: English
+    speakers: [Scott Little]
+    title: Ultimate Spirit
+    vimeo: 124349161
+  - language: English
+    speakers: [Tim Mecking]
+    title: Flaws In Tutorials Screencasts and Samplecode
+    vimeo: 124349160
+  - language: English
+    speakers: [Daniel Steinberg]
+    title: Somewhere Between Tomorrowland and Frontierland
+    vimeo: 124349158
+  - language: English
+    speakers: [Martin Winter]
+    title: Practical Unicode
+    vimeo: 124349157
+  - language: English
+    speakers: [Cate Huston]
+    title: Mobile Is A Systems Problem
+    vimeo: 124337778
+  - language: English
+    speakers: [Joel Parsons]
+    title: The Modern Password And You
+    vimeo: 124337776
+  - language: English
+    speakers: [Paul Muston]
+    title: Validate Your Product Before You Build It
+    vimeo: 124337775
+  - language: English
+    speakers: [Bil Moorhead]
+    title: The Tao of Black Pixel Management
+    vimeo: 124337773
+  - language: English
+    speakers: [Daniel Kennett]
+    title: "Dependable Salaries are for Chumps: Going Indie in 2015"
+    vimeo: 124337772
 UIKonf 2015:
   - language: English
     speakers: [JP Simard]
