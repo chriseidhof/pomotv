@@ -7,7 +7,7 @@ require 'yt'
 task :default => [:build, :lint_speakers, :lint_events]
 
 task :fetchyt, [:user] => :dotenv do |t, args|
-  url = "https://www.youtube.com/user/#{args[:user]}/"
+  url = "https://www.youtube.com/channel/UChiwrWoactp8mOs70j53zYw?spfreload=10"
   channel = Yt::Channel.new url: url
   channel.videos.each do |video|
     puts "  - language: English"

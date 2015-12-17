@@ -6,6 +6,10 @@ UIKonf 2014:
   url: http://www.uikonf.com
   date: May 13-16, 2014
   slug: uikonf-2014
+AltConf 2014:
+  date: Jun 2-6, 2014
+  url: http://altconf.com
+  slug: altconf-2014
 GitHub Reactive Cocoa Developer Conference 2014:
   date: Jun 14, 2014
   url: https://github.com/ReactiveCocoa/ReactiveCocoa/issues/1350
