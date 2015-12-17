@@ -23,3 +23,7 @@ If you get the following error:
 please perform the following command:
 
     $ gem install eventmachine -v '1.0.8' -- --with-cppflags=-I/usr/local/opt/openssl/include
+
+### For maintainers
+
+Run `rake publish` to build the site and publish it to GitHub Pages.
