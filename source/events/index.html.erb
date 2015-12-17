@@ -3,7 +3,7 @@ title: Events
 ---
 
 <div class="events">
-  <% data.events.each do |event, event_data| %>
+  <% data.events.to_a.reverse.each do |event, event_data| %>
     <h2><%= link_to event, "/events/#{event_data.slug}" %></h2>
     <p>
       <% data.videos[event].each do |video| %>

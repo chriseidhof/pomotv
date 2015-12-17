@@ -4,7 +4,7 @@
     <% video.speakers.each do |s| %>
       <%= s %>
       <% if data.speakers[s] and data.speakers[s]['twitter'] %>
-        - @<%= link_to(data.speakers[s].twitter, 'http://twitter.com/' + data.speakers[s].twitter) %><br/>
+        - <%= link_to('@' + data.speakers[s].twitter, 'http://twitter.com/' + data.speakers[s].twitter) %><br/>
       <% end %>
     <% end %>
   </div>
