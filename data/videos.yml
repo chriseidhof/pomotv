@@ -345,6 +345,132 @@ NSConference 2015:
     speakers: [Daniel Kennett]
     title: "Dependable Salaries are for Chumps: Going Indie in 2015"
     vimeo: 124337772
+"Swift Summit London 2015":
+- language: English
+  speakers: [Radek Pietruszewski]
+  title: Swifty Methods
+  tags: []
+  youtube: QVvwiNbkUnI
+- language: English
+  speakers: [Gem Barrett]
+  title: View from the Other Side
+  tags: []
+  youtube: U67RA_uf58Y
+- language: English
+  speakers: [Hermés Piqué]
+  title: Closures in API Design
+  tags: []
+  youtube: 0SPwirqsugg
+- language: English
+  speakers: [Brian Gesiak]
+  title: Compelling Code
+  tags: []
+  youtube: 6PaSsskE2TM
+- language: English
+  speakers: [Daniel Steinberg]
+  title: (Functional) Programming for Everyone
+  tags: []
+  youtube: jiMxEEwEVPY
+- language: English
+  speakers: [Sally Shepard]
+  title: Extracurricular Swift
+  tags: []
+  youtube: EEovmqNvnkk
+- language: English
+  speakers: [Jorge Izquierdo]
+  title: "Taylor: The Most Un-Googleable Swift Library"
+  tags: []
+  youtube: T55C9lGEHMI
+- language: English
+  speakers: [Marcin Krzyżanowski]
+  title: "CryptoSwift: Cryptography You Can Do"
+  tags: []
+  youtube: VGDVA5KxVmk
+- language: English
+  speakers: [Boris Bügling]
+  title: Swift Funtime
+  tags: []
+  youtube: dDlEO53ZNTU
+- language: English
+  speakers: [Anthony Levings]
+  title: "JSON, Swift, and Type Safety: It's a wrap"
+  tags: []
+  youtube: W_GD5ilIxWE
+- language: English
+  speakers: [Abizer Nazir, Boris Bügling, Gem Barrett, Jack Nutting, Kyle Fuller, Radek Pietruszewski]
+  title: "Swift Panel: Where do we go from here?"
+  tags: []
+  youtube: faLLXWPqkqE
+- language: English
+  speakers: [Jack Nutting]
+  title: The Future Belongs to the Young
+  tags: []
+  youtube: A8eB2GO7cdg
+- language: English
+  speakers: [Daniel Tomlinson]
+  title: Swift, Meet Objective-C
+  tags: []
+  youtube: JlE5jZpZa_Q
+- language: English
+  speakers: [Chris Eidhof]
+  title: "Functional View Controllers: An Experiment"
+  tags: []
+  youtube: sXHJ-CeN0Us
+- language: English
+  speakers: [Johannes Weiß]
+  title: The Type System is Your Friend
+  tags: []
+  youtube: lcaawcLmtBA
+- language: English
+  speakers: [Abizer Nasir]
+  title: What Haskell Taught Me About Writing Swift
+  tags: []
+  youtube: paDHfVRpyCg
+- language: English
+  speakers: [Airspeed Velocity, Ayaka Nonaka, Brian Gesiak, Chris Eidhof, Colin Eberhardt]
+  title: Swift All-Star Panel
+  tags: []
+  youtube: ArV1bwTMAx0
+- language: English
+  speakers: [Jan Riehn]
+  title: Testing in Swift
+  tags: []
+  youtube: wLQpcVC5BMs
+- language: English
+  speakers: [Carola Nitz]
+  title: "Debugging in Swift: How Hard Can It Be?"
+  tags: []
+  youtube: z0x_5Za3tMA
+- language: English
+  speakers: [Joseph Lord]
+  title: How Swift is Swift?
+  tags: []
+  youtube: FjRqGSaQMKw
+- language: English
+  speakers: [Airspeed Velocity]
+  title: Zero-Cost Abstractions
+  tags: []
+  youtube: Gr6HXCQ9tX8
+- language: English
+  speakers: [Simon Gladman]
+  title: "The Supercomputer In Your Pocket: Metal & Swift"
+  tags: []
+  youtube: BCuUQUwgYcs
+- language: English
+  speakers: [Javier Soto]
+  title: Back to the Futures
+  tags: []
+  youtube: hPo0o2Z8gjE
+- language: English
+  speakers: [Colin Eberhardt]
+  title: "ReactiveCocoa and Swift: Better Together"
+  tags: []
+  youtube: 9-nICUaNBLA
+- language: English
+  speakers: [Al Skipp]
+  title: The Monad Among Us
+  tags: []
+  youtube: PZ_ShvesGIk
 UIKonf 2015:
   - language: English
     speakers: [JP Simard]
