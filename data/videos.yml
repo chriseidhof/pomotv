@@ -30,3 +30,74 @@ Functional Swift Conference 2015:
     speakers: [Colin Barrett]
     title: Structure and Interpretation of Swift Programs
     youtube: V-YvI83QdMs
+AltConf 2015:
+  - language: English
+    speakers: [Peter Steinberger]
+    title: "[Objective] C++: What Could Possibly Go Wrong?"
+    tags: [c++, interpretation]
+    youtube: 4hOEB_C342Q
+  - language: English
+    speakers: [Aaron Hillegass]
+    title: A Eulogy for Objective-C
+    tags: [c++, interpretation]
+    youtube: 2s7UR-rNFss
+  - language: English
+    speakers: [Nathan Eror]
+    title: "Beyond the Grid - Creating Unique, High Performance Interfaces With UICollectionView"
+    tags: [interface, grid, collection views]
+    youtube: tm-SO0RFt5c
+  - language: English
+    speakers: [Brianna Wu]
+    title: "Choose Your Character"
+    tags: [games, graphics, 3d]
+    youtube: L-zjV57tpnI
+  - language: English
+    speakers: [Dave Wiskus]
+    title: "Designing for Humans"
+    tags: [design, user interface, user experience]
+    youtube: HL38kUwrpoM
+  - language: English
+    speakers: [Ash Furrow]
+    title: Functional Reactive Awesomeness With Swift
+    tags: [frp, reactive programming, rxswift]
+    youtube: 6k5U_a00bhQ
+  - language: English
+    speakers: [Wil Shipley]
+    title: Git as a Document Format
+    tags: [git, documents, files management]
+    youtube: R6m855mfPGU
+  - language: English
+    speakers: [Ashley Nelson Hornstein]
+    title: Humanities x Technology
+    tags: [inspirational, machine interaction]
+    youtube: 54DpTIQtObw
+  - language: English
+    speakers: [Saul Mora]
+    title: Object-Oriented Functional Programming
+    tags: [functional programming, object oriented]
+    youtube: cw7vzDv0MUc
+  - language: English
+    speakers: [Ray Wenderlich]
+    title: Overloading Comparison
+    tags: [inspirational, online presence]
+    youtube: tWYAuKJ5Vio
+  - language: English
+    speakers: [Daniel Steinberg]
+    title: Playgrounds Are for Kids
+    tags: [inspirational, playgrounds, learning, swift]
+    youtube: eUSvnQhKccQ
+  - language: English
+    speakers: [Marin Todorov]
+    title: Power Up Your Animations!
+    tags: [animations, user interface]
+    youtube: Gh3z6lswj38
+  - language: English
+    speakers: [Justin Searls]
+    title: The Social Coding Contract
+    tags: [social coding]
+    youtube: kI9g6c5kjv8
+  - language: English
+    speakers: [Michele Titolo]
+    title: The Worst Code
+    tags: [social coding]
+    youtube: gqQzJKU440Y
