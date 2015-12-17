@@ -438,7 +438,7 @@ MCE Conference 2015:
   - language: English
     speakers: [Krzysztof Zabłocki]
     title: Stop recompiling
-    youtube: _IrYVOLPL1Y  
+    youtube: _IrYVOLPL1Y
   - language: English
     speakers: [David Rönnqvist]
     title: Made for Everyone
@@ -487,7 +487,7 @@ NSConference 2015:
     title: Expert of Nothing
     vimeo: 124384526
   - language: English
-    speakers: [Jamiee Newberry]
+    speakers: [Jaimee Newberry]
     title: "Through Burnout & Back Again: Design Skills that Saved My Life"
     vimeo: 124384525
   - language: English
@@ -572,126 +572,169 @@ NSConference 2015:
   title: Swifty Methods
   tags: []
   youtube: QVvwiNbkUnI
+  direct-link: "https://realm.io/news/swift-summit-swifty-methods-clarity-brevity/"
 - language: English
   speakers: [Gem Barrett]
   title: View from the Other Side
   tags: []
   youtube: U67RA_uf58Y
+  direct-link: "https://realm.io/news/swift-summit-gem-barrett-other-side/"
 - language: English
   speakers: [Hermés Piqué]
   title: Closures in API Design
   tags: []
   youtube: 0SPwirqsugg
+  direct-link: "https://realm.io/news/closures-api-design/"
+- language: English
+  speakers: [Alexsander Akers]
+  title: Death by Indecision
+  tags: []
+  youtube: TM2fPC85vlE
+  direct-link: "https://realm.io/news/alexsander-akers-death-by-indecision/"
+- language: English
+  speakers: [Kyle Fuller]
+  title: Embracing Change with REST
+  tags: []
+  youtube: kfoDeZIZr70
+  direct-link: "https://realm.io/news/kyle-fuller-embracing-change-with-rest/"
+- language: English
+  speakers: [Ayaka Nonaka]
+  title: Swift Scripting
+  tags: []
+  youtube: wopnOxgmy9o
+  direct-link: "https://realm.io/news/swift-scripting/"
 - language: English
   speakers: [Brian Gesiak]
   title: Compelling Code
   tags: []
   youtube: 6PaSsskE2TM
+  direct-link: "https://realm.io/news/compelling-code/"
 - language: English
   speakers: [Daniel Steinberg]
   title: (Functional) Programming for Everyone
   tags: []
   youtube: jiMxEEwEVPY
+  direct-link: "https://realm.io/news/swift-summit-daniel-steinberg-functional-programming-for-everyone/"
 - language: English
   speakers: [Sally Shepard]
   title: Extracurricular Swift
   tags: []
   youtube: EEovmqNvnkk
+  direct-link: "https://realm.io/news/swift-summit-sally-shepard-extracurricular-swift-programming-education/"
 - language: English
   speakers: [Jorge Izquierdo]
   title: "Taylor: The Most Un-Googleable Swift Library"
   tags: []
   youtube: T55C9lGEHMI
+  direct-link: "https://realm.io/news/swift-summit-jorge-izquierdo-taylor-http-server-library/"
 - language: English
   speakers: [Marcin Krzyżanowski]
   title: "CryptoSwift: Cryptography You Can Do"
   tags: []
   youtube: VGDVA5KxVmk
+  direct-link: "https://realm.io/news/swift-summit-marcin-krzyzanowski-cryptoswift-cryptography/"
 - language: English
   speakers: [Boris Bügling]
   title: Swift Funtime
   tags: []
   youtube: dDlEO53ZNTU
+  direct-link: "https://realm.io/news/swift-summit-boris-bugling-runtime-funtime/"
 - language: English
   speakers: [Anthony Levings]
   title: "JSON, Swift, and Type Safety: It's a wrap"
   tags: []
   youtube: W_GD5ilIxWE
+  direct-link: "https://realm.io/news/swift-summit-anthony-levings-json-type-safety/"
 - language: English
   speakers: [Abizer Nazir, Boris Bügling, Gem Barrett, Jack Nutting, Kyle Fuller, Radek Pietruszewski]
   title: "Swift Panel: Where do we go from here?"
   tags: []
   youtube: faLLXWPqkqE
+  direct-link: "https://realm.io/news/swift-summit-panel-community-where-do-we-go/"
 - language: English
   speakers: [Jack Nutting]
   title: The Future Belongs to the Young
   tags: []
   youtube: A8eB2GO7cdg
+  direct-link: "https://realm.io/news/swift-summit-jack-nutting-future-belongs-to-the-young/"
 - language: English
   speakers: [Daniel Tomlinson]
   title: Swift, Meet Objective-C
   tags: []
   youtube: JlE5jZpZa_Q
+  direct-link: "https://realm.io/news/swift-summit-daniel-tomlinson-meet-objective-c/"
 - language: English
   speakers: [Chris Eidhof]
   title: "Functional View Controllers: An Experiment"
   tags: []
   youtube: sXHJ-CeN0Us
+  direct-link: "https://realm.io/news/swift-summit-chris-eidhof-functional-view-controllers/"
 - language: English
   speakers: [Johannes Weiß]
   title: The Type System is Your Friend
   tags: []
   youtube: lcaawcLmtBA
+  direct-link: "https://realm.io/news/swift-summit-johannes-weiss-the-type-system-is-your-friend/"
 - language: English
   speakers: [Abizer Nasir]
   title: What Haskell Taught Me About Writing Swift
   tags: []
   youtube: paDHfVRpyCg
+  direct-link: "https://realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/"
 - language: English
   speakers: [Airspeed Velocity, Ayaka Nonaka, Brian Gesiak, Chris Eidhof, Colin Eberhardt]
   title: Swift All-Star Panel
   tags: []
   youtube: ArV1bwTMAx0
+  direct-link: "https://realm.io/news/swift-summit-all-star-panel-discussion-eidhof-gesiak-ayaka-airspeed/"
 - language: English
   speakers: [Jan Riehn]
   title: Testing in Swift
   tags: []
   youtube: wLQpcVC5BMs
+  direct-link: "https://realm.io/news/swift-summit-jan-riehn-testing/"
 - language: English
   speakers: [Carola Nitz]
   title: "Debugging in Swift: How Hard Can It Be?"
   tags: []
   youtube: z0x_5Za3tMA
+  direct-link: "https://realm.io/news/swift-summit-carola-nitz-debugging/"
 - language: English
   speakers: [Joseph Lord]
   title: How Swift is Swift?
   tags: []
   youtube: FjRqGSaQMKw
+  direct-link: "https://realm.io/news/swift-summit-joseph-lord-performance/"
 - language: English
   speakers: [Airspeed Velocity]
   title: Zero-Cost Abstractions
   tags: []
   youtube: Gr6HXCQ9tX8
+  direct-link: "https://realm.io/news/swift-summit-airspeed-velocity-zero-cost-abstractions/"
 - language: English
   speakers: [Simon Gladman]
   title: "The Supercomputer In Your Pocket: Metal & Swift"
   tags: []
   youtube: BCuUQUwgYcs
+  direct-link: "https://realm.io/news/swift-summit-simon-gladman-metal/"
 - language: English
   speakers: [Javier Soto]
   title: Back to the Futures
   tags: []
   youtube: hPo0o2Z8gjE
+  direct-link: "https://realm.io/news/swift-summit-javier-soto-futures/"
 - language: English
   speakers: [Colin Eberhardt]
   title: "ReactiveCocoa and Swift: Better Together"
   tags: []
   youtube: 9-nICUaNBLA
+  direct-link: "https://realm.io/news/swift-summit-colin-eberhardt-reactivecocoa/"
 - language: English
   speakers: [Al Skipp]
   title: The Monad Among Us
   tags: []
   youtube: PZ_ShvesGIk
+  direct-link: "https://realm.io/news/swift-summit-al-skipp-monads/"
 UIKonf 2015:
   - language: English
     speakers: [JP Simard]
@@ -935,6 +978,31 @@ AltConf 2015:
     title: Library-Oriented Programming
     tags: []
     youtube: lqNUTW0F4bw
+Swift Summit San Francisco 2015:
+  - language: English
+    speakers: [JP Simard, Thomas Visser, Boris Bügling, Veronica Ray]
+    title: Open Sourcing Swift
+    tags: []
+    youtube: cmJcc3VAm3c
+    direct-link: "http://www.skilled.io/swiftsummit/open-sourcing-swift"
+  - language: English
+    speakers: [JP Simard]
+    title: Working with Binary Data in Swift
+    tags: []
+    youtube: kz6d-ES7WtE
+    direct-link: "http://www.skilled.io/jpsimard/working-with-binary-data-in-swift"
+  - language: English
+    speakers: [Ash Furrow]
+    title: Discovering Best Practices in Swift
+    tags: []
+    youtube: f3pd-qhVY40
+    direct-link: "http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift"
+  - language: English
+    speakers: [Greg Heo]
+    title: What the 55 Swift Standard Library Protocols Taught Me
+    tags: []
+    youtube: _kpYI6GjCuw
+    direct-link: "http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me"
 Functional Swift Conference 2015:
   - language: English
     speakers: [Veronica Ray]

@@ -1,6 +1,8 @@
 module VideoHelpers
   def link_to_video(video)
-    if video.youtube
+    if video['direct-link']
+      url = video['direct-link']
+    elsif video.youtube
       url = "https://www.youtube.com/watch?v=#{video.youtube}"
     elsif video.vimeo
       url = "https://vimeo.com/#{video.vimeo}"

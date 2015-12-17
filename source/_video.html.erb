@@ -4,10 +4,15 @@
     <% video.speakers.each do |s| %>
       <%= s %>
       <% if data.speakers[s] and data.speakers[s]['twitter'] %>
-        - <%= link_to('(all videos)', speaker_page(s)) %><br/>
-        - <%= link_to('@' + data.speakers[s].twitter, 'http://twitter.com/' + data.speakers[s].twitter) %>
+        - <%= link_to('(all videos)', speaker_page(s)) %>
+        - <%= link_to('@' + data.speakers[s].twitter, 'http://twitter.com/' + data.speakers[s].twitter) %><br/>
       <% end %>
     <% end %>
   </div>
+  <% if video['direct-link'] %>
+  <p>
+    Slides and Transcript: <%= link_to video['direct-link'], video['direct-link'] %>
+  </p>
+  <% end %>
   <%= embed_video video %>
 </div>
