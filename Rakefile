@@ -2,6 +2,9 @@ require 'rubygems'
 require 'middleman-gh-pages'
 require 'dotenv/tasks'
 require 'yt'
+  require 'yaml'
+
+task :default => [:build, :lint_speakers, :lint_events]
 
 task :fetchyt, [:user] => :dotenv do |t, args|
   url = "https://www.youtube.com/user/#{args[:user]}/"
@@ -16,7 +19,6 @@ task :fetchyt, [:user] => :dotenv do |t, args|
 end
 
 task :lint_speakers do
-  require 'yaml'
   videos = YAML.load_file('data/videos.yml')
   speakers = YAML.load_file('data/speakers.yml')
   all_speaker_names = videos.values.flatten.map { |video| video['speakers'] }.flatten.uniq
@@ -26,7 +28,20 @@ task :lint_speakers do
     result[s] = { "twitter" => "TODO" }
   end
   unless result.empty?
-    STDERR.puts "Please add entries for the following speakers"
+    STDERR.puts "Please add entries for the following speakers:"
     puts result.to_yaml
+    raise
+  end
+end
+
+task :lint_events do
+  videos = YAML.load_file('data/videos.yml')
+  events = YAML.load_file('data/events.yml')
+  no_events = videos.keys.reject { |event_name|
+    event = events[event_name]
+    event && event['url'] != nil && event['date'] != nil && event['slug'] != nil
+  }
+  unless no_events.empty?
+    raise "Missing entries in data/events.yml for the following events: \n#{no_events.join(", ")}"
   end
 end
