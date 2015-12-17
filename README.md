@@ -1,3 +1,5 @@
+# iOS related videos indexed [![Build Status](https://travis-ci.org/chriseidhof/ios-videos.svg?branch=master)](https://travis-ci.org/chriseidhof/ios-videos)
+
 See the rendered site: http://www.uiko.de (temporary name, I had this domain name sitting around).
 
 To run this:
@@ -10,7 +12,8 @@ PR's encouraged.
 To add videos for an event:
 
 - Add the videos to `data/videos.yml`. Let's keep this yml file sorted by date. Also look at `data/events.yml` and `data/speakers.yml` and add the missing information there. Here's an [example PR](https://github.com/chriseidhof/ios-videos/pull/12).
-- Currently, we only support youtube. However, it should be easy to add support for other platforms (e.g. vimeo). Let me know if this is an issue. Or even better, file a PR that adds vimeo support.
+
+You might also want to run `bundle exec rake lint_speakers` to verify that every speaker has a bio.
 
 If you want to import an entire YouTube account, you can run `bundle exec rake fetchyt[uikonf]` (replace `uikonf` with the name of the YouTube account). To do this, you need to create a `.env` file with a YouTube API account in there. You will need to edit the generated YAML before copy-pasting it into `videos.yml`.
 
