@@ -203,6 +203,47 @@ Functional Swift Conference 2014:
     title: The Functional Way
     tags: [functional programming]
     youtube: tohEJSq9gds
+MCE Conference 2015:
+  - language: English
+    speakers: [Scott Goodson]
+    title: Effortless Responsiveness with AsyncDisplayKit
+    tags: [interface]
+    youtube: ZPL4Nse76oY
+  - language: English
+    speakers: [Chris Eidhof]
+    title: Fun with Swift
+    tags: [swift]
+    youtube: KNJ_UPebGOQ
+  - language: English
+    speakers: [Krzysztof Zabłocki]
+    title: Stop recompiling
+    youtube: _IrYVOLPL1Y  
+  - language: English
+    speakers: [David Rönnqvist]
+    title: Made for Everyone
+    youtube: lYONeoA1ukM
+  - language: English
+    speakers: [Mike Lazer Walker]
+    title: What does it mean for code to be maintainable?
+    youtube: Qfw_kHoSbCg
+  - language: English
+    speakers: [Max Bazaliy]
+    title: Securing iOS applications
+    youtube: qaeN-rk_YVU
+  - language: English
+    speakers: [Marcus S. Zarra]
+    title: "Core Data: Multi-Threading Clarity"
+    tags: [coredata]
+    youtube: ckbke8vjHMw
+  - language: English
+    speakers: [Max Bazaliy]
+    title: Securing iOS applications
+    youtube: qaeN-rk_YVU
+  - language: English
+    speakers: [Adam Ernst]
+    title: Immutable Models on iOS
+    tags: [functional programming]
+    youtube: DK3vO3fUnlo
 NSConference 2015:
   - language: English
     speakers: [James Dempsey]
