@@ -1,0 +1,5 @@
+<h1>Speakers</h1>
+<% data.speakers.sort.each do |speaker, data| %>
+  <%= link_to speaker, speaker_page(speaker) %>
+&nbsp; &nbsp;
+<% end %>

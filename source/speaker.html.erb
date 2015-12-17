@@ -1,0 +1,11 @@
+<h1><%= name %></h1>
+<p>
+  <%= link_to('@' + speaker.twitter, 'http://twitter.com/' + speaker.twitter) %><br/>
+</p>
+<% videos.each do |conference, videos| %>
+  <% videos.each do |video| %>
+    <h3><%= video.title %></h3>
+    <p> <%= link_to conference, "/events/#{data.events[conference].slug}" %> </p>
+    <%= embed_video video %>
+  <% end %>
+<% end %>

@@ -1,3 +1,5 @@
+require 'middleman-blog/uri_templates'
+
 ###
 # Compass
 ###
@@ -48,7 +50,9 @@
 # end
 
 require "source/lib/video_helpers"
+require "source/lib/speaker_helpers"
 helpers VideoHelpers
+helpers SpeakerHelpers
 
 set :css_dir, 'stylesheets'
 
@@ -58,6 +62,11 @@ set :images_dir, 'images'
 
 data.events.each do |name, metadata|
   proxy "/events/#{metadata.slug}/index.html", "/event.html", :locals => { :name => name, :metadata => metadata , :videos => data.videos[name]}, :ignore => true
+end
+
+data.speakers.each do |name, metadata|
+  videos = data.videos.map { |k,v| [k,v.select { |video| video.speakers.include? name }] }.select { |k, v| v.count > 0 }
+  proxy(speaker_page(name) + "/index.html", "/speaker.html", :locals => { :name => name, :speaker => metadata , :videos => videos}, :ignore => true)
 end
 
 # Build-specific configuration
