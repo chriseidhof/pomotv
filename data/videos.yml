@@ -130,6 +130,32 @@ UIKonf 2014:
     title: Designing custom interfaces
     tags: []
     youtube: jQ4i9EQFlNE
+"#Pragma Conference 2014":
+  - language: English
+    speakers: [Meng To]
+    title: iOS Prototyping
+    tags: []
+    youtube: q9Ax11IZiIE
+  - language: English
+    speakers: [Hannes Verlinde]
+    title: Seamless device communication
+    tags: []
+    youtube: T71O5-zKfiM
+  - language: English
+    speakers: [Alberto López]
+    title: "v.zero: A modern foundation for accepting payments"
+    tags: []
+    youtube: vjSdj83shNQ
+  - language: English
+    speakers: [Marco Grassi]
+    title: iOS Apps Security
+    tags: []
+    youtube: Ws2QzE-DK5c
+  - language: English
+    speakers: [Krzysztof Zabłocki]
+    title: "Behaviours: a way to simplify your application code"
+    tags: []
+    youtube: QMVcIJz2sfg
 Functional Swift Conference 2014:
   - language: English
     speakers: [Brandon Williams]
@@ -424,6 +450,87 @@ AltConf 2015:
     title: The Worst Code
     tags: [social coding]
     youtube: gqQzJKU440Y
+"#Pragma Conference 2015":
+  - language: English
+    speakers: [Oliver Drobnik]
+    title: iOS Subscriptions 2.0
+    tags: []
+    youtube: _hHDYKJkdyU
+  - language: English
+    speakers: [Martina Pagura]
+    title: Let's Prototype it!
+    tags: []
+    youtube: QlBMd7tyqiQ
+  - language: English
+    speakers: [Anton McConville]
+    title: Presence, Personality and Pulse
+    tags: []
+    youtube: 1Om6l2nGTgI
+  - language: English
+    speakers: [Micheal Flarup]
+    title: Design better app icons
+    tags: []
+    youtube: o35WeRqV6Rc
+  - language: English
+    speakers: [Anastasia Kazakova]
+    title: Be armed to the teeth to ...
+    tags: []
+    youtube: wN-4dUUarOo
+  - language: English
+    speakers: [Sally Shepard]
+    title: Embracing the Internet of Things for cats
+    tags: []
+    youtube: A4hw37d136o
+  - language: English
+    speakers: [Tim Oliver]
+    title: Marketing on the App Store
+    tags: []
+    youtube: UGPaHZAo_us
+  - language: English
+    speakers: [Marcus Zarra]
+    title: Core Data Threading Demystified
+    tags: []
+    youtube: _QolYhiKWvU
+  - language: English
+    speakers: [Orta Therox]
+    title: Open Source by Default
+    tags: []
+    youtube: sMeBHPpgRVE
+  - language: English
+    speakers: [Hannes Verlinde]
+    title: State of Statelessness
+    tags: []
+    youtube: Be8Tka4DV-Q
+  - language: English
+    speakers: [Ash Furrow]
+    title: Loosely Held Strong Convictions
+    tags: []
+    youtube: hlLhtWLghGA
+  - language: English
+    speakers: [Chris Eidhof]
+    title: Swift and C
+    tags: []
+    youtube: -ag-f9N8SJE
+  - language: English
+    speakers: [Christopher Downer]
+    title: Design 101 for Developers
+    tags: []
+    youtube: rpV4Oaah4fk
+  - language: English
+    speakers: [Marin Todorov]
+    title: What’s in for us after the Indiepocalypse?
+    tags: []
+    youtube: 95XZUsOm31A
+  - language: English
+    speakers: [Graham Lee]
+    title: "*-Oriented Programming"
+    tags: []
+    youtube: j0uFAynIGt8
+  - language: English
+    speakers: [Justin Spahr-Summers]
+    title: Summers - Library-Oriented Programming
+    tags: []
+    youtube: lqNUTW0F4bw
 Functional Swift Conference 2015:
   - language: English
     speakers: [Veronica Ray]

@@ -4,6 +4,9 @@ UIKonf 2013:
 UIKonf 2014:
   url: http://www.uikonf.com
   date: May 13-16, 2014
+"#Pragma Conference 2014":
+  url: http://pragmamark.org/events/pragma-conference-2014/
+  date: October 3-4, 2014
 Functional Swift Conference 2014:
   url: http://2014.funswiftconf.com
   date: December 6, 2014
@@ -16,6 +19,9 @@ UIKonf 2015:
 AltConf 2015:
   url: https://realm.io/altconf/
   date: June 8, 2015
+"#Pragma Conference 2015":
+  url: http://pragmaconference.com
+  date: October 9-10, 2015
 Functional Swift Conference 2015:
   url: http://2015.funswiftconf.com
   date: December 12, 2015
