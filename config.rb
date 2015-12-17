@@ -47,6 +47,9 @@
 #   end
 # end
 
+require "source/lib/video_helpers"
+helpers VideoHelpers
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'

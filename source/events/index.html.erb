@@ -10,7 +10,7 @@ title: Events
     </p>
     <p>
       <% data.videos[event].each do |video| %>
-        <%= video.speakers.join(", ") %> - <%= link_to video.title, 'http://youtube.com/watch?v=' + video.youtube %> <br/>
+        <%= video.speakers.join(", ") %> - <%= link_to_video video %> <br/>
       <% end %>
     </p>
   <% end %>
