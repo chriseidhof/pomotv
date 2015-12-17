@@ -1,35 +1,34 @@
-Functional Swift Conference 2015:
-  - language: English
-    speakers: [Veronica Ray]
-    title: You Used To Inject Me In Your Constructor
-    tags: [dependency injection]
-    youtube: 2--pYf1T6Xc
-  - language: English
-    speakers: [Agnes Vasarhelyi]
-    title: Functional Thinking
-    tags: [reactive programming]
-    youtube: hHeideOmLs4
-  - language: English
-    speakers: [Alexis Gallagher]
-    title: Protocols with Associated Types
-    youtube: XWoNjiSPqI8
-  - language: English
-    speakers: [Brian Partridge]
-    title: Result Driven Development
-    youtube: aCm68xAWrno
+Functional Swift Conference 2014:
   - language: English
     speakers: [Brandon Williams]
-    title: Lenses in Swift
-    youtube: ofjehH9f-CU
+    title: Functional Programming in a Playground
+    tags: [playground,category theory]
+    youtube: estNbh2TF3E
   - language: English
-    speakers: [Chris Eidhof]
-    title: Functional View Controllers
-    tags: [view controllers, monad, flatMap]
-    youtube: sP156LW5BVs
+    speakers: [John Gallagher]
+    title: Networking with Monads
+    tags: [monads,networking,railway oriented programming]
+    youtube: LqwrUmuodyY
   - language: English
-    speakers: [Colin Barrett]
-    title: Structure and Interpretation of Swift Programs
-    youtube: V-YvI83QdMs
+    speakers: [Andy Matuschak]
+    title: Functioning as a Functionalist
+    tags: [functional programming, value types, swift]
+    youtube: rJosPrqBqrA
+  - language: English
+    speakers: [Justin Spahr-Summers]
+    title: Enemy Of The State
+    tags: [reactive programming]
+    youtube: 7AqXBuJOJkY
+  - language: English
+    speakers: [Brian Gesiak]
+    title: Functional Testing
+    tags: [bananakit, testing]
+    youtube: -TOp5-uComQ
+  - language: English
+    speakers: [Natasha Murashev]
+    title: The Functional Way
+    tags: [functional programming]
+    youtube: tohEJSq9gds
 AltConf 2015:
   - language: English
     speakers: [Peter Steinberger]
@@ -101,3 +100,35 @@ AltConf 2015:
     title: The Worst Code
     tags: [social coding]
     youtube: gqQzJKU440Y
+Functional Swift Conference 2015:
+  - language: English
+    speakers: [Veronica Ray]
+    title: You Used To Inject Me In Your Constructor
+    tags: [dependency injection]
+    youtube: 2--pYf1T6Xc
+  - language: English
+    speakers: [Agnes Vasarhelyi]
+    title: Functional Thinking
+    tags: [reactive programming]
+    youtube: hHeideOmLs4
+  - language: English
+    speakers: [Alexis Gallagher]
+    title: Protocols with Associated Types
+    youtube: XWoNjiSPqI8
+  - language: English
+    speakers: [Brian Partridge]
+    title: Result Driven Development
+    youtube: aCm68xAWrno
+  - language: English
+    speakers: [Brandon Williams]
+    title: Lenses in Swift
+    youtube: ofjehH9f-CU
+  - language: English
+    speakers: [Chris Eidhof]
+    title: Functional View Controllers
+    tags: [view controllers, monad, flatMap]
+    youtube: sP156LW5BVs
+  - language: English
+    speakers: [Colin Barrett]
+    title: Structure and Interpretation of Swift Programs
+    youtube: V-YvI83QdMs
