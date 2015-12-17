@@ -142,6 +142,3 @@ DEPENDENCIES
   tzinfo-data
   wdm (~> 0.1.0)
   yt
-
-BUNDLED WITH
-   1.10.6
