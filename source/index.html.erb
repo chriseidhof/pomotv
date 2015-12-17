@@ -6,18 +6,7 @@ title: iOS videos
   <h2>Recently added videos</h2>
   <% data.videos.to_a.reverse.take(1).each do |event, videos| %>
   <% videos.reverse.take(10).each do |f| %>
-    <div class="video">
-      <h3><%= f.title %></h3>
-      <div>
-        <% f.speakers.each do |s| %>
-          <%= s %>
-          <% if data.speakers[s] and data.speakers[s]['twitter'] %>
-            - @<%= link_to(data.speakers[s].twitter, 'http://twitter.com/' + data.speakers[s].twitter) %><br/>
-          <% end %>
-        <% end %>
-      </div>
-      <%= embed_video f %>
-    </div>
+    <%= partial :video, :locals => { :video => f } %>
   <% end %>
   <% end %>
 </div>

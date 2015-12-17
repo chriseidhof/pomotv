@@ -56,6 +56,10 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+data.events.each do |name, metadata|
+  proxy "/events/#{metadata.slug}/index.html", "/event.html", :locals => { :name => name, :metadata => metadata , :videos => data.videos[name]}, :ignore => true
+end
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment

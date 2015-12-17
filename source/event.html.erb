@@ -1,0 +1,8 @@
+<h1><%= name %></h1>
+<p>
+<%= metadata.date %> - <%= link_to metadata.url, metadata.url %>
+</p>
+
+<% videos.each do |f| %>
+  <%= partial :video, :locals => { :video => f } %>
+<% end %>
