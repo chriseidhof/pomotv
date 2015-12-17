@@ -130,6 +130,227 @@ UIKonf 2014:
     title: Designing custom interfaces
     tags: []
     youtube: jQ4i9EQFlNE
+AltConf 2014:
+  - language: English
+    speakers: [James Dempsey]
+    title: A Look Back
+    tags: []
+    youtube: vttu_6nw7pc
+  - language: English
+    speakers: [The Organizers of Alt]
+    title: The Organizers of Alt
+    tags: []
+    youtube: 2vpGckK8P9A
+  - language: English
+    speakers: [Victor Broido]
+    title: Hippie Marketing
+    tags: []
+    youtube: rI-Nf40MGkg
+  - language: English
+    speakers: [Josh Michaels]
+    title: "Finding the Intersection: Thoughts on Art & Tech"
+    tags: []
+    youtube: fq1srjiQvNE
+  - language: English
+    speakers: [Saul Mora]
+    title: Are we doing what we should be with our time?
+    tags: []
+    youtube: FE4V9UjyZTI
+  - language: English
+    speakers: [Thomas Engel]
+    title: Volunteering and Tackling World Problems with Your Skills
+    tags: []
+    youtube: LU4OpBReBYg
+  - language: English
+    speakers: [Panel]
+    title: Design Discussion Panel
+    tags: []
+    youtube: 33OQ5iYjbnE
+  - language: English
+    speakers: [Robert Böhnke]
+    title: Animations Explained
+    tags: []
+    youtube: 51_QMii2kqQ
+  - language: English
+    speakers: [Philippe Casgrain]
+    title: Fostering a Local Development Community
+    tags: []
+    youtube: 97D6LddwP74
+  - language: English
+    speakers: [Luis Solano]
+    title: Writing DSLs for Swift
+    tags: []
+    youtube: a3rR5XVA22w
+  - language: English
+    speakers: [Michael Lopp]
+    title: Stables and Volatiles
+    tags: []
+    youtube: ztmUUkuVWjk
+  - language: English
+    speakers: [Michele Titolo]
+    title: Demystifying the .xcodeproj File
+    tags: []
+    youtube: C4bPKc8eV34
+  - language: English
+    speakers: [Jay Freeman]
+    title: \"Swift\" 20m Introspecting Apple's WWDC App Using Cycript
+    tags: []
+    youtube: Ii-02vhsdVk
+  - language: English
+    speakers: [Panel]
+    title: Marketing Discussion Panel
+    tags: []
+    youtube: sL47N3VXhTo
+  - language: English
+    speakers: [Mattt Thompson]
+    title: Being a Beginner
+    tags: []
+    youtube: XUUEzc3wop4
+  - language: English
+    speakers: [Jonah Neugass]
+    title: Modularizing an app with GDRouting and CocoaPods
+    tags: []
+    youtube: 1xpfH15uYZI
+  - language: English
+    speakers: [Jean MacDonald]
+    title: Communicating Across the Geek Divide
+    tags: []
+    youtube: v5VWquKgNIc
+  - language: English
+    speakers: [Sally Shepard]
+    title: "Accessibility: Beyond VoiceOver"
+    tags: []
+    youtube: 4lzP1SsCcyw
+  - language: English
+    speakers: [Ouriel Ohayon]
+    title: Discovery in the Appstore World
+    tags: []
+    youtube: KA9ztNKQJBY
+  - language: English
+    speakers: [Mikey Ward]
+    title: XPC What I Did There?
+    tags: []
+    youtube: HGQ89UjgEMs
+  - language: English
+    speakers: [Jeff Kelley]
+    title: Dates and Times in iOS
+    tags: []
+    youtube: QcQ4RQdBGjA
+  - language: English
+    speakers: [Aaron Hillegass]
+    title: Networking on the Mac
+    tags: []
+    youtube: 24R789nX8ZA
+  - language: English
+    speakers: [Panel]
+    title: Games Discussion Panel
+    tags: []
+    youtube: 0nHqgU899gk
+  - language: English
+    speakers: [Sam Marshall]
+    title: Insecure Code
+    tags: []
+    youtube: lmvqADmLozM
+  - language: English
+    speakers: [Brianna Wu]
+    title: Nine ways to stop hurting and start helping women in tech
+    tags: []
+    youtube: XGqmneujHYY
+  - language: English
+    speakers: [Ray Wenderlich]
+    title: Adding Juice to your Games
+    tags: []
+    youtube: 5aGFPpMvILY
+  - language: English
+    speakers: [Michael Crump]
+    title: Enriching the iOS SDK
+    tags: []
+    youtube: stTk88mQ5mw
+  - language: English
+    speakers: [Michael Mace]
+    title: The 4 Mobile Traps
+    tags: []
+    youtube: Wgz7JmZgRd4
+  - language: English
+    speakers: [Ash Furrow]
+    title: Reactive Cocoa 101
+    tags: []
+    youtube: TlgUWYrQ0sc
+  - language: English
+    speakers: [Panel]
+    title: Ethics in Software Discussion Panel
+    tags: []
+    youtube: BXKrOrhJMGg
+  - language: English
+    speakers: [Andrew Stone]
+    title: Reflections on device addictions, the big data state, and alternative futures.
+    tags: []
+    youtube: Ffa90t7T35g
+  - language: English
+    speakers: [Yang Meyer]
+    title: Designers ♥︎ Developers
+    tags: []
+    youtube: Qi5EBgfvqIQ
+  - language: English
+    speakers: [Mike Lee]
+    title: Being Better
+    tags: []
+    youtube: UfjiWzcGPdk
+  - language: English
+    speakers: [Carla White]
+    title: Mindful Design & Marketing
+    tags: []
+    youtube: 2k9aFMGLQM4
+  - language: English
+    speakers: [Boris Bügling]
+    title: Extending Xcode
+    tags: []
+    youtube: 6LcflnBHyXs
+  - language: English
+    speakers: [Nadyne Richmond]
+    title: User Research for a Better Product
+    tags: []
+    youtube: hT5UXAg9GGs
+  - language: English
+    speakers: [Orta Therox]
+    title: Project Eigen Post Mortem
+    tags: []
+    youtube: 2DvDeEZ0NDw
+  - language: English
+    speakers: [Sofia Dvoynos]
+    title: From Zero to Marketing in 7 days
+    tags: []
+    youtube: _mdrJOV0L3M
+  - language: English
+    speakers: [Jay Thrash]
+    title: Using Quartz Composer and Origami
+    tags: []
+    youtube: dVmdFNbcjGQ
+  - language: English
+    speakers: [Mark Pauley]
+    title: The Real Power of BLE
+    tags: []
+    youtube: iToKETXdwvU
+  - language: English
+    speakers: [Brent Simmons]
+    title: Implementing Sync In Vesper
+    tags: []
+    youtube: 6BsHIa-1psc
+  - language: English
+    speakers: [Panel]
+    title: WWDC Keynote Panel Discussion
+    tags: []
+    youtube: JqXC6HNjgoo
+  - language: English
+    speakers: [Dave Wiskus]
+    title: How to Make a Vesper
+    tags: []
+    youtube: AiwgQIMkiFw
+  - language: English
+    speakers: [Jonathan Rhyne]
+    title: Debugging the Contract
+    tags: []
+    youtube: wA0_A2Jvz6I
 GitHub Reactive Cocoa Developer Conference 2014:
   - language: English
     speakers: [Jon Sterling]
