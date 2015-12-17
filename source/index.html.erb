@@ -3,24 +3,20 @@ title: iOS videos
 ---
 
 <div class="videos">
+  <h2>Recently added videos</h2>
   <% data.videos.each do |event, videos| %>
-  <% videos.reverse.take(5).each do |f| %>
+  <% videos.reverse.take(10).each do |f| %>
     <div class="video">
-      <h2><%= f.title %></h2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/<%= f.youtube %>" frameborder="0" allowfullscreen></iframe> 
+      <h3><%= f.title %></h3>
       <div>
-        <% if data.events[event] %>
-          <%= link_to event, data.events[event].url %>
-        <% else %>
-          <%= event %>
+        <% f.speakers.each do |s| %>
+          <%= s %>
+          <% if data.speakers[s] and data.speakers[s]['twitter'] %>
+            - @<%= link_to(data.speakers[s].twitter, 'http://twitter.com/' + data.speakers[s].twitter) %><br/>
+          <% end %>
         <% end %>
-      <% f.speakers.each do |s| %>
-        <%= s %>
-        <% if data.speakers[s] and data.speakers[s]['twitter'] %>
-          - @<%= link_to(data.speakers[s].twitter, 'http://twitter.com/' + data.speakers[s].twitter) %><br/>
-        <% end %>
-      <% end %>
-    </div>
+      </div>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/<%= f.youtube %>" frameborder="0" allowfullscreen></iframe> 
     </div>
   <% end %>
   <% end %>

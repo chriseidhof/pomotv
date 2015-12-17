@@ -5,11 +5,13 @@ title: Events
 <div class="events">
   <% data.events.each do |event, event_data| %>
     <h2><%= event %></h2>
-    <%= link_to "Website", event_data.url %>
-    <ul>
-    <% data.videos[event].each do |video| %>
-      <li><em><%= video.speakers.join(", ") %></em> - <%= video.title %></li>
-    <% end %>
-    </ul>
+    <p>
+    <%= link_to event_data.url, event_data.url %>
+    </p>
+    <p>
+      <% data.videos[event].each do |video| %>
+        <%= video.speakers.join(", ") %> - <%= link_to video.title, 'http://youtube.com/watch?v=' + video.youtube %> <br/>
+      <% end %>
+    </p>
   <% end %>
 </div>

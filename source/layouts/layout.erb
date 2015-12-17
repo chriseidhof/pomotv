@@ -14,14 +14,18 @@
   </head>
 
   <body class="<%= page_classes %>">
-    <h1><%= current_page.data.title || "iOS Videos" %> </h1>
     <div class="navigation">
+      <h1><%= current_page.data.title || "iOS Videos" %> </h1>
       <a href="/">Home</a>
+      <!-- 
       <a href="#">All Videos</a>
-      <a href="/events">Events</a>
       <a href="#">Speakers</a>
+      -->
+      <a href="/events">Events</a>
     </div>
   
-    <%= yield %>
+    <div class="container">
+      <%= yield %>
+    </div>
   </body>
 </html>
