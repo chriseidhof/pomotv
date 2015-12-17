@@ -1,3 +1,135 @@
+UIKonf 2013:
+  - language: English
+    speakers: [Peter Steinberger]
+    title: How to bend UIKit to your will
+    tags: []
+    youtube: psPNxC3G_hc
+  - language: English
+    speakers: [Cesare Rocchi]
+    title: Autolayout? Oh boy
+    tags: []
+    youtube: kwzsUmozIj0
+  - language: English
+    speakers: [James Weiner]
+    title: Build for familiarity (or no one will use your app)
+    tags: []
+    youtube: B0s7TOzWXvA
+  - language: English
+    speakers: [Chris Heathcote]
+    title: Apps are just the tip of the iceberg
+    tags: []
+    youtube: pOHpNC3ECa4
+  - language: English
+    speakers: [Louisa Heinrich]
+    title: What's the Point?
+    tags: []
+    youtube: qvP_ZFsmNuc
+  - language: English
+    speakers: [Tim Brückmann]
+    title: "Unit Testing on iOS: No Voodoo necessary"
+    tags: []
+    youtube: UYqm1IZacX0
+  - language: English
+    speakers: [Florian Kugler]
+    title: "Use your tools: App optimization with Instruments"
+    tags: []
+    youtube: N7ryA7rxsrg
+  - language: English
+    speakers: [Boris Bügling]
+    title: Objective-C funtime - know your runtime
+    tags: []
+    youtube: vrEoUSuMu_c
+  - language: English
+    speakers: [Daniel Eggert]
+    title: Core Data for Fun and Profit
+    tags: []
+    youtube: iaf3uBja77Y
+  - language: English
+    speakers: [Joris Kluivers]
+    title: Software interactions with the real world
+    tags: []
+    youtube: -fb4bIkniq8
+  - language: English
+    speakers: [Robert Böhnke]
+    title: How I Learned to Stop Worrying about State and Love ReactiveCocoa
+    tags: []
+    youtube: YlsunWT87eo
+UIKonf 2014:
+  - language: English
+    speakers: [Michele Titolo]
+    title: Inheriting code from other people
+    tags: []
+    youtube: p_GqpSt7gh0
+  - language: English
+    speakers: [Orta Therox]
+    title: CocoaPods
+    tags: []
+    youtube: TDAKOYQ7B-4
+  - language: English
+    speakers: [Conrad Stoll]
+    title: Demystifying security best practices
+    tags: []
+    youtube: 2FHc9QTpsqQ
+  - language: English
+    speakers: [Luis Solano]
+    title: Techniques for writing DSLs in Objective-C
+    tags: []
+    youtube: vv88YvH6Eqs
+  - language: English
+    speakers: [Matthew Morey]
+    title: High performance Core Data
+    tags: []
+    youtube: Du8ggtwNTaM
+  - language: English
+    speakers: [Piet Brauer]
+    title: Modular iOS apps
+    tags: []
+    youtube: WLfvsemTZuc
+  - language: English
+    speakers: [Max Bazaliy]
+    title: Reverse engineering iOS apps
+    tags: []
+    youtube: vlaIIYpZUnM
+  - language: English
+    speakers: [Eric Allam]
+    title: Building better transitions
+    tags: []
+    youtube: 44-2vmqQBl0
+  - language: English
+    speakers: [Rachel Andrew]
+    title: We´re not "doing a startup"
+    tags: []
+    youtube: TI0RDxyUmvo
+  - language: English
+    speakers: [Shepard]
+    title: Beyond VoiceOver
+    tags: []
+    youtube: OC_pmEW_GjE
+  - language: English
+    speakers: [Max Seelemann]
+    title: TextKit for the rest of us
+    tags: []
+    youtube: cNUsaJ3Tmuo
+  - language: English
+    speakers: [David Rönnqvist]
+    title: OpenGL(ES) demystified
+    tags: []
+    youtube: 8OHYX2RxBuo
+  - language: English
+    speakers: [Nick Lockwood]
+    title: Image performance
+    tags: []
+    youtube: khoabTSgOFA
+  - language: English
+    speakers: [Katrin Apel]
+    title: Mobile Backends as a Service
+    tags: []
+    youtube: ImL1vlIM_VU
+  - language: English
+    speakers: [Christopher Downer]
+    title: Designing custom interfaces
+    tags: []
+    youtube: jQ4i9EQFlNE
 Functional Swift Conference 2014:
   - language: English
     speakers: [Brandon Williams]
@@ -29,6 +161,97 @@ Functional Swift Conference 2014:
     title: The Functional Way
     tags: [functional programming]
     youtube: tohEJSq9gds
+UIKonf 2015:
+  - language: English
+    speakers: [JP Simard]
+    title: Fixing the Swift Tooling Problem
+    tags: []
+    youtube: flSMEw_Hxik
+  - language: English
+    speakers: [Claus Höfele]
+    title: Practical WatchKit Development
+    tags: []
+    youtube: T9h72hH9TWA
+  - language: English
+    speakers: [Brian Gesiak]
+    title: "iOS API Design: Swift Patterns"
+    tags: []
+    youtube: yu6KND7dJBA
+  - language: English
+    speakers: [Saniul Ahmed]
+    title: Prototyping Touch Interfaces (and my open-source story)
+    tags: []
+    youtube: O9HQqNjdxPM
+  - language: English
+    speakers: [Jens Ravens]
+    title: Functional Reactive Programming without Black Magic - Build your own...
+    tags: []
+    youtube: AcDaWe3S75c
+  - language: English
+    speakers: [Mike Lee]
+    title: World Modelling
+    tags: []
+    youtube: SDZkKvC8r40
+  - language: English
+    speakers: [Natasha Murashev]
+    title: Swift Thinking
+    tags: []
+    youtube: 4uPCVMfWY34
+  - language: English
+    speakers: [Halle Winkler]
+    title: "Duct-taping the gates of chaos shut: the weird, little, useful, su..."
+    tags: []
+    youtube: 83fqt9MPHD8
+  - language: English
+    speakers: [Graham Lee]
+    title: Object-Oriented Programming in Objective-C
+    tags: []
+    youtube: _BbGxpiYFDg
+  - language: English
+    speakers: [Maxim Cramer]
+    title: A Journey into Design
+    tags: []
+    youtube: gSnUt9ZfslM
+  - language: English
+    speakers: [Chris Eidhof]
+    title: Functional View Controllers
+    tags: []
+    youtube: uQFI9rDrl8s
+  - language: English
+    speakers: [Eli Perkins]
+    title: Staters Gonna State
+    tags: []
+    youtube: TfW0y7LLTpI
+  - language: English
+    speakers: [Marcel Weiher]
+    title: Software Architecture in iOS and OS X Applications
+    tags: []
+    youtube: B5hGmXFHQS4
+  - language: English
+    speakers: [Ash Furrow]
+    title: Teaching and Learning
+    tags: []
+    youtube: SjjvnrqDjpM
+  - language: English
+    speakers: [Hector Zarate]
+    title: "iOS at Spotify: From Plan to Done"
+    tags: []
+    youtube: DWw1ankfqO0
+  - language: English
+    speakers: [Joe Burgess]
+    title: Learning Swift Through Lessons in Haskell
+    tags: []
+    youtube: 46nJlZ3RT_I
+  - language: English
+    speakers: [Tom Adriaenssen]
+    title: Async View Controllers
+    tags: []
+    youtube: xy-xqj3m_Tk
+  - language: English
+    speakers: [Junior Bontognali]
+    title: Monads are not Monsters
+    tags: []
+    youtube: vg7cOF30Svo
 AltConf 2015:
   - language: English
     speakers: [Peter Steinberger]
