@@ -8,6 +8,7 @@ UIKonf 2014:
   slug: uikonf-2014
 GitHub Reactive Cocoa Developer Conference 2014:
   date: Jun 14, 2014
+  slug: ghreact-2014
 "#Pragma Conference 2014":
   url: http://pragmamark.org/events/pragma-conference-2014/
   date: October 3-4, 2014
@@ -19,6 +20,7 @@ Functional Swift Conference 2014:
 MCE Conference 2015:
   url: http://2015.mceconf.com/
   date: Feb 4-6, 2015
+  slug: mceconf-2015
 NSConference 2015:
   url: https://vimeo.com/nsconf
   date: March 16, 2015
