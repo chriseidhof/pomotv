@@ -130,6 +130,22 @@ UIKonf 2014:
     title: Designing custom interfaces
     tags: []
     youtube: jQ4i9EQFlNE
+GitHub Reactive Cocoa Developer Conference 2014:
+  - language: English
+    speakers: [Jon Sterling]
+    title: Modularity à la Taliban
+    tags: [functional programming]
+    youtube: kuZ5eR2JcSo
+  - language: English
+    speakers: [Justin Spahr-Summers]
+    title: The Future Of ReactiveCocoa
+    tags: [functional programming]
+    youtube: ICNjRS2X8WM
+  - language: English
+    speakers: [Dave Lee]
+    title: RACify Non-Reactive Code
+    tags: [functional programming]
+    youtube: sek0ohbboNU
 "#Pragma Conference 2014":
   - language: English
     speakers: [Meng To]
