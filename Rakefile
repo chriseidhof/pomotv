@@ -37,8 +37,8 @@ end
 task :lint_events do
   videos = YAML.load_file('data/videos.yml')
   events = YAML.load_file('data/events.yml')
-  no_events = videos.keys.reject { |event_name|
-    event = events[event_name]
+  no_events = videos.keys.reject { |event_name| 
+    event = events[event_name] 
     event && event['url'] != nil && event['date'] != nil && event['slug'] != nil
   }
   unless no_events.empty?
