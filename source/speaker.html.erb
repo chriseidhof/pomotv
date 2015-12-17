@@ -1,7 +1,9 @@
 <h1><%= name %></h1>
+<% if speaker.twitter %>
 <p>
   <%= link_to('@' + speaker.twitter, 'http://twitter.com/' + speaker.twitter) %><br/>
 </p>
+<% end %>
 <% videos.each do |conference, videos| %>
   <% videos.each do |video| %>
     <h3><%= video.title %></h3>
