@@ -1,0 +1,15 @@
+<div class="video-content">
+  <% if video['tags'] %>
+    Tags: <% video['tags'].each do |tag| %>
+    <%= tag %>
+  <% end %>
+  <% end %>
+  <% if video['direct-link'] %>
+  <p>
+    Slides and Transcript:<br/><%= link_to video['direct-link'], video['direct-link'] %>
+  </p>
+  <% end %>
+  <p>
+  <%= embed_video video %>
+  </p>
+</div>
