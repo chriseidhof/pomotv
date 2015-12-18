@@ -56,6 +56,8 @@ helpers VideoHelpers
 helpers SpeakerHelpers
 helpers TagHelpers
 
+ignore 'lib/*'
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
