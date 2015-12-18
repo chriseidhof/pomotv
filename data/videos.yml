@@ -995,7 +995,7 @@ AltConf 2015:
   - language: English
     speakers: [Daniel Steinberg]
     title: Playgrounds Are for Kids
-    tags: [inspirational, playgrounds, learning, swift]
+    tags: [inspirational, playground, learning, swift]
     youtube: eUSvnQhKccQ
   - language: English
     speakers: [Marin Todorov]
@@ -1234,14 +1234,17 @@ Functional Swift Conference 2015:
     speakers: [Alexis Gallagher]
     title: Protocols with Associated Types
     youtube: XWoNjiSPqI8
+    tags: [protocols,associated types,pats]
   - language: English
     speakers: [Brian Partridge]
     title: Result Driven Development
     youtube: aCm68xAWrno
+    tags: [result,monad,flatMap,errors]
   - language: English
     speakers: [Brandon Williams]
     title: Lenses in Swift
     youtube: ofjehH9f-CU
+    tags: [playground,lenses,functional programming,swift]
   - language: English
     speakers: [Chris Eidhof]
     title: Functional View Controllers
