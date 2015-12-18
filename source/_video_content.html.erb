@@ -1,14 +1,12 @@
-<div class="video-content">
-  <% if video['tags'] %>
-    Tags: <% video['tags'].each do |tag| %>
-    <%= tag %>
-  <% end %>
-  <% end %>
-  <% if video['direct-link'] %>
-  <p>
-    Slides and Transcript:<br/><%= link_to video['direct-link'], video['direct-link'] %>
+<% if video['direct-link'] %>
+  <p class="video-meta"> Slides and Transcript:<br/><%= link_to video['direct-link'], video['direct-link'] %> </p>
+<% end %>
+<% if video['tags'] && video['tags'].count > 0 %>
+  <p class="video-meta">
+  Tags: <% video['tags'].each do |tag| %> <%= tag %> <% end %>
   </p>
-  <% end %>
+<% end %>
+<div class="video-content">
   <p>
   <%= embed_video video %>
   </p>
