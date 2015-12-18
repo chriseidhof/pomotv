@@ -11,14 +11,5 @@
             <% end %>
         </p>
     </header>
-    <div class="video-content">
-      <% if video['direct-link'] %>
-      <p>
-        Slides and Transcript:<br/><%= link_to video['direct-link'], video['direct-link'] %>
-      </p>
-      <% end %>
-      <p>
-      <%= embed_video video %>
-      </p>
-    </div>
+    <%= partial :video_content, :locals => { :video => video } %>
 </section>

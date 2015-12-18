@@ -8,15 +8,6 @@
   <% videos.each do |video| %>
     <h3><%= video.title %></h3>
     <p> <%= link_to conference, "/events/#{data.events[conference].slug}" %> </p>
-    <div class="video-content">
-      <% if video['direct-link'] %>
-      <p>
-        Slides and Transcript:<br/><%= link_to video['direct-link'], video['direct-link'] %>
-      </p>
-      <% end %>
-      <p>
-      <%= embed_video video %>
-      </p>
-    </div>
+    <%= partial :video_content, :locals => { :video => video } %>
   <% end %>
 <% end %>
