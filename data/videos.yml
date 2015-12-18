@@ -778,7 +778,7 @@ NSConference 2015:
 - language: English
   speakers: [Chris Eidhof]
   title: "Functional View Controllers: An Experiment"
-  tags: []
+  tags: [view controllers]
   youtube: sXHJ-CeN0Us
   direct-link: "https://realm.io/news/swift-summit-chris-eidhof-functional-view-controllers/"
 - language: English
@@ -901,7 +901,7 @@ UIKonf 2015:
   - language: English
     speakers: [Chris Eidhof]
     title: Functional View Controllers
-    tags: []
+    tags: [view controllers]
     youtube: uQFI9rDrl8s
   - language: English
     speakers: [Eli Perkins]
@@ -931,7 +931,7 @@ UIKonf 2015:
   - language: English
     speakers: [Tom Adriaenssen]
     title: Async View Controllers
-    tags: []
+    tags: [view controllers]
     youtube: xy-xqj3m_Tk
   - language: English
     speakers: [Junior Bontognali]
