@@ -1,0 +1,9 @@
+<h1>Tags</h1>
+
+<ul>
+  <% all_tags.each do |tag|  %>
+    <li>
+    <%= link_to tag, "/tags/#{slug_for_tag(tag)}" %>
+    </li>
+  <% end %>
+</ul>

@@ -51,8 +51,10 @@ require 'middleman-blog/uri_templates'
 
 require "source/lib/video_helpers"
 require "source/lib/speaker_helpers"
+require "source/lib/tag_helpers"
 helpers VideoHelpers
 helpers SpeakerHelpers
+helpers TagHelpers
 
 set :css_dir, 'stylesheets'
 
@@ -67,6 +69,12 @@ end
 data.speakers.each do |name, metadata|
   videos = data.videos.map { |k,v| [k,v.select { |video| video.speakers.include? name }] }.select { |k, v| v.count > 0 }
   proxy(speaker_page(name) + "/index.html", "/speaker.html", :locals => { :name => name, :speaker => metadata , :videos => videos}, :ignore => true)
+end
+
+all_tags.each do |tag|
+  videos = videos_for_tag(tag)
+  slug = slug_for_tag(tag)
+  proxy "/tags/#{slug}/index.html", "/tag.html", :locals => { :tag => tag, :videos => videos}, :ignore => true
 end
 
 # Build-specific configuration

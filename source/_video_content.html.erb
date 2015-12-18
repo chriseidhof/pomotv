@@ -3,7 +3,10 @@
 <% end %>
 <p class="video-meta">
   <% if video['tags'] && video['tags'].count > 0 %>
-    Tags: <%= video['tags'].join(", ") %>
+    Tags:
+    <% video['tags'].each do |tag| %>
+      <%= link_to tag, "/tags/#{slug_for_tag(tag)}" %>
+    <% end %>
   <% else %>
     No tags yet. <a href="https://github.com/chriseidhof/ios-videos">Suggest tags</a>.
   <% end %>
