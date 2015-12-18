@@ -3,7 +3,7 @@ title: iOS videos
 ---
 
 <div class="videos">
-  <h2>Recently added videos</h2>
+  <h1 class="content-subhead">Recently added videos</h1>
   <% data.videos.values.flatten.reverse.take(10).each do |video| %>
     <%= partial :video, :locals => { :video => video } %>
   <% end %>

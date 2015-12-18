@@ -1,18 +1,24 @@
-<div class="video">
-  <h3><%= video.title %></h3>
-  <div>
-    <% video.speakers.each do |s| %>
-      <%= s %>
-      <% if data.speakers[s] and data.speakers[s]['twitter'] %>
-        - <%= link_to('(all videos)', speaker_page(s)) %>
-        - <%= link_to('@' + data.speakers[s].twitter, 'http://twitter.com/' + data.speakers[s].twitter) %><br/>
+<section class="video">
+    <header class="video-header">
+        <h2 class="video-title"><%= video.title %></h2>
+        <p class="video-meta">
+            By <% video.speakers.each do |s| %>
+              <%= s %>
+              <% if data.speakers[s] and data.speakers[s]['twitter'] %>
+                - <%= link_to('(all videos)', speaker_page(s)) %>
+                - <%= link_to('@' + data.speakers[s].twitter, 'http://twitter.com/' + data.speakers[s].twitter) %><br/>
+              <% end %>
+            <% end %>
+        </p>
+    </header>
+    <div class="video-content">
+      <% if video['direct-link'] %>
+      <p>
+        Slides and Transcript:<br/><%= link_to video['direct-link'], video['direct-link'] %>
+      </p>
       <% end %>
-    <% end %>
-  </div>
-  <% if video['direct-link'] %>
-  <p>
-    Slides and Transcript: <%= link_to video['direct-link'], video['direct-link'] %>
-  </p>
-  <% end %>
-  <%= embed_video video %>
-</div>
+      <p>
+      <%= embed_video video %>
+      </p>
+    </div>
+</section>
