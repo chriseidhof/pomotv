@@ -3,7 +3,7 @@
 <% end %>
 <% if video['tags'] && video['tags'].count > 0 %>
   <p class="video-meta">
-  Tags: <% video['tags'].each do |tag| %> <%= tag %> <% end %>
+    Tags: <%= video['tags'].join(", ") %>
   </p>
 <% end %>
 <div class="video-content">
