@@ -367,6 +367,25 @@ GitHub Reactive Cocoa Developer Conference 2014:
     title: RACify Non-Reactive Code
     tags: [functional programming]
     youtube: sek0ohbboNU
+NSSpain 2014:
+  - language: English
+    speakers: [Michele Titolo]
+    title: "Can't handle my scale"
+    vimeo: 109624121
+  - language: English
+    speakers: [Krzysztof Kucharewicz]
+    title: "Autolayout for everyone"
+    tags: [autolayout]
+    vimeo: 109222175
+  - language: English
+    speakers: [Andrew Yates]
+    title: "What to do when you get hacked?"
+    vimeo: 108659428
+  - language: English
+    speakers: [Mike Ash]
+    title: "Swift and C"
+    tags: [swift]
+    vimeo: 107707576
 "#Pragma Conference 2014":
   - language: English
     speakers: [Meng To]
