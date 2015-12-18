@@ -508,6 +508,67 @@ NSSpain 2014:
     title: Hard Ideas
     tags: [environmental change]
     youtube: _00qkCCuWc0
+NSScotland 2014:
+  - language: English
+    speakers: [Graham Lee]
+    title: End to End Testing at Facebook
+    tags: [testing]
+    vimeo: 111942748
+  - language: English
+    speakers: [Helen McManus]
+    title: Undocumented Xcode
+    tags: [xcode]
+    vimeo: 111942372
+  - language: English
+    speakers: [Mike Abdullah]
+    title: HTTP and URLs for Cocoa Developers
+    tags: []
+    vimeo: 111942373
+  - language: English
+    speakers: [Drew McCormack]
+    title: Technically Magic
+    tags: []
+    vimeo: 111942667
+  - language: English
+    speakers: [Sally Shepard]
+    title: Hacking on the AppleTV
+    tags: []
+    vimeo: 111942376
+  - language: English
+    speakers: [James Thomson]
+    title: How to be Indie and Still Keep Your Sanity
+    tags: []
+    vimeo: 111942375
+  - language: English
+    speakers: [Emily Toop]
+    title: Computing's Hidden Heroes
+    tags: []
+    vimeo: 111942503
+  - language: English
+    speakers: [Steven Baker]
+    title: Shifting Paradigms - Exploring Programming Languages and Their Features
+    tags: []
+    vimeo: 111942502
+  - language: English
+    speakers: [Rob Rix]
+    title: Many Types Make Light Work
+    tags: []
+    vimeo: 111942573
+  - language: English
+    speakers: [Eric Knapp]
+    title: Helping Blind Musicians with an iOS app using Core MIDI and Swift
+    tags: []
+    vimeo: 111942500
+  - language: English
+    speakers: [Johnnie Walker]
+    title: A Brief History of Image Processing on iOS
+    tags: []
+    vimeo: 111942501
+  - language: English
+    speakers: [Samuel Goodwin]
+    title: Teaching Programming
+    tags: []
+    vimeo: 111942572
 Functional Swift Conference 2014:
   - language: English
     speakers: [Brandon Williams]
