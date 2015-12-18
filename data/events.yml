@@ -14,6 +14,10 @@ GitHub Reactive Cocoa Developer Conference 2014:
   date: Jun 14, 2014
   url: https://github.com/ReactiveCocoa/ReactiveCocoa/issues/1350
   slug: ghreact-2014
+NSSpain 2014:
+  url: http://nsspain.com/2014/
+  date: September 18-19, 2014
+  slug: nsspain-2014
 "#Pragma Conference 2014":
   url: http://pragmamark.org/events/pragma-conference-2014/
   date: October 3-4, 2014
@@ -42,6 +46,10 @@ AltConf 2015:
   url: https://realm.io/altconf/
   date: June 8, 2015
   slug: altconf-2015
+NSSpain 2015:
+  url: http://nsspain.com/2015/
+  date: September 16-17-18, 2015
+  slug: nsspain-2015
 "#Pragma Conference 2015":
   url: http://pragmaconference.com
   date: October 9-10, 2015

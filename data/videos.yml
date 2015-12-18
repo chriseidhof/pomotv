@@ -367,6 +367,25 @@ GitHub Reactive Cocoa Developer Conference 2014:
     title: RACify Non-Reactive Code
     tags: [functional programming]
     youtube: sek0ohbboNU
+NSSpain 2014:
+  - language: English
+    speakers: [Michele Titolo]
+    title: "Can't handle my scale"
+    vimeo: 109624121
+  - language: English
+    speakers: [Krzysztof Kucharewicz]
+    title: "Autolayout for everyone"
+    tags: [autolayout]
+    vimeo: 109222175
+  - language: English
+    speakers: [Andrew Yates]
+    title: "What to do when you get hacked?"
+    vimeo: 108659428
+  - language: English
+    speakers: [Mike Ash]
+    title: "Swift and C"
+    tags: [swift]
+    vimeo: 107707576
 "#Pragma Conference 2014":
   - language: English
     speakers: [Meng To]
@@ -897,6 +916,101 @@ AltConf 2015:
     title: The Worst Code
     tags: [social coding]
     youtube: gqQzJKU440Y
+NSSpain 2015:
+  - language: English
+    speakers: [Piet Brauer]
+    title: DevOps in the iOS world
+    tags: [devops]
+    vimeo: 146752761
+  - language: English
+    speakers: [Daniel Eggert]
+    title: "Digging Deeper: Understanding HTTP"
+    tags: [http]
+    vimeo: 146225571
+  - language: English
+    speakers: [Michele Titolo]
+    title: "All the [tech] world's a stage"
+    tags: []
+    vimeo: 146102508
+  - language: English
+    speakers: [Boris Bügling]
+    title: Bringing CocoaPods to Linux
+    tags: [cocoapods]
+    vimeo: 145642898
+  - language: English
+    speakers: [Hermes Pique]
+    title: Empathy coding
+    tags: [voiceover]
+    vimeo: 145630865
+  - language: English
+    speakers: [Taylan Pince]
+    title: Diving Into HomeKit
+    tags: [homekit]
+    vimeo: 145146380
+  - language: English
+    speakers: [Adam Bell]
+    title: "Getting Ahead of the Curve"
+    vimeo: 145048167
+  - language: English
+    speakers: [Philippe Casgrain]
+    title: "Hardware-assisted debugging"
+    tags: [arduino]
+    vimeo: 144358726
+  - language: English
+    speakers: [Grant Paul]
+    title: Making Sense of Xcode
+    tags: [xcode]
+    vimeo: 144221404
+  - language: English
+    speakers: [Miguel A. Quinones]
+    title: "Poor man's functional programming"
+    tags: [functional programming]
+    vimeo: 144208456
+  - language: English
+    speakers: [Josh Abernathy]
+    title: "Functions, a love affair"
+    tags: [functional programming]
+    vimeo: 144139236
+  - language: English
+    speakers: [Soroush Khanlou]
+    title: Presenting Coordinators
+    tags: []
+    vimeo: 144116310
+  - language: English
+    speakers: [Michael May]
+    title: Team Leadership Lessons Learned The Hard Way
+    tags: [leadership]
+    vimeo: 143353960
+  - language: English
+    speakers: [Natasha Murashev]
+    title: The Zen Guide to WatchOS 2
+    tags: [watchos]
+    vimeo: 141086010
+  - language: English
+    speakers: [Charlie Cowan]
+    title: "Learn, Compete and Win. An introduction to Topcoder"
+    tags: []
+    vimeo: 141041725
+  - language: English
+    speakers: [Ashley Nelson Hornstein]
+    title: "Humanities X Technology"
+    tags: []
+    vimeo: 140414636
+  - language: English
+    speakers: [Scott Goodson]
+    title: "Intelligent UI with AsyncDisplayKit 2.0"
+    tags: [ui, interface]
+    vimeo: 140409084
+  - language: English
+    speakers: [Andy Matuschak]
+    title: "Let’s Play: Refactor the Mega-Controller"
+    tags: [refactor]
+    vimeo: 140037432
+  - language: English
+    speakers: [Ana Márquez, Javier de Silóniz]
+    title: Going swiftly to a Functional world
+    tags: [functional programming]
+    vimeo: 146774666
 "#Pragma Conference 2015":
   - language: English
     speakers: [Oliver Drobnik]
