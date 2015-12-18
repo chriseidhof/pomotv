@@ -22,6 +22,10 @@ NSSpain 2014:
   url: http://pragmamark.org/events/pragma-conference-2014/
   date: October 3-4, 2014
   slug: pragma-2014
+"⌘R Conf 2014":
+  url: http://cmdrconf.com
+  date: October 22-24, 2014
+  slug: cmdr-2014
 Functional Swift Conference 2014:
   url: http://2014.funswiftconf.com
   date: December 6, 2014

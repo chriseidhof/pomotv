@@ -412,6 +412,102 @@ NSSpain 2014:
     title: "Behaviours: a way to simplify your application code"
     tags: []
     youtube: QMVcIJz2sfg
+"⌘R Conf 2014":
+  - language: English
+    speakers: [Daniel Steinberg]
+    title: What the func?
+    tags: []
+    youtube: Yl21K64J7mw
+  - language: English
+    speakers: [Peter Steinberger]
+    title: Scaling Your Indie Business
+    tags: []
+    youtube: 0iQeaoP3Nh8
+  - language: English
+    speakers: [Christine Corbett]
+    title: Open Source iOS
+    tags: []
+    youtube: mVju1coG_6Q
+  - language: English
+    speakers: [Soledad Penades]
+    title: Embracing Failure
+    tags: []
+    youtube: CqvEnD9mIo8
+  - language: English
+    speakers: [Kyle Fuller]
+    title: "ICYMI: Core Data"
+    tags: []
+    youtube: gqhVMXenLdg
+  - language: English
+    speakers: [Gwynne Raskind]
+    title: The Why and How of Assembly Language
+    tags: []
+    youtube: SSCxm5_IloU
+  - language: English
+    speakers: [Matt Galloway]
+    title: "Strings: From 0 to 🐓🍟 (Chicken and Chips)"
+    tags: []
+    youtube: ryT3gLolQ7Q
+  - language: English
+    speakers: [Joachim Kurz]
+    title: Laziness in Swift
+    tags: []
+    youtube: 1w2WEs0UjAA
+  - language: English
+    speakers: [Sam Marshall]
+    title: Everything is Terrible
+    tags: []
+    youtube: CQn9AAZonMk
+  - language: English
+    speakers: [Neil Kimmett]
+    title: Lessons learned from cooking up an app
+    tags: []
+    youtube: sMiE65xPH84
+  - language: English
+    speakers: [Sally Shepard]
+    title: Psychoacoustics and Auditory Illusions for App Development
+    tags: []
+    youtube: sDOq8d7SAIQ
+  - language: English
+    speakers: [Krzysztof Zabłocki]
+    title: Empower your Objectiv
+    tags: []
+    youtube: cINmPrJzQeM
+  - language: English
+    speakers: [Michael May]
+    title: Monocultural
+    tags: []
+    youtube: yP5KWNLHD6Y
+  - language: English
+    speakers: [Francesco Frison]
+    title: Operators Overload
+    tags: []
+    youtube: ZRzroz8Uyj4
+  - language: English
+    speakers: [Robin Christopherson]
+    title: "Technology: The Power and the Promise"
+    tags: []
+    youtube: DyNoSolM1G0
+  - language: English
+    speakers: [Mitchell Allison]
+    title: Compiling Swift with Swift... and other bad ideas
+    tags: []
+    youtube: F_fCLnMj89Y
+  - language: English
+    speakers: [Chris Eidhof ]
+    title: Functional Swift
+    tags: []
+    youtube: vbMjd-Ms-_o
+  - language: English
+    speakers: [Rob Stearn]
+    title: Who's afraid of auto layout?
+    tags: []
+    youtube: Ah0uA3TZ_mQ
+  - language: English
+    speakers: [Mike Lee]
+    title: Hard Ideas
+    tags: []
+    youtube: _00qkCCuWc0
 Functional Swift Conference 2014:
   - language: English
     speakers: [Brandon Williams]
