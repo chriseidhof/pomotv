@@ -1,11 +1,13 @@
 <% if video['direct-link'] %>
   <p class="video-meta"> Slides and Transcript:<br/><%= link_to video['direct-link'], video['direct-link'] %> </p>
 <% end %>
-<% if video['tags'] && video['tags'].count > 0 %>
-  <p class="video-meta">
+<p class="video-meta">
+  <% if video['tags'] && video['tags'].count > 0 %>
     Tags: <%= video['tags'].join(", ") %>
-  </p>
-<% end %>
+  <% else %>
+    No tags yet. <a href="https://github.com/chriseidhof/ios-videos">Suggest tags</a>.
+  <% end %>
+</p>
 <div class="video-content">
   <p>
   <%= embed_video video %>
