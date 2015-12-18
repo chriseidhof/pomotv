@@ -10,6 +10,10 @@
 
     <!-- Use title if it's in the page YAML frontmatter -->
     <title><%= current_page.data.title || "iOS Videos" %></title>
+
+    <% if current_page.data.atom_feed %>
+    <link href="<%= current_page.data.atom_feed %>" type="application/atom+xml" rel="alternate" />
+    <% end %>
     
     <%= stylesheet_link_tag "normalize" %>
 
