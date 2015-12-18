@@ -1213,6 +1213,12 @@ Swift Summit San Francisco 2015:
     tags: []
     youtube: _kpYI6GjCuw
     direct-link: "http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me"
+  - language: English
+    speakers: [Wendy Lu]
+    title: Exploring Apple Pay with Swift
+    tags: [Apple Pay, Swift]
+    youtube: uXLNSlTKADo
+    direct-link: "http://www.skilled.io/wendylu/exploring-apple-pay-with-swift"
 Functional Swift Conference 2015:
   - language: English
     speakers: [Veronica Ray]
