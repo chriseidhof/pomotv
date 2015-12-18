@@ -2,12 +2,12 @@ UIKonf 2013:
   - language: English
     speakers: [Peter Steinberger]
     title: How to bend UIKit to your will
-    tags: []
+    tags: [uikit,swizzling,low level,runtime]
     youtube: psPNxC3G_hc
   - language: English
     speakers: [Cesare Rocchi]
     title: Autolayout? Oh boy
-    tags: []
+    tags: [autolayout]
     youtube: kwzsUmozIj0
   - language: English
     speakers: [James Weiner]
@@ -32,27 +32,27 @@ UIKonf 2013:
   - language: English
     speakers: [Florian Kugler]
     title: "Use your tools: App optimization with Instruments"
-    tags: []
+    tags: [instruments]
     youtube: N7ryA7rxsrg
   - language: English
     speakers: [Boris Bügling]
     title: Objective-C funtime - know your runtime
-    tags: []
+    tags: [runtime]
     youtube: vrEoUSuMu_c
   - language: English
     speakers: [Daniel Eggert]
     title: Core Data for Fun and Profit
-    tags: []
+    tags: [core data]
     youtube: iaf3uBja77Y
   - language: English
     speakers: [Joris Kluivers]
     title: Software interactions with the real world
-    tags: []
+    tags: [bluetooth]
     youtube: -fb4bIkniq8
   - language: English
     speakers: [Robert Böhnke]
     title: How I Learned to Stop Worrying about State and Love ReactiveCocoa
-    tags: []
+    tags: [functional reactive programming, reactivecocoa]
     youtube: YlsunWT87eo
 UIKonf 2014:
   - language: English
@@ -68,17 +68,17 @@ UIKonf 2014:
   - language: English
     speakers: [Conrad Stoll]
     title: Demystifying security best practices
-    tags: []
+    tags: [security]
     youtube: 2FHc9QTpsqQ
   - language: English
     speakers: [Luis Solano]
     title: Techniques for writing DSLs in Objective-C
-    tags: []
+    tags: [dsls]
     youtube: vv88YvH6Eqs
   - language: English
     speakers: [Matthew Morey]
     title: High performance Core Data
-    tags: []
+    tags: [core data]
     youtube: Du8ggtwNTaM
   - language: English
     speakers: [Piet Brauer]
@@ -501,7 +501,7 @@ NSSpain 2014:
   - language: English
     speakers: [Rob Stearn]
     title: Who's afraid of auto layout?
-    tags: [auto layout]
+    tags: [autolayout]
     youtube: Ah0uA3TZ_mQ
   - language: English
     speakers: [Mike Lee]
@@ -566,15 +566,12 @@ MCE Conference 2015:
     speakers: [Max Bazaliy]
     title: Securing iOS applications
     youtube: qaeN-rk_YVU
+    tags: [security]
   - language: English
     speakers: [Marcus S. Zarra]
     title: "Core Data: Multi-Threading Clarity"
-    tags: [coredata]
+    tags: [core data]
     youtube: ckbke8vjHMw
-  - language: English
-    speakers: [Max Bazaliy]
-    title: Securing iOS applications
-    youtube: qaeN-rk_YVU
   - language: English
     speakers: [Adam Ernst]
     title: Immutable Models on iOS
@@ -751,7 +748,7 @@ NSConference 2015:
 - language: English
   speakers: [Boris Bügling]
   title: Swift Funtime
-  tags: []
+  tags: [runtime]
   youtube: dDlEO53ZNTU
   direct-link: "https://realm.io/news/swift-summit-boris-bugling-runtime-funtime/"
 - language: English
@@ -1146,7 +1143,7 @@ NSSpain 2015:
   - language: English
     speakers: [Marcus S. Zarra]
     title: Core Data Threading Demystified
-    tags: []
+    tags: [core data]
     youtube: _QolYhiKWvU
   - language: English
     speakers: [Orta Therox]
