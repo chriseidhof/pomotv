@@ -588,7 +588,7 @@ Functional Swift Conference 2014:
   - language: English
     speakers: [Justin Spahr-Summers]
     title: Enemy Of The State
-    tags: [reactive programming]
+    tags: [functional reactive programming]
     youtube: 7AqXBuJOJkY
   - language: English
     speakers: [Brian Gesiak]
@@ -851,7 +851,7 @@ NSConference 2015:
 - language: English
   speakers: [Abizer Nasir]
   title: What Haskell Taught Me About Writing Swift
-  tags: []
+  tags: [haskell]
   youtube: paDHfVRpyCg
   direct-link: "https://realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/"
 - language: English
@@ -905,7 +905,7 @@ NSConference 2015:
 - language: English
   speakers: [Al Skipp]
   title: The Monad Among Us
-  tags: []
+  tags: [monads]
   youtube: PZ_ShvesGIk
   direct-link: "https://realm.io/news/swift-summit-al-skipp-monads/"
 UIKonf 2015:
@@ -932,7 +932,7 @@ UIKonf 2015:
   - language: English
     speakers: [Jens Ravens]
     title: Functional Reactive Programming without Black Magic - Build your own...
-    tags: []
+    tags: [functional reactive programming]
     youtube: AcDaWe3S75c
   - language: English
     speakers: [Mike Lee]
@@ -987,7 +987,7 @@ UIKonf 2015:
   - language: English
     speakers: [Joe Burgess]
     title: Learning Swift Through Lessons in Haskell
-    tags: []
+    tags: [haskell]
     youtube: 46nJlZ3RT_I
   - language: English
     speakers: [Tom Adriaenssen]
@@ -997,7 +997,7 @@ UIKonf 2015:
   - language: English
     speakers: [Junior Bontognali]
     title: Monads are not Monsters
-    tags: []
+    tags: [monads]
     youtube: vg7cOF30Svo
 AltConf 2015:
   - language: English
@@ -1028,7 +1028,7 @@ AltConf 2015:
   - language: English
     speakers: [Ash Furrow]
     title: Functional Reactive Awesomeness With Swift
-    tags: [frp, reactive programming, rxswift]
+    tags: [frp, functional reactive programming, rxswift]
     youtube: 6k5U_a00bhQ
   - language: English
     speakers: [Wil Shipley]
@@ -1903,7 +1903,7 @@ Functional Swift Conference 2015:
   - language: English
     speakers: [Agnes Vasarhelyi]
     title: Functional Thinking
-    tags: [reactive programming]
+    tags: [functional reactive programming]
     youtube: hHeideOmLs4
   - language: English
     speakers: [Alexis Gallagher]
@@ -1914,7 +1914,7 @@ Functional Swift Conference 2015:
     speakers: [Brian Partridge]
     title: Result Driven Development
     youtube: aCm68xAWrno
-    tags: [result,monad,flatMap,errors]
+    tags: [result,monads,flatMap,errors]
   - language: English
     speakers: [Brandon Williams]
     title: Lenses in Swift
@@ -1923,7 +1923,7 @@ Functional Swift Conference 2015:
   - language: English
     speakers: [Chris Eidhof]
     title: Functional View Controllers
-    tags: [view controllers, monad, flatMap]
+    tags: [view controllers, monads, flatMap]
     youtube: sP156LW5BVs
   - language: English
     speakers: [Colin Barrett]
