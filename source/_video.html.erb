@@ -4,8 +4,10 @@
         <p class="video-meta">
             By <% video.speakers.each do |s| %>
               <%= s %>
-              <% if data.speakers[s] and data.speakers[s]['twitter'] %>
+              <% if data.speakers[s] %>
                 - <%= link_to('(all videos)', speaker_page(s)) %>
+              <% end %>
+              <% if data.speakers[s]['twitter'] %>
                 - <%= link_to('@' + data.speakers[s].twitter, 'http://twitter.com/' + data.speakers[s].twitter) %><br/>
               <% end %>
             <% end %>
