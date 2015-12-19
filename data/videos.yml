@@ -1634,7 +1634,7 @@ WWDC 2015:
     wwdc: "wwdc2015-712"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/7125ovmdf36/712/712_low_energy_high_performance_compression_and_accelerate.pdf?dl=1"
   - language: English
-    speakers: [Chris Jensen Alexander Ledwith]
+    speakers: [Chris Jensen, Alexander Ledwith]
     title: "Introducing Watch Connectivity"
     tags: [systemframeworks, watchos]
     wwdc: "wwdc2015-713"
