@@ -12,7 +12,7 @@
   <% end %>
 </p>
 <% if video.wwdc %>
-  <p><%= link_to "Watch on apple.com", video['direct-link'] %></p>
+  <p><%= link_to "Watch on apple.com", video_url(video) %></p>
 <% else %>
   <div class="video-content">
     <p><%= embed_video video %></p>
