@@ -27,7 +27,7 @@ UIKonf 2013:
   - language: English
     speakers: [Tim Brückmann]
     title: "Unit Testing on iOS: No Voodoo necessary"
-    tags: []
+    tags: [testing]
     youtube: UYqm1IZacX0
   - language: English
     speakers: [Florian Kugler]
@@ -441,7 +441,7 @@ NSSpain 2014:
   - language: English
     speakers: [Gwynne Raskind]
     title: The Why and How of Assembly Language
-    tags: [assembly, low-level]
+    tags: [assembly, low level]
     youtube: SSCxm5_IloU
   - language: English
     speakers: [Matt Galloway]
@@ -496,7 +496,7 @@ NSSpain 2014:
   - language: English
     speakers: [Chris Eidhof ]
     title: Functional Swift
-    tags: [swift,functional programming,core image]
+    tags: [swift,functional programming,coreimage]
     youtube: vbMjd-Ms-_o
   - language: English
     speakers: [Rob Stearn]
@@ -863,7 +863,7 @@ NSConference 2015:
 - language: English
   speakers: [Jan Riehn]
   title: Testing in Swift
-  tags: []
+  tags: [testing]
   youtube: wLQpcVC5BMs
   direct-link: "https://realm.io/news/swift-summit-jan-riehn-testing/"
 - language: English
@@ -1133,7 +1133,7 @@ WWDC 2015:
   - language: English
     speakers: [Dave Abrahams]
     title: "Protocol-Oriented Programming in Swift"
-    tags: [swift]
+    tags: [swift, protocols]
     wwdc: "wwdc2015-408"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/408509vyudbqvts/408/408_protocoloriented_programming_in_swift.pdf?dl=1"
   - language: English
@@ -1277,7 +1277,7 @@ WWDC 2015:
   - language: English
     speakers: [Rishi Verma]
     title: "What's New in Core Data"
-    tags: [frameworks, coredata]
+    tags: [frameworks, core data]
     wwdc: "wwdc2015-220"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/220lgx5lvphj2/220/220_whats_new_in_core_data.pdf?dl=1"
   - language: English
@@ -1401,15 +1401,15 @@ WWDC 2015:
     wwdc: "wwdc2015-404"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/404l17yio30l549x/404/404_app_thinning_in_xcode.pdf?dl=1"
   - language: English
-    speakers: [Sam]
+    speakers: [Sam Page, Connor Wakamo, Matt Patenaude]
     title: "Authoring Rich Playgrounds"
-    tags: [developertools, playgrounds]
+    tags: [developertools, playground]
     wwdc: "wwdc2015-405"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/405t69ymgwkmfzc9/405/405_authoring_rich_playgrounds.pdf?dl=1"
   - language: English
     speakers: [Wil Turner]
     title: "UI Testing in Xcode"
-    tags: [developertools, xcode, uitesting]
+    tags: [developertools, xcode, testing, uitesting]
     wwdc: "wwdc2015-406"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/406o0doszwo8r15m/406/406_ui_testing_in_xcode.pdf?dl=1"
   - language: English
@@ -1419,7 +1419,7 @@ WWDC 2015:
     wwdc: "wwdc2015-407"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/4072909wwb9o9j3/407/407_implementing_ui_designs_in_interface_builder.pdf?dl=1"
   - language: English
-    speakers: [Nadav, Michael, Joe]
+    speakers: [Nadav Rotem, Michael Gottesman, Joe Grzywacz]
     title: "Optimizing Swift Performance"
     tags: [developertools, swift]
     wwdc: "wwdc2015-409"
@@ -1485,7 +1485,7 @@ WWDC 2015:
     wwdc: "wwdc2015-506"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/5062qehwhs/506/506_editing_movies_in_av_foundation.pdf?dl=1"
   - language: English
-    speakers: [Akshatha Nagesh, Torrey]
+    speakers: [Akshatha Nagesh, Torrey Holbrook Walker]
     title: "What's New in Core Audio"
     tags: [media, audio]
     wwdc: "wwdc2015-507"
@@ -1885,7 +1885,7 @@ Swift Summit San Francisco 2015:
   - language: English
     speakers: [Greg Heo]
     title: What the 55 Swift Standard Library Protocols Taught Me
-    tags: []
+    tags: [protocols]
     youtube: _kpYI6GjCuw
     direct-link: "http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me"
   - language: English
