@@ -638,6 +638,55 @@ MCE Conference 2015:
     title: Immutable Models on iOS
     tags: [functional programming]
     youtube: DK3vO3fUnlo
+dotSwift 2015:
+  - language: English
+    speakers: [Corinne Krych]
+    title: "Switch to Swift?"
+    tags: [swift]
+    youtube: pEGHDRz-Nbw
+    direct-link: "http://www.thedotpost.com/2015/02/corinne-kyrch-switch-to-swift"
+  - language: English
+    speakers: [Marius Rackwitz]
+    title: "Static vs. Dynamic Linking"
+    tags: [swift]
+    youtube: phb9gMV2Cn8
+    direct-link: "http://www.thedotpost.com/2015/02/marius-rackwitz-static-vs-dynamic-linking"
+  - language: English
+    speakers: [Daniel Steinberg]
+    title: "The Ugly American Learns Swift"
+    tags: [swift]
+    youtube: BVFtrrXhApw
+    direct-link: "http://www.thedotpost.com/2015/02/daniel-steinberg-the-ugly-american-learns-swift"
+  - language: English
+    speakers: [Romain Huet]
+    title: "Swiftly Building Better Apps"
+    tags: [swift]
+    youtube: t4ZnhOzod9A
+    direct-link: "http://www.thedotpost.com/2015/02/romain-huet-swiftly-building-better-apps"
+  - language: English
+    speakers: [Kyle Fuller]
+    title: "Practical Functional Programming in Swift"
+    tags: [swift, functional programming]
+    youtube: L4zlqhMuNKw
+    direct-link: "http://www.thedotpost.com/2015/02/kyle-fuller-practical-functional-programming-in-swift"
+  - language: English
+    speakers: [Ash Furrow]
+    title: "Swift in Production"
+    tags: [swift]
+    youtube: oMn4sspgrkQ
+    direct-link: "http://www.thedotpost.com/2015/02/ash-furrow-swift-in-production"
+  - language: English
+    speakers: [JP Simard]
+    title: "Introspecting Swift"
+    tags: [swift]
+    youtube: YXZODVMLW1w
+    direct-link: "http://www.thedotpost.com/2015/02/jp-simard-introspecting-swift"
+  - language: English
+    speakers: ["Dimitri Dupuis-Latour"]
+    title: "Think Swiftly"
+    tags: [swift]
+    youtube: DTAs_OVGWIs
+    direct-link: "http://www.thedotpost.com/2015/02/dimitri-dupuis-latour-think-swiftly"
 NSConference 2015:
   - language: English
     speakers: [James Dempsey]
