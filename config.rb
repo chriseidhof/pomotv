@@ -69,22 +69,34 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
 data.events.each do |name, metadata|
-  {'index.html': 'event.html', 'feed.xml': 'feed.xml'}.map do |page,template|
-    proxy "/events/#{metadata.slug}/#{page}", template, :locals => { :name => name, :metadata => metadata , :videos => data.videos[name]}, :ignore => true
-  end
+  base_url = "/events/#{metadata.slug}"
+  html = "#{base_url}/index.html"
+  feed = "#{base_url}/feed.xml"
+
+  proxy html, "event.html", :locals => { :name => name, :metadata => metadata, :videos => data.videos[name], :atom_feed => feed}, :ignore => true
+  proxy feed, "feed.xml", :locals => { :name => name, :videos => data.videos[name], :html_page => html}, :ignore => true
 end
 
 data.speakers.each do |name, metadata|
+  base_url = speaker_page(name)
+  html = "#{base_url}/index.html"
+  feed = "#{base_url}/feed.xml"
+
   videos = data.videos.map { |k,v| [k,v.select { |video| video.speakers.include? name }] }.select { |k, v| v.count > 0 }
-  proxy(speaker_page(name) + "/index.html", "/speaker.html", :locals => { :name => name, :speaker => metadata , :videos => videos}, :ignore => true)
-  proxy(speaker_page(name) + "/feed.xml", "feed.xml", :locals => { :name => name, :videos => videos.map { |c| c[1] }.flatten}, :ignore => true)
+
+  proxy html, "speaker.html", :locals => { :name => name, :speaker => metadata , :videos => videos, :atom_feed => feed}, :ignore => true
+  proxy feed, "feed.xml", :locals => { :name => name, :videos => videos.map { |c| c[1] }.flatten, :html_page => html}, :ignore => true
 end
 
 all_tags.each do |tag|
+  base_url = "/tags/#{slug_for_tag(tag)}"
+  html = "#{base_url}/index.html"
+  feed = "#{base_url}/feed.xml"
+
   videos = videos_for_tag(tag)
-  slug = slug_for_tag(tag)
-  proxy "/tags/#{slug}/index.html", "/tag.html", :locals => { :tag => tag, :videos => videos}, :ignore => true
-  proxy "/tags/#{slug}/feed.xml", "feed.xml", :locals => { :name => tag, :videos => videos.map { |c| c[1] }.flatten}, :ignore => true
+
+  proxy html, "tag.html", :locals => { :tag => tag, :videos => videos, :atom_feed => feed}, :ignore => true
+  proxy feed, "feed.xml", :locals => { :name => tag, :videos => videos.map { |c| c[1] }.flatten, :html_page => html}, :ignore => true
 end
 
 # Build-specific configuration

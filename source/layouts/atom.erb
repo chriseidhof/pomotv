@@ -3,7 +3,7 @@
   <title><%= site_name %></title>
   <subtitle><%= current_page.data.name || name %></subtitle>
   <id><%= site_url %></id>
-  <link href="<%= site_url %>"/>
+  <link href="<%= site_url + (current_page.metadata[:locals][:html_page] || "") %>"/>
   <link href="<%= site_url + current_page.path %>" rel="self"/>
   <updated><%= Time.now.utc.iso8601 %></updated>
   <author>
