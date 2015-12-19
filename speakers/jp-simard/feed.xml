@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/jp-simard"/>
   <link href="https://www.pomo.tv/speakers/jp-simard/feed.xml" rel="self"/>
-  <updated>2015-12-19T22:19:13Z</updated>
+  <updated>2015-12-19T22:24:18Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,14 +14,14 @@
     <title>Working with Binary Data in Swift</title>
     <link rel="alternate" href="http://www.skilled.io/jpsimard/working-with-binary-data-in-swift"/>
     <id>http://www.skilled.io/jpsimard/working-with-binary-data-in-swift</id>
-    <updated>2015-12-19T22:19:13Z</updated>
+    <updated>2015-12-19T22:24:18Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
     <content type="text/html">
         &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;jpsimard&#x2F;working-with-binary-data-in-swift&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;jpsimard&#x2F;working-with-binary-data-in-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
 &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;kz6d-ES7WtE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -34,7 +34,7 @@
     <title>Open Sourcing Swift</title>
     <link rel="alternate" href="http://www.skilled.io/swiftsummit/open-sourcing-swift"/>
     <id>http://www.skilled.io/swiftsummit/open-sourcing-swift</id>
-    <updated>2015-12-19T22:19:13Z</updated>
+    <updated>2015-12-19T22:24:18Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -50,7 +50,7 @@
     <content type="text/html">
         &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;swiftsummit&#x2F;open-sourcing-swift&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;swiftsummit&#x2F;open-sourcing-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
 &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;cmJcc3VAm3c&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -63,13 +63,13 @@
     <title>Fixing the Swift Tooling Problem</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=flSMEw_Hxik"/>
     <id>https://www.youtube.com/watch?v=flSMEw_Hxik</id>
-    <updated>2015-12-19T22:19:13Z</updated>
+    <updated>2015-12-19T22:24:18Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;flSMEw_Hxik&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -82,7 +82,7 @@
     <title>Introspecting Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/jp-simard-introspecting-swift"/>
     <id>http://www.thedotpost.com/2015/02/jp-simard-introspecting-swift</id>
-    <updated>2015-12-19T22:19:13Z</updated>
+    <updated>2015-12-19T22:24:18Z</updated>
     <author>
       <name>JP Simard</name>
     </author>

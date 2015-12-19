@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//events/swift-summit-san-francisco-2015"/>
   <link href="https://www.pomo.tv/events/swift-summit-san-francisco-2015/feed.xml" rel="self"/>
-  <updated>2015-12-19T22:19:11Z</updated>
+  <updated>2015-12-19T22:24:17Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Exploring Apple Pay with Swift</title>
     <link rel="alternate" href="http://www.skilled.io/wendylu/exploring-apple-pay-with-swift"/>
     <id>http://www.skilled.io/wendylu/exploring-apple-pay-with-swift</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:17Z</updated>
     <author>
       <name>Wendy Lu</name>
     </author>
@@ -36,7 +36,7 @@
     <title>What the 55 Swift Standard Library Protocols Taught Me</title>
     <link rel="alternate" href="http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me"/>
     <id>http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:17Z</updated>
     <author>
       <name>Greg Heo</name>
     </author>
@@ -57,14 +57,14 @@
     <title>Discovering Best Practices in Swift</title>
     <link rel="alternate" href="http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift"/>
     <id>http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:17Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>
     <content type="text/html">
         &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;ashfurrow&#x2F;discovering-best-practices-in-swift&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;ashfurrow&#x2F;discovering-best-practices-in-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
 &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;f3pd-qhVY40&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -77,14 +77,14 @@
     <title>Working with Binary Data in Swift</title>
     <link rel="alternate" href="http://www.skilled.io/jpsimard/working-with-binary-data-in-swift"/>
     <id>http://www.skilled.io/jpsimard/working-with-binary-data-in-swift</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:17Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
     <content type="text/html">
         &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;jpsimard&#x2F;working-with-binary-data-in-swift&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;jpsimard&#x2F;working-with-binary-data-in-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
 &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;kz6d-ES7WtE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -97,7 +97,7 @@
     <title>Open Sourcing Swift</title>
     <link rel="alternate" href="http://www.skilled.io/swiftsummit/open-sourcing-swift"/>
     <id>http://www.skilled.io/swiftsummit/open-sourcing-swift</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:17Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -113,7 +113,7 @@
     <content type="text/html">
         &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;swiftsummit&#x2F;open-sourcing-swift&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;swiftsummit&#x2F;open-sourcing-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
 &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;cmJcc3VAm3c&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;

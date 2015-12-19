@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/graham-lee"/>
   <link href="https://www.pomo.tv/speakers/graham-lee/feed.xml" rel="self"/>
-  <updated>2015-12-19T22:19:13Z</updated>
+  <updated>2015-12-19T22:24:18Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,13 +14,13 @@
     <title>*-Oriented Programming</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=j0uFAynIGt8"/>
     <id>https://www.youtube.com/watch?v=j0uFAynIGt8</id>
-    <updated>2015-12-19T22:19:13Z</updated>
+    <updated>2015-12-19T22:24:18Z</updated>
     <author>
       <name>Graham Lee</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;j0uFAynIGt8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -33,13 +33,13 @@
     <title>Object-Oriented Programming in Objective-C</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=_BbGxpiYFDg"/>
     <id>https://www.youtube.com/watch?v=_BbGxpiYFDg</id>
-    <updated>2015-12-19T22:19:13Z</updated>
+    <updated>2015-12-19T22:24:18Z</updated>
     <author>
       <name>Graham Lee</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;_BbGxpiYFDg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -52,7 +52,7 @@
     <title>End to End Testing at Facebook</title>
     <link rel="alternate" href="https://vimeo.com/111942748"/>
     <id>https://vimeo.com/111942748</id>
-    <updated>2015-12-19T22:19:13Z</updated>
+    <updated>2015-12-19T22:24:18Z</updated>
     <author>
       <name>Graham Lee</name>
     </author>

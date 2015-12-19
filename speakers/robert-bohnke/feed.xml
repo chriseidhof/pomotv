@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/robert-bohnke"/>
   <link href="https://www.pomo.tv/speakers/robert-bohnke/feed.xml" rel="self"/>
-  <updated>2015-12-19T22:19:12Z</updated>
+  <updated>2015-12-19T22:24:18Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,13 +14,13 @@
     <title>Animations Explained</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=51_QMii2kqQ"/>
     <id>https://www.youtube.com/watch?v=51_QMii2kqQ</id>
-    <updated>2015-12-19T22:19:12Z</updated>
+    <updated>2015-12-19T22:24:18Z</updated>
     <author>
       <name>Robert Böhnke</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;51_QMii2kqQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -33,7 +33,7 @@
     <title>How I Learned to Stop Worrying about State and Love ReactiveCocoa</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=YlsunWT87eo"/>
     <id>https://www.youtube.com/watch?v=YlsunWT87eo</id>
-    <updated>2015-12-19T22:19:12Z</updated>
+    <updated>2015-12-19T22:24:18Z</updated>
     <author>
       <name>Robert Böhnke</name>
     </author>

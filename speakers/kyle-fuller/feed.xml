@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/kyle-fuller"/>
   <link href="https://www.pomo.tv/speakers/kyle-fuller/feed.xml" rel="self"/>
-  <updated>2015-12-19T22:19:13Z</updated>
+  <updated>2015-12-19T22:24:18Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Swift Panel: Where do we go from here?</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-panel-community-where-do-we-go/"/>
     <id>https://realm.io/news/swift-summit-panel-community-where-do-we-go/</id>
-    <updated>2015-12-19T22:19:13Z</updated>
+    <updated>2015-12-19T22:24:18Z</updated>
     <author>
       <name>Abizer Nazir</name>
     </author>
@@ -36,7 +36,7 @@
     <content type="text/html">
         &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;swift-summit-panel-community-where-do-we-go&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;swift-summit-panel-community-where-do-we-go&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
 &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;faLLXWPqkqE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -49,14 +49,14 @@
     <title>Embracing Change with REST</title>
     <link rel="alternate" href="https://realm.io/news/kyle-fuller-embracing-change-with-rest/"/>
     <id>https://realm.io/news/kyle-fuller-embracing-change-with-rest/</id>
-    <updated>2015-12-19T22:19:13Z</updated>
+    <updated>2015-12-19T22:24:18Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>
     <content type="text/html">
         &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;kyle-fuller-embracing-change-with-rest&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;kyle-fuller-embracing-change-with-rest&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
 &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;kfoDeZIZr70&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -69,7 +69,7 @@
     <title>Practical Functional Programming in Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/kyle-fuller-practical-functional-programming-in-swift"/>
     <id>http://www.thedotpost.com/2015/02/kyle-fuller-practical-functional-programming-in-swift</id>
-    <updated>2015-12-19T22:19:13Z</updated>
+    <updated>2015-12-19T22:24:18Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>
@@ -91,7 +91,7 @@
     <title>ICYMI: Core Data</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=gqhVMXenLdg"/>
     <id>https://www.youtube.com/watch?v=gqhVMXenLdg</id>
-    <updated>2015-12-19T22:19:13Z</updated>
+    <updated>2015-12-19T22:24:18Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>

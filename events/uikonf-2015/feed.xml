@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//events/uikonf-2015"/>
   <link href="https://www.pomo.tv/events/uikonf-2015/feed.xml" rel="self"/>
-  <updated>2015-12-19T22:19:11Z</updated>
+  <updated>2015-12-19T22:24:16Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Monads are not Monsters</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=vg7cOF30Svo"/>
     <id>https://www.youtube.com/watch?v=vg7cOF30Svo</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Junior Bontognali</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Async View Controllers</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=xy-xqj3m_Tk"/>
     <id>https://www.youtube.com/watch?v=xy-xqj3m_Tk</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Tom Adriaenssen</name>
     </author>
@@ -54,7 +54,7 @@
     <title>Learning Swift Through Lessons in Haskell</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=46nJlZ3RT_I"/>
     <id>https://www.youtube.com/watch?v=46nJlZ3RT_I</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Joe Burgess</name>
     </author>
@@ -74,13 +74,13 @@
     <title>iOS at Spotify: From Plan to Done</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=DWw1ankfqO0"/>
     <id>https://www.youtube.com/watch?v=DWw1ankfqO0</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Hector Zarate</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;DWw1ankfqO0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -93,13 +93,13 @@
     <title>Teaching and Learning</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=SjjvnrqDjpM"/>
     <id>https://www.youtube.com/watch?v=SjjvnrqDjpM</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;SjjvnrqDjpM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -112,13 +112,13 @@
     <title>Software Architecture in iOS and OS X Applications</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=B5hGmXFHQS4"/>
     <id>https://www.youtube.com/watch?v=B5hGmXFHQS4</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Marcel Weiher</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;B5hGmXFHQS4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -131,13 +131,13 @@
     <title>Staters Gonna State</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=TfW0y7LLTpI"/>
     <id>https://www.youtube.com/watch?v=TfW0y7LLTpI</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Eli Perkins</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;TfW0y7LLTpI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -150,7 +150,7 @@
     <title>Functional View Controllers</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=uQFI9rDrl8s"/>
     <id>https://www.youtube.com/watch?v=uQFI9rDrl8s</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -170,13 +170,13 @@
     <title>A Journey into Design</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=gSnUt9ZfslM"/>
     <id>https://www.youtube.com/watch?v=gSnUt9ZfslM</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Maxim Cramer</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;gSnUt9ZfslM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -189,13 +189,13 @@
     <title>Object-Oriented Programming in Objective-C</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=_BbGxpiYFDg"/>
     <id>https://www.youtube.com/watch?v=_BbGxpiYFDg</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Graham Lee</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;_BbGxpiYFDg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -208,13 +208,13 @@
     <title>Duct-taping the gates of chaos shut: the weird, little, useful, su...</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=83fqt9MPHD8"/>
     <id>https://www.youtube.com/watch?v=83fqt9MPHD8</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Halle Winkler</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;83fqt9MPHD8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -227,13 +227,13 @@
     <title>Swift Thinking</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=4uPCVMfWY34"/>
     <id>https://www.youtube.com/watch?v=4uPCVMfWY34</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Natasha Murashev</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;4uPCVMfWY34&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -246,13 +246,13 @@
     <title>World Modelling</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=SDZkKvC8r40"/>
     <id>https://www.youtube.com/watch?v=SDZkKvC8r40</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Mike Lee</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;SDZkKvC8r40&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -265,7 +265,7 @@
     <title>Functional Reactive Programming without Black Magic - Build your own...</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=AcDaWe3S75c"/>
     <id>https://www.youtube.com/watch?v=AcDaWe3S75c</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Jens Ravens</name>
     </author>
@@ -285,13 +285,13 @@
     <title>Prototyping Touch Interfaces (and my open-source story)</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=O9HQqNjdxPM"/>
     <id>https://www.youtube.com/watch?v=O9HQqNjdxPM</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Saniul Ahmed</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;O9HQqNjdxPM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -304,13 +304,13 @@
     <title>iOS API Design: Swift Patterns</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=yu6KND7dJBA"/>
     <id>https://www.youtube.com/watch?v=yu6KND7dJBA</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Brian Gesiak</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;yu6KND7dJBA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -323,13 +323,13 @@
     <title>Practical WatchKit Development</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=T9h72hH9TWA"/>
     <id>https://www.youtube.com/watch?v=T9h72hH9TWA</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>Claus Höfele</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;T9h72hH9TWA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -342,13 +342,13 @@
     <title>Fixing the Swift Tooling Problem</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=flSMEw_Hxik"/>
     <id>https://www.youtube.com/watch?v=flSMEw_Hxik</id>
-    <updated>2015-12-19T22:19:11Z</updated>
+    <updated>2015-12-19T22:24:16Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;flSMEw_Hxik&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
