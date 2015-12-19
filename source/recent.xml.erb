@@ -1,35 +1,7 @@
 ---
-layout: false
-domain: www.pomo.tv
-url: https://www.pomo.tv/
+layout: atom
+name: Recently added videos
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title><%= current_page.data.domain %></title>
-  <subtitle>Recently added videos</subtitle>
-  <id><%= current_page.data.url %></id>
-  <link href="<%= current_page.data.url %>"/>
-  <link href="<%= current_page.data.url + current_page.path%>" rel="self"/>
-  <updated><%= Time.now.utc.iso8601 %></updated>
-  <author>
-    <name><%= current_page.data.domain %></name>
-  </author>
-
-  <% data.videos.values.flatten.reverse.take(25).each do |video| %>
-  <entry>
-    <title><%= video.title %></title>
-    <link rel="alternate" href="<%= video_url(video) %>"/>
-    <id><%= video_url(video) %></id>
-    <updated><%= Time.now.utc.iso8601 %></updated>
-    <% video.speakers.each do |speaker| %>
-    <author>
-      <name><%= speaker %></name>
-    </author>
-    <% end %>
-    <content type="text/html">
-      <%=h partial :video_content, :locals => { :video => video } %>
-    </content>
-  </entry>
-  <% end %>
-
-</feed>
+<% data.videos.values.flatten.reverse.take(25).each do |video| %>
+  <%= partial :video_entry, :locals => { :video => video } %>
+<% end %>

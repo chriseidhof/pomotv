@@ -58,6 +58,10 @@ helpers TagHelpers
 
 ignore 'lib/*'
 
+# Used in atom feeds that need a full URL, avoid using otherwise 
+set :site_url, 'https://www.pomo.tv/'
+set :site_name, 'www.pomo.tv'
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'

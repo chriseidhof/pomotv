@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><%= site_name %></title>
+  <subtitle><%= current_page.data.name || name %></subtitle>
+  <id><%= site_url %></id>
+  <link href="<%= site_url %>"/>
+  <link href="<%= site_url + current_page.path %>" rel="self"/>
+  <updated><%= Time.now.utc.iso8601 %></updated>
+  <author>
+    <name><%= site_name %></name>
+  </author>
+ 
+  <%= yield %>
+
+</feed>
