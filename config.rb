@@ -69,18 +69,22 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
 data.events.each do |name, metadata|
-  proxy "/events/#{metadata.slug}/index.html", "/event.html", :locals => { :name => name, :metadata => metadata , :videos => data.videos[name]}, :ignore => true
+  {'index.html': 'event.html', 'feed.xml': 'feed.xml'}.map do |page,template|
+    proxy "/events/#{metadata.slug}/#{page}", template, :locals => { :name => name, :metadata => metadata , :videos => data.videos[name]}, :ignore => true
+  end
 end
 
 data.speakers.each do |name, metadata|
   videos = data.videos.map { |k,v| [k,v.select { |video| video.speakers.include? name }] }.select { |k, v| v.count > 0 }
   proxy(speaker_page(name) + "/index.html", "/speaker.html", :locals => { :name => name, :speaker => metadata , :videos => videos}, :ignore => true)
+  proxy(speaker_page(name) + "/feed.xml", "feed.xml", :locals => { :name => name, :videos => videos.map { |c| c[1] }.flatten}, :ignore => true)
 end
 
 all_tags.each do |tag|
   videos = videos_for_tag(tag)
   slug = slug_for_tag(tag)
   proxy "/tags/#{slug}/index.html", "/tag.html", :locals => { :tag => tag, :videos => videos}, :ignore => true
+  proxy "/tags/#{slug}/feed.xml", "feed.xml", :locals => { :name => tag, :videos => videos.map { |c| c[1] }.flatten}, :ignore => true
 end
 
 # Build-specific configuration
