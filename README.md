@@ -1,6 +1,6 @@
-# iOS related videos indexed [![Build Status](https://travis-ci.org/chriseidhof/ios-videos.svg?branch=master)](https://travis-ci.org/chriseidhof/ios-videos)
+# iOS/Mac/Swift related videos indexed [![Build Status](https://travis-ci.org/chriseidhof/ios-videos.svg?branch=master)](https://travis-ci.org/chriseidhof/ios-videos)
 
-See the rendered site: http://www.uiko.de (temporary name, I had this domain name sitting around).
+See the rendered site: http://www.pomo.tv
 
 To run this:
 
@@ -11,7 +11,7 @@ PR's encouraged.
 
 To add videos for an event:
 
-- Add the videos to `data/videos.yml`. Let's keep this yml file sorted by date. Also look at `data/events.yml` and `data/speakers.yml` and add the missing information there. Here's an [example PR](https://github.com/chriseidhof/ios-videos/pull/12).
+- Add the videos to `data/videos.yml`. Let's keep this yml file sorted by date. Also look at `data/events.yml` and `data/speakers.yml` and add the missing information there. Here's an [example PR](https://github.com/chriseidhof/ios-videos/pull/12). Please take the time to add tags, this really helps for discovering new videos.
 
 You might also want to run `bundle exec rake lint_speakers` to verify that every speaker has a bio.
 
