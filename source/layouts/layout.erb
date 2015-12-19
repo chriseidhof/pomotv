@@ -11,8 +11,8 @@
     <!-- Use title if it's in the page YAML frontmatter -->
     <title><%= current_page.data.title || "pomo.tv" %></title>
 
-    <% if current_page.data.atom_feed %>
-    <link href="<%= current_page.data.atom_feed %>" type="application/atom+xml" rel="alternate" />
+    <% if current_page.data.atom_feed || current_page.metadata[:locals][:atom_feed] %>
+    <link href="<%= current_page.data.atom_feed || atom_feed %>" type="application/atom+xml" rel="alternate" />
     <% end %>
     
     <%= stylesheet_link_tag "normalize" %>

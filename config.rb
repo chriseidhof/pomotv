@@ -58,6 +58,10 @@ helpers TagHelpers
 
 ignore 'lib/*'
 
+# Used in atom feeds that need a full URL, avoid using otherwise 
+set :site_url, 'https://www.pomo.tv/'
+set :site_name, 'www.pomo.tv'
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
@@ -65,18 +69,34 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
 data.events.each do |name, metadata|
-  proxy "/events/#{metadata.slug}/index.html", "/event.html", :locals => { :name => name, :metadata => metadata , :videos => data.videos[name]}, :ignore => true
+  base_url = "/events/#{metadata.slug}"
+  html = "#{base_url}/index.html"
+  feed = "#{base_url}/feed.xml"
+
+  proxy html, "event.html", :locals => { :name => name, :metadata => metadata, :videos => data.videos[name], :atom_feed => feed}, :ignore => true
+  proxy feed, "feed.xml", :locals => { :name => name, :videos => data.videos[name], :html_page => base_url}, :ignore => true
 end
 
 data.speakers.each do |name, metadata|
+  base_url = speaker_page(name)
+  html = "#{base_url}/index.html"
+  feed = "#{base_url}/feed.xml"
+
   videos = data.videos.map { |k,v| [k,v.select { |video| video.speakers.include? name }] }.select { |k, v| v.count > 0 }
-  proxy(speaker_page(name) + "/index.html", "/speaker.html", :locals => { :name => name, :speaker => metadata , :videos => videos}, :ignore => true)
+
+  proxy html, "speaker.html", :locals => { :name => name, :speaker => metadata , :videos => videos, :atom_feed => feed}, :ignore => true
+  proxy feed, "feed.xml", :locals => { :name => name, :videos => videos.map { |c| c[1] }.flatten, :html_page => base_url}, :ignore => true
 end
 
 all_tags.each do |tag|
+  base_url = "/tags/#{slug_for_tag(tag)}"
+  html = "#{base_url}/index.html"
+  feed = "#{base_url}/feed.xml"
+
   videos = videos_for_tag(tag)
-  slug = slug_for_tag(tag)
-  proxy "/tags/#{slug}/index.html", "/tag.html", :locals => { :tag => tag, :videos => videos}, :ignore => true
+
+  proxy html, "tag.html", :locals => { :tag => tag, :videos => videos, :atom_feed => feed}, :ignore => true
+  proxy feed, "feed.xml", :locals => { :name => tag, :videos => videos.map { |c| c[1] }.flatten, :html_page => base_url}, :ignore => true
 end
 
 # Build-specific configuration

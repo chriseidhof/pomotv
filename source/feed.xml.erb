@@ -1,0 +1,6 @@
+---
+layout: atom
+---
+<% videos.reverse.each do |video| %>
+  <%= partial :video_entry, :locals => { :video => video } %>
+<% end %>
