@@ -1,13 +1,13 @@
 module VideoHelpers
   def video_url(video)
-    if video['direct-link']
+    if video.wwdc
+      "https://developer.apple.com/videos/play/#{video.wwdc}"
+    elsif video['direct-link']
       video['direct-link']
     elsif video.youtube
       "https://www.youtube.com/watch?v=#{video.youtube}"
     elsif video.vimeo
       "https://vimeo.com/#{video.vimeo}"
-    elsif video.wwdc
-      "https://developer.apple.com/videos/play/#{video.wwdc}"
     end
   end
 

@@ -11,8 +11,10 @@
     No tags yet. <a href="https://github.com/chriseidhof/ios-videos">Suggest tags</a>.
   <% end %>
 </p>
-<div class="video-content">
-  <p>
-  <%= embed_video video %>
-  </p>
-</div>
+<% if video.wwdc %>
+  <p><%= link_to "Watch on apple.com", video['direct-link'] %></p>
+<% else %>
+  <div class="video-content">
+    <p><%= embed_video video %></p>
+  </div>
+<% end %>
