@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>systemframeworks</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//tags/systemframeworks"/>
+  <link href="https://www.pomo.tv/tags/systemframeworks/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:18Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>What's New in Notifications</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-720"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-720</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Michele Campeotto</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;720xwbi9nl&#x2F;720&#x2F;720_whats_new_in_notifications.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;720xwbi9nl&#x2F;720&#x2F;720_whats_new_in_notifications.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-720&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Your App and Next Generation Networks</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-719"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-719</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Prabhakar Lakhera</name>
+    </author>
+    <author>
+      <name>Stuart Cheshire</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;719ui2k57m&#x2F;719&#x2F;719_your_app_and_next_generation_networks.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;719ui2k57m&#x2F;719&#x2F;719_your_app_and_next_generation_networks.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-719&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Building Responsive and Efficient Apps with GCD</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-718"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-718</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Anthony Chivetta</name>
+    </author>
+    <author>
+      <name>Daniel Steffen</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;718b7aw9tq&#x2F;718&#x2F;718_building_responsive_and_efficient_apps_with_gcd.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;718b7aw9tq&#x2F;718&#x2F;718_building_responsive_and_efficient_apps_with_gcd.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;gcd&quot;&gt;gcd&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-718&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Network Extension and VPN</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-717"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-717</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Jamie Wood</name>
+    </author>
+    <author>
+      <name>Tommy Pauly</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;717yq4y85w&#x2F;717&#x2F;717_whats_new_in_network_extension_and_vpn.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;717yq4y85w&#x2F;717&#x2F;717_whats_new_in_network_extension_and_vpn.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-717&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>CloudKit Tips and Tricks</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-715"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-715</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Nihar Sharma</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;7153rwmu2r&#x2F;715&#x2F;715_cloudkit_tips_and_tricks.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;7153rwmu2r&#x2F;715&#x2F;715_cloudkit_tips_and_tricks.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;cloudkit&quot;&gt;cloudkit&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-715&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Core Location</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-714"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-714</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Adam Driscoll</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;714tqy593v&#x2F;714&#x2F;714_whats_new_in_core_location.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;714tqy593v&#x2F;714&#x2F;714_whats_new_in_core_location.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;corelocation&quot;&gt;corelocation&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-714&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introducing Watch Connectivity</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-713"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-713</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Chris Jensen</name>
+    </author>
+    <author>
+      <name>Alexander Ledwith</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;713gc2tqvvb&#x2F;713&#x2F;713_introducing_watch_connectivity.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;713gc2tqvvb&#x2F;713&#x2F;713_introducing_watch_connectivity.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;watchos&quot;&gt;watchos&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-713&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Low Energy, High Performance: Compression and Accelerate</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-712"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-712</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Eric Bienville</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;7125ovmdf36&#x2F;712&#x2F;712_low_energy_high_performance_compression_and_accelerate.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;7125ovmdf36&#x2F;712&#x2F;712_low_energy_high_performance_compression_and_accelerate.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-712&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Networking with NSURLSession</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-711"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-711</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Luke Case</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;711y6zlz0ll&#x2F;711&#x2F;711_networking_with_nsurlsession.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;711y6zlz0ll&#x2F;711&#x2F;711_networking_with_nsurlsession.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;networking&quot;&gt;networking&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-711&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>CloudKit JS and Web Services</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-710"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-710</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Chris Edstrom</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;710jle9eakx&#x2F;710&#x2F;710_cloudkit_js_and_web_services.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;710jle9eakx&#x2F;710&#x2F;710_cloudkit_js_and_web_services.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;cloudkit&quot;&gt;cloudkit&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-710&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introducing App Search</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-709"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-709</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Vipul Prakash</name>
+    </author>
+    <author>
+      <name>Dave Salim</name>
+    </author>
+    <author>
+      <name>Jason Douglas</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-709&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Debugging Energy Issues</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-708"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-708</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Abhinav Pathak</name>
+    </author>
+    <author>
+      <name>Pai-Han Huang</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;708xzs0dtwx&#x2F;708&#x2F;708_debugging_energy_issues.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;708xzs0dtwx&#x2F;708&#x2F;708_debugging_energy_issues.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-708&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Achieving All-day Battery Life</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-707"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-707</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Jon Andrews</name>
+    </author>
+    <author>
+      <name>Soren Spies</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;707ysegpumy&#x2F;707&#x2F;707_achieving_allday_battery_life.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;707ysegpumy&#x2F;707&#x2F;707_achieving_allday_battery_life.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-707&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Security and Your Apps</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-706"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-706</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Ivan Krstic</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;706nu20qkag&#x2F;706&#x2F;706_security_and_your_apps.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;706nu20qkag&#x2F;706&#x2F;706_security_and_your_apps.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;security&quot;&gt;security&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-706&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Core Motion</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-705"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-705</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Anil Kandangath</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;705qrxhfxo0&#x2F;705&#x2F;705_whats_new_in_core_motion.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;705qrxhfxo0&#x2F;705&#x2F;705_whats_new_in_core_motion.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;coremotion&quot;&gt;coremotion&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-705&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in CloudKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-704"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-704</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Olivier Bonnet</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;704ci202euy&#x2F;704&#x2F;704_whats_new_in_cloudkit.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;704ci202euy&#x2F;704&#x2F;704_whats_new_in_cloudkit.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-704&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Privacy and Your App</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-703"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-703</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Katie Skinner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;703kp2dwbwkr&#x2F;703&#x2F;703_privacy_and_your_app.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;703kp2dwbwkr&#x2F;703&#x2F;703_privacy_and_your_app.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-703&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Apple Pay Within Apps</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-702"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-702</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Nick Shearer</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;702lp563ezbr&#x2F;702&#x2F;702_apple_pay_within_apps.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;702lp563ezbr&#x2F;702&#x2F;702_apple_pay_within_apps.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;applepay&quot;&gt;applepay&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-702&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Wallet - The home for Apple Pay and more</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-701"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-701</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Danvin Ruangchan</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;701i2qis0reg&#x2F;701&#x2F;701_wallet__the_home_for_apple_pay_and_more.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;701i2qis0reg&#x2F;701&#x2F;701_wallet__the_home_for_apple_pay_and_more.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;applepay&quot;&gt;applepay&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-701&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>uikit</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//tags/uikit"/>
+  <link href="https://www.pomo.tv/tags/uikit/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:18Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>What's New in UIKit Dynamics and Visual Effects</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-229"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-229</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Michael Turner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;229fksrj39nd&#x2F;229&#x2F;229_whats_new_in_uikit_dynamics_and_visual_effects.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;229fksrj39nd&#x2F;229&#x2F;229_whats_new_in_uikit_dynamics_and_visual_effects.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;uikit&quot;&gt;uikit&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-229&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>New UIKit Support for International User Interfaces</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-222"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-222</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Sara Radi</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;222ngkqh58b52&#x2F;222&#x2F;222_new_uikit_support_for_international_user_interfaces.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;222ngkqh58b52&#x2F;222&#x2F;222_new_uikit_support_for_international_user_interfaces.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;uikit&quot;&gt;uikit&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-222&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>How to bend UIKit to your will</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=psPNxC3G_hc"/>
+    <id>https://www.youtube.com/watch?v=psPNxC3G_hc</id>
+    <updated>2015-12-19T22:19:18Z</updated>
+    <author>
+      <name>Peter Steinberger</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;uikit&quot;&gt;uikit&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swizzling&quot;&gt;swizzling&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;low-level&quot;&gt;low level&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;runtime&quot;&gt;runtime&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;psPNxC3G_hc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

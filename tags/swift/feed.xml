@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Swift</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//tags/swift"/>
+  <link href="https://www.pomo.tv/tags/swift/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:16Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Lenses in Swift</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=ofjehH9f-CU"/>
+    <id>https://www.youtube.com/watch?v=ofjehH9f-CU</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Brandon Williams</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;playground&quot;&gt;playground&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;lenses&quot;&gt;lenses&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;ofjehH9f-CU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Exploring Apple Pay with Swift</title>
+    <link rel="alternate" href="http://www.skilled.io/wendylu/exploring-apple-pay-with-swift"/>
+    <id>http://www.skilled.io/wendylu/exploring-apple-pay-with-swift</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Wendy Lu</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;wendylu&#x2F;exploring-apple-pay-with-swift&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;wendylu&#x2F;exploring-apple-pay-with-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;apple-pay&quot;&gt;Apple Pay&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;Swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;uXLNSlTKADo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift in Practice</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-411"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-411</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Ted Kremenek</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;4119flfsnsgmlfy&#x2F;411&#x2F;411_swift_in_practice.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;4119flfsnsgmlfy&#x2F;411&#x2F;411_swift_in_practice.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-411&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Optimizing Swift Performance</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-409"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-409</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Nadav Rotem</name>
+    </author>
+    <author>
+      <name>Michael Gottesman</name>
+    </author>
+    <author>
+      <name>Joe Grzywacz</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;4097c25o0qhs6g5&#x2F;409&#x2F;409_optimizing_swift_performance.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;4097c25o0qhs6g5&#x2F;409&#x2F;409_optimizing_swift_performance.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-409&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Improving Your Existing Apps with Swift</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-403"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-403</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Woody Lidstone</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;403l7ohdidhmnkgx&#x2F;403&#x2F;403_improving_your_existing_apps_with_swift.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;403l7ohdidhmnkgx&#x2F;403&#x2F;403_improving_your_existing_apps_with_swift.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-403&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift and Objective-C Interoperability</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-401"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-401</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Jordan Rose</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;401gee20yy5v2men&#x2F;401&#x2F;401_swift_and_objectivec_interoperability.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;401gee20yy5v2men&#x2F;401&#x2F;401_swift_and_objectivec_interoperability.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-401&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Protocol-Oriented Programming in Swift</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-408"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-408</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Dave Abrahams</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;408509vyudbqvts&#x2F;408&#x2F;408_protocoloriented_programming_in_swift.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;408509vyudbqvts&#x2F;408&#x2F;408_protocoloriented_programming_in_swift.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;protocols&quot;&gt;protocols&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-408&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Swift</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-106"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-106</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Chris Lattner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;106z3yjwpfymnauri96m&#x2F;106&#x2F;106_whats_new_in_swift.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;106z3yjwpfymnauri96m&#x2F;106&#x2F;106_whats_new_in_swift.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-106&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Playgrounds Are for Kids</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=eUSvnQhKccQ"/>
+    <id>https://www.youtube.com/watch?v=eUSvnQhKccQ</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Daniel Steinberg</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;inspirational&quot;&gt;inspirational&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;playground&quot;&gt;playground&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;learning&quot;&gt;learning&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;eUSvnQhKccQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Think Swiftly</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2015/02/dimitri-dupuis-latour-think-swiftly"/>
+    <id>http://www.thedotpost.com/2015/02/dimitri-dupuis-latour-think-swiftly</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Dimitri Dupuis-Latour</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;dimitri-dupuis-latour-think-swiftly&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;dimitri-dupuis-latour-think-swiftly&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;DTAs_OVGWIs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introspecting Swift</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2015/02/jp-simard-introspecting-swift"/>
+    <id>http://www.thedotpost.com/2015/02/jp-simard-introspecting-swift</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>JP Simard</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;jp-simard-introspecting-swift&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;jp-simard-introspecting-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;YXZODVMLW1w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift in Production</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2015/02/ash-furrow-swift-in-production"/>
+    <id>http://www.thedotpost.com/2015/02/ash-furrow-swift-in-production</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Ash Furrow</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;ash-furrow-swift-in-production&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;ash-furrow-swift-in-production&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;oMn4sspgrkQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Practical Functional Programming in Swift</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2015/02/kyle-fuller-practical-functional-programming-in-swift"/>
+    <id>http://www.thedotpost.com/2015/02/kyle-fuller-practical-functional-programming-in-swift</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Kyle Fuller</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;kyle-fuller-practical-functional-programming-in-swift&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;kyle-fuller-practical-functional-programming-in-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;L4zlqhMuNKw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swiftly Building Better Apps</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2015/02/romain-huet-swiftly-building-better-apps"/>
+    <id>http://www.thedotpost.com/2015/02/romain-huet-swiftly-building-better-apps</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Romain Huet</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;romain-huet-swiftly-building-better-apps&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;romain-huet-swiftly-building-better-apps&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;t4ZnhOzod9A&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>The Ugly American Learns Swift</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2015/02/daniel-steinberg-the-ugly-american-learns-swift"/>
+    <id>http://www.thedotpost.com/2015/02/daniel-steinberg-the-ugly-american-learns-swift</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Daniel Steinberg</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;daniel-steinberg-the-ugly-american-learns-swift&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;daniel-steinberg-the-ugly-american-learns-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;BVFtrrXhApw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Static vs. Dynamic Linking</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2015/02/marius-rackwitz-static-vs-dynamic-linking"/>
+    <id>http://www.thedotpost.com/2015/02/marius-rackwitz-static-vs-dynamic-linking</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Marius Rackwitz</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;marius-rackwitz-static-vs-dynamic-linking&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;marius-rackwitz-static-vs-dynamic-linking&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;phb9gMV2Cn8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Switch to Swift?</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2015/02/corinne-kyrch-switch-to-swift"/>
+    <id>http://www.thedotpost.com/2015/02/corinne-kyrch-switch-to-swift</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Corinne Krych</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;corinne-kyrch-switch-to-swift&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;corinne-kyrch-switch-to-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;pEGHDRz-Nbw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Fun with Swift</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=KNJ_UPebGOQ"/>
+    <id>https://www.youtube.com/watch?v=KNJ_UPebGOQ</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Chris Eidhof</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;KNJ_UPebGOQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Functioning as a Functionalist</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=rJosPrqBqrA"/>
+    <id>https://www.youtube.com/watch?v=rJosPrqBqrA</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Andy Matuschak</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;value-types&quot;&gt;value types&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;rJosPrqBqrA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Functional Swift</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=vbMjd-Ms-_o"/>
+    <id>https://www.youtube.com/watch?v=vbMjd-Ms-_o</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Chris Eidhof</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;coreimage&quot;&gt;coreimage&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;vbMjd-Ms-_o&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Compiling Swift with Swift... and other bad ideas</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=F_fCLnMj89Y"/>
+    <id>https://www.youtube.com/watch?v=F_fCLnMj89Y</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Mitchell Allison</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;F_fCLnMj89Y&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Operators Overload</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=ZRzroz8Uyj4"/>
+    <id>https://www.youtube.com/watch?v=ZRzroz8Uyj4</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Francesco Frison</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;operators&quot;&gt;operators&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;ZRzroz8Uyj4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Laziness in Swift</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=1w2WEs0UjAA"/>
+    <id>https://www.youtube.com/watch?v=1w2WEs0UjAA</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Joachim Kurz</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;1w2WEs0UjAA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What the func?</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Yl21K64J7mw"/>
+    <id>https://www.youtube.com/watch?v=Yl21K64J7mw</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Daniel Steinberg</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;Yl21K64J7mw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift and C</title>
+    <link rel="alternate" href="https://vimeo.com/107707576"/>
+    <id>https://vimeo.com/107707576</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Mike Ash</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;107707576&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

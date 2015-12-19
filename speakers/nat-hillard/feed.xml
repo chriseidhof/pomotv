@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Nat Hillard</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/nat-hillard"/>
+  <link href="https://www.pomo.tv/speakers/nat-hillard/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:15Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>What's New in Internationalization</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-227"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-227</id>
+    <updated>2015-12-19T22:19:15Z</updated>
+    <author>
+      <name>Nat Hillard</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;227s0ti458qgg&#x2F;227&#x2F;227_whats_new_in_internationalization.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;227s0ti458qgg&#x2F;227&#x2F;227_whats_new_in_internationalization.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-227&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

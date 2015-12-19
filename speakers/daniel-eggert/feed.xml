@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Daniel Eggert</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/daniel-eggert"/>
+  <link href="https://www.pomo.tv/speakers/daniel-eggert/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:12Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Digging Deeper: Understanding HTTP</title>
+    <link rel="alternate" href="https://vimeo.com/146225571"/>
+    <id>https://vimeo.com/146225571</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>Daniel Eggert</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;http&quot;&gt;http&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;146225571&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Core Data for Fun and Profit</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=iaf3uBja77Y"/>
+    <id>https://www.youtube.com/watch?v=iaf3uBja77Y</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>Daniel Eggert</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-data&quot;&gt;core data&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;iaf3uBja77Y&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

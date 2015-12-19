@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>games</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//tags/games"/>
+  <link href="https://www.pomo.tv/tags/games/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:17Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Metal Performance Optimization Techniques</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-610"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-610</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Phil Bennett</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;610kn68riy9ms89m&#x2F;610&#x2F;610_metal_performance_optimization_techniques.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;610kn68riy9ms89m&#x2F;610&#x2F;610_metal_performance_optimization_techniques.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-610&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Deeper into GameplayKit with DemoBots</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-609"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-609</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Dave Addey</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;609pzlyunriyjupp&#x2F;609&#x2F;609_deeper_into_gameplaykit_with_demobots.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;609pzlyunriyjupp&#x2F;609&#x2F;609_deeper_into_gameplaykit_with_demobots.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-609&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introducing GameplayKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-608"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-608</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Bruno Sommer</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;608rpwq1ltvg5nmk&#x2F;608&#x2F;608_introducing_gameplaykit.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;608rpwq1ltvg5nmk&#x2F;608&#x2F;608_introducing_gameplaykit.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-608&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Metal, Part 2</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-607"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-607</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Dan Omachi</name>
+    </author>
+    <author>
+      <name>Anna Tikhonova</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;607g5z16fpl7pzgi&#x2F;607&#x2F;607_whats_new_in_metal_part_2.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;607g5z16fpl7pzgi&#x2F;607&#x2F;607_whats_new_in_metal_part_2.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-607&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Enhancements to SceneKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-606"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-606</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Thomas Goossens</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;606ui2ppsvalj4nn&#x2F;606&#x2F;606_enhancements_to_scenekit.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;606ui2ppsvalj4nn&#x2F;606&#x2F;606_enhancements_to_scenekit.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;scenekit&quot;&gt;scenekit&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-606&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Going Social with ReplayKit and Game Center</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-605"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-605</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Megan Gardner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;6053hq2fz0ebo0lm&#x2F;605&#x2F;605_going_social_with_replaykit_and_game_center.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;6053hq2fz0ebo0lm&#x2F;605&#x2F;605_going_social_with_replaykit_and_game_center.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;gamecenter&quot;&gt;gamecenter&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-605&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in SpriteKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-604"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-604</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Tim Oriol</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;604gq12qghmv39znb&#x2F;604&#x2F;604_whats_new_in_spritekit.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;604gq12qghmv39znb&#x2F;604&#x2F;604_whats_new_in_spritekit.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;sprikit&quot;&gt;sprikit&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-604&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Metal, Part 1</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-603"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-603</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Rav Dhiraj</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;6037pi9rxl6tfss8w&#x2F;603&#x2F;603_whats_new_in_metal_part_1.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;6037pi9rxl6tfss8w&#x2F;603&#x2F;603_whats_new_in_metal_part_1.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;metal&quot;&gt;metal&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-603&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Managing 3D Assets with Model I/O</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-602"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-602</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Nick Porcino</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;602868pb0ow6idb3w&#x2F;602&#x2F;602_managing_3d_assets_with_model_io.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;602868pb0ow6idb3w&#x2F;602&#x2F;602_managing_3d_assets_with_model_io.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-602&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Choose Your Character</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=L-zjV57tpnI"/>
+    <id>https://www.youtube.com/watch?v=L-zjV57tpnI</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Brianna Wu</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;3d&quot;&gt;3d&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;L-zjV57tpnI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

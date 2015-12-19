@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Ash Furrow</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/ash-furrow"/>
+  <link href="https://www.pomo.tv/speakers/ash-furrow/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:12Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Discovering Best Practices in Swift</title>
+    <link rel="alternate" href="http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift"/>
+    <id>http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>Ash Furrow</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;ashfurrow&#x2F;discovering-best-practices-in-swift&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;ashfurrow&#x2F;discovering-best-practices-in-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;f3pd-qhVY40&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Loosely Held Strong Convictions</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=hlLhtWLghGA"/>
+    <id>https://www.youtube.com/watch?v=hlLhtWLghGA</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>Ash Furrow</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;hlLhtWLghGA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Functional Reactive Awesomeness With Swift</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=6k5U_a00bhQ"/>
+    <id>https://www.youtube.com/watch?v=6k5U_a00bhQ</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>Ash Furrow</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frp&quot;&gt;frp&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-reactive-programming&quot;&gt;functional reactive programming&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;rxswift&quot;&gt;rxswift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;6k5U_a00bhQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Teaching and Learning</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=SjjvnrqDjpM"/>
+    <id>https://www.youtube.com/watch?v=SjjvnrqDjpM</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>Ash Furrow</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;SjjvnrqDjpM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift in Production</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2015/02/ash-furrow-swift-in-production"/>
+    <id>http://www.thedotpost.com/2015/02/ash-furrow-swift-in-production</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>Ash Furrow</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;ash-furrow-swift-in-production&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2015&#x2F;02&#x2F;ash-furrow-swift-in-production&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;oMn4sspgrkQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Reactive Cocoa 101</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=TlgUWYrQ0sc"/>
+    <id>https://www.youtube.com/watch?v=TlgUWYrQ0sc</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>Ash Furrow</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;TlgUWYrQ0sc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Krzysztof Zabłocki</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/krzysztof-zablocki"/>
+  <link href="https://www.pomo.tv/speakers/krzysztof-zablocki/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:13Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Stop recompiling</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=_IrYVOLPL1Y"/>
+    <id>https://www.youtube.com/watch?v=_IrYVOLPL1Y</id>
+    <updated>2015-12-19T22:19:13Z</updated>
+    <author>
+      <name>Krzysztof Zabłocki</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;_IrYVOLPL1Y&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Empower your Objective-C</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=cINmPrJzQeM"/>
+    <id>https://www.youtube.com/watch?v=cINmPrJzQeM</id>
+    <updated>2015-12-19T22:19:13Z</updated>
+    <author>
+      <name>Krzysztof Zabłocki</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;code-quality&quot;&gt;code quality&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;cINmPrJzQeM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Behaviours: a way to simplify your application code</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=QMVcIJz2sfg"/>
+    <id>https://www.youtube.com/watch?v=QMVcIJz2sfg</id>
+    <updated>2015-12-19T22:19:13Z</updated>
+    <author>
+      <name>Krzysztof Zabłocki</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;QMVcIJz2sfg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

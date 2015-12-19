@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>ios</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//tags/ios"/>
+  <link href="https://www.pomo.tv/tags/ios/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:17Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>What's New in Managing Apple Devices</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-301"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-301</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Todd Fernandez</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;301tcfp66f&#x2F;301&#x2F;301_whats_new_in_managing_apple_devices.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;301tcfp66f&#x2F;301&#x2F;301_whats_new_in_managing_apple_devices.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ios&quot;&gt;ios&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-301&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Think Audacious</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-112"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-112</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Debbie Sterling</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ios&quot;&gt;ios&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-112&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Optimizing Your App for Multitasking on iPad in iOS 9</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-212"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-212</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Brittany Paine</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;212mm5ra3oau66&#x2F;212&#x2F;212_optimizing_your_app_for_multitasking_on_ipad_in_ios_9.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;212mm5ra3oau66&#x2F;212&#x2F;212_optimizing_your_app_for_multitasking_on_ipad_in_ios_9.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ios&quot;&gt;ios&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-212&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Designing for Future Hardware</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-801"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-801</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Jeffrey Traer Bernstein</name>
+    </author>
+    <author>
+      <name>Matthaeus Krenn</name>
+    </author>
+    <author>
+      <name>Bill Lindmeier</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;801auxyvb1pgtkufjk&#x2F;801&#x2F;801_designing_for_future_hardware.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;801auxyvb1pgtkufjk&#x2F;801&#x2F;801_designing_for_future_hardware.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;prototype&quot;&gt;prototype&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;ios&quot;&gt;ios&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-801&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introducing Search APIs</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-709"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-709</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Vipul Prakash</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;709jcaer6su&#x2F;709&#x2F;709_introducing_search_apis.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;709jcaer6su&#x2F;709&#x2F;709_introducing_search_apis.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ios&quot;&gt;ios&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-709&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Platforms State of the Union</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-102"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-102</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Andreas Wendker</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;1026npwuy2crj2xyuq11&#x2F;102&#x2F;102_platforms_state_of_the_union.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;1026npwuy2crj2xyuq11&#x2F;102&#x2F;102_platforms_state_of_the_union.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ios&quot;&gt;ios&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;watchos&quot;&gt;watchos&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-102&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

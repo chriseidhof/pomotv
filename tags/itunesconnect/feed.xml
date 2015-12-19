@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>itunesconnect</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//tags/itunesconnect"/>
+  <link href="https://www.pomo.tv/tags/itunesconnect/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:17Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>iTunes Connect: Development to Distribution</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-304"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-304</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Paul Turner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;304ywrr62d&#x2F;304&#x2F;304_itunes_connect_development_to_distribution.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;304ywrr62d&#x2F;304&#x2F;304_itunes_connect_development_to_distribution.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;itunesconnect&quot;&gt;itunesconnect&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;analytics&quot;&gt;analytics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;distribution&quot;&gt;distribution&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-304&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in iTunes Connect</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-302"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-302</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Dave Van Tassell</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;302sxabxp0&#x2F;302&#x2F;302_whats_new_in_itunes_connect.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;302sxabxp0&#x2F;302&#x2F;302_whats_new_in_itunes_connect.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;itunesconnect&quot;&gt;itunesconnect&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-302&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

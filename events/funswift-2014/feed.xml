@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Functional Swift Conference 2014</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//events/funswift-2014"/>
+  <link href="https://www.pomo.tv/events/funswift-2014/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:10Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>The Functional Way</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=tohEJSq9gds"/>
+    <id>https://www.youtube.com/watch?v=tohEJSq9gds</id>
+    <updated>2015-12-19T22:19:10Z</updated>
+    <author>
+      <name>Natasha Murashev</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;tohEJSq9gds&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Functional Testing</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=-TOp5-uComQ"/>
+    <id>https://www.youtube.com/watch?v=-TOp5-uComQ</id>
+    <updated>2015-12-19T22:19:10Z</updated>
+    <author>
+      <name>Brian Gesiak</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;bananakit&quot;&gt;bananakit&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;testing&quot;&gt;testing&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;-TOp5-uComQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Enemy Of The State</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=7AqXBuJOJkY"/>
+    <id>https://www.youtube.com/watch?v=7AqXBuJOJkY</id>
+    <updated>2015-12-19T22:19:10Z</updated>
+    <author>
+      <name>Justin Spahr-Summers</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-reactive-programming&quot;&gt;functional reactive programming&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;7AqXBuJOJkY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Functioning as a Functionalist</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=rJosPrqBqrA"/>
+    <id>https://www.youtube.com/watch?v=rJosPrqBqrA</id>
+    <updated>2015-12-19T22:19:10Z</updated>
+    <author>
+      <name>Andy Matuschak</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;value-types&quot;&gt;value types&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;rJosPrqBqrA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Networking with Monads</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=LqwrUmuodyY"/>
+    <id>https://www.youtube.com/watch?v=LqwrUmuodyY</id>
+    <updated>2015-12-19T22:19:10Z</updated>
+    <author>
+      <name>John Gallagher</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;monads&quot;&gt;monads&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;networking&quot;&gt;networking&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;railway-oriented-programming&quot;&gt;railway oriented programming&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;LqwrUmuodyY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Functional Programming in a Playground</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=estNbh2TF3E"/>
+    <id>https://www.youtube.com/watch?v=estNbh2TF3E</id>
+    <updated>2015-12-19T22:19:10Z</updated>
+    <author>
+      <name>Brandon Williams</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;playground&quot;&gt;playground&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;category-theory&quot;&gt;category theory&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;estNbh2TF3E&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

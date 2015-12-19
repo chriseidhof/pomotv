@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Pai-Han Huang</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/pai-han-huang"/>
+  <link href="https://www.pomo.tv/speakers/pai-han-huang/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:16Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Debugging Energy Issues</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-708"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-708</id>
+    <updated>2015-12-19T22:19:16Z</updated>
+    <author>
+      <name>Abhinav Pathak</name>
+    </author>
+    <author>
+      <name>Pai-Han Huang</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;708xzs0dtwx&#x2F;708&#x2F;708_debugging_energy_issues.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;708xzs0dtwx&#x2F;708&#x2F;708_debugging_energy_issues.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-708&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

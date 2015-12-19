@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>developertools</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//tags/developertools"/>
+  <link href="https://www.pomo.tv/tags/developertools/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:17Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Building Better Apps with Value Types in Swift</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-414"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-414</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Doug Gregor</name>
+    </author>
+    <author>
+      <name>Bill Dudney</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;414sklk5h2k3ki3&#x2F;414&#x2F;414_building_better_apps_with_value_types_in_swift.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;414sklk5h2k3ki3&#x2F;414&#x2F;414_building_better_apps_with_value_types_in_swift.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-414&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced Debugging and the Address Sanitizer</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-413"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-413</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Mike Swingler</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;413eflf3lrh1tyo&#x2F;413&#x2F;413_advanced_debugging_and_the_address_sanitizer.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;413eflf3lrh1tyo&#x2F;413&#x2F;413_advanced_debugging_and_the_address_sanitizer.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;debugging&quot;&gt;debugging&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-413&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Profiling in Depth</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-412"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-412</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Kris Markel</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;412rhea5amj6iaf&#x2F;412&#x2F;412_profiling_in_depth.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;412rhea5amj6iaf&#x2F;412&#x2F;412_profiling_in_depth.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-412&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift in Practice</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-411"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-411</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Ted Kremenek</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;4119flfsnsgmlfy&#x2F;411&#x2F;411_swift_in_practice.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;4119flfsnsgmlfy&#x2F;411&#x2F;411_swift_in_practice.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-411&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Continuous Integration and Code Coverage in Xcode</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-410"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-410</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Matt Moriarity</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;41097fby32x3opk&#x2F;410&#x2F;410_continuous_integration_and_code_coverage_in_xcode.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;41097fby32x3opk&#x2F;410&#x2F;410_continuous_integration_and_code_coverage_in_xcode.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-410&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Optimizing Swift Performance</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-409"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-409</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Nadav Rotem</name>
+    </author>
+    <author>
+      <name>Michael Gottesman</name>
+    </author>
+    <author>
+      <name>Joe Grzywacz</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;4097c25o0qhs6g5&#x2F;409&#x2F;409_optimizing_swift_performance.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;4097c25o0qhs6g5&#x2F;409&#x2F;409_optimizing_swift_performance.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-409&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Implementing UI Designs in Interface Builder</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-407"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-407</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Kevin Cathey</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;4072909wwb9o9j3&#x2F;407&#x2F;407_implementing_ui_designs_in_interface_builder.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;4072909wwb9o9j3&#x2F;407&#x2F;407_implementing_ui_designs_in_interface_builder.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;interfacebuilder&quot;&gt;interfacebuilder&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-407&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>UI Testing in Xcode</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-406"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-406</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Wil Turner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;406o0doszwo8r15m&#x2F;406&#x2F;406_ui_testing_in_xcode.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;406o0doszwo8r15m&#x2F;406&#x2F;406_ui_testing_in_xcode.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;xcode&quot;&gt;xcode&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;testing&quot;&gt;testing&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;uitesting&quot;&gt;uitesting&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-406&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Authoring Rich Playgrounds</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-405"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-405</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Sam Page</name>
+    </author>
+    <author>
+      <name>Connor Wakamo</name>
+    </author>
+    <author>
+      <name>Matt Patenaude</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;405t69ymgwkmfzc9&#x2F;405&#x2F;405_authoring_rich_playgrounds.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;405t69ymgwkmfzc9&#x2F;405&#x2F;405_authoring_rich_playgrounds.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;playground&quot;&gt;playground&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-405&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>App Thinning in Xcode</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-404"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-404</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Anders Bertelrud</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;404l17yio30l549x&#x2F;404&#x2F;404_app_thinning_in_xcode.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;404l17yio30l549x&#x2F;404&#x2F;404_app_thinning_in_xcode.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;xcode&quot;&gt;xcode&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-404&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Improving Your Existing Apps with Swift</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-403"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-403</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Woody Lidstone</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;403l7ohdidhmnkgx&#x2F;403&#x2F;403_improving_your_existing_apps_with_swift.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;403l7ohdidhmnkgx&#x2F;403&#x2F;403_improving_your_existing_apps_with_swift.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-403&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in LLDB</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-402"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-402</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Kate Stone</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;402c0mhxbs8tt52t&#x2F;402&#x2F;402_whats_new_in_lldb.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;402c0mhxbs8tt52t&#x2F;402&#x2F;402_whats_new_in_lldb.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;lldb&quot;&gt;lldb&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-402&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift and Objective-C Interoperability</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-401"/>
+    <id>https://developer.apple.com/videos/play/wwdc2015-401</id>
+    <updated>2015-12-19T22:19:17Z</updated>
+    <author>
+      <name>Jordan Rose</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;401gee20yy5v2men&#x2F;401&#x2F;401_swift_and_objectivec_interoperability.pdf?dl=1&quot;&gt;http:&#x2F;&#x2F;devstreaming.apple.com&#x2F;videos&#x2F;wwdc&#x2F;2015&#x2F;401gee20yy5v2men&#x2F;401&#x2F;401_swift_and_objectivec_interoperability.pdf?dl=1&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-401&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

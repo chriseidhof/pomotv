@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Boris Bügling</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/boris-bugling"/>
+  <link href="https://www.pomo.tv/speakers/boris-bugling/feed.xml" rel="self"/>
+  <updated>2015-12-19T22:19:12Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Open Sourcing Swift</title>
+    <link rel="alternate" href="http://www.skilled.io/swiftsummit/open-sourcing-swift"/>
+    <id>http://www.skilled.io/swiftsummit/open-sourcing-swift</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>JP Simard</name>
+    </author>
+    <author>
+      <name>Thomas Visser</name>
+    </author>
+    <author>
+      <name>Boris Bügling</name>
+    </author>
+    <author>
+      <name>Veronica Ray</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;swiftsummit&#x2F;open-sourcing-swift&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;swiftsummit&#x2F;open-sourcing-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;cmJcc3VAm3c&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Bringing CocoaPods to Linux</title>
+    <link rel="alternate" href="https://vimeo.com/145642898"/>
+    <id>https://vimeo.com/145642898</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>Boris Bügling</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;cocoapods&quot;&gt;cocoapods&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;145642898&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift Panel: Where do we go from here?</title>
+    <link rel="alternate" href="https://realm.io/news/swift-summit-panel-community-where-do-we-go/"/>
+    <id>https://realm.io/news/swift-summit-panel-community-where-do-we-go/</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>Abizer Nazir</name>
+    </author>
+    <author>
+      <name>Boris Bügling</name>
+    </author>
+    <author>
+      <name>Gem Barrett</name>
+    </author>
+    <author>
+      <name>Jack Nutting</name>
+    </author>
+    <author>
+      <name>Kyle Fuller</name>
+    </author>
+    <author>
+      <name>Radek Pietruszewski</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;swift-summit-panel-community-where-do-we-go&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;swift-summit-panel-community-where-do-we-go&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;faLLXWPqkqE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift Funtime</title>
+    <link rel="alternate" href="https://realm.io/news/swift-summit-boris-bugling-runtime-funtime/"/>
+    <id>https://realm.io/news/swift-summit-boris-bugling-runtime-funtime/</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>Boris Bügling</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;swift-summit-boris-bugling-runtime-funtime&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;swift-summit-boris-bugling-runtime-funtime&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;runtime&quot;&gt;runtime&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;dDlEO53ZNTU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Extending Xcode</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=6LcflnBHyXs"/>
+    <id>https://www.youtube.com/watch?v=6LcflnBHyXs</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>Boris Bügling</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;ios-videos&quot;&gt;Suggest tags&lt;&#x2F;a&gt;.
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;6LcflnBHyXs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Objective-C funtime - know your runtime</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=vrEoUSuMu_c"/>
+    <id>https://www.youtube.com/watch?v=vrEoUSuMu_c</id>
+    <updated>2015-12-19T22:19:12Z</updated>
+    <author>
+      <name>Boris Bügling</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;runtime&quot;&gt;runtime&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;vrEoUSuMu_c&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>
