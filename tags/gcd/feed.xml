@@ -5,16 +5,37 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/gcd"/>
   <link href="https://www.pomo.tv/tags/gcd/feed.xml" rel="self"/>
-  <updated>2015-12-19T22:24:23Z</updated>
+  <updated>2015-12-20T15:59:45Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Grand Central Dispatch (GCD), How Yelp uses GCD</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=TGr5aefC92w"/>
+    <id>https://www.youtube.com/watch?v=TGr5aefC92w</id>
+    <updated>2015-12-20T15:59:45Z</updated>
+    <author>
+      <name>Ben Asher</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;gcd&quot;&gt;gcd&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;yelp&quot;&gt;yelp&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;TGr5aefC92w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Building Responsive and Efficient Apps with GCD</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-718"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-718</id>
-    <updated>2015-12-19T22:24:23Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Anthony Chivetta</name>
     </author>

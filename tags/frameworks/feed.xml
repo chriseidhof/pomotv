@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/frameworks"/>
   <link href="https://www.pomo.tv/tags/frameworks/feed.xml" rel="self"/>
-  <updated>2015-12-19T22:24:22Z</updated>
+  <updated>2015-12-20T15:59:45Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Seamless Linking to Your App</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-509"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-509</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Conrad Shultz</name>
     </author>
@@ -33,7 +33,7 @@
     <title>Introducing Safari View Controller</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-504"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-504</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Ricky Mondello</name>
     </author>
@@ -53,7 +53,7 @@
     <title>Building Document Based Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-234"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-234</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Mike Hess</name>
     </author>
@@ -72,7 +72,7 @@
     <title>Advanced Touch Input on iOS</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-233"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-233</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Peter Tsoi</name>
     </author>
@@ -91,7 +91,7 @@
     <title>Best Practices for Progress Reporting</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-232"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-232</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Vince Spader</name>
     </author>
@@ -110,7 +110,7 @@
     <title>Cocoa Touch Best Practices</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-231"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-231</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Luke Hiesterman</name>
     </author>
@@ -129,7 +129,7 @@
     <title>Performance on iOS and watchOS</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-230"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-230</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Ben Englert</name>
     </author>
@@ -149,7 +149,7 @@
     <title>What's New in UIKit Dynamics and Visual Effects</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-229"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-229</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Michael Turner</name>
     </author>
@@ -169,7 +169,7 @@
     <title>WatchKit Tips and Tricks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-228"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-228</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Jake Behrens</name>
     </author>
@@ -189,7 +189,7 @@
     <title>What's New in Internationalization</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-227"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-227</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Nat Hillard</name>
     </author>
@@ -208,7 +208,7 @@
     <title>Advanced NSOperations</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-226"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-226</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Philippe Hausler</name>
     </author>
@@ -228,7 +228,7 @@
     <title>What's New in NSCollectionView</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-225"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-225</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Troy Stephens</name>
     </author>
@@ -247,7 +247,7 @@
     <title>App Extension Best Practices</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-224"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-224</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Sophia Teutschler</name>
     </author>
@@ -267,7 +267,7 @@
     <title>Introducing the Contacts Framework for iOS and OS X</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-223"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-223</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Bruce Stadnyk</name>
     </author>
@@ -287,7 +287,7 @@
     <title>New UIKit Support for International User Interfaces</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-222"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-222</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Sara Radi</name>
     </author>
@@ -307,7 +307,7 @@
     <title>Improving the Full Screen Window Experience</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-221"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-221</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Corbin Dunn</name>
     </author>
@@ -326,7 +326,7 @@
     <title>What's New in Core Data</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-220"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-220</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Rishi Verma</name>
     </author>
@@ -346,7 +346,7 @@
     <title>Mysteries of Auto Layout, Part 2</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-219"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-219</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Jesse Donaldson</name>
     </author>
@@ -366,7 +366,7 @@
     <title>Mysteries of Auto Layout, Part 1</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-218"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-218</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Jason Yao</name>
     </author>
@@ -386,7 +386,7 @@
     <title>Adopting New Trackpad Features</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-217"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-217</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Raleigh Ledet</name>
     </author>
@@ -405,7 +405,7 @@
     <title>Layout and Animation Techniques for WatchKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-216"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-216</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Miguel Sanchez</name>
     </author>
@@ -425,7 +425,7 @@
     <title>What's New in Storyboards</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-215"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-215</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Kyle Sluder</name>
     </author>
@@ -445,7 +445,7 @@
     <title>Introducing On Demand Resources</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-214"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-214</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Steve Lewallen</name>
     </author>
@@ -464,7 +464,7 @@
     <title>Building Apps with ResearchKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-213"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-213</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>John Earl</name>
     </author>
@@ -484,7 +484,7 @@
     <title>Multitasking Essentials for Media-Based Apps on iPad in iOS 9</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-211"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-211</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Stefan Hafeneger</name>
     </author>
@@ -503,7 +503,7 @@
     <title>What's New in HomeKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-210"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-210</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Anush Nadathur</name>
     </author>
@@ -522,7 +522,7 @@
     <title>Creating Complications with ClockKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-209"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-209</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Eliza Block</name>
     </author>
@@ -544,7 +544,7 @@
     <title>WatchKit In-Depth, Part 2</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-208"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-208</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Nathan deVries</name>
     </author>
@@ -567,7 +567,7 @@
     <title>WatchKit In-Depth, Part 1</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-207"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-207</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Andrew Platzer</name>
     </author>
@@ -587,7 +587,7 @@
     <title>What's New in MapKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-206"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-206</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Sumit Lonkar</name>
     </author>
@@ -607,7 +607,7 @@
     <title>Getting Started with Multitasking on iPad in iOS 9</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-205"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-205</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Peter Hajas</name>
     </author>
@@ -627,7 +627,7 @@
     <title>Apple Watch Accessibility</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-204"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-204</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Qasid Sadiq</name>
     </author>
@@ -647,7 +647,7 @@
     <title>What's New in HealthKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-203"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-203</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Shannon Tan</name>
     </author>
@@ -667,7 +667,7 @@
     <title>What's New in Cocoa</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-202"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-202</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Ali Ozer</name>
     </author>
@@ -687,7 +687,7 @@
     <title>iOS Accessibility</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-201"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-201</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Ian Fisch</name>
     </author>
@@ -707,7 +707,7 @@
     <title>Optimizing Your App for Multitasking on iPad in iOS 9</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-212"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-212</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Brittany Paine</name>
     </author>

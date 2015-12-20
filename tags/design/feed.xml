@@ -5,16 +5,37 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/design"/>
   <link href="https://www.pomo.tv/tags/design/feed.xml" rel="self"/>
-  <updated>2015-12-19T22:24:22Z</updated>
+  <updated>2015-12-20T15:59:45Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Good UX and Design for Humans</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=nj7RLxEU98o"/>
+    <id>https://www.youtube.com/watch?v=nj7RLxEU98o</id>
+    <updated>2015-12-20T15:59:45Z</updated>
+    <author>
+      <name>Takemura Ori</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ux&quot;&gt;ux&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;design&quot;&gt;design&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;nj7RLxEU98o&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Apple Watch Design Tips and Tricks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-805"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-805</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Mike Stern</name>
     </author>
@@ -33,7 +54,7 @@
     <title>Designing with Animation</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-803"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-803</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Julian Missig</name>
     </author>
@@ -58,7 +79,7 @@
     <title>Designing for Humans</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=HL38kUwrpoM"/>
     <id>https://www.youtube.com/watch?v=HL38kUwrpoM</id>
-    <updated>2015-12-19T22:24:22Z</updated>
+    <updated>2015-12-20T15:59:45Z</updated>
     <author>
       <name>Dave Wiskus</name>
     </author>
