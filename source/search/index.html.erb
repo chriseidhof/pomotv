@@ -2,7 +2,7 @@
 title: Search
 ---
 
-<h2>Search results</h2>
+<h1 class="content-subhead">Search results for “<span id='query'></span>”</h2>
 <div>
   <ol id='results'>
   </ol>
@@ -37,12 +37,12 @@ function search(query) {
   });
 }  
 
-initialize(function() {
-   // strip "?q="
-   var query = document.location.search.substring(3);
+// strip "?q="
+var query = document.location.search.substring(3);
 
-   if (query.length > 0) {
-       search(query);
-   }
+document.getElementById("query").appendChild(document.createTextNode(query));
+
+initialize(function() {
+   search(query);
 })
 </script>

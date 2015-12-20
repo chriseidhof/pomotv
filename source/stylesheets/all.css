@@ -62,12 +62,12 @@ input {
     display: inline-block;
     *display: inline;
     zoom: 1;
+    margin-top: 0.85em;
 }
 .nav-item a {
     background: transparent;
     border: 2px solid rgb(176, 202, 219);
     color: #fff;
-    margin-top: 1em;
     letter-spacing: 0.05em;
     text-transform: uppercase;
     font-size: 85%;
