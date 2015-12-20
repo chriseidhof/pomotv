@@ -24,17 +24,27 @@ function initialize(callback) {
   r.send();
 }
 
-function search(query) {
+function append_result(title, url) {
   var results_element = document.getElementById('results')
+  var item = document.createElement("li");
+  var link = document.createElement("a");
+  link.textContent = title;
+  link.setAttribute("href", url);
+  item.appendChild(link);
+  results_element.appendChild(item);
+}
+
+function search(query) {
   var result = lunrIndex.search(query);
   var docs = result.map(function(item) {
       return lunrData.docs[item["ref"]]
   });
   docs.forEach(function(doc) {
-      var result = document.createElement("li");
-      result.innerHTML = "<a href='" + doc["url"] + "'>" + doc["search_title"] + "</a>"
-      results_element.appendChild(result);
+      append_result(doc["search_title"], doc["url"])
   });
+  if (docs.length == 0) {
+    
+  }
 }  
 
 // strip "?q="
