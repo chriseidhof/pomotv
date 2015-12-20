@@ -7,6 +7,7 @@ title: Search
   <ol id='results'>
   </ol>
 </div>
+<div id="state" class="busy"></div>
 
 <script type='text/javascript'>
 var lunrIndex = null;
@@ -25,7 +26,7 @@ function initialize(callback) {
 }
 
 function append_result(title, url) {
-  var results_element = document.getElementById('results')
+  var results_element = document.getElementById("results")
   var item = document.createElement("li");
   var link = document.createElement("a");
   link.textContent = title;
@@ -35,15 +36,17 @@ function append_result(title, url) {
 }
 
 function search(query) {
+  var state = document.getElementById("state")
   var result = lunrIndex.search(query);
   var docs = result.map(function(item) {
       return lunrData.docs[item["ref"]]
   });
+  state.classList.remove("busy");
   docs.forEach(function(doc) {
       append_result(doc["search_title"], doc["url"])
   });
   if (docs.length == 0) {
-    
+      state.textContent = "No results."
   }
 }  
 

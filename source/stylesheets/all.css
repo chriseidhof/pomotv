@@ -191,3 +191,43 @@ input {
         bottom: 0;
     }
 }
+
+/* BUSY/LOADING INDICATOR */
+
+.busy {
+	position: relative;
+    width: 20px;
+    height: 20px;
+}
+.busy:before, .busy:after  {
+	content:'';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	border: 1px grey solid;
+	border-radius: 50%;
+}
+.busy:before {
+	animation: busyBefore 0.75s infinite ease-in-out alternate;
+}
+@keyframes busyBefore {
+	from { 
+        transform: scale(1,1); 
+    }
+	to { 
+        transform: scale(0.75,0.75); 
+    }
+}
+.busy:after {
+	animation: busyAfter 1.5s infinite ease-out;
+}
+@keyframes busyAfter {
+	from { 
+        transform: scale(1,1); 
+        opacity: 1; 
+    }
+	to { 
+        transform: scale(1.5,1.5); 
+        opacity: 0; 
+    }
+}
