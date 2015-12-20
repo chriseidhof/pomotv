@@ -1200,7 +1200,7 @@ WWDC 2015:
   - language: English
     speakers: [Trystan Kosmynka]
     title: Getting the Most out of App Analytics
-    tags: [Analytics]
+    tags: [analytics]
     wwdc: "wwdc2015-303"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/303qzm09e7/303/303_getting_the_most_out_of_app_analytics.pdf?dl=1"
   - language: English
@@ -1912,6 +1912,57 @@ NSSpain 2015:
     title: Library-Oriented Programming
     tags: []
     youtube: lqNUTW0F4bw
+iOS Conf Singapore:
+  - language: English
+    speakers: [Javier Soto]
+    title: Swift Sync and Async Error Handling
+    tags: [sync, async, error handling]
+    youtube: mbd6g7NfR-8
+  - language: English
+    speakers: [Bogo Giertler]
+    title: Maintaining Sanity and Code
+    tags: []
+    youtube: nlhHiyNu1LU
+  - language: English
+    speakers: [Fahim Farook]
+    title: An Exploration of Debugging Techniques and Tools
+    tags: [debugging]
+    youtube: qU2AYfnDdxk
+  - language: English
+    speakers: [Roshni Mahtani]
+    title: Making it Count
+    tags: []
+    youtube: 0T0FJJ6Mo0E
+  - language: English
+    speakers: [Mugunth Kumar]
+    title: tvOS Platform and APIs
+    tags: [tvos]
+    youtube: VfKvFBp91pA
+  - language: English
+    speakers: [Justin Lee]
+    title: Building Smarter Applications Using Cognitive Computing
+    tags: [cognitive computing]
+    youtube: KVPw3LfM1t4
+  - language: English
+    speakers: [Takemura Ori]
+    title: Good UX and Design for Humans
+    tags: [ux, design]
+    youtube: nj7RLxEU98o
+  - language: English
+    speakers: [Ben Asher]
+    title: Grand Central Dispatch (GCD), How Yelp uses GCD
+    tags: [gcd, yelp]
+    youtube: TGr5aefC92w
+  - language: English
+    speakers: [Stan Chang]
+    title: Tooling in Swift - Xcode Integration & CI
+    tags: [integration, ci, swift]
+    youtube: LvV1W3BcB0o
+  - language: English
+    speakers: [Alan Wong]
+    title: Building an Invisible App
+    tags: []
+    youtube: J0d97U8pKwI
 Swift Summit San Francisco 2015:
   - language: English
     speakers: [JP Simard, Thomas Visser, Boris Bügling, Veronica Ray]
@@ -1940,7 +1991,7 @@ Swift Summit San Francisco 2015:
   - language: English
     speakers: [Wendy Lu]
     title: Exploring Apple Pay with Swift
-    tags: [Apple Pay, Swift]
+    tags: [apple pay, swift]
     youtube: uXLNSlTKADo
     direct-link: "http://www.skilled.io/wendylu/exploring-apple-pay-with-swift"
 Functional Swift Conference 2015:
