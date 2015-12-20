@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/abizer-nasir"/>
   <link href="https://www.pomo.tv/speakers/abizer-nasir/feed.xml" rel="self"/>
-  <updated>2015-12-20T15:59:41Z</updated>
+  <updated>2015-12-20T19:43:46Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>What Haskell Taught Me About Writing Swift</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/"/>
     <id>https://realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/</id>
-    <updated>2015-12-20T15:59:41Z</updated>
+    <updated>2015-12-20T19:43:46Z</updated>
     <author>
       <name>Abizer Nasir</name>
     </author>
@@ -26,6 +26,41 @@
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;paDHfVRpyCg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift Panel: Where do we go from here?</title>
+    <link rel="alternate" href="https://realm.io/news/swift-summit-panel-community-where-do-we-go/"/>
+    <id>https://realm.io/news/swift-summit-panel-community-where-do-we-go/</id>
+    <updated>2015-12-20T19:43:46Z</updated>
+    <author>
+      <name>Abizer Nasir</name>
+    </author>
+    <author>
+      <name>Boris Bügling</name>
+    </author>
+    <author>
+      <name>Gem Barrett</name>
+    </author>
+    <author>
+      <name>Jack Nutting</name>
+    </author>
+    <author>
+      <name>Kyle Fuller</name>
+    </author>
+    <author>
+      <name>Radek Pietruszewski</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;swift-summit-panel-community-where-do-we-go&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;swift-summit-panel-community-where-do-we-go&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;faLLXWPqkqE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
