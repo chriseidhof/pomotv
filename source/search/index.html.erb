@@ -1,0 +1,48 @@
+---
+title: Search
+---
+
+<h2>Search results</h2>
+<div>
+  <ol id='results'>
+  </ol>
+</div>
+
+<script type='text/javascript'>
+var lunrIndex = null;
+var lunrData  = null;
+
+function initialize(callback) {
+  var r = new XMLHttpRequest();
+  r.open("GET", "<%= search_index_path %>", true);
+  r.onreadystatechange = function () {
+    if (r.readyState != 4 || r.status != 200) return;
+    lunrData = JSON.parse(r.responseText)
+    lunrIndex = lunr.Index.load(lunrData.index);
+    callback()
+  };
+  r.send();
+}
+
+function search(query) {
+  var results_element = document.getElementById('results')
+  var result = lunrIndex.search(query);
+  var docs = result.map(function(item) {
+      return lunrData.docs[item["ref"]]
+  });
+  docs.forEach(function(doc) {
+      var result = document.createElement("li");
+      result.innerHTML = "<a href='" + doc["url"] + "'>" + doc["search_title"] + "</a>"
+      results_element.appendChild(result);
+  });
+}  
+
+initialize(function() {
+   // strip "?q="
+   var query = document.location.search.substring(3);
+
+   if (query.length > 0) {
+       search(query);
+   }
+})
+</script>
