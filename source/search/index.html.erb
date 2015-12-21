@@ -1,0 +1,61 @@
+---
+title: Search
+---
+
+<h1 class="content-subhead">Search results for “<span id='query'></span>”</h2>
+<div>
+  <ol id='results'>
+  </ol>
+</div>
+<div id="state" class="busy"></div>
+
+<script type='text/javascript'>
+var lunrIndex = null;
+var lunrData  = null;
+
+function initialize(callback) {
+  var r = new XMLHttpRequest();
+  r.open("GET", "<%= search_index_path %>", true);
+  r.onreadystatechange = function () {
+    if (r.readyState != 4 || r.status != 200) return;
+    lunrData = JSON.parse(r.responseText)
+    lunrIndex = lunr.Index.load(lunrData.index);
+    callback()
+  };
+  r.send();
+}
+
+function append_result(title, url) {
+  var results_element = document.getElementById("results")
+  var item = document.createElement("li");
+  var link = document.createElement("a");
+  link.textContent = title;
+  link.setAttribute("href", url);
+  item.appendChild(link);
+  results_element.appendChild(item);
+}
+
+function search(query) {
+  var state = document.getElementById("state")
+  var result = lunrIndex.search(query);
+  var docs = result.map(function(item) {
+      return lunrData.docs[item["ref"]]
+  });
+  state.classList.remove("busy");
+  docs.forEach(function(doc) {
+      append_result(doc["search_title"], doc["url"])
+  });
+  if (docs.length == 0) {
+      state.textContent = "No results."
+  }
+}  
+
+// strip "?q="
+var query = document.location.search.substring(3);
+
+document.getElementById("query").appendChild(document.createTextNode(query));
+
+initialize(function() {
+   search(query);
+})
+</script>

@@ -22,3 +22,6 @@ gem 'dotenv'
 
 # YouTube API
 gem 'yt'
+
+# Search with lunr.js
+gem 'middleman-search'
