@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//events/ios-conf-sg"/>
   <link href="https://www.pomo.tv/events/ios-conf-sg/feed.xml" rel="self"/>
-  <updated>2015-12-20T19:43:44Z</updated>
+  <updated>2015-12-21T11:11:39Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Building an Invisible App</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=J0d97U8pKwI"/>
     <id>https://www.youtube.com/watch?v=J0d97U8pKwI</id>
-    <updated>2015-12-20T19:43:44Z</updated>
+    <updated>2015-12-21T11:11:39Z</updated>
     <author>
       <name>Alan Wong</name>
     </author>
@@ -33,7 +33,7 @@
     <title>Tooling in Swift - Xcode Integration & CI</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=LvV1W3BcB0o"/>
     <id>https://www.youtube.com/watch?v=LvV1W3BcB0o</id>
-    <updated>2015-12-20T19:43:44Z</updated>
+    <updated>2015-12-21T11:11:39Z</updated>
     <author>
       <name>Stan Chang</name>
     </author>
@@ -55,7 +55,7 @@
     <title>Grand Central Dispatch (GCD), How Yelp uses GCD</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=TGr5aefC92w"/>
     <id>https://www.youtube.com/watch?v=TGr5aefC92w</id>
-    <updated>2015-12-20T19:43:44Z</updated>
+    <updated>2015-12-21T11:11:39Z</updated>
     <author>
       <name>Ben Asher</name>
     </author>
@@ -76,7 +76,7 @@
     <title>Good UX and Design for Humans</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=nj7RLxEU98o"/>
     <id>https://www.youtube.com/watch?v=nj7RLxEU98o</id>
-    <updated>2015-12-20T19:43:44Z</updated>
+    <updated>2015-12-21T11:11:39Z</updated>
     <author>
       <name>Takemura Ori</name>
     </author>
@@ -97,7 +97,7 @@
     <title>Building Smarter Applications Using Cognitive Computing</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=KVPw3LfM1t4"/>
     <id>https://www.youtube.com/watch?v=KVPw3LfM1t4</id>
-    <updated>2015-12-20T19:43:44Z</updated>
+    <updated>2015-12-21T11:11:39Z</updated>
     <author>
       <name>Justin Lee</name>
     </author>
@@ -117,7 +117,7 @@
     <title>tvOS Platform and APIs</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=VfKvFBp91pA"/>
     <id>https://www.youtube.com/watch?v=VfKvFBp91pA</id>
-    <updated>2015-12-20T19:43:44Z</updated>
+    <updated>2015-12-21T11:11:39Z</updated>
     <author>
       <name>Mugunth Kumar</name>
     </author>
@@ -137,7 +137,7 @@
     <title>Making it Count</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=0T0FJJ6Mo0E"/>
     <id>https://www.youtube.com/watch?v=0T0FJJ6Mo0E</id>
-    <updated>2015-12-20T19:43:44Z</updated>
+    <updated>2015-12-21T11:11:39Z</updated>
     <author>
       <name>Roshni Mahtani</name>
     </author>
@@ -156,7 +156,7 @@
     <title>An Exploration of Debugging Techniques and Tools</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=qU2AYfnDdxk"/>
     <id>https://www.youtube.com/watch?v=qU2AYfnDdxk</id>
-    <updated>2015-12-20T19:43:44Z</updated>
+    <updated>2015-12-21T11:11:39Z</updated>
     <author>
       <name>Fahim Farook</name>
     </author>
@@ -176,7 +176,7 @@
     <title>Maintaining Sanity and Code</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=nlhHiyNu1LU"/>
     <id>https://www.youtube.com/watch?v=nlhHiyNu1LU</id>
-    <updated>2015-12-20T19:43:44Z</updated>
+    <updated>2015-12-21T11:11:39Z</updated>
     <author>
       <name>Bogo Giertler</name>
     </author>
@@ -195,7 +195,7 @@
     <title>Swift Sync and Async Error Handling</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=mbd6g7NfR-8"/>
     <id>https://www.youtube.com/watch?v=mbd6g7NfR-8</id>
-    <updated>2015-12-20T19:43:44Z</updated>
+    <updated>2015-12-21T11:11:39Z</updated>
     <author>
       <name>Javier Soto</name>
     </author>
