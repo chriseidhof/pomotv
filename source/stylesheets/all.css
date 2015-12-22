@@ -232,6 +232,23 @@ input {
     }
 }
 
+/* SEARCH */
+
+.search-container {
+    width:100%;
+}
+
+.search-input {
+    color: #666;
+    font-size: 2em;
+    width:100%;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid #999;
+    margin-bottom: 20px;
+}
+
 /* SEARCH RESULTS */
 
 #results {
@@ -247,3 +264,5 @@ input {
 #results li a {
   padding-left: 0.5em;
 }
+
+
