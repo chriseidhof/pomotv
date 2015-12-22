@@ -8,7 +8,7 @@ gem "middleman", "~>3.3.12"
 gem "middleman-livereload", "~> 3.1.0"
 
 # Publish to github pages
-gem 'middleman-gh-pages'
+gem 'middleman-gh-pages', :git => "https://github.com/orta/middleman-gh-pages.git"
 gem 'middleman-blog'
 
 # For faster file watcher updates on Windows:
