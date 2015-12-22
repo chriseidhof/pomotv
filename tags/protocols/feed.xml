@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/protocols"/>
   <link href="https://www.pomo.tv/tags/protocols/feed.xml" rel="self"/>
-  <updated>2015-12-21T11:11:47Z</updated>
+  <updated>2015-12-22T10:15:23Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Protocols with Associated Types</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=XWoNjiSPqI8"/>
     <id>https://www.youtube.com/watch?v=XWoNjiSPqI8</id>
-    <updated>2015-12-21T11:11:47Z</updated>
+    <updated>2015-12-22T10:15:23Z</updated>
     <author>
       <name>Alexis Gallagher</name>
     </author>
@@ -36,7 +36,7 @@
     <title>What the 55 Swift Standard Library Protocols Taught Me</title>
     <link rel="alternate" href="http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me"/>
     <id>http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me</id>
-    <updated>2015-12-21T11:11:47Z</updated>
+    <updated>2015-12-22T10:15:23Z</updated>
     <author>
       <name>Greg Heo</name>
     </author>
@@ -57,7 +57,7 @@
     <title>Protocol-Oriented Programming in Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-408"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-408</id>
-    <updated>2015-12-21T11:11:47Z</updated>
+    <updated>2015-12-22T10:15:23Z</updated>
     <author>
       <name>Dave Abrahams</name>
     </author>

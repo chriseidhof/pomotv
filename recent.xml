@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv/"/>
   <link href="https://www.pomo.tv/recent.xml" rel="self"/>
-  <updated>2015-12-21T11:11:37Z</updated>
+  <updated>2015-12-22T10:15:11Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Structure and Interpretation of Swift Programs</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=V-YvI83QdMs"/>
     <id>https://www.youtube.com/watch?v=V-YvI83QdMs</id>
-    <updated>2015-12-21T11:11:36Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Colin Barrett</name>
     </author>
@@ -33,7 +33,7 @@
     <title>Functional View Controllers</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sP156LW5BVs"/>
     <id>https://www.youtube.com/watch?v=sP156LW5BVs</id>
-    <updated>2015-12-21T11:11:36Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -55,7 +55,7 @@
     <title>Lenses in Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ofjehH9f-CU"/>
     <id>https://www.youtube.com/watch?v=ofjehH9f-CU</id>
-    <updated>2015-12-21T11:11:36Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Brandon Williams</name>
     </author>
@@ -78,7 +78,7 @@
     <title>Result Driven Development</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=aCm68xAWrno"/>
     <id>https://www.youtube.com/watch?v=aCm68xAWrno</id>
-    <updated>2015-12-21T11:11:36Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Brian Partridge</name>
     </author>
@@ -101,7 +101,7 @@
     <title>Protocols with Associated Types</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=XWoNjiSPqI8"/>
     <id>https://www.youtube.com/watch?v=XWoNjiSPqI8</id>
-    <updated>2015-12-21T11:11:36Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Alexis Gallagher</name>
     </author>
@@ -123,7 +123,7 @@
     <title>Functional Thinking</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=hHeideOmLs4"/>
     <id>https://www.youtube.com/watch?v=hHeideOmLs4</id>
-    <updated>2015-12-21T11:11:36Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Agnes Vasarhelyi</name>
     </author>
@@ -143,7 +143,7 @@
     <title>You Used To Inject Me In Your Constructor</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=2--pYf1T6Xc"/>
     <id>https://www.youtube.com/watch?v=2--pYf1T6Xc</id>
-    <updated>2015-12-21T11:11:36Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Veronica Ray</name>
     </author>
@@ -163,7 +163,7 @@
     <title>Exploring Apple Pay with Swift</title>
     <link rel="alternate" href="http://www.skilled.io/wendylu/exploring-apple-pay-with-swift"/>
     <id>http://www.skilled.io/wendylu/exploring-apple-pay-with-swift</id>
-    <updated>2015-12-21T11:11:36Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Wendy Lu</name>
     </author>
@@ -185,7 +185,7 @@
     <title>What the 55 Swift Standard Library Protocols Taught Me</title>
     <link rel="alternate" href="http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me"/>
     <id>http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Greg Heo</name>
     </author>
@@ -206,7 +206,7 @@
     <title>Discovering Best Practices in Swift</title>
     <link rel="alternate" href="http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift"/>
     <id>http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>
@@ -226,7 +226,7 @@
     <title>Working with Binary Data in Swift</title>
     <link rel="alternate" href="http://www.skilled.io/jpsimard/working-with-binary-data-in-swift"/>
     <id>http://www.skilled.io/jpsimard/working-with-binary-data-in-swift</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -246,7 +246,7 @@
     <title>Open Sourcing Swift</title>
     <link rel="alternate" href="http://www.skilled.io/swiftsummit/open-sourcing-swift"/>
     <id>http://www.skilled.io/swiftsummit/open-sourcing-swift</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -275,7 +275,7 @@
     <title>Building an Invisible App</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=J0d97U8pKwI"/>
     <id>https://www.youtube.com/watch?v=J0d97U8pKwI</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Alan Wong</name>
     </author>
@@ -294,7 +294,7 @@
     <title>Tooling in Swift - Xcode Integration & CI</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=LvV1W3BcB0o"/>
     <id>https://www.youtube.com/watch?v=LvV1W3BcB0o</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Stan Chang</name>
     </author>
@@ -316,7 +316,7 @@
     <title>Grand Central Dispatch (GCD), How Yelp uses GCD</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=TGr5aefC92w"/>
     <id>https://www.youtube.com/watch?v=TGr5aefC92w</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Ben Asher</name>
     </author>
@@ -337,7 +337,7 @@
     <title>Good UX and Design for Humans</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=nj7RLxEU98o"/>
     <id>https://www.youtube.com/watch?v=nj7RLxEU98o</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Takemura Ori</name>
     </author>
@@ -358,7 +358,7 @@
     <title>Building Smarter Applications Using Cognitive Computing</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=KVPw3LfM1t4"/>
     <id>https://www.youtube.com/watch?v=KVPw3LfM1t4</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Justin Lee</name>
     </author>
@@ -378,7 +378,7 @@
     <title>tvOS Platform and APIs</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=VfKvFBp91pA"/>
     <id>https://www.youtube.com/watch?v=VfKvFBp91pA</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Mugunth Kumar</name>
     </author>
@@ -398,7 +398,7 @@
     <title>Making it Count</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=0T0FJJ6Mo0E"/>
     <id>https://www.youtube.com/watch?v=0T0FJJ6Mo0E</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Roshni Mahtani</name>
     </author>
@@ -417,7 +417,7 @@
     <title>An Exploration of Debugging Techniques and Tools</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=qU2AYfnDdxk"/>
     <id>https://www.youtube.com/watch?v=qU2AYfnDdxk</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Fahim Farook</name>
     </author>
@@ -437,7 +437,7 @@
     <title>Maintaining Sanity and Code</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=nlhHiyNu1LU"/>
     <id>https://www.youtube.com/watch?v=nlhHiyNu1LU</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Bogo Giertler</name>
     </author>
@@ -456,7 +456,7 @@
     <title>Swift Sync and Async Error Handling</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=mbd6g7NfR-8"/>
     <id>https://www.youtube.com/watch?v=mbd6g7NfR-8</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Javier Soto</name>
     </author>
@@ -478,7 +478,7 @@
     <title>Library-Oriented Programming</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=lqNUTW0F4bw"/>
     <id>https://www.youtube.com/watch?v=lqNUTW0F4bw</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Justin Spahr-Summers</name>
     </author>
@@ -497,7 +497,7 @@
     <title>*-Oriented Programming</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=j0uFAynIGt8"/>
     <id>https://www.youtube.com/watch?v=j0uFAynIGt8</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Graham Lee</name>
     </author>
@@ -516,7 +516,7 @@
     <title>What’s in for us after the Indiepocalypse?</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=95XZUsOm31A"/>
     <id>https://www.youtube.com/watch?v=95XZUsOm31A</id>
-    <updated>2015-12-21T11:11:37Z</updated>
+    <updated>2015-12-22T10:15:11Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>
