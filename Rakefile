@@ -2,7 +2,8 @@ require 'rubygems'
 require 'middleman-gh-pages'
 require 'dotenv/tasks'
 require 'yt'
-  require 'yaml'
+require 'yaml'
+
 
 task :default => [:build, "lint:speakers", "lint:events"]
 
@@ -15,6 +16,22 @@ task :fetchyt, [:user] => :dotenv do |t, args|
     puts "    title: #{video.title}"
     puts "    tags: []"
     puts "    youtube: #{video.id}"
+  end
+end
+
+task :fetchwwdc, [:year] => :dotenv do |t, args|
+  yaml_content = open("https://raw.githubusercontent.com/ASCIIwwdc/wwdc-session-transcripts/master/#{args[:year]}/_sessions.yml"){|f| f.read}
+  yaml_data = YAML::load(yaml_content) 
+  
+  # puts yaml_data.inspect
+  yaml_data.each do |id, video|
+    puts "  - language: English"
+    puts "    speakers: []"
+    puts "    title: \"#{video[:title]}\""
+    puts "    description: \"#{video[:description]}\""
+    puts "    tags: [#{video[:track]}]".downcase
+    puts "    wwdc: \"wwdc#{args[:year]}-#{id}\""
+    puts "    direct-link: \"https://developer.apple.com/videos/play/wwdc#{args[:year]}-#{id}\""
   end
 end
 
