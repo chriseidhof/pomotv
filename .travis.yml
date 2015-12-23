@@ -6,6 +6,6 @@ env:
 
 deploy:
   provider: script
-  script: "rvm $TRAVIS_RUBY_VERSION do sh deploy.sh"
+  script: ./deploy.sh
   on:
      branch: master
