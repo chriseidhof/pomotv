@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/debugging"/>
   <link href="https://www.pomo.tv/tags/debugging/feed.xml" rel="self"/>
-  <updated>2015-12-23T09:16:18Z</updated>
+  <updated>2015-12-23T09:22:39Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>An Exploration of Debugging Techniques and Tools</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=qU2AYfnDdxk"/>
     <id>https://www.youtube.com/watch?v=qU2AYfnDdxk</id>
-    <updated>2015-12-23T09:16:18Z</updated>
+    <updated>2015-12-23T09:22:39Z</updated>
     <author>
       <name>Fahim Farook</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Advanced Debugging and the Address Sanitizer</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-413"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-413</id>
-    <updated>2015-12-23T09:16:18Z</updated>
+    <updated>2015-12-23T09:22:39Z</updated>
     <author>
       <name>Mike Swingler</name>
     </author>
