@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/core-data"/>
   <link href="https://www.pomo.tv/tags/core-data/feed.xml" rel="self"/>
-  <updated>2015-12-22T10:46:33Z</updated>
+  <updated>2015-12-23T08:54:45Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Core Data Threading Demystified</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=_QolYhiKWvU"/>
     <id>https://www.youtube.com/watch?v=_QolYhiKWvU</id>
-    <updated>2015-12-22T10:46:33Z</updated>
+    <updated>2015-12-23T08:54:45Z</updated>
     <author>
       <name>Marcus S. Zarra</name>
     </author>
@@ -34,7 +34,7 @@
     <title>What's New in Core Data</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-220"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-220</id>
-    <updated>2015-12-22T10:46:33Z</updated>
+    <updated>2015-12-23T08:54:45Z</updated>
     <author>
       <name>Rishi Verma</name>
     </author>
@@ -54,7 +54,7 @@
     <title>Core Data: Multi-Threading Clarity</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ckbke8vjHMw"/>
     <id>https://www.youtube.com/watch?v=ckbke8vjHMw</id>
-    <updated>2015-12-22T10:46:33Z</updated>
+    <updated>2015-12-23T08:54:45Z</updated>
     <author>
       <name>Marcus S. Zarra</name>
     </author>
@@ -74,7 +74,7 @@
     <title>ICYMI: Core Data</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=gqhVMXenLdg"/>
     <id>https://www.youtube.com/watch?v=gqhVMXenLdg</id>
-    <updated>2015-12-22T10:46:33Z</updated>
+    <updated>2015-12-23T08:54:45Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>
@@ -94,7 +94,7 @@
     <title>High performance Core Data</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Du8ggtwNTaM"/>
     <id>https://www.youtube.com/watch?v=Du8ggtwNTaM</id>
-    <updated>2015-12-22T10:46:33Z</updated>
+    <updated>2015-12-23T08:54:45Z</updated>
     <author>
       <name>Matthew Morey</name>
     </author>
@@ -114,7 +114,7 @@
     <title>Core Data for Fun and Profit</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=iaf3uBja77Y"/>
     <id>https://www.youtube.com/watch?v=iaf3uBja77Y</id>
-    <updated>2015-12-22T10:46:33Z</updated>
+    <updated>2015-12-23T08:54:45Z</updated>
     <author>
       <name>Daniel Eggert</name>
     </author>
