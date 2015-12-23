@@ -214,28 +214,44 @@ input {
     }
 }
 
-/* SEARCH */
+/* LIVE SEARCH */
 
-.search-form input {
-  margin-top: 1em;
+.search-live {
   width: 50%;
   min-width: 30em;
+  margin: 1em auto 0em auto;
+}
+
+.search-form input {
+  width: 100%;
+}
+
+#search-live-state, #search-live-results {
+  text-align: left;
+}
+
+#search-live-results li {
+  background: rgb(80, 100, 110);
+  padding: 0.5em;
+  border-radius: 2px;
+}
+
+#search-live-results li a {
+  color: rgb(176, 202, 219);
 }
 
 /* SEARCH RESULTS */
 
-#results {
+#results, .search-results {
   list-style: inside decimal-leading-zero;
   padding-left: 0;
   color: #aaa;
 }
 
-#results li {
+#results li, .search-results li {
   margin-top: 0.5em;
 }
 
-#results li a {
+#results li a, .search-results li a {
   padding-left: 0.5em;
 }
-
-

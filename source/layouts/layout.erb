@@ -57,13 +57,22 @@
                     </li>
                 </ul>
             </nav>
-
-            <form action="/search" class="search-form pure-form">
-                <input name="q" type="search" placeholder="Search" />
-            </form>
-
-            <div id="search-live-results">
+            
+            <div class="pure-g search-live">
+              <div class="pure-u-1">
+                <form action="/search" class="search-form pure-form">
+                    <input id="search-input-field" name="q" type="search" placeholder="Search" />
+                </form>
+              </div>
+              <div class="pure-u-1">
+                <ol class="search-results" id="search-live-results"></ol>
+              </div>
+              <div class="pure-u-1">
+                <div id="search-live-state"></div>
+              </div>
             </div>
+          </div>
+
         </div>
     </div>
 
