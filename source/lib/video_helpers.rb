@@ -1,4 +1,15 @@
 module VideoHelpers
+  include Middleman::Blog::UriTemplates
+
+  def video_id(video)
+    template = uri_template "{event}-{speakers}-{title}"
+    safe_event = data.events[video.event].slug
+    safe_speakers = safe_parameterize video.speakers.sort.join(" ")
+    # Strip emoji and question marks from the titles
+    safe_title = safe_parameterize video.title.gsub(/[\?\u{1f300}-\u{1f5ff}\u{1f600}-\u{1f64f}]/, '-')
+    apply_uri_template template, {event: safe_event, speakers: safe_speakers, title: safe_title}
+  end
+
   def video_url(video)
     if video.wwdc
       "https://developer.apple.com/videos/play/#{video.wwdc}"
