@@ -1,0 +1,86 @@
+//= require lunr.min
+
+var loadRequest = new XMLHttpRequest();
+
+var lunrIndex = null;
+var lunrData  = null;
+
+var searchField;
+
+function loadSearchIndex(callback) {
+  loadRequest.open("GET", "<%= search_index_path %>", true);
+  loadRequest.onreadystatechange = function () {
+    if (loadRequest.readyState !== XMLHttpRequest.DONE || loadRequest.status != 200) {
+      return;
+    } // else
+
+    lunrData = JSON.parse(loadRequest.responseText)
+    lunrIndex = lunr.Index.load(lunrData.index);
+    callback()
+  };
+  loadRequest.send();
+}
+
+function search(query, resultsId, stateId, limit) {
+  var resultsList = document.getElementById(resultsId);
+  var searchState = document.getElementById(stateId);
+  var hasMore = false;
+
+  // Clear state and current results
+  searchState.classList.remove("busy");
+  searchState.textContent = "";
+  resultsList.textContent = "";
+
+  // Perform the search, limit if needed 
+  var result = lunrIndex.search(query);
+  if (limit !== undefined) {
+    hasMore = result.length > limit;
+    result = result.splice(0, limit);
+  }
+
+  // Look up the docs
+  var docs = result.map(function(item) {
+      return lunrData.docs[item["ref"]]
+  });
+
+  // Show the results
+  docs.forEach(function(doc) {
+      var item = document.createElement("li");
+      var link = document.createElement("a");
+      link.textContent = doc["search_title"];
+      link.setAttribute("href", doc["url"]);
+      item.appendChild(link);
+      resultsList.appendChild(item);
+  });
+
+  // More results than shown?
+  if (hasMore) {
+      searchState.textContent = "Press enter to show all results…";
+  }
+
+  // No results?
+  if (query.length > 0 && docs.length == 0) {
+      searchState.textContent = "No results."
+  }
+}  
+
+window.addEventListener("load", function() {
+
+  searchField = document.getElementById("search-input-field");
+
+  searchField.addEventListener("input", function(event) {
+    if (lunrIndex == null) {
+      var searchState = document.getElementById("search-live-state");
+      searchState.classList.add("busy")
+    } else {
+      search(event.target.value, "search-live-results", "search-live-state", 10);
+    }
+  });
+
+}, false);
+
+loadSearchIndex(function() {
+  if (searchField !== undefined && searchField.value.length > 0) {
+     searchField.dispatchEvent(new Event("input"));
+  }
+});
