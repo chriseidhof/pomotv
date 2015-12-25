@@ -30,9 +30,9 @@
   </head>
 
   <body class="search search_index">
-    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="pure-menu pure-menu-horizontal pure-menu-scrollable">
         <div class="header">
-            <h1 class="brand-title">Search</h1>
+            <h1 class="brand-title">pomo.tv</h1>
             <h2 class="brand-tagline">A collection of videos about Mac, iOS and Swift.</h2>
 
             <nav class="nav">
@@ -54,73 +54,54 @@
                     </li>
                 </ul>
             </nav>
+            
+            <div class="pure-g search-live">
+              <div class="pure-u-1">
+                <form action="/search" class="search-form pure-form">
+                  <input id="search-input-field" name="q" type="search" placeholder="Search 380 videos…" />
+                </form>
+              </div>
+              <div class="pure-u-1">
+                <ol class="search-results" id="search-live-results"></ol>
+              </div>
+              <div class="pure-u-1">
+                <div id="search-live-state"></div>
+              </div>
+            </div>
+          </div>
 
         </div>
     </div>
-  
-    <div class="content pure-u-1 pure-u-md-3-4">
-        <div class="search-container">
-            <form action="/search" class="search-form">
-                <input name="q" type="search" placeholder="Search" class="search-input" />
-            </form>
-        </div>
+
+    <div class="pure-u-1 pure-u-md-1-5">
+    </div>
+
+    <div class="content pure-u-1 pure-u-md-3-5">
+      <h1>Search</h1>
         <div>
           <h1 class="content-subhead">Search results for “<span id='query'></span>”</h2>
 <div>
   <ol id='results'>
   </ol>
 </div>
-<div id="state" class="busy"></div>
+<div id="state"></div>
 
 <script type='text/javascript'>
-var lunrIndex = null;
-var lunrData  = null;
-
-function initialize(callback) {
-  var r = new XMLHttpRequest();
-  r.open("GET", "/search/index.json", true);
-  r.onreadystatechange = function () {
-    if (r.readyState != 4 || r.status != 200) return;
-    lunrData = JSON.parse(r.responseText)
-    lunrIndex = lunr.Index.load(lunrData.index);
-    callback()
-  };
-  r.send();
-}
-
-function append_result(title, url) {
-  var results_element = document.getElementById("results")
-  var item = document.createElement("li");
-  var link = document.createElement("a");
-  link.textContent = title;
-  link.setAttribute("href", url);
-  item.appendChild(link);
-  results_element.appendChild(item);
-}
-
-function search(query) {
-  var state = document.getElementById("state")
-  var result = lunrIndex.search(query);
-  var docs = result.map(function(item) {
-      return lunrData.docs[item["ref"]]
-  });
-  state.classList.remove("busy");
-  docs.forEach(function(doc) {
-      append_result(doc["search_title"], doc["url"])
-  });
-  if (docs.length == 0) {
-      state.textContent = "No results."
-  }
-}  
-
 // strip "?q="
 var query = document.location.search.substring(3);
-
 document.getElementById("query").appendChild(document.createTextNode(query));
 
-initialize(function() {
-   search(query);
-})
+function fullSearch() {
+  search(query, "results", "state")
+}
+
+if (loadRequest.readyState !== XMLHttpRequest.DONE) {
+  document.getElementById("state").classList.add("busy");
+  loadRequest.addEventListener("loadend", fullSearch);
+} else {
+  // Search now
+  fullSearch();
+}
 </script>
 
         </div>

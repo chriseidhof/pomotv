@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//events/dotswift-2015"/>
   <link href="https://www.pomo.tv/events/dotswift-2015/feed.xml" rel="self"/>
-  <updated>2015-12-23T09:22:30Z</updated>
+  <updated>2015-12-25T17:11:39Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Think Swiftly</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/dimitri-dupuis-latour-think-swiftly"/>
     <id>http://www.thedotpost.com/2015/02/dimitri-dupuis-latour-think-swiftly</id>
-    <updated>2015-12-23T09:22:30Z</updated>
+    <updated>2015-12-25T17:11:39Z</updated>
     <author>
       <name>Dimitri Dupuis-Latour</name>
     </author>
@@ -35,7 +35,7 @@
     <title>Introspecting Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/jp-simard-introspecting-swift"/>
     <id>http://www.thedotpost.com/2015/02/jp-simard-introspecting-swift</id>
-    <updated>2015-12-23T09:22:30Z</updated>
+    <updated>2015-12-25T17:11:39Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -56,7 +56,7 @@
     <title>Swift in Production</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/ash-furrow-swift-in-production"/>
     <id>http://www.thedotpost.com/2015/02/ash-furrow-swift-in-production</id>
-    <updated>2015-12-23T09:22:30Z</updated>
+    <updated>2015-12-25T17:11:39Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>
@@ -77,7 +77,7 @@
     <title>Practical Functional Programming in Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/kyle-fuller-practical-functional-programming-in-swift"/>
     <id>http://www.thedotpost.com/2015/02/kyle-fuller-practical-functional-programming-in-swift</id>
-    <updated>2015-12-23T09:22:30Z</updated>
+    <updated>2015-12-25T17:11:39Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>
@@ -99,7 +99,7 @@
     <title>Swiftly Building Better Apps</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/romain-huet-swiftly-building-better-apps"/>
     <id>http://www.thedotpost.com/2015/02/romain-huet-swiftly-building-better-apps</id>
-    <updated>2015-12-23T09:22:30Z</updated>
+    <updated>2015-12-25T17:11:39Z</updated>
     <author>
       <name>Romain Huet</name>
     </author>
@@ -120,7 +120,7 @@
     <title>The Ugly American Learns Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/daniel-steinberg-the-ugly-american-learns-swift"/>
     <id>http://www.thedotpost.com/2015/02/daniel-steinberg-the-ugly-american-learns-swift</id>
-    <updated>2015-12-23T09:22:30Z</updated>
+    <updated>2015-12-25T17:11:39Z</updated>
     <author>
       <name>Daniel Steinberg</name>
     </author>
@@ -141,7 +141,7 @@
     <title>Static vs. Dynamic Linking</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/marius-rackwitz-static-vs-dynamic-linking"/>
     <id>http://www.thedotpost.com/2015/02/marius-rackwitz-static-vs-dynamic-linking</id>
-    <updated>2015-12-23T09:22:30Z</updated>
+    <updated>2015-12-25T17:11:39Z</updated>
     <author>
       <name>Marius Rackwitz</name>
     </author>
@@ -162,7 +162,7 @@
     <title>Switch to Swift?</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/corinne-kyrch-switch-to-swift"/>
     <id>http://www.thedotpost.com/2015/02/corinne-kyrch-switch-to-swift</id>
-    <updated>2015-12-23T09:22:30Z</updated>
+    <updated>2015-12-25T17:11:39Z</updated>
     <author>
       <name>Corinne Krych</name>
     </author>

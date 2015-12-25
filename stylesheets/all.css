@@ -39,7 +39,7 @@ input {
     margin: 3em auto;
 }
 
-.sidebar {
+.pure-menu {
     background: rgb(61, 79, 93);
     color: #fff;
 }
@@ -174,24 +174,6 @@ input {
     background: none;
 }
 
-@media (min-width: 48em) {
-    .content {
-        padding: 2em 3em 0;
-        margin-left: 25%;
-    }
-
-    .header {
-        margin: 80% 2em 0;
-        text-align: right;
-    }
-
-    .sidebar {
-        position: fixed;
-        top: 0;
-        bottom: 0;
-    }
-}
-
 /* BUSY/LOADING INDICATOR */
 
 .busy {
@@ -232,37 +214,44 @@ input {
     }
 }
 
-/* SEARCH */
+/* LIVE SEARCH */
 
-.search-container {
-    width:100%;
+.search-live {
+  width: 50%;
+  min-width: 30em;
+  margin: 1em auto 0em auto;
 }
 
-.search-input {
-    color: #666;
-    font-size: 2em;
-    width:100%;
-    border: 0;
-    outline: 0;
-    background: transparent;
-    border-bottom: 1px solid #999;
-    margin-bottom: 20px;
+.search-form input {
+  width: 100%;
+}
+
+#search-live-state, #search-live-results {
+  text-align: left;
+}
+
+#search-live-results li {
+  background: rgb(80, 100, 110);
+  padding: 0.5em;
+  border-radius: 2px;
+}
+
+#search-live-results li a {
+  color: rgb(176, 202, 219);
 }
 
 /* SEARCH RESULTS */
 
-#results {
+#results, .search-results {
   list-style: inside decimal-leading-zero;
   padding-left: 0;
   color: #aaa;
 }
 
-#results li {
+#results li, .search-results li {
   margin-top: 0.5em;
 }
 
-#results li a {
+#results li a, .search-results li a {
   padding-left: 0.5em;
 }
-
-

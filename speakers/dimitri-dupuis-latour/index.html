@@ -31,7 +31,7 @@
   </head>
 
   <body class="speakers speakers_dimitri-dupuis-latour speakers_dimitri-dupuis-latour_index">
-    <div class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="pure-menu pure-menu-horizontal pure-menu-scrollable">
         <div class="header">
             <h1 class="brand-title">pomo.tv</h1>
             <h2 class="brand-tagline">A collection of videos about Mac, iOS and Swift.</h2>
@@ -55,16 +55,30 @@
                     </li>
                 </ul>
             </nav>
+            
+            <div class="pure-g search-live">
+              <div class="pure-u-1">
+                <form action="/search" class="search-form pure-form">
+                  <input id="search-input-field" name="q" type="search" placeholder="Search 380 videos…" />
+                </form>
+              </div>
+              <div class="pure-u-1">
+                <ol class="search-results" id="search-live-results"></ol>
+              </div>
+              <div class="pure-u-1">
+                <div id="search-live-state"></div>
+              </div>
+            </div>
+          </div>
 
         </div>
     </div>
-  
-    <div class="content pure-u-1 pure-u-md-3-4">
-        <div class="search-container">
-            <form action="/search" class="search-form">
-                <input name="q" type="search" placeholder="Search" class="search-input" />
-            </form>
-        </div>
+
+    <div class="pure-u-1 pure-u-md-1-5">
+    </div>
+
+    <div class="content pure-u-1 pure-u-md-3-5">
+      <h1></h1>
         <div>
           <h1>Dimitri Dupuis-Latour</h1>
 <p>
