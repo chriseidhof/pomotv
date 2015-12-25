@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/bill-dudney"/>
   <link href="https://www.pomo.tv/speakers/bill-dudney/feed.xml" rel="self"/>
-  <updated>2015-12-25T17:11:45Z</updated>
+  <updated>2015-12-25T17:22:28Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Building Better Apps with Value Types in Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-414"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-414</id>
-    <updated>2015-12-25T17:11:45Z</updated>
+    <updated>2015-12-25T17:22:28Z</updated>
     <author>
       <name>Doug Gregor</name>
     </author>
