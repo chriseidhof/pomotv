@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/luke-case"/>
   <link href="https://www.pomo.tv/speakers/luke-case/feed.xml" rel="self"/>
-  <updated>2015-12-26T10:26:13Z</updated>
+  <updated>2015-12-26T11:08:38Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Networking with NSURLSession</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-711"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-711</id>
-    <updated>2015-12-26T10:26:13Z</updated>
+    <updated>2015-12-26T11:08:38Z</updated>
     <author>
       <name>Luke Case</name>
     </author>
