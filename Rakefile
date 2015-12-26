@@ -26,7 +26,7 @@ task :fetchwwdc, [:year] => :dotenv do |t, args|
   # puts yaml_data.inspect
   yaml_data.each do |id, video|
     puts "  - language: English"
-    puts "    speakers: []"
+    puts "    speakers: [TODO]"
     puts "    title: \"#{video[:title]}\""
     puts "    description: \"#{video[:description]}\""
     puts "    tags: [#{video[:track]}]".downcase
