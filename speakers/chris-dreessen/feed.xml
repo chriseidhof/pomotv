@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Chris Dreessen</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/chris-dreessen"/>
+  <link href="https://www.pomo.tv/speakers/chris-dreessen/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:14Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Adopting Advanced Features of the New UI of OS X Yosemite</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-220"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-220</id>
+    <updated>2015-12-26T10:26:14Z</updated>
+    <author>
+      <name>Chris Dreessen</name>
+    </author>
+    <author>
+      <name>Corbin Dunn</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-220&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-220&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;OS X Yosemite introduces a refined new look, and Cocoa provides you with a rich set of APIs and facilities to embrace this new look in your application. Discover how to properly use these APIs to bring the refinement, translucency, and vibrancy of OS X Yosemite to your apps. Dive deep into a number of case studies demonstrating applications with different designs and needs.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-220&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

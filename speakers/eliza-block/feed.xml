@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/eliza-block"/>
   <link href="https://www.pomo.tv/speakers/eliza-block/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:15Z</updated>
+  <updated>2015-12-26T10:26:12Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Creating Complications with ClockKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-209"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-209</id>
-    <updated>2015-12-25T19:09:15Z</updated>
+    <updated>2015-12-26T10:26:12Z</updated>
     <author>
       <name>Eliza Block</name>
     </author>
@@ -28,6 +28,29 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-209&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced Scrollviews and Touch Handling Techniques</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-235"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-235</id>
+    <updated>2015-12-26T10:26:12Z</updated>
+    <author>
+      <name>Josh Shaffer</name>
+    </author>
+    <author>
+      <name>Eliza Block</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-235&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-235&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Scrollviews build on gesture recognizers and underlying multi-touch mechanics to provide a fundamental piece of the iOS user experience. Gain a broader understanding of the iOS touch handling architecture through practical real-world examples. Discover advanced tips and tricks for combining scrolling with other touch handling techniques to create delightful user interfaces.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-235&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

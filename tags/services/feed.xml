@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>services</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//tags/services"/>
+  <link href="https://www.pomo.tv/tags/services/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:19Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>JavaScript for Automation</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-306"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-306</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Sal Soghoian</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-306&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-306&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;services&quot;&gt;services&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Automation in OS X has always been about power and choice. Scriptable applications, including Pages, Keynote, Numbers, and the Finder, can already be automated using a variety of languages, including AppleScript, Objective-C, Perl, Python, and Ruby. With OS X Yosemite, application scripting support has been added to another popular language, JavaScript. JavaScript for Automation (JXA) extends the standard JavaScript environment provided by the JavaScriptCore framework with support for querying and controlling all of the scriptable applications running in OS X.  JXA scripts are supported at all layers of the system and can be invoked from the command-line, from the system-wide Script Menu, and can even be distributed as code-signed applications.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-306&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Preventing Unauthorized Purchases with Receipts</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-305"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-305</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>James Wilson</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-305&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-305&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;services&quot;&gt;services&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Receipts provide a valuable record of the sale for an app or for any In-App Purchases made from within an app. You can add receipt validation code to your app to prevent unauthorized purchases and protect your content. Learn how to verify exactly what people have paid for and how to validate these transactions.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-305&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Creating Great App Previews</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-304"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-304</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Paul Turner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-304&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-304&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;services&quot;&gt;services&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Spark interest in your app by showing a compelling video preview highlighting the magic moments that make your app unique. Learn how to plan, create and publish your App Preview using Apple&#x27;s tools, guidelines and best practices.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-304&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Optimizing In-App Purchases</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-303"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-303</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>James Wilson</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-303&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-303&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;services&quot;&gt;services&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Using the StoreKit framework properly and optimizing the user experience of your In-App store is vital in order to never miss out on a sale or confuse people. Learn valuable techniques for a trouble free browsing and purchasing experience, and to ensure your app gets through the app submission process smoothly.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-303&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>The New iTunes Connect</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-302"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-302</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Dave Van Tassell</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-302&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-302&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;services&quot;&gt;services&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Get acquainted with the new iTunes Connect—your hub for publishing on the App Store. Learn about new ways to market with App Bundles and App Previews and how to make even better apps with App Analytics and TestFlight Beta Testing.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-302&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Affiliate Tools for App Developers</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-301"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-301</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Mark Miller</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-301&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-301&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;services&quot;&gt;services&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Earn commission while linking to iTunes music, apps, books, and more. Get an overview of the new global iTunes Affiliate Program and see how simple it is to get started linking to iTunes content using iOS APIs and SmartApp Banners, creating iTunes Radio stations, and much more.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-301&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

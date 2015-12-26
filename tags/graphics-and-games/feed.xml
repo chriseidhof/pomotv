@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>graphics and games</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//tags/graphics-and-games"/>
+  <link href="https://www.pomo.tv/tags/graphics-and-games/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:18Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Motion Tracking with the Core Motion Framework</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-612"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-612</id>
+    <updated>2015-12-26T10:26:18Z</updated>
+    <author>
+      <name>Andy Pham</name>
+    </author>
+    <author>
+      <name>Sunny Chow</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-612&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-612&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Core Motion leverages the M7 motion coprocessor and other built-in sensors to provide support for step counting and motion tracking. See examples of Core Motion based apps in action. Learn how health and fitness apps use pedometer information to give users performance and workout results, and how journaling apps use motion classification to tag the day&#x27;s activities.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-612&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Designing for Game Controllers</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-611"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-611</id>
+    <updated>2015-12-26T10:26:18Z</updated>
+    <author>
+      <name>JJ Cwik</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-611&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-611&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;The Game Controller framework enables games to integrate with MFi game controllers and take advantage of exciting new modes of input. Check out the latest additions and get expert advice about best practices to follow when adding game controller support to your titles. Understand how to avoid common pitfalls and gain key insights into what it takes to create an experience that&#x27;s intuitive and fun.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-611&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Building a Game with SceneKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-610"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-610</id>
+    <updated>2015-12-26T10:26:18Z</updated>
+    <author>
+      <name>Amaury Balliet</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-610&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-610&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Dive into the practical workflow of developing a 3D side-scrolling game using SceneKit. See how to get started, and learn about tools for managing game assets, creating particle systems, and editing nodes. Understand how SceneKit integrates with your art pipeline and learn how to implement lighting, shadows, and other visual effects. Come away from the session with a demo game in-hand and ready to play.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-610&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in SceneKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-609"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-609</id>
+    <updated>2015-12-26T10:26:18Z</updated>
+    <author>
+      <name>Thomas Goossens</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-609&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-609&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Now available for iOS and OS X, SceneKit is an inventive high-level graphics framework enabling your apps to efficiently load, manipulate, and render 3D scenes. Get reintroduced to SceneKit and check out how your apps can take advantage of its latest capabilities. Learn about advanced capabilities for physics and animation, support for subdivision surfaces, new rendering effects, integration with SpriteKit, and much more.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-609&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Best Practices for Building SpriteKit Games</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-608"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-608</id>
+    <updated>2015-12-26T10:26:18Z</updated>
+    <author>
+      <name>Jacques Gasselin de Richebourg</name>
+    </author>
+    <author>
+      <name>Nick Porcino</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-608&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-608&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Gain a deeper understanding of the best practices to follow when building a SpriteKit based game. Get tips about game construction and see how to map the logical elements of your game into SpriteKit. Learn how data driven techniques can speed your development cycle, and discover how to achieve maximum performance for rendering, physics, and animation.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-608&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in SpriteKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-606"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-606</id>
+    <updated>2015-12-26T10:26:18Z</updated>
+    <author>
+      <name>Norman Wang</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-606&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-606&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;SpriteKit provides everything you need for high-performance 2D games to animate sprites, simulate physics, and create stunning graphics effects. Check out new APIs for enhanced shading and lighting, advances in physics and collisions, constraints and inverse kinematics, integration with SceneKit, and powerful editing tools built right into Xcode 6.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-606&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Working with Metal: Advanced</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-605"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-605</id>
+    <updated>2015-12-26T10:26:18Z</updated>
+    <author>
+      <name>Gokhan Avkarogullari</name>
+    </author>
+    <author>
+      <name>Aaftab Munshi</name>
+    </author>
+    <author>
+      <name>Serhat Tekin</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-605&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-605&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Building on the fundamentals, learn how to create advanced games and graphics applications with Metal. See how to construct your rendering pipeline, understand how to use compute and graphics together, and discover how to optimize your Metal-based app.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-605&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Working with Metal: Fundamentals</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-604"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-604</id>
+    <updated>2015-12-26T10:26:18Z</updated>
+    <author>
+      <name>Richard Schreyer</name>
+    </author>
+    <author>
+      <name>Aaftab Munshi</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-604&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-604&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Start learning how to code with Metal in this step-by-step walkthrough of basic scene rendering. See the code you need to get your first Metal-based application up and running. Explore how to create graphics and compute shaders and efficiently animate scenes.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-604&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Working with Metal: Overview</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-603"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-603</id>
+    <updated>2015-12-26T10:26:18Z</updated>
+    <author>
+      <name>Jeremy Sandmel</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-603&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-603&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Metal provides extremely efficient access to the graphics and compute power of the A7 chip. Get introduced to the essential concepts behind Metal, its low-overhead architecture, streamlined API, and unified shading language. See how Metal lets you take your iOS game or app to the next level of performance and capability.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-603&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Ingredients of Great Games</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-602"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-602</id>
+    <updated>2015-12-26T10:26:18Z</updated>
+    <author>
+      <name>Geoff Stahl</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-602&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-602&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Kick off the game development sessions of WWDC 2014 by gaining insight into the key ingredients needed to create a great game for iOS. Understand the importance of harnessing the full capabilities of the platform to create a richer gameplay experience. Get practical guidance about game production and distribution, and learn the design and platform conventions that will make your game even more engaging.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-602&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Harnessing the Power of the Mac Pro with OpenGL and OpenCL</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-601"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-601</id>
+    <updated>2015-12-26T10:26:18Z</updated>
+    <author>
+      <name>Abe Stephens</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-601&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-601&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;The new Mac Pro enables you to unleash the power of dual workstation-class GPUs and multiple CPU cores in ways that just weren&#x27;t possible until now. Gain a deeper understanding of the integration between OpenCL and OpenGL and see how to tap into the parallel compute and rendering power of the Mac.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-601&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

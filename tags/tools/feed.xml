@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>tools</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//tags/tools"/>
+  <link href="https://www.pomo.tv/tags/tools/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:20Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Advanced Graphics and Animations for iOS Apps</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-419"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-419</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Axel Wefers</name>
+    </author>
+    <author>
+      <name>Michael Ingrassia</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-419&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-419&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Creating a responsive UI requires an understanding of Core Animation and how mobile GPUs work. Learn about the iOS rendering pipeline in Core Animation, the new UIVisualEffectView and how it utilizes the GPU. Find out about the available tools for profiling UI performance. See how to identify and fix performance issues on a variety of devices.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-419&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Improving Your App with Instruments</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-418"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-418</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Daniel Delwood</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-418&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-418&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Whether you&#x27;re new to optimizing your app&#x27;s performance or a seasoned veteran, learn about the new version of Instruments. See the new workflows, tools, and tips that will help you analyze and refine your app as it adopts the latest Apple technologies, including Swift and app extensions.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-418&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in LLVM</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-417"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-417</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Jim Grosbach</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-417&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-417&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;The Apple LLVM compiler continues to evolve, with support for 64-bit iOS products, powerful new optimizations, and other new features. Learn about some of the advanced technology that the compiler uses to increase the performance of your code, and get details on how to take advantage of the latest features in the compiler.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-417&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Building Modern Frameworks</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-416"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-416</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Chris Parker</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-416&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-416&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Frameworks are a great way to share code between your apps and their extensions. Learn how you can convert your static libraries into frameworks. Go in-depth on how to best organize and share your code between your projects so you can increase code reuse.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-416&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Continuous Integration with Xcode 6</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-415"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-415</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Brent Shank</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-415&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-415&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Xcode bots provide a seamless way to continually build, analyze, and test your applications across many devices. See the Xcode team show how to set up and configure bots, review unit and performance testing data, and set up custom triggers and integration points.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-415&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Testing in Xcode 6</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-414"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-414</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Brooke Callahan</name>
+    </author>
+    <author>
+      <name>Wil Turner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-414&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-414&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Unit testing is an essential tool to consistently verify your code works correctly. Learn how Xcode 6 takes this to the next level with support for performance testing, baselining, and integration with Xcode bots to continually monitor your performance over time and devices.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-414&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Debugging in Xcode 6</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-413"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-413</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Han Ming Ong</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-413&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-413&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Xcode provides a powerful debugging user interface backed by the new state-of-the-art LLDB debugger. Discover how you can more easily explore and fix your user interfaces, add custom Quick Look support for your own classes and get deeper insight into how and from where your app is enqueuing work.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-413&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Localizing with Xcode 6</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-412"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-412</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Zoltan Foley-Fisher</name>
+    </author>
+    <author>
+      <name>Chris Hanson</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-412&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-412&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Your app deserves a global audience, and iOS, OS X, and Xcode 6 make it easy to design and test applications in multiple languages. Discover how you can easily add and manage localized content, preview and test with different languages, and export and import content for localizers to translate.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-412&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Interface Builder</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-411"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-411</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Kevin Cathey</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-411&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-411&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Interface Builder makes it easy to create world-class interfaces using the design canvas. Learn how to use storyboards to arrange the views of your app, use Auto Layout to adapt to changes, and see how to easily make connections between your UI and your implementation on both iOS and OS X.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-411&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced Swift Debugging in LLDB</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-410"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-410</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Enrico Granata</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-410&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-410&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Explore LLDB&#x27;s powerful features that help you more quickly debug your Swift code. Learn about LLDB&#x27;s support for protocols, generics, optionals, and mixed-language source code.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-410&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introduction to LLDB and the Swift REPL</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-409"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-409</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Sean Callanan</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-409&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-409&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn how to use LLDB, Apple&#x27;s state-of-the-art debugger. Learn how to analyze stack traces and diagnose bugs. See how you can test your hypotheses and explore your app&#x27;s state with the Swift REPL.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-409&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift Playgrounds</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-408"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-408</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Rick Ballard</name>
+    </author>
+    <author>
+      <name>Connor Wakamo</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-408&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-408&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Playgrounds are a new and innovative way to explore the Swift programming language. Explore how Playgrounds provide new workflows, enable rapid development, help you conveniently step through your code to diagnose bugs, and make it easier than ever to learn new concepts.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-408&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift Interoperability In Depth</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-407"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-407</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Doug Gregor</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-407&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-407&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Swift and Objective-C work together at multiple levels to ensure that you can create great apps for iOS and OS X. Dive deep with us to see how to use fundamental Core Foundation and C types in your Swift code. Learn how bridging values work and gain a practical understanding of how Swift and Objective-C can accelerate your app development.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-407&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Integrating Swift with Objective-C</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-406"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-406</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Anders Bertelrud</name>
+    </author>
+    <author>
+      <name>Dave Schaefgen</name>
+    </author>
+    <author>
+      <name>Jordan Rose</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-406&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-406&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Swift makes it faster, easier, and more fun than ever to write Cocoa apps. See how you can integrate Swift alongside your existing Objective-C code. Learn how design patterns translate between languages and how you can start integrating Swift into your apps today.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-406&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced Swift</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-404"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-404</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>John McCall</name>
+    </author>
+    <author>
+      <name>Dave Abrahams</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-404&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-404&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Dive deep into Swift! Explore some of its more powerful features, like operator overloading, string interpolation, and advanced pattern matching. Learn how to take advantage of generics to write terse and expressive code.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-404&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Intermediate Swift</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-403"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-403</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Brian Lanier</name>
+    </author>
+    <author>
+      <name>Joe Groff</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-403&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-403&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Explore the modern features of the Swift programming language. Learn about object initialization, closures, and optionals. See how you can perform pattern matching using Swift&#x27;s powerful switch statements.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-403&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introduction to Swift</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-402"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-402</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Tim Isted</name>
+    </author>
+    <author>
+      <name>Dave Addey</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-402&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-402&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Swift is Apple&#x27;s brand-new programming language for writing great iOS and OS X apps. Learn the basics of the language. See how to declare variables, use the fundamental data types, declare functions, and implement classes. Explore some of the great features that make Swift a safe, modern, and extremely powerful language.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-402&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Xcode 6</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-401"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-401</id>
+    <updated>2015-12-26T10:26:20Z</updated>
+    <author>
+      <name>Mike Ferris</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-401&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-401&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Xcode is the development environment for creating amazing apps for iOS and OS X. Start the week by watching the Xcode team demonstrate the latest features and workflows in Xcode 6. This session also provides a complete overview of the in-depth developer tools topics covered at WWDC 2014.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-401&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

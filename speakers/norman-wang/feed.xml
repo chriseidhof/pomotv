@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Norman Wang</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/norman-wang"/>
+  <link href="https://www.pomo.tv/speakers/norman-wang/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:15Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>What's New in SpriteKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-606"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-606</id>
+    <updated>2015-12-26T10:26:15Z</updated>
+    <author>
+      <name>Norman Wang</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-606&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-606&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;SpriteKit provides everything you need for high-performance 2D games to animate sprites, simulate physics, and create stunning graphics effects. Check out new APIs for enhanced shading and lighting, advances in physics and collisions, constraints and inverse kinematics, integration with SceneKit, and powerful editing tools built right into Xcode 6.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-606&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

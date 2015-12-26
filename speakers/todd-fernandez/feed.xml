@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/todd-fernandez"/>
   <link href="https://www.pomo.tv/speakers/todd-fernandez/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:15Z</updated>
+  <updated>2015-12-26T10:26:12Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>What's New in Managing Apple Devices</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-301"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-301</id>
-    <updated>2015-12-25T19:09:15Z</updated>
+    <updated>2015-12-26T10:26:12Z</updated>
     <author>
       <name>Todd Fernandez</name>
     </author>
@@ -25,6 +25,26 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;ios&quot;&gt;ios&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-301&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Managing Apple Devices</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-702"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-702</id>
+    <updated>2015-12-26T10:26:12Z</updated>
+    <author>
+      <name>Todd Fernandez</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-702&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-702&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn about the latest developments in managing Apple devices in an enterprise environment. Learn how MDM can be used to wirelessly configure settings, monitor compliance with policies, install apps, and remotely wipe devices, and how these capabilities can be integrated with in-house or third-party server solutions.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-702&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

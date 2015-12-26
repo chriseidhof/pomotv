@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/dave-van-tassell"/>
   <link href="https://www.pomo.tv/speakers/dave-van-tassell/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:15Z</updated>
+  <updated>2015-12-26T10:26:12Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>What's New in iTunes Connect</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-302"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-302</id>
-    <updated>2015-12-25T19:09:15Z</updated>
+    <updated>2015-12-26T10:26:12Z</updated>
     <author>
       <name>Dave Van Tassell</name>
     </author>
@@ -25,6 +25,26 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;itunesconnect&quot;&gt;itunesconnect&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-302&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>The New iTunes Connect</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-302"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-302</id>
+    <updated>2015-12-26T10:26:12Z</updated>
+    <author>
+      <name>Dave Van Tassell</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-302&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-302&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;services&quot;&gt;services&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Get acquainted with the new iTunes Connect—your hub for publishing on the App Store. Learn about new ways to market with App Bundles and App Previews and how to make even better apps with App Analytics and TestFlight Beta Testing.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-302&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

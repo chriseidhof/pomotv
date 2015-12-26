@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/vince-spader"/>
   <link href="https://www.pomo.tv/speakers/vince-spader/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:15Z</updated>
+  <updated>2015-12-26T10:26:13Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Best Practices for Progress Reporting</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-232"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-232</id>
-    <updated>2015-12-25T19:09:15Z</updated>
+    <updated>2015-12-26T10:26:13Z</updated>
     <author>
       <name>Vince Spader</name>
     </author>
@@ -25,6 +25,32 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-232&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Adopting Handoff on iOS and OS X</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-219"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-219</id>
+    <updated>2015-12-26T10:26:13Z</updated>
+    <author>
+      <name>Michael Jurewitz</name>
+    </author>
+    <author>
+      <name>Vince Spader</name>
+    </author>
+    <author>
+      <name>Keith Stattenfield</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-219&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-219&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Handoff allows people to seamlessly move activities between devices and pick up right where they left off. Learn how to save, transfer, and restore user activities in apps of all architectures. See how easy it is to add Handoff support to your iOS and OS X apps to make your user experience even better.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-219&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

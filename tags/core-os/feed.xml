@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>core os</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//tags/core-os"/>
+  <link href="https://www.pomo.tv/tags/core-os/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:16Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Adopting AirPrint</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-718"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-718</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Howard Miller</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-718&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-718&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;AirPrint is widely supported by all the well-known printer companies. Learn how quick and easy it is to support AirPrint in your app. Discover what&#x27;s new and improved in the iOS printing system.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-718&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Kids and Apps</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-717"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-717</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Chris Espinosa</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-717&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-717&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;With Student Accounts and Family Sharing, kids under age 13 can now have fully-featured accounts for buying apps and In-App Purchases. However, regulations in the US and other countries limit what information you can collect from kids without parental permission. Learn about the new account programs, whether and how to check the age of your app&#x27;s user, what you can and can&#x27;t do without parental permission, and how to request parental consent if you need to.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-717&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Power, Performance and Diagnostics: What's new in GCD and XPC</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-716"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-716</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Daniel Steffen</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-716&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-716&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn about new features in GCD and XPC that help you write responsive energy-efficient apps and diagnose their interactions with the system.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-716&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>User Privacy in iOS and OS X</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-715"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-715</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>David Stites</name>
+    </author>
+    <author>
+      <name>Katie Skinner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-715&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-715&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn about new iOS and OS X privacy features and get details on new and updated APIs. Hear best practices for delivering great features and respecting your customers&#x27; privacy.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-715&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Fix Bugs Faster using Activity Tracing</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-714"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-714</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Eric Clements</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-714&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-714&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Finding and diagnosing application bugs can be very difficult. Activity Tracing is a new technology that can dramatically improve your speed and efficiency finding bugs in your code. Log trace messages to an auto-generated ring buffer while associating them with the originating user action. Reduce the time sifting through unrelated log messages trying to understand what was going on when the failure happened.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-714&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in iOS Notifications</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-713"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-713</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Rhett Dickson</name>
+    </author>
+    <author>
+      <name>Dan Kurtz</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-713&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-713&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Local and push notifications let background or inactive apps notify users that an event of interest has occurred, or that an app has new information for them. See how to configure interactive notifications to let users act on notifications from banners, alerts, in notification center and on the lock screen. Learn how to trigger notifications using geofences and iBeacons, and discover the new API&#x27;s for registering for user notifications and remote pushes.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-713&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Writing Energy Efficient Code, Part 2</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-712"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-712</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Albert Liu</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-712&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-712&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Go in-depth into specific API and design patterns you can use to avoid consuming excessive energy as well as tools that can help you diagnose issues.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-712&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Keychain and Authentication with Touch ID</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-711"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-711</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Wade Benson</name>
+    </author>
+    <author>
+      <name>Libor Sykora</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-711&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-711&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;The Keychain has always been the most secure place to store passwords and other sensitive data. iOS 8 introduces significant new security features. Discover how to integrate Touch ID into your apps using the Keychain and the new LocalAuthentication framework. Learn about other Keychain enhancements, including how to tie data to the user&#x27;s passcode.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-711&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Writing Energy Efficient Code, Part 1</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-710"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-710</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Anthony Chivetta</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-710&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-710&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;People expect long battery life on both their iOS devices and Mac laptops and your apps play a vital role in ensuring long battery life. Get an overview of energy efficiency best practices and learn about new APIs in iOS and OS X that help you to minimize the energy impact of your code.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-710&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Cross Platform Nearby Networking</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-709"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-709</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Demijan Klinc</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-709&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-709&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Multipeer Connectivity comes to OS X. You can now discover and communicate with nearby devices on OS X and iOS. See what is new. Learn about best practices and advanced topics, such as writing cross platform code, customizing discovery and handling certificates.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-709&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Taking Core Location Indoors</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-708"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-708</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Nav Patel</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-708&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-708&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;iOS 8 makes it possible for an iOS app to determine its precise indoor position in supported venues. Learn best practices on how your app can take advantage of indoor positioning. Discover how indoor positioning and iBeacon complement each other, and understand the best use cases for both technologies. As a venue, find out how you can get involved and signup to enable indoor positioning.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-708&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Foundation Networking</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-707"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-707</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Steve Algernon</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-707&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-707&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;The NSURLSession class provides powerful HTTP networking features in iOS and OS X. Learn about new NSURLSession capabilities and hear expert advice on practical, efficient and high performance networking for your apps.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-707&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Core Location</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-706"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-706</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Stephen Rhee</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-706&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-706&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Find out how your app can use new functionality in Core Location to do automatic check-in or journal the user&#x27;s location. Learn how location authorization is changing to give the user more precise control of what location services an App is authorized is use, and what this means for developers and users.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-706&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Distributing Enterprise Apps</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-705"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-705</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Dave Rahardja</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-705&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-705&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn how to provision and deploy apps across your enterprise. Leverage key Apple programs such as the Volume Purchase Program and the iOS Developer Enterprise Program to get the right apps in the hands of your employees, contractors, and partners. Learn how to manage certificates and provisioning profiles to deploy your apps, and take advantage of mobile device management (MDM) tools to provide a seamless experience for your users. Gain insight into the complete app management lifecycle; from signing your in-house apps in Xcode, to distributing, managing, and revoking apps across your workforce.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-705&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Building Apps for Enterprise and Education</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-704"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-704</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Dave Rahardja</name>
+    </author>
+    <author>
+      <name>Alexander Botkin</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-704&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-704&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn about data security, enterprise authentication, integration with back-end systems, app configuration methods, and the latest technologies for interacting with documents, accessories, and more. Get helpful tips for constructing your apps to meet the needs of schools and educators, as well as key requirement from IT. Perfect for everyone looking to get their apps in the hands of business professionals, educators, and students worldwide.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-704&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in the Accelerate Framework</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-703"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-703</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Geoff Belter</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-703&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-703&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;The Accelerate framework has always provided fast, energy efficient signal and image processing and linear algebra libraries. Learn about new interfaces that are easier to adopt and give you the same speed, and about new primitives that make it easier to write your own vector code for iOS and OS X.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-703&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Managing Apple Devices</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-702"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-702</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Todd Fernandez</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-702&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-702&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn about the latest developments in managing Apple devices in an enterprise environment. Learn how MDM can be used to wirelessly configure settings, monitor compliance with policies, install apps, and remotely wipe devices, and how these capabilities can be integrated with in-house or third-party server solutions.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-702&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Designing Accessories for iOS and OS X</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-701"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-701</id>
+    <updated>2015-12-26T10:26:16Z</updated>
+    <author>
+      <name>Robert Walsh</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-701&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-701&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn how to create app-enabled accessories. Understand your options for designing accessories that connect via Bluetooth, Wi-Fi or the Lightning connector. Learn how to develop accessories that work with HealthKit and HomeKit.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-701&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

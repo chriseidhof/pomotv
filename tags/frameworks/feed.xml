@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/frameworks"/>
   <link href="https://www.pomo.tv/tags/frameworks/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:18Z</updated>
+  <updated>2015-12-26T10:26:17Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Seamless Linking to Your App</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-509"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-509</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Conrad Shultz</name>
     </author>
@@ -33,7 +33,7 @@
     <title>Introducing Safari View Controller</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-504"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-504</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Ricky Mondello</name>
     </author>
@@ -53,7 +53,7 @@
     <title>Building Document Based Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-234"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-234</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Mike Hess</name>
     </author>
@@ -72,7 +72,7 @@
     <title>Advanced Touch Input on iOS</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-233"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-233</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Peter Tsoi</name>
     </author>
@@ -91,7 +91,7 @@
     <title>Best Practices for Progress Reporting</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-232"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-232</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Vince Spader</name>
     </author>
@@ -110,7 +110,7 @@
     <title>Cocoa Touch Best Practices</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-231"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-231</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Luke Hiesterman</name>
     </author>
@@ -129,7 +129,7 @@
     <title>Performance on iOS and watchOS</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-230"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-230</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Ben Englert</name>
     </author>
@@ -149,7 +149,7 @@
     <title>What's New in UIKit Dynamics and Visual Effects</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-229"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-229</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Michael Turner</name>
     </author>
@@ -169,7 +169,7 @@
     <title>WatchKit Tips and Tricks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-228"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-228</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Jake Behrens</name>
     </author>
@@ -189,7 +189,7 @@
     <title>What's New in Internationalization</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-227"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-227</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Nat Hillard</name>
     </author>
@@ -208,7 +208,7 @@
     <title>Advanced NSOperations</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-226"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-226</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Philippe Hausler</name>
     </author>
@@ -228,7 +228,7 @@
     <title>What's New in NSCollectionView</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-225"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-225</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Troy Stephens</name>
     </author>
@@ -247,7 +247,7 @@
     <title>App Extension Best Practices</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-224"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-224</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Sophia Teutschler</name>
     </author>
@@ -267,7 +267,7 @@
     <title>Introducing the Contacts Framework for iOS and OS X</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-223"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-223</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Bruce Stadnyk</name>
     </author>
@@ -287,7 +287,7 @@
     <title>New UIKit Support for International User Interfaces</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-222"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-222</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Sara Radi</name>
     </author>
@@ -307,7 +307,7 @@
     <title>Improving the Full Screen Window Experience</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-221"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-221</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Corbin Dunn</name>
     </author>
@@ -326,7 +326,7 @@
     <title>What's New in Core Data</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-220"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-220</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Rishi Verma</name>
     </author>
@@ -346,7 +346,7 @@
     <title>Mysteries of Auto Layout, Part 2</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-219"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-219</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Jesse Donaldson</name>
     </author>
@@ -366,7 +366,7 @@
     <title>Mysteries of Auto Layout, Part 1</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-218"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-218</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Jason Yao</name>
     </author>
@@ -386,7 +386,7 @@
     <title>Adopting New Trackpad Features</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-217"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-217</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Raleigh Ledet</name>
     </author>
@@ -405,7 +405,7 @@
     <title>Layout and Animation Techniques for WatchKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-216"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-216</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Miguel Sanchez</name>
     </author>
@@ -425,7 +425,7 @@
     <title>What's New in Storyboards</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-215"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-215</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Kyle Sluder</name>
     </author>
@@ -445,7 +445,7 @@
     <title>Introducing On Demand Resources</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-214"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-214</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Steve Lewallen</name>
     </author>
@@ -464,7 +464,7 @@
     <title>Building Apps with ResearchKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-213"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-213</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>John Earl</name>
     </author>
@@ -484,7 +484,7 @@
     <title>Multitasking Essentials for Media-Based Apps on iPad in iOS 9</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-211"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-211</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Stefan Hafeneger</name>
     </author>
@@ -503,7 +503,7 @@
     <title>What's New in HomeKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-210"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-210</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Anush Nadathur</name>
     </author>
@@ -522,7 +522,7 @@
     <title>Creating Complications with ClockKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-209"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-209</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Eliza Block</name>
     </author>
@@ -544,7 +544,7 @@
     <title>WatchKit In-Depth, Part 2</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-208"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-208</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Nathan deVries</name>
     </author>
@@ -567,7 +567,7 @@
     <title>WatchKit In-Depth, Part 1</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-207"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-207</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Andrew Platzer</name>
     </author>
@@ -587,7 +587,7 @@
     <title>What's New in MapKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-206"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-206</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Sumit Lonkar</name>
     </author>
@@ -607,7 +607,7 @@
     <title>Getting Started with Multitasking on iPad in iOS 9</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-205"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-205</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Peter Hajas</name>
     </author>
@@ -627,7 +627,7 @@
     <title>Apple Watch Accessibility</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-204"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-204</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Qasid Sadiq</name>
     </author>
@@ -647,7 +647,7 @@
     <title>What's New in HealthKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-203"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-203</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Shannon Tan</name>
     </author>
@@ -667,7 +667,7 @@
     <title>What's New in Cocoa</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-202"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-202</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Ali Ozer</name>
     </author>
@@ -687,7 +687,7 @@
     <title>iOS Accessibility</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-201"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-201</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Ian Fisch</name>
     </author>
@@ -707,7 +707,7 @@
     <title>Optimizing Your App for Multitasking on iPad in iOS 9</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-212"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-212</id>
-    <updated>2015-12-25T19:09:18Z</updated>
+    <updated>2015-12-26T10:26:17Z</updated>
     <author>
       <name>Brittany Paine</name>
     </author>
@@ -719,6 +719,783 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-212&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>A Strategy for Great Work</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-237"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-237</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Ken Kocienda</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-237&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-237&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Experience with past projects can help you do better work in the future if you can draw out the right lessons from what&#x27;s happened. Hear stories and gain valuable insights from a senior engineer, with a lot of Apple software development experience, who&#x27;s learned a few lessons along the way and figured out some useful approaches to take.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-237&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Building Interruptible and Responsive Interactions</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-236"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-236</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Josh Shaffer</name>
+    </author>
+    <author>
+      <name>Andy Matuschak</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-236&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-236&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn how to fluidly transition interactive UI elements from gesture-driven control to animated transitions. Take advantage of new iOS 8 behavior to smoothly transition between several animations on the same view. Discover architectural approaches to interfaces which remain interactive while they animate.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-236&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced Scrollviews and Touch Handling Techniques</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-235"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-235</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Josh Shaffer</name>
+    </author>
+    <author>
+      <name>Eliza Block</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-235&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-235&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Scrollviews build on gesture recognizers and underlying multi-touch mechanics to provide a fundamental piece of the iOS user experience. Gain a broader understanding of the iOS touch handling architecture through practical real-world examples. Discover advanced tips and tricks for combining scrolling with other touch handling techniques to create delightful user interfaces.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-235&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Building a Document-based App</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-234"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-234</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Mike Hess</name>
+    </author>
+    <author>
+      <name>Johannes Fortmann</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-234&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-234&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Come hear the advancements in document handling in iOS 8. See how easy it is to use the new Document Picker UI. Learn how to share documents between apps, and even provide documents to other apps from your custom data store.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-234&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Sharing code between iOS and OS X</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-233"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-233</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Elizabeth Reid</name>
+    </author>
+    <author>
+      <name>Chris Cowdery-Corvan</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-233&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-233&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn what the iWork engineers did to ship iWork for iOS and Mac from a single codebase. Explore the patterns for sharing code between desktop and mobile, and see how you can optimize your code and write great apps.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-233&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced User Interfaces with Collection Views</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-232"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-232</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Jeff Watkins</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-232&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-232&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Building an advanced user interface with collection view requires a great design, careful code architecture, and often times a custom layout. Learn how the iTunes team used UICollectionView to deliver a new version of the iTunes Connect app with an updated user interface incorporating pinning headers, swipe to edit and reorder, and a manageable code-base.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-232&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced CloudKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-231"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-231</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Jacob Farkas</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-231&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-231&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Dive deep into CloudKit! Learn how to perform advanced operations on records and store private data and gain a deeper understanding about custom record zones, ensuring data integrity, and effectively modeling your data.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-231&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Making a Great First Impression With Strong Onboarding Design</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-230"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-230</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>John Cavanaugh</name>
+    </author>
+    <author>
+      <name>Rachel Roth</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-230&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-230&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn how to effectively introduce new users to the capabilities and features of your app or game in a way that will draw them in the very first time and then keep them coming back.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-230&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced iOS Application Architecture and Patterns</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-229"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-229</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Andy Matuschak</name>
+    </author>
+    <author>
+      <name>Colin Barrett</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-229&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-229&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Explore a selection of high-level software engineering techniques presented in the context of Cocoa Touch. Learn how to manage complexity in large codebases by clearly defining where truth resides, by controlling state with Swift&#x27;s powerful value types and immutability, and by thinking in terms of composition.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-229&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>A Look Inside Presentation Controllers</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-228"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-228</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Peter Hajas</name>
+    </author>
+    <author>
+      <name>Jim Turner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-228&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-228&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;iOS 8 brings you powerful new means of presenting content within your apps. Hear how presentation controllers were leveraged by UIKit to give you fine grain control using new alert and searching APIs. Dive deep into how presentation controllers work and how you can use them to present content within your app in exciting new ways.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-228&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Creating Modern Cocoa Apps</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-227"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-227</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Tony Parker</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-227&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-227&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Developing apps for OS X Yosemite is easier than ever with new enhancements to Cocoa. Learn how to use these new tools and APIs to develop a modern OS X app. Explore what&#x27;s now available in Cocoa and learn to harness and implement these key technologies to make your app at once totally modern and familiar to people using it on OS X Yosemite.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-227&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Table and Collection Views</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-226"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-226</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Luke Hiesterman</name>
+    </author>
+    <author>
+      <name>Olivier Gutknecht</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-226&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-226&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;iOS 8 brings dynamic type front and foremost throughout UIKit classes. Learn about extensive enhancements made to table views and collection views, empowering you to create dynamically sized cells and exercise greater control over layouts. Find out how to align user expectations from their settings to your UI.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-226&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Core Data</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-225"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-225</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Melissa Turner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-225&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-225&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn about the latest enhancements to the Core Data framework. Hear how to efficiently update your objects, execute simultaneous operations, and extend the framework to support your custom requirements.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-225&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Core iOS Application Architectural Patterns</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-224"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-224</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Bill Dudney</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-224&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-224&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Get the most out of iOS&#x27;s frameworks by understanding their core idioms and expectations. Learn about pervasive design patterns like &#x27;Model, View, Controller&#x27;, Target&#x2F;Action, Delegation and others used throughout Cocoa Touch. Gain practical knowledge of architectural idioms to organize your code for flexibility, clarity and reliability. See how to structure your app to take full advantage of Apple&#x27;s frameworks.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-224&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Prototyping: Fake It Till You Make It</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-223"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-223</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Jeffrey Traer Bernstein</name>
+    </author>
+    <author>
+      <name>Linda Dong</name>
+    </author>
+    <author>
+      <name>Julian Missig</name>
+    </author>
+    <author>
+      <name>Mark Hauenstein</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-223&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-223&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Make better apps by trying things out first, before you write any code. Get a glimpse of Apple&#x27;s prototyping process and the range of tools and techniques we use, some of which might surprise you.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-223&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Optimize Your Earning Power With iAd</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-222"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-222</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>David Wilson</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-222&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-222&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;iAd technologies built into iOS let you easily include advertising in your app.  Discover what&#x27;s new in the iAd Framework, including multi-view banner strategies, full screen and video interstitials, and best practices to ensure optimal ad performance. You&#x27;ll also learn how to implement iAd App Attribution to help you accurately measure the lifetime value of newly acquired customers.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-222&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Creating Custom iOS User Interfaces</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-221"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-221</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Brandon Newendorp</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-221&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-221&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Make your app stand out from the competition with a compelling, yet familiar, user interface, and custom controls that match your app&#x27;s personality and effectively reveal it&#x27;s key features. Learn advanced Core Animation techniques such as spring view animations, and see new visual effects such as blur and vibrancy and how they can give your apps a visual edge.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-221&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Adopting Advanced Features of the New UI of OS X Yosemite</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-220"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-220</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Chris Dreessen</name>
+    </author>
+    <author>
+      <name>Corbin Dunn</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-220&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-220&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;OS X Yosemite introduces a refined new look, and Cocoa provides you with a rich set of APIs and facilities to embrace this new look in your application. Discover how to properly use these APIs to bring the refinement, translucency, and vibrancy of OS X Yosemite to your apps. Dive deep into a number of case studies demonstrating applications with different designs and needs.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-220&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Adopting Handoff on iOS and OS X</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-219"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-219</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Michael Jurewitz</name>
+    </author>
+    <author>
+      <name>Vince Spader</name>
+    </author>
+    <author>
+      <name>Keith Stattenfield</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-219&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-219&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Handoff allows people to seamlessly move activities between devices and pick up right where they left off. Learn how to save, transfer, and restore user activities in apps of all architectures. See how easy it is to add Handoff support to your iOS and OS X apps to make your user experience even better.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-219&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Designing a Great In-App Purchase Experience</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-218"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-218</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Rachel Roth</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-218&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-218&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Being successful with In-App Purchases requires much more than just having a store within your app. A well-designed experience motivates customers to purchase, offers them the items that they want based on what&#x27;s happening, communicates item details and pricing clearly, and provides vital feedback about the purchasing process. Learn key design techniques, how best to communicate when new content and subscriptions become available, how to handle large sets of In-App content, and important StoreKit tips.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-218&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Creating Extensions for iOS and OS X, Part 2</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-217"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-217</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Damien Sorresso</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-217&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-217&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Take the plunge into advanced extension concepts such as creating custom action extensions. Dive deep into extension architecture to learn how to provide a consistent experience between extensions and your app. See how to utilize extensions with Safari to bridge the gap between your websites and native apps, and discover how to make great extensions that users will love.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-217&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Building Adaptive Apps with UIKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-216"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-216</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Jacob Xiao</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-216&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-216&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Building your apps to be flexible enough to be used in different orientations and on different devices is crucial. Learn about the enhancements that have been made to UIKit view controllers to make it even easier for you to adapt your user interface to any size or orientation. See how to effectively use size classes to ensure a great user experience for any context and find out how Xcode can help you create and test your apps for different sized devices.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-216&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>View Controller Advancements in iOS 8</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-214"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-214</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Bruce D. Nilo</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-214&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-214&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;View controllers are fundamental to creating apps on iOS. Learn about the enhancements made to view controllers in iOS 8 to improve the user experience in your apps. Dive into using and creating transition coordinators and find out about all-new additions to split view controllers and navigation controllers.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-214&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introducing HomeKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-213"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-213</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Kevin McLaughlin</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-213&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-213&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;iOS 8 introduces HomeKit, a high-level device connectivity framework enabling apps to interact with physical accessories in the world around us. Learn the objects that define these devices, see how to control them, and discover how to create a full device control experience for the home.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-213&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Storyboards and Controllers on OS X</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-212"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-212</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Mike Swingler</name>
+    </author>
+    <author>
+      <name>Raleigh Ledet</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-212&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-212&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn how to build your OS X application using storyboards, view controllers, and gesture recognizers. See how these OS X enhancements can simplify complex user interaction controller code. Gain a practical understanding with a high level introduction to Xcode&#x27;s Interface Builder integration and dive deep into a detailed discussion of the new APIs with tips to create great apps for OS X.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-212&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Designing Intuitive User Experiences</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-211"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-211</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Mike Stern</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-211&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-211&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn about the key concepts and principles that will enable you to make your app intuitive and approachable. Gain insights into how you can harness UI animations to help people stay oriented, get clear and meaningful feedback, and navigate with ease.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-211&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Accessibility on iOS</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-210"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-210</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Clare Kasemset</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-210&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-210&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;iOS offers unmatched accessibility support that can help you reach a wider audience. Join us for an exploration of the features that iOS offers for users with specific needs, in areas such as vision, hearing, movement, and learning. Learn how to leverage existing and new UIAccessibility APIs in iOS 8, including expanded support for low vision users, to ensure that your app&#x27;s features are available to all users.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-210&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Adapting Your App to the New UI of OS X Yosemite</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-209"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-209</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Patrick Heynen</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-209&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-209&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Take a tour of the new appearances and behaviors that Cocoa supports and learn how easy it is to adopt them when you use standard Cocoa classes. Get an overview of the changes to Cocoa and find out how to make your app fit in and feel familiar to people using OS X Yosemite.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-209&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introducing CloudKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-208"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-208</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Olivier Bonnet</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-208&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-208&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;CloudKit is the framework that powers iCloud on iOS and OS X, now available directly in your app. Learn how you can take advantage of its feature-rich API to store and query your own custom data and assets in iCloud.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-208&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Accessibility on OS X</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-207"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-207</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Patti Hoa</name>
+    </author>
+    <author>
+      <name>Chris Dolan</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-207&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-207&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;OS X is known for its unsurpassed level of accessibility. Find out about an all-new OS X accessibility API to make adding accessibility support to your apps even easier. Discover how to add support for VoiceOver, Switch Control, automation and other assistive-technology clients to work with your OS X applications. Learn advanced techniques to make complex controls accessible with only a few lines of code.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-207&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introducing the Modern WebKit API</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-206"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-206</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Anders Carlsson</name>
+    </author>
+    <author>
+      <name>Beth Dakin</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-206&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-206&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;The modern WebKit framework enables developers to integrate web content into their native app experience with more features and fewer lines of code. Dive into the latest WebKit enhancements including modern Objective-C features such as blocks and explicit object types, advanced bridging between JavaScript and Objective-C, increased JavaScript performance via WebKit&#x27;s super-fast JIT, and more—all delivered in an API unified for both iOS and OS X.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-206&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Creating Extensions for iOS and OS X, Part 1</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-205"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-205</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Ian Baird</name>
+    </author>
+    <author>
+      <name>Matt Gamble</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-205&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-205&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Extensions enable you to keep people engaged with your content across iOS and OS X. Learn how to create extensions that share content with social websites, engage users in Notification Center, and enable a variety of other exciting features. Tap into the potential of extensions and prepare to dive into advanced topics in Part 2.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-205&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Cocoa</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-204"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-204</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Ali Ozer</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-204&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-204&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;OS X Yosemite brings a clean new look, view controller enhancements, Mac storyboards, app extensions, Continuity, and many additional features you can leverage through the Cocoa frameworks. This is your first stop to discover great Cocoa sessions throughout the week.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-204&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introducing HealthKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-203"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-203</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Justin Rushing</name>
+    </author>
+    <author>
+      <name>Siji Rachel</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-203&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-203&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;HealthKit is a brand new framework that centralizes the data storage of personal health information. Learn from the framework authors how to save, query, and interpret health data to make your apps more engaging and personal for your users.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-203&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Cocoa Touch</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-202"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-202</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Jake Behrens</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-202&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-202&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;iOS 8 brings enhancements to the Cocoa Touch frameworks for making next generation apps on iOS. Learn about updates to view controllers, the introduction of size classes, and get an overview of all new APIs to help you create adaptive apps. Hear about new capabilities, such as extensions and handoff, which will enable you to create great experiences for users to keep them up to date at all times or allow them to continue their workflow when they move from one device to another. Find out which sessions you won&#x27;t want to miss throughout the week.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-202&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced Topics in Internationalization</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-201"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-201</id>
+    <updated>2015-12-26T10:26:17Z</updated>
+    <author>
+      <name>Jake Behrens</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-201&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-201&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Making your app appealing to customers around the world requires more than basic localization. See how to tackle the complex aspects of making your app truly world-ready. Learn about the latest developments with internationalization on iOS and OS X, and learn from case studies illustrating common pitfalls to avoid and simple and effective techniques. Find out how to give your users a great experience no matter what language they speak or where they live.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-201&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

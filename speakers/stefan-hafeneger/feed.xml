@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/stefan-hafeneger"/>
   <link href="https://www.pomo.tv/speakers/stefan-hafeneger/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:15Z</updated>
+  <updated>2015-12-26T10:26:12Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Multitasking Essentials for Media-Based Apps on iPad in iOS 9</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-211"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-211</id>
-    <updated>2015-12-25T19:09:15Z</updated>
+    <updated>2015-12-26T10:26:12Z</updated>
     <author>
       <name>Stefan Hafeneger</name>
     </author>
@@ -25,6 +25,26 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-211&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Mastering Modern Media Playback</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-503"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-503</id>
+    <updated>2015-12-26T10:26:12Z</updated>
+    <author>
+      <name>Stefan Hafeneger</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-503&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-503&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Media playback just got easier and more powerful with the introduction of AVKit on iOS. Hear how AVKit provides view-level services that give you access to the modern media capabilities of AV Foundation. Learn the best practices for playing audiovisual media on iOS and OS X.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-503&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

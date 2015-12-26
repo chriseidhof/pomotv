@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/nick-porcino"/>
   <link href="https://www.pomo.tv/speakers/nick-porcino/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:16Z</updated>
+  <updated>2015-12-26T10:26:13Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Managing 3D Assets with Model I/O</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-602"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-602</id>
-    <updated>2015-12-25T19:09:16Z</updated>
+    <updated>2015-12-26T10:26:13Z</updated>
     <author>
       <name>Nick Porcino</name>
     </author>
@@ -26,6 +26,29 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-602&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Best Practices for Building SpriteKit Games</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-608"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-608</id>
+    <updated>2015-12-26T10:26:13Z</updated>
+    <author>
+      <name>Jacques Gasselin de Richebourg</name>
+    </author>
+    <author>
+      <name>Nick Porcino</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-608&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-608&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Gain a deeper understanding of the best practices to follow when building a SpriteKit based game. Get tips about game construction and see how to map the logical elements of your game into SpriteKit. Learn how data driven techniques can speed your development cycle, and discover how to achieve maximum performance for rendering, physics, and animation.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-608&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

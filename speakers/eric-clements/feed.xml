@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Eric Clements</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/eric-clements"/>
+  <link href="https://www.pomo.tv/speakers/eric-clements/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:15Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Fix Bugs Faster using Activity Tracing</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-714"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-714</id>
+    <updated>2015-12-26T10:26:15Z</updated>
+    <author>
+      <name>Eric Clements</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-714&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-714&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Finding and diagnosing application bugs can be very difficult. Activity Tracing is a new technology that can dramatically improve your speed and efficiency finding bugs in your code. Log trace messages to an auto-generated ring buffer while associating them with the originating user action. Reduce the time sifting through unrelated log messages trying to understand what was going on when the failure happened.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-714&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Ravi Chittari</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/ravi-chittari"/>
+  <link href="https://www.pomo.tv/speakers/ravi-chittari/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:15Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>What's New in iAd Workbench</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-510"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-510</id>
+    <updated>2015-12-26T10:26:15Z</updated>
+    <author>
+      <name>Paresh Rajwat</name>
+    </author>
+    <author>
+      <name>Ravi Chittari</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-510&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-510&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;iAd Workbench makes it simple to create and manage mobile ad campaigns that reach the right audience for your apps, products or brands.  Discover how features such as new creative executions, enhanced targeting and pricing capabilities and access via API&#x27;s make iAd Workbench more effective and easy to work with. Learn how app download attribution and custom audience segments can provide insights into your audience, deliver customized messages and realize long term value.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-510&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

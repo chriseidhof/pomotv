@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/katie-skinner"/>
   <link href="https://www.pomo.tv/speakers/katie-skinner/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:16Z</updated>
+  <updated>2015-12-26T10:26:13Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Privacy and Your App</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-703"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-703</id>
-    <updated>2015-12-25T19:09:16Z</updated>
+    <updated>2015-12-26T10:26:13Z</updated>
     <author>
       <name>Katie Skinner</name>
     </author>
@@ -25,6 +25,29 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;systemframeworks&quot;&gt;systemframeworks&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-703&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>User Privacy in iOS and OS X</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-715"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-715</id>
+    <updated>2015-12-26T10:26:13Z</updated>
+    <author>
+      <name>David Stites</name>
+    </author>
+    <author>
+      <name>Katie Skinner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-715&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-715&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn about new iOS and OS X privacy features and get details on new and updated APIs. Hear best practices for delivering great features and respecting your customers&#x27; privacy.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-715&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Jim Grosbach</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/jim-grosbach"/>
+  <link href="https://www.pomo.tv/speakers/jim-grosbach/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:15Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>What's New in LLVM</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-417"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-417</id>
+    <updated>2015-12-26T10:26:15Z</updated>
+    <author>
+      <name>Jim Grosbach</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-417&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-417&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;The Apple LLVM compiler continues to evolve, with support for 64-bit iOS products, powerful new optimizations, and other new features. Learn about some of the advanced technology that the compiler uses to increase the performance of your code, and get details on how to take advantage of the latest features in the compiler.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-417&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

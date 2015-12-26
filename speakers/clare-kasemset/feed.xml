@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Clare Kasemset</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/clare-kasemset"/>
+  <link href="https://www.pomo.tv/speakers/clare-kasemset/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:14Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Accessibility on iOS</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-210"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-210</id>
+    <updated>2015-12-26T10:26:14Z</updated>
+    <author>
+      <name>Clare Kasemset</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-210&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-210&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;iOS offers unmatched accessibility support that can help you reach a wider audience. Join us for an exploration of the features that iOS offers for users with specific needs, in areas such as vision, hearing, movement, and learning. Learn how to leverage existing and new UIAccessibility APIs in iOS 8, including expanded support for low vision users, to ensure that your app&#x27;s features are available to all users.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-210&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/bill-dudney"/>
   <link href="https://www.pomo.tv/speakers/bill-dudney/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:16Z</updated>
+  <updated>2015-12-26T10:26:13Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Building Better Apps with Value Types in Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-414"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-414</id>
-    <updated>2015-12-25T19:09:16Z</updated>
+    <updated>2015-12-26T10:26:13Z</updated>
     <author>
       <name>Doug Gregor</name>
     </author>
@@ -28,6 +28,26 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-414&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Core iOS Application Architectural Patterns</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-224"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-224</id>
+    <updated>2015-12-26T10:26:13Z</updated>
+    <author>
+      <name>Bill Dudney</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-224&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-224&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Get the most out of iOS&#x27;s frameworks by understanding their core idioms and expectations. Learn about pervasive design patterns like &#x27;Model, View, Controller&#x27;, Target&#x2F;Action, Delegation and others used throughout Cocoa Touch. Gain practical knowledge of architectural idioms to organize your code for flexibility, clarity and reliability. See how to structure your app to take full advantage of Apple&#x27;s frameworks.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-224&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

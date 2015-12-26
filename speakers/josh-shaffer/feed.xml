@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/josh-shaffer"/>
   <link href="https://www.pomo.tv/speakers/josh-shaffer/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:15Z</updated>
+  <updated>2015-12-26T10:26:12Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Introducing WatchKit for watchOS 2</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-105"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-105</id>
-    <updated>2015-12-25T19:09:15Z</updated>
+    <updated>2015-12-26T10:26:12Z</updated>
     <author>
       <name>Josh Shaffer</name>
     </author>
@@ -25,6 +25,52 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;watchos&quot;&gt;watchos&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-105&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Building Interruptible and Responsive Interactions</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-236"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-236</id>
+    <updated>2015-12-26T10:26:12Z</updated>
+    <author>
+      <name>Josh Shaffer</name>
+    </author>
+    <author>
+      <name>Andy Matuschak</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-236&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-236&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn how to fluidly transition interactive UI elements from gesture-driven control to animated transitions. Take advantage of new iOS 8 behavior to smoothly transition between several animations on the same view. Discover architectural approaches to interfaces which remain interactive while they animate.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-236&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced Scrollviews and Touch Handling Techniques</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-235"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-235</id>
+    <updated>2015-12-26T10:26:12Z</updated>
+    <author>
+      <name>Josh Shaffer</name>
+    </author>
+    <author>
+      <name>Eliza Block</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-235&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-235&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Scrollviews build on gesture recognizers and underlying multi-touch mechanics to provide a fundamental piece of the iOS user experience. Gain a broader understanding of the iOS touch handling architecture through practical real-world examples. Discover advanced tips and tricks for combining scrolling with other touch handling techniques to create delightful user interfaces.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-235&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

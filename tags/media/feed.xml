@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/media"/>
   <link href="https://www.pomo.tv/tags/media/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:19Z</updated>
+  <updated>2015-12-26T10:26:19Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Safari Extensibility: Content Blocking and Shared Links</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-511"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-511</id>
-    <updated>2015-12-25T19:09:19Z</updated>
+    <updated>2015-12-26T10:26:19Z</updated>
     <author>
       <name>Brian Weinstein</name>
     </author>
@@ -33,7 +33,7 @@
     <title>What's New in Core Image</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-510"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-510</id>
-    <updated>2015-12-25T19:09:19Z</updated>
+    <updated>2015-12-26T10:26:19Z</updated>
     <author>
       <name>David Hayward</name>
     </author>
@@ -53,7 +53,7 @@
     <title>Audio Unit Extensions</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-508"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-508</id>
-    <updated>2015-12-25T19:09:19Z</updated>
+    <updated>2015-12-26T10:26:19Z</updated>
     <author>
       <name>Doug Wyatt</name>
     </author>
@@ -73,7 +73,7 @@
     <title>What's New in Core Audio</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-507"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-507</id>
-    <updated>2015-12-25T19:09:19Z</updated>
+    <updated>2015-12-26T10:26:19Z</updated>
     <author>
       <name>Akshatha Nagesh</name>
     </author>
@@ -96,7 +96,7 @@
     <title>Editing Movies in AV Foundation</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-506"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-506</id>
-    <updated>2015-12-25T19:09:19Z</updated>
+    <updated>2015-12-26T10:26:19Z</updated>
     <author>
       <name>Tim Monroe</name>
     </author>
@@ -116,7 +116,7 @@
     <title>Using Safari to Deliver and Debug a Responsive Web Design</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-505"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-505</id>
-    <updated>2015-12-25T19:09:19Z</updated>
+    <updated>2015-12-26T10:26:19Z</updated>
     <author>
       <name>Jono Wells</name>
     </author>
@@ -136,7 +136,7 @@
     <title>Monetize and Promote Your App with iAd</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-503"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-503</id>
-    <updated>2015-12-25T19:09:19Z</updated>
+    <updated>2015-12-26T10:26:19Z</updated>
     <author>
       <name>Carol Teng</name>
     </author>
@@ -159,7 +159,7 @@
     <title>Content Protection for HTTP Live Streaming</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-502"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-502</id>
-    <updated>2015-12-25T19:09:19Z</updated>
+    <updated>2015-12-26T10:26:19Z</updated>
     <author>
       <name>Roger Pantos</name>
     </author>
@@ -181,7 +181,7 @@
     <title>What's New in Web Development in WebKit and Safari</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-501"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-501</id>
-    <updated>2015-12-25T19:09:19Z</updated>
+    <updated>2015-12-26T10:26:19Z</updated>
     <author>
       <name>Brent Fulgham</name>
     </author>
@@ -194,6 +194,338 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;webkit&quot;&gt;webkit&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-501&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Designing Responsive Web Experiences</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-517"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-517</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Casey Dougherty</name>
+    </author>
+    <author>
+      <name>Ted O’Connor</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-517&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-517&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;As your user base grows, so will the variety of devices you&#x27;ll need to support. People expect modern web sites to be fast, visually appealing, and rich functionally, regardless of a device&#x27;s performance characteristics, resolution or size. Learn how to use the latest web technologies in WebKit and Safari to create engaging, attractive, and adaptive layouts across all devices.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-517&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Improving the Accessibility and Usability of Complex Web Applications</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-516"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-516</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Jesse Bunch</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-516&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-516&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;The increasing complexity of modern web applications brings increased challenges to ensuring your web app is usable by everyone. Discover how accessibility benefits everyone, and why it&#x27;s worth the effort. Learn advanced tips and techniques, and discover new developer tools for increasing productivity and avoiding common pitfalls.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-516&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Developing Core Image Filters for iOS</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-515"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-515</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Alexandre Naaman</name>
+    </author>
+    <author>
+      <name>Tony Chu</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-515&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-515&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Dive deeper into creating your own custom Core Image filters for iOS. Learn about writing filter kernels and get details about the Core Image kernel language. See how to use custom filters in your apps or make them available to other apps via extensions.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-515&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advances in Core Image</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-514"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-514</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>David Hayward</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-514&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-514&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Core Image lets you create amazing effects in your camera and image editing apps. Learn about the advances in Core Image for iOS 8 and OS X Yosemite. Get introduced to writing custom image processing filters for iOS and see how they can be used in Photos extensions.  Walk through the enhancements for working with large images, and get details about the newest filters and detectors.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-514&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Direct Access to Video Encoding and Decoding</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-513"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-513</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>David Eldred</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-513&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-513&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Discover how to use AV Foundation and Video Toolbox to access hardware accelerated encoding and decoding services.  Gain best practices for when it is appropriate to use a high-level or low-level API for encoding or decoding. Learn about multi-pass export for improved H.264 encoding and see how to use it in your app.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-513&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Web Inspector and Modern JavaScript</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-512"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-512</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Timothy Hatcher</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-512&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-512&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Web Inspector, the powerful debugging tool in WebKit, is now available to JavaScriptCore-based apps. Find out how to leverage Web Inspector in your WebKit- and JavaScriptCore-based apps on iOS and OS X. Gain an overview of what&#x27;s new in the JavaScript language and how to use modern JavaScript in your apps.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-512&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introducing the Photos Frameworks</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-511"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-511</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Adam Swift</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-511&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-511&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;iOS 8 introduces two frameworks for managing the photo library and enhancing editing in photo, video, and camera apps. Get introduced to the Photos Framework and see how it enables you to build first-class photo browsing and editing apps. Learn about photo editing extensions with the PhotosUI framework and see how to include your own editing features into the built-in Photos app.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-511&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in iAd Workbench</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-510"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-510</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Paresh Rajwat</name>
+    </author>
+    <author>
+      <name>Ravi Chittari</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-510&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-510&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;iAd Workbench makes it simple to create and manage mobile ad campaigns that reach the right audience for your apps, products or brands.  Discover how features such as new creative executions, enhanced targeting and pricing capabilities and access via API&#x27;s make iAd Workbench more effective and easy to work with. Learn how app download attribution and custom audience segments can provide insights into your audience, deliver customized messages and realize long term value.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-510&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Creating 3D Interactive Content with WebGL</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-509"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-509</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Dean Jackson</name>
+    </author>
+    <author>
+      <name>Brady Eidson</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-509&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-509&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;WebGL allows you to create amazing content that lifts off the page. Learn how to use WebGL to create immersive online experiences, display three-dimensional models with real-time interactivity and use image processing techniques typically thought of as unavailable on the web.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-509&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Camera Capture: Manual Controls</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-508"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-508</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Brad Ford</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-508&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-508&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn about using manual controls to manipulate focus, exposure, and white balance. Take control of the camera&#x27;s focus position, ISO, shutter speed, temperature, tint, and more. Learn how to use the new iOS 8 exposure bracketing API to enable powerful creative and computational photography applications. Discover view-level services for capturing audio and video on OS X.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-508&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Your App, Your Website, and Safari</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-506"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-506</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Ricky Mondello</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-506&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-506&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;While a modern digital presence combines both apps and traditional web sites, people expect a coherent, seamless, and device-optimized experience in each case. Learn techniques and best practices for successfully making transitions between iOS and OS X apps and the web. Gain insights into the appropriate web standards you can use to make your web content look and work optimally in Safari.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-506&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Harnessing Metadata in Audiovisual Media</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-505"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-505</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Adam Sonnanstine</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-505&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-505&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Rich metadata, such as time, date, location, and user defined tags, are particularly useful for time-based media. Discover how to harness static and timed metadata in your AV Foundation apps. See how to write metadata into media and read it during playback. Gain knowledge of best practices for privacy and protecting user data.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-505&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced Media for the Web</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-504"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-504</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Jer Noble</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-504&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-504&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;With the increasing popularity of media on the web, content providers find themselves confronted by an over-abundance of formats, codecs and technologies competing for their attention. See how to use the latest HTML5 technologies in WebKit and Safari to make it easier to deliver media to your users and explore the performance and user experience tradeoffs you&#x27;ll need to keep in mind when deciding between building for simplicity and fine-grained control.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-504&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Mastering Modern Media Playback</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-503"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-503</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Stefan Hafeneger</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-503&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-503&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Media playback just got easier and more powerful with the introduction of AVKit on iOS. Hear how AVKit provides view-level services that give you access to the modern media capabilities of AV Foundation. Learn the best practices for playing audiovisual media on iOS and OS X.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-503&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>AVAudioEngine in Practice</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-502"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-502</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Kapil Krishnamurthy</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-502&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-502&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Dive deeper into the new Objective-C based audio graph system in AV Foundation. Learn how apps can utilize rich audio services from simple audio playback tasks to complex audio rendering chains, including effects and 3D spatial rendering for games.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-502&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Core Audio</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-501"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-501</id>
+    <updated>2015-12-26T10:26:19Z</updated>
+    <author>
+      <name>Torrey Holbrook Walker</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-501&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-501&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;See what&#x27;s new in Core Audio for iOS and OS X. Be introduced to the powerful new APIs for managing audio buffers, files, and data formats. Learn how to incorporate views to facilitate switching between inter-app audio apps on iOS. Take an in depth look at how to tag Audio Units and utilize MIDI over Bluetooth LE.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-501&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

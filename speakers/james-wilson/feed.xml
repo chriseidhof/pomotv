@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>James Wilson</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/james-wilson"/>
+  <link href="https://www.pomo.tv/speakers/james-wilson/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:15Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Preventing Unauthorized Purchases with Receipts</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-305"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-305</id>
+    <updated>2015-12-26T10:26:15Z</updated>
+    <author>
+      <name>James Wilson</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-305&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-305&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;services&quot;&gt;services&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Receipts provide a valuable record of the sale for an app or for any In-App Purchases made from within an app. You can add receipt validation code to your app to prevent unauthorized purchases and protect your content. Learn how to verify exactly what people have paid for and how to validate these transactions.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-305&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Optimizing In-App Purchases</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-303"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-303</id>
+    <updated>2015-12-26T10:26:15Z</updated>
+    <author>
+      <name>James Wilson</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-303&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-303&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;services&quot;&gt;services&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Using the StoreKit framework properly and optimizing the user experience of your In-App store is vital in order to never miss out on a sale or confuse people. Learn valuable techniques for a trouble free browsing and purchasing experience, and to ensure your app gets through the app submission process smoothly.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-303&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

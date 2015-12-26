@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/wil-turner"/>
   <link href="https://www.pomo.tv/speakers/wil-turner/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:16Z</updated>
+  <updated>2015-12-26T10:26:13Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>UI Testing in Xcode</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-406"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-406</id>
-    <updated>2015-12-25T19:09:16Z</updated>
+    <updated>2015-12-26T10:26:13Z</updated>
     <author>
       <name>Wil Turner</name>
     </author>
@@ -28,6 +28,29 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;uitesting&quot;&gt;uitesting&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-406&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Testing in Xcode 6</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-414"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-414</id>
+    <updated>2015-12-26T10:26:13Z</updated>
+    <author>
+      <name>Brooke Callahan</name>
+    </author>
+    <author>
+      <name>Wil Turner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-414&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-414&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Unit testing is an essential tool to consistently verify your code works correctly. Learn how Xcode 6 takes this to the next level with support for performance testing, baselining, and integration with Xcode bots to continually monitor your performance over time and devices.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-414&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Dave Rahardja</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/dave-rahardja"/>
+  <link href="https://www.pomo.tv/speakers/dave-rahardja/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:15Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Distributing Enterprise Apps</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-705"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-705</id>
+    <updated>2015-12-26T10:26:15Z</updated>
+    <author>
+      <name>Dave Rahardja</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-705&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-705&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn how to provision and deploy apps across your enterprise. Leverage key Apple programs such as the Volume Purchase Program and the iOS Developer Enterprise Program to get the right apps in the hands of your employees, contractors, and partners. Learn how to manage certificates and provisioning profiles to deploy your apps, and take advantage of mobile device management (MDM) tools to provide a seamless experience for your users. Gain insight into the complete app management lifecycle; from signing your in-house apps in Xcode, to distributing, managing, and revoking apps across your workforce.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-705&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Building Apps for Enterprise and Education</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-704"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-704</id>
+    <updated>2015-12-26T10:26:15Z</updated>
+    <author>
+      <name>Dave Rahardja</name>
+    </author>
+    <author>
+      <name>Alexander Botkin</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-704&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-704&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-os&quot;&gt;core os&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn about data security, enterprise authentication, integration with back-end systems, app configuration methods, and the latest technologies for interacting with documents, accessories, and more. Get helpful tips for constructing your apps to meet the needs of schools and educators, as well as key requirement from IT. Perfect for everyone looking to get their apps in the hands of business professionals, educators, and students worldwide.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-704&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

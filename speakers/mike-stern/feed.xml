@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/mike-stern"/>
   <link href="https://www.pomo.tv/speakers/mike-stern/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:15Z</updated>
+  <updated>2015-12-26T10:26:12Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Apple Watch Design Tips and Tricks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-805"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-805</id>
-    <updated>2015-12-25T19:09:15Z</updated>
+    <updated>2015-12-26T10:26:12Z</updated>
     <author>
       <name>Mike Stern</name>
     </author>
@@ -33,7 +33,7 @@
     <title>Designing for Apple Watch</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-802"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-802</id>
-    <updated>2015-12-25T19:09:15Z</updated>
+    <updated>2015-12-26T10:26:12Z</updated>
     <author>
       <name>Mike Stern</name>
     </author>
@@ -44,6 +44,26 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;watchos&quot;&gt;watchos&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-802&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Designing Intuitive User Experiences</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-211"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-211</id>
+    <updated>2015-12-26T10:26:12Z</updated>
+    <author>
+      <name>Mike Stern</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-211&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-211&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Learn about the key concepts and principles that will enable you to make your app intuitive and approachable. Gain insights into how you can harness UI animations to help people stay oriented, get clear and meaningful feedback, and navigate with ease.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-211&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

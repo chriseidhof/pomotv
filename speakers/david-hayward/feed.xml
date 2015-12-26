@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/david-hayward"/>
   <link href="https://www.pomo.tv/speakers/david-hayward/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:16Z</updated>
+  <updated>2015-12-26T10:26:13Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>What's New in Core Image</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-510"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-510</id>
-    <updated>2015-12-25T19:09:16Z</updated>
+    <updated>2015-12-26T10:26:13Z</updated>
     <author>
       <name>David Hayward</name>
     </author>
@@ -26,6 +26,26 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;coreimage&quot;&gt;coreimage&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-510&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advances in Core Image</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-514"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-514</id>
+    <updated>2015-12-26T10:26:13Z</updated>
+    <author>
+      <name>David Hayward</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-514&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-514&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Core Image lets you create amazing effects in your camera and image editing apps. Learn about the advances in Core Image for iOS 8 and OS X Yosemite. Get introduced to writing custom image processing filters for iOS and see how they can be used in Photos extensions.  Walk through the enhancements for working with large images, and get details about the newest filters and detectors.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-514&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

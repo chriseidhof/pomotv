@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/paul-turner"/>
   <link href="https://www.pomo.tv/speakers/paul-turner/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:15Z</updated>
+  <updated>2015-12-26T10:26:12Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>iTunes Connect: Development to Distribution</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-304"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-304</id>
-    <updated>2015-12-25T19:09:15Z</updated>
+    <updated>2015-12-26T10:26:12Z</updated>
     <author>
       <name>Paul Turner</name>
     </author>
@@ -27,6 +27,26 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;distribution&quot;&gt;distribution&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-304&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Creating Great App Previews</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-304"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-304</id>
+    <updated>2015-12-26T10:26:12Z</updated>
+    <author>
+      <name>Paul Turner</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-304&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-304&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;services&quot;&gt;services&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Spark interest in your app by showing a compelling video preview highlighting the magic moments that make your app unique. Learn how to plan, create and publish your App Preview using Apple&#x27;s tools, guidelines and best practices.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-304&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Serhat Tekin</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/serhat-tekin"/>
+  <link href="https://www.pomo.tv/speakers/serhat-tekin/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:15Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Working with Metal: Advanced</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-605"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-605</id>
+    <updated>2015-12-26T10:26:15Z</updated>
+    <author>
+      <name>Gokhan Avkarogullari</name>
+    </author>
+    <author>
+      <name>Aaftab Munshi</name>
+    </author>
+    <author>
+      <name>Serhat Tekin</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-605&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-605&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Building on the fundamentals, learn how to create advanced games and graphics applications with Metal. See how to construct your rendering pipeline, understand how to use compute and graphics together, and discover how to optimize your Metal-based app.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-605&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

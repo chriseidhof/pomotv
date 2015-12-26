@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/jake-behrens"/>
   <link href="https://www.pomo.tv/speakers/jake-behrens/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:15Z</updated>
+  <updated>2015-12-26T10:26:12Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>WatchKit Tips and Tricks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-228"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-228</id>
-    <updated>2015-12-25T19:09:15Z</updated>
+    <updated>2015-12-26T10:26:12Z</updated>
     <author>
       <name>Jake Behrens</name>
     </author>
@@ -26,6 +26,46 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;watchkit&quot;&gt;watchkit&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-228&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What's New in Cocoa Touch</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-202"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-202</id>
+    <updated>2015-12-26T10:26:12Z</updated>
+    <author>
+      <name>Jake Behrens</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-202&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-202&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;iOS 8 brings enhancements to the Cocoa Touch frameworks for making next generation apps on iOS. Learn about updates to view controllers, the introduction of size classes, and get an overview of all new APIs to help you create adaptive apps. Hear about new capabilities, such as extensions and handoff, which will enable you to create great experiences for users to keep them up to date at all times or allow them to continue their workflow when they move from one device to another. Find out which sessions you won&#x27;t want to miss throughout the week.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-202&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced Topics in Internationalization</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-201"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-201</id>
+    <updated>2015-12-26T10:26:12Z</updated>
+    <author>
+      <name>Jake Behrens</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-201&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-201&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Making your app appealing to customers around the world requires more than basic localization. See how to tackle the complex aspects of making your app truly world-ready. Learn about the latest developments with internationalization on iOS and OS X, and learn from case studies illustrating common pitfalls to avoid and simple and effective techniques. Find out how to give your users a great experience no matter what language they speak or where they live.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-201&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

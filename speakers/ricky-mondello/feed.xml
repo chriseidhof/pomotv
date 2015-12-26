@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/ricky-mondello"/>
   <link href="https://www.pomo.tv/speakers/ricky-mondello/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:16Z</updated>
+  <updated>2015-12-26T10:26:13Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Introducing Safari View Controller</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-504"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-504</id>
-    <updated>2015-12-25T19:09:16Z</updated>
+    <updated>2015-12-26T10:26:13Z</updated>
     <author>
       <name>Ricky Mondello</name>
     </author>
@@ -26,6 +26,26 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;safari&quot;&gt;safari&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-504&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Your App, Your Website, and Safari</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-506"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-506</id>
+    <updated>2015-12-26T10:26:13Z</updated>
+    <author>
+      <name>Ricky Mondello</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-506&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-506&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;media&quot;&gt;media&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;While a modern digital presence combines both apps and traditional web sites, people expect a coherent, seamless, and device-optimized experience in each case. Learn techniques and best practices for successfully making transitions between iOS and OS X apps and the web. Gain insights into the appropriate web standards you can use to make your web content look and work optimally in Safari.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-506&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Amaury Balliet</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/amaury-balliet"/>
+  <link href="https://www.pomo.tv/speakers/amaury-balliet/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:15Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Building a Game with SceneKit</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-610"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-610</id>
+    <updated>2015-12-26T10:26:15Z</updated>
+    <author>
+      <name>Amaury Balliet</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-610&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-610&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics-and-games&quot;&gt;graphics and games&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Dive into the practical workflow of developing a 3D side-scrolling game using SceneKit. See how to get started, and learn about tools for managing game assets, creating particle systems, and editing nodes. Understand how SceneKit integrates with your art pipeline and learn how to implement lighting, shadows, and other visual effects. Come away from the session with a demo game in-hand and ready to play.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-610&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

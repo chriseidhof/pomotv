@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/dave-abrahams"/>
   <link href="https://www.pomo.tv/speakers/dave-abrahams/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:15Z</updated>
+  <updated>2015-12-26T10:26:12Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Protocol-Oriented Programming in Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-408"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-408</id>
-    <updated>2015-12-25T19:09:15Z</updated>
+    <updated>2015-12-26T10:26:12Z</updated>
     <author>
       <name>Dave Abrahams</name>
     </author>
@@ -26,6 +26,29 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;protocols&quot;&gt;protocols&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-408&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced Swift</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-404"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-404</id>
+    <updated>2015-12-26T10:26:12Z</updated>
+    <author>
+      <name>John McCall</name>
+    </author>
+    <author>
+      <name>Dave Abrahams</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-404&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-404&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Dive deep into Swift! Explore some of its more powerful features, like operator overloading, string interpolation, and advanced pattern matching. Learn how to take advantage of generics to write terse and expressive code.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-404&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

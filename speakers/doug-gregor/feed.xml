@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/doug-gregor"/>
   <link href="https://www.pomo.tv/speakers/doug-gregor/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:16Z</updated>
+  <updated>2015-12-26T10:26:13Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Building Better Apps with Value Types in Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-414"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-414</id>
-    <updated>2015-12-25T19:09:16Z</updated>
+    <updated>2015-12-26T10:26:13Z</updated>
     <author>
       <name>Doug Gregor</name>
     </author>
@@ -28,6 +28,26 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;developertools&quot;&gt;developertools&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-414&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift Interoperability In Depth</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-407"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-407</id>
+    <updated>2015-12-26T10:26:13Z</updated>
+    <author>
+      <name>Doug Gregor</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-407&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-407&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Swift and Objective-C work together at multiple levels to ensure that you can create great apps for iOS and OS X. Dive deep with us to see how to use fundamental Core Foundation and C types in your Swift code. Learn how bridging values work and gain a practical understanding of how Swift and Objective-C can accelerate your app development.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-407&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

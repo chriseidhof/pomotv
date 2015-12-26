@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/julian-missig"/>
   <link href="https://www.pomo.tv/speakers/julian-missig/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:17Z</updated>
+  <updated>2015-12-26T10:26:14Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Designing with Animation</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-803"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-803</id>
-    <updated>2015-12-25T19:09:17Z</updated>
+    <updated>2015-12-26T10:26:14Z</updated>
     <author>
       <name>Julian Missig</name>
     </author>
@@ -31,6 +31,35 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;design&quot;&gt;design&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-803&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Prototyping: Fake It Till You Make It</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-223"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-223</id>
+    <updated>2015-12-26T10:26:14Z</updated>
+    <author>
+      <name>Jeffrey Traer Bernstein</name>
+    </author>
+    <author>
+      <name>Linda Dong</name>
+    </author>
+    <author>
+      <name>Julian Missig</name>
+    </author>
+    <author>
+      <name>Mark Hauenstein</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-223&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-223&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Make better apps by trying things out first, before you write any code. Get a glimpse of Apple&#x27;s prototyping process and the range of tools and techniques we use, some of which might surprise you.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-223&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

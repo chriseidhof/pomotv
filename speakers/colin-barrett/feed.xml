@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/colin-barrett"/>
   <link href="https://www.pomo.tv/speakers/colin-barrett/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:12Z</updated>
+  <updated>2015-12-26T10:26:09Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Structure and Interpretation of Swift Programs</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=V-YvI83QdMs"/>
     <id>https://www.youtube.com/watch?v=V-YvI83QdMs</id>
-    <updated>2015-12-25T19:09:12Z</updated>
+    <updated>2015-12-26T10:26:09Z</updated>
     <author>
       <name>Colin Barrett</name>
     </author>
@@ -25,6 +25,29 @@
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;V-YvI83QdMs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced iOS Application Architecture and Patterns</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-229"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-229</id>
+    <updated>2015-12-26T10:26:09Z</updated>
+    <author>
+      <name>Andy Matuschak</name>
+    </author>
+    <author>
+      <name>Colin Barrett</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-229&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-229&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Explore a selection of high-level software engineering techniques presented in the context of Cocoa Touch. Learn how to manage complexity in large codebases by clearly defining where truth resides, by controlling state with Swift&#x27;s powerful value types and immutability, and by thinking in terms of composition.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-229&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>

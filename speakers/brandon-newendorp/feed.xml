@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Brandon Newendorp</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//speakers/brandon-newendorp"/>
+  <link href="https://www.pomo.tv/speakers/brandon-newendorp/feed.xml" rel="self"/>
+  <updated>2015-12-26T10:26:14Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Creating Custom iOS User Interfaces</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-221"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-221</id>
+    <updated>2015-12-26T10:26:14Z</updated>
+    <author>
+      <name>Brandon Newendorp</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-221&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-221&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Make your app stand out from the competition with a compelling, yet familiar, user interface, and custom controls that match your app&#x27;s personality and effectively reveal it&#x27;s key features. Learn advanced Core Animation techniques such as spring view animations, and see new visual effects such as blur and vibrancy and how they can give your apps a visual edge.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-221&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

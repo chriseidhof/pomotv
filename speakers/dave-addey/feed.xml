@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/dave-addey"/>
   <link href="https://www.pomo.tv/speakers/dave-addey/feed.xml" rel="self"/>
-  <updated>2015-12-25T19:09:16Z</updated>
+  <updated>2015-12-26T10:26:13Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Deeper into GameplayKit with DemoBots</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-609"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-609</id>
-    <updated>2015-12-25T19:09:16Z</updated>
+    <updated>2015-12-26T10:26:13Z</updated>
     <author>
       <name>Dave Addey</name>
     </author>
@@ -26,6 +26,29 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-609&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introduction to Swift</title>
+    <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-402"/>
+    <id>https://developer.apple.com/videos/play/wwdc2014-402</id>
+    <updated>2015-12-26T10:26:13Z</updated>
+    <author>
+      <name>Tim Isted</name>
+    </author>
+    <author>
+      <name>Dave Addey</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-402&quot;&gt;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-402&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Swift is Apple&#x27;s brand-new programming language for writing great iOS and OS X apps. Learn the basics of the language. See how to declare variables, use the fundamental data types, declare functions, and implement classes. Explore some of the great features that make Swift a safe, modern, and extremely powerful language.&lt;&#x2F;p&gt;
+  &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2014-402&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
     </content>
   </entry>
