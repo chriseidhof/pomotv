@@ -73,12 +73,12 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
-data.events.each do |name, metadata|
-  base_url = "/events/#{metadata.slug}"
+data.editions.each do |name, metadata|
+  base_url = "/editions/#{metadata.slug}"
   html = "#{base_url}/index.html"
   feed = "#{base_url}/feed.xml"
 
-  proxy html, "event.html", :locals => { :name => name, :metadata => metadata, :videos => data.videos[name], :atom_feed => feed}, :ignore => true, :search_title => "Event: #{name}"
+  proxy html, "edition.html", :locals => { :name => name, :metadata => metadata, :videos => data.videos[name], :atom_feed => feed}, :ignore => true, :search_title => "edition: #{name}"
   proxy feed, "feed.xml", :locals => { :name => name, :videos => data.videos[name], :html_page => base_url}, :ignore => true
 end
 
@@ -104,16 +104,16 @@ all_tags.each do |tag|
   proxy feed, "feed.xml", :locals => { :name => tag, :videos => videos.map { |c| c[1] }.flatten, :html_page => base_url}, :ignore => true
 end
 
-data.videos.map do |event,videos|
+data.videos.map do |edition,videos|
     videos.map do |video|
-        video["event"] = event
+        video["edition"] = edition
         page_url = "/videos/#{video_id(video)}.html"
         proxy page_url, "video.html", :locals => { :video => video }, :ignore => true, :search_title => "Video: #{video.title}"
     end
 end
 
 activate :search do |search|
-  search.resources = ['events/', 'tags/', 'speakers/', 'videos/']
+  search.resources = ['editions/', 'tags/', 'speakers/', 'videos/']
   search.index_path = "search/index.json"
   search.fields = {
       search_title: {boost: 100, store: true, required: true},

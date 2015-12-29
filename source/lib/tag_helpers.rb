@@ -3,8 +3,8 @@ module TagHelpers
     Middleman::Blog::UriTemplates.safe_parameterize tag
   end
   def videos_for_tag(tag)
-    data.videos.to_a.map { |event, videos|
-      [event, videos.select { |video|
+    data.videos.to_a.map { |edition, videos|
+      [edition, videos.select { |video|
         tags = video.tags || []
         tags.map(&:downcase).include? tag.downcase
       }]

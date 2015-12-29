@@ -5,7 +5,7 @@ require 'yt'
 require 'yaml'
 
 
-task :default => [:build, "lint:speakers", "lint:events"]
+task :default => [:build, "lint:speakers", "lint:editions"]
 
 task :fetchyt, [:user] => :dotenv do |t, args|
   url = "https://www.youtube.com/user/#{args[:user]}/"
@@ -52,15 +52,15 @@ namespace :lint do
     end
   end
 
-  task :events do
+  task :editions do
     videos = YAML.load_file('data/videos.yml')
-    events = YAML.load_file('data/events.yml')
-    no_events = videos.keys.reject { |event_name|
-      event = events[event_name]
-      event && event['url'] != nil && event['date'] != nil && event['slug'] != nil
+    editions = YAML.load_file('data/editions.yml')
+    no_editions = videos.keys.reject { |edition_name|
+      edition = editions[edition_name]
+      edition && edition['url'] != nil && edition['date'] != nil && edition['slug'] != nil
     }
-    unless no_events.empty?
-      raise "Missing entries in data/events.yml for the following events: \n#{no_events.join(", ")}"
+    unless no_editions.empty?
+      raise "Missing entries in data/editions.yml for the following editions: \n#{no_editions.join(", ")}"
     end
   end
 end
