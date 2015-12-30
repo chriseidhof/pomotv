@@ -12,8 +12,12 @@ module VideoHelpers
     @@editions
   end
 
+  def edition_url(edition)
+    "/events/#{edition.slug}"
+  end
+
   def video_id(video)
-    template = uri_template "{edition}-{speakers}-{title}"
+    template = uri_template "{edition}/{speakers}-{title}"
     safe_edition = editions[video.edition].slug
     safe_speakers = safe_parameterize video.speakers.sort.join(" ")
     # Strip emoji and question marks from the titles

@@ -14,7 +14,7 @@
         </p>
         <% if video.edition %>
         <p class="video-meta">
-            At <%= link_to video.edition, "/editions/#{editions[video.edition].slug}" %>
+            At <%= link_to video.edition, edition_url(editions[video.edition]) %>
         </p>
         <% end %>
     </header>

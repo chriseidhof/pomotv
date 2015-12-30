@@ -4,7 +4,7 @@ title: Editions
 
 <div class="editions">
   <% editions.to_a.reverse.each do |edition, edition_data| %>
-    <h2><%= link_to edition, "/editions/#{edition_data.slug}" %></h2>
+    <h2><%= link_to edition, edition_url(edition_data) %></h2>
     <p>
       <% data.videos[edition].each do |video| %>
         <%= video.speakers.join(", ") %> - <%= link_to_video video %> <br/>

@@ -76,9 +76,10 @@ set :images_dir, 'images'
 data.editions.each do |metadata|
   name = "#{metadata[:event]} #{metadata[:edition]}"
   event = data.events[metadata[:event]]
-  slug = "#{event[:slug]}/#{metadata[:edition]}"
+  safe_edition = safe_parameterize metadata[:edition]
+  slug = "#{event[:slug]}/#{safe_edition}"
   metadata[:slug] = slug
-  base_url = "/editions/#{slug}"
+  base_url = edition_url(metadata)
   html = "#{base_url}/index.html"
   feed = "#{base_url}/feed.xml"
 
@@ -109,11 +110,11 @@ all_tags.each do |tag|
 end
 
 data.videos.map do |edition,videos|
-    videos.map do |video|
-        video["edition"] = edition
-        page_url = "/videos/#{video_id(video)}.html"
-        proxy page_url, "video.html", :locals => { :video => video }, :ignore => true, :search_title => "Video: #{video.title}"
-    end
+  videos.map do |video|
+    video["edition"] = edition
+    page_url = "/events/#{video_id(video)}.html"
+    proxy page_url, "video.html", :locals => { :video => video }, :ignore => true, :search_title => "Video: #{video.title}"
+  end
 end
 
 
