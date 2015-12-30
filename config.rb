@@ -75,7 +75,11 @@ set :images_dir, 'images'
 
 data.editions.each do |metadata|
   name = "#{metadata[:event]} #{metadata[:edition]}"
-  base_url = "/editions/#{metadata.slug}"
+  event = data.events[metadata[:event]]
+  puts metadata.inspect
+  slug = "#{event[:slug]}/#{metadata[:edition]}"
+  metadata[:slug] = slug
+  base_url = "/editions/#{slug}"
   html = "#{base_url}/index.html"
   feed = "#{base_url}/feed.xml"
 

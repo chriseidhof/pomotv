@@ -55,6 +55,7 @@ namespace :lint do
   task :editions do
     videos = YAML.load_file('data/videos.yml')
     data_editions = YAML.load_file('data/editions.yml')
+    data_events = YAML.load_file('data/events.yml')
 
     # TODO: this is duplicated from the video_helpers.rb
     editions = Hash.new
@@ -63,9 +64,17 @@ namespace :lint do
       editions[name] = metadata
     end
 
+    no_events = editions.values.reject { |metadata|
+      data_events[metadata["event"]] != nil
+    }
+    unless no_events.empty?
+      raise "Missing entries in data/events.yml for the following events: \n#{no_events.join(", ")}"
+    end
+
     no_editions = videos.keys.reject { |edition_name|
       edition = editions[edition_name]
-      edition && edition['url'] != nil && edition['date'] != nil && edition['slug'] != nil
+      edition && edition['url'] != nil && edition['date'] != nil
+      # && edition['slug'] != nil
     }
     unless no_editions.empty?
       raise "Missing entries in data/editions.yml for the following editions: \n#{no_editions.join(", ")}"
