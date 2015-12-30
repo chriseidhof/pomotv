@@ -1,0 +1,28 @@
+"#Pragma Conference":
+  slug: "pragma"
+"⌘R Conf":
+  slug: "cmdr"
+AltConf:
+  slug: "altconf"
+Functional Swift Conference:
+  slug: "funswift"
+GitHub Reactive Cocoa Developer Conference:
+  slug: "ghreact"
+MCE Conference:
+  slug: "mce"
+NSConference:
+  slug: "nsconf"
+NSScotland:
+  slug: "nsscotland"
+NSSpain:
+  slug: "nsspain"
+Swift Summit:
+  slug: "swift-summit"
+UIKonf:
+  slug: "uikonf"
+WWDC:
+  slug: "wwdc"
+dotSwift:
+  slug: "dotswift"
+iOS Conf Singapore:
+  slug: "ios-conf-singapore"
