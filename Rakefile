@@ -59,8 +59,7 @@ namespace :lint do
     # TODO: this is duplicated from the video_helpers.rb
     editions = Hash.new
     data_editions.each do |metadata|
-      name = "#{metadata["event"]} #{metadata["edition"]}"
-      editions[name] = metadata
+      editions["#{metadata["event"]} #{metadata["edition"]}"] = metadata
     end
 
     no_events = editions.values.reject { |metadata|
