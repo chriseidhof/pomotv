@@ -73,7 +73,8 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
-data.editions.each do |name, metadata|
+data.editions.each do |metadata|
+  name = "#{metadata[:event]} #{metadata[:edition]}"
   base_url = "/editions/#{metadata.slug}"
   html = "#{base_url}/index.html"
   feed = "#{base_url}/feed.xml"
@@ -112,18 +113,19 @@ data.videos.map do |edition,videos|
     end
 end
 
-activate :search do |search|
-  search.resources = ['editions/', 'tags/', 'speakers/', 'videos/']
-  search.index_path = "search/index.json"
-  search.fields = {
-      search_title: {boost: 100, store: true, required: true},
-      content: {boost: 50},
-      url: {index: false, store: true}
-  }
-end
 
 # Build-specific configuration
 configure :build do
+  # TODO: this needs to be working during debugging also, but currently slows things down too much.
+  activate :search do |search|
+    search.resources = ['editions/', 'tags/', 'speakers/', 'videos/']
+    search.index_path = "search/index.json"
+    search.fields = {
+        search_title: {boost: 100, store: true, required: true},
+        content: {boost: 50},
+        url: {index: false, store: true}
+    }
+  end
   # For example, change the Compass output style for deployment
   # activate :minify_css
 

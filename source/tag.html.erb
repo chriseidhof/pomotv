@@ -2,7 +2,7 @@
 
 <% videos.each do |edition, videos| %>
   <% videos.each do |video| %>
-    <p> <%= link_to edition, "/editions/#{data.editions[edition].slug}" %> </p>
+    <p> <%= link_to edition, "/editions/#{editions[edition].slug}" %> </p>
     <%= partial :video, :locals => { :video => video } %>
   <% end %>
 <% end %>

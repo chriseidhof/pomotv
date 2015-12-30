@@ -1,88 +1,110 @@
-UIKonf 2013:
+- event: UIKonf
+  edition: 2013
   url: http://www.uikonf.com
   date: May 2, 2013
   slug: uikonf-2013
-UIKonf 2014:
+- event: UIKonf 
+  edition: 2014
   url: http://www.uikonf.com
   date: May 13-16, 2014
   slug: uikonf-2014
-WWDC 2014:
+- event: WWDC 
+  edition: 2014
   url: https://developer.apple.com/videos/wwdc2014/
   date: June 2–6, 2014
   slug: wwdc-2014
-AltConf 2014:
+- event: AltConf 
+  edition: 2014
   date: Jun 2-6, 2014
   url: http://altconf.com
   slug: altconf-2014
-GitHub Reactive Cocoa Developer Conference 2014:
+- event: GitHub Reactive Cocoa Developer Conference 
+  edition: 2014
   date: Jun 14, 2014
   url: https://github.com/ReactiveCocoa/ReactiveCocoa/issues/1350
   slug: ghreact-2014
-NSSpain 2014:
+- event: NSSpain 
+  edition: 2014
   url: http://nsspain.com/2014/
   date: September 18-19, 2014
   slug: nsspain-2014
-"#Pragma Conference 2014":
+- event: "#Pragma Conference"
+  edition: 2014
   url: http://pragmamark.org/events/pragma-conference-2014/
   date: October 3-4, 2014
   slug: pragma-2014
-"⌘R Conf 2014":
+- event: "⌘R Conf"
+  edition: 2014
   url: http://cmdrconf.com
   date: October 22-24, 2014
   slug: cmdr-2014
-NSScotland 2014:
+- event: NSScotland 
+  edition: 2014
   url: http://2014.nsscotland.com
   date: October 25-26, 2014
   slug: nsscotland-2014
-Functional Swift Conference 2014:
+- event: Functional Swift Conference 
+  edition: 2014
   url: http://2014.funswiftconf.com
   date: December 6, 2014
   slug: funswift-2014
-MCE Conference 2015:
+- event: MCE Conference 
+  edition: 2015
   url: http://2015.mceconf.com/
   date: Feb 4-6, 2015
   slug: mceconf-2015
-dotSwift 2015:
+- event: dotSwift 
+  edition: 2015
   url: http://2015.mceconf.com/
   date: Feb 6, 2015
   slug: dotswift-2015
-Swift Summit London 2015:
+- event: Swift Summit London 
+  edition: 2015
   url: https://www.swiftsummit.com
   date: March 21-22, 2015
   slug: swift-summit-london-2015
-NSConference 2015:
+- event: NSConference 
+  edition: 2015
   url: https://vimeo.com/nsconf
   date: March 16, 2015
   slug: nsconf-2015
-UIKonf 2015:
+- event: UIKonf 
+  edition: 2015
   url: http://www.uikonf.com
   date: May 17-20, 2015
   slug: uikonf-2015
-AltConf 2015:
+- event: AltConf 
+  edition: 2015
   url: https://realm.io/altconf/
   date: June 8, 2015
   slug: altconf-2015
-WWDC 2015:
+- event: WWDC 
+  edition: 2015
   url: https://developer.apple.com/videos/wwdc2015/
   date: June 8-12, 2015
   slug: wwdc-2015
-NSSpain 2015:
+- event: NSSpain 
+  edition: 2015
   url: http://nsspain.com/2015/
   date: September 16-17-18, 2015
   slug: nsspain-2015
-"#Pragma Conference 2015":
+- event: "#Pragma Conference"
+  edition: 2015
   url: http://pragmaconference.com
   date: October 9-10, 2015
   slug: pragma-2015
-iOS Conf Singapore:
+- event: iOS Conf Singapore
+  edition: 2015
   url: http://www.iosconf.sg
   date: October 24, 2015
   slug: ios-conf-sg
-Swift Summit San Francisco 2015:
+- event: Swift Summit San Francisco 
+  edition: 2015
   url: https://www.swiftsummit.com
   date: October 29-30, 2015
   slug: swift-summit-san-francisco-2015
-Functional Swift Conference 2015:
+- event: Functional Swift Conference 
+  edition: 2015
   url: http://2015.funswiftconf.com
   date: December 12, 2015
   slug: funswift-2015

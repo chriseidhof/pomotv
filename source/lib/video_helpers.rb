@@ -1,9 +1,19 @@
 module VideoHelpers
   include Middleman::Blog::UriTemplates
 
+  def editions
+    @@editions ||= Hash.new
+    return @@editions unless @@editions.empty?
+    data.editions.each do |metadata|
+      name = "#{metadata[:event]} #{metadata[:edition]}"
+      @@editions[name] = metadata
+    end
+    @@editions
+  end
+
   def video_id(video)
     template = uri_template "{edition}-{speakers}-{title}"
-    safe_edition = data.editions[video.edition].slug
+    safe_edition = editions[video.edition].slug
     safe_speakers = safe_parameterize video.speakers.sort.join(" ")
     # Strip emoji and question marks from the titles
     safe_title = safe_parameterize video.title.gsub(/[\?\u{1f300}-\u{1f5ff}\u{1f600}-\u{1f64f}]/, '-')
