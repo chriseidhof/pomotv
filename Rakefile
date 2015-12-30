@@ -54,7 +54,15 @@ namespace :lint do
 
   task :editions do
     videos = YAML.load_file('data/videos.yml')
-    editions = YAML.load_file('data/editions.yml')
+    data_editions = YAML.load_file('data/editions.yml')
+
+    # TODO: this is duplicated from the video_helpers.rb
+    editions = Hash.new
+    data_editions.each do |metadata|
+      name = "#{metadata["event"]} #{metadata["edition"]}"
+      editions[name] = metadata
+    end
+
     no_editions = videos.keys.reject { |edition_name|
       edition = editions[edition_name]
       edition && edition['url'] != nil && edition['date'] != nil && edition['slug'] != nil

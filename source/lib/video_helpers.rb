@@ -1,6 +1,7 @@
 module VideoHelpers
   include Middleman::Blog::UriTemplates
 
+  # TODO copy-pasted to Rakefile, make sure to share this before we merge this PR
   def editions
     @@editions ||= Hash.new
     return @@editions unless @@editions.empty?
