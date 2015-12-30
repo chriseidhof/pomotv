@@ -23,7 +23,6 @@ task :fetchwwdc, [:year] => :dotenv do |t, args|
   yaml_content = open("https://raw.githubusercontent.com/ASCIIwwdc/wwdc-session-transcripts/master/#{args[:year]}/_sessions.yml"){|f| f.read}
   yaml_data = YAML::load(yaml_content) 
   
-  # puts yaml_data.inspect
   yaml_data.each do |id, video|
     puts "  - language: English"
     puts "    speakers: [TODO]"
