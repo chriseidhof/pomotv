@@ -2720,6 +2720,61 @@ iOS Conf Singapore 2015:
     title: Building an Invisible App
     tags: []
     youtube: J0d97U8pKwI
+CocoaHeads Stockholm November 2015:
+  - language: English
+    speakers: [Felix Krause]
+    title: Continuous Delivery with Fastlane
+    tags: [ci]
+    vimeo: 146505670
+  - language: English
+    speakers: [Florian Kugler]
+    title: Pragmatic Core Data
+    tags: [core data]
+    vimeo: 146505672
+  - language: English
+    speakers: [Mohsan Khan]
+    title: All you have to do is Hoppa!
+    tags: [games, sceneKit]
+    vimeo: 146505694
+CocoaHeads Stockholm October 2015:
+  - language: English
+    speakers: [Pedro Mancheno]
+    title: Upgrading to watchOS 2
+    tags: [watchKit, watchOS]
+    vimeo: 142104528
+  - language: English
+    speakers: [Anton Tingström]
+    title: Introduction to tvOS
+    tags: [tvOS]
+    vimeo: 142104527
+CocoaHeads Stockholm September 2015:
+  - language: English
+    speakers: [Robin Enhorn]
+    title: iPad PiP Video
+    tags: [pip]
+    vimeo: 138831846
+CocoaHeads Stockholm August 2015:
+  - language: English
+    speakers: [David Rönnqvist]
+    title: Introduction to GameplayKit
+    tags: [GameplayKit]
+    vimeo: 136012905
+  - language: English
+    speakers: [Anton Tingström]
+    title: UI Testing In Practice
+    tags: [testing]
+    vimeo: 136014062
+CocoaHeads Stockholm February 2015:
+  - language: English
+    speakers: [Nevyn Bengtsson]
+    title: Remote Works!
+    tags: [remote, tools]
+    vimeo: 118805668
+  - language: English
+    speakers: [Jack Nutting]
+    title: Technical Debt by the Book
+    tags: [management]
+    vimeo: 118839635
 Swift Summit San Francisco 2015:
   - language: English
     speakers: [JP Simard, Thomas Visser, Boris Bügling, Veronica Ray]

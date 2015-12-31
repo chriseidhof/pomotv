@@ -38,6 +38,10 @@
   edition: 2014
   url: http://2014.funswiftconf.com
   date: December 6, 2014
+- event: CocoaHeads Stockholm
+  edition: February 2015
+  url: https://vimeo.com/cocoaheadssthlm
+  date: February 2, 2015
 - event: MCE Conference 
   edition: 2015
   url: http://2015.mceconf.com/
@@ -66,10 +70,22 @@
   edition: 2015
   url: https://developer.apple.com/videos/wwdc2015/
   date: June 8-12, 2015
+- event: CocoaHeads Stockholm
+  edition: August 2015
+  url: https://vimeo.com/cocoaheadssthlm
+  date: August 10, 2015
+- event: CocoaHeads Stockholm
+  edition: September 2015
+  url: https://vimeo.com/cocoaheadssthlm
+  date: September 07, 2015
 - event: NSSpain 
   edition: 2015
   url: http://nsspain.com/2015/
   date: September 16-17-18, 2015
+- event: CocoaHeads Stockholm
+  edition: October 2015
+  url: https://vimeo.com/cocoaheadssthlm
+  date: October 05, 2015
 - event: "#Pragma Conference"
   edition: 2015
   url: http://pragmaconference.com
@@ -82,6 +98,10 @@
   edition: San Francisco 2015
   url: https://www.swiftsummit.com
   date: October 29-30, 2015
+- event: CocoaHeads Stockholm
+  edition: November 2015
+  url: https://vimeo.com/cocoaheadssthlm
+  date: November 09, 2015
 - event: Functional Swift Conference 
   edition: 2015
   url: http://2015.funswiftconf.com
