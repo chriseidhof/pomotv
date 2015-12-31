@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>MCE Conference 2015</subtitle>
+  <id>https://www.pomo.tv/</id>
+  <link href="https://www.pomo.tv//events/mce/2015"/>
+  <link href="https://www.pomo.tv/events/mce/2015/feed.xml" rel="self"/>
+  <updated>2015-12-31T17:05:47Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Immutable Models on iOS</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=DK3vO3fUnlo"/>
+    <id>https://www.youtube.com/watch?v=DK3vO3fUnlo</id>
+    <updated>2015-12-31T17:05:47Z</updated>
+    <author>
+      <name>Adam Ernst</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;DK3vO3fUnlo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Core Data: Multi-Threading Clarity</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=ckbke8vjHMw"/>
+    <id>https://www.youtube.com/watch?v=ckbke8vjHMw</id>
+    <updated>2015-12-31T17:05:47Z</updated>
+    <author>
+      <name>Marcus S. Zarra</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-data&quot;&gt;core data&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;ckbke8vjHMw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Securing iOS applications</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=qaeN-rk_YVU"/>
+    <id>https://www.youtube.com/watch?v=qaeN-rk_YVU</id>
+    <updated>2015-12-31T17:05:47Z</updated>
+    <author>
+      <name>Max Bazaliy</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;security&quot;&gt;security&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;qaeN-rk_YVU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What does it mean for code to be maintainable?</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Qfw_kHoSbCg"/>
+    <id>https://www.youtube.com/watch?v=Qfw_kHoSbCg</id>
+    <updated>2015-12-31T17:05:47Z</updated>
+    <author>
+      <name>Mike Lazer-Walker</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;Qfw_kHoSbCg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Made for Everyone</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=lYONeoA1ukM"/>
+    <id>https://www.youtube.com/watch?v=lYONeoA1ukM</id>
+    <updated>2015-12-31T17:05:47Z</updated>
+    <author>
+      <name>David Rönnqvist</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;lYONeoA1ukM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Stop recompiling</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=_IrYVOLPL1Y"/>
+    <id>https://www.youtube.com/watch?v=_IrYVOLPL1Y</id>
+    <updated>2015-12-31T17:05:47Z</updated>
+    <author>
+      <name>Krzysztof Zabłocki</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;_IrYVOLPL1Y&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Fun with Swift</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=KNJ_UPebGOQ"/>
+    <id>https://www.youtube.com/watch?v=KNJ_UPebGOQ</id>
+    <updated>2015-12-31T17:05:47Z</updated>
+    <author>
+      <name>Chris Eidhof</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;KNJ_UPebGOQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Effortless Responsiveness with AsyncDisplayKit</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=ZPL4Nse76oY"/>
+    <id>https://www.youtube.com/watch?v=ZPL4Nse76oY</id>
+    <updated>2015-12-31T17:05:47Z</updated>
+    <author>
+      <name>Scott Goodson</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;interface&quot;&gt;interface&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;ZPL4Nse76oY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

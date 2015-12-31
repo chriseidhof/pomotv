@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/media"/>
   <link href="https://www.pomo.tv/tags/media/feed.xml" rel="self"/>
-  <updated>2015-12-26T11:08:44Z</updated>
+  <updated>2015-12-31T17:06:00Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Safari Extensibility: Content Blocking and Shared Links</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-511"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-511</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Brian Weinstein</name>
     </author>
@@ -33,7 +33,7 @@
     <title>What's New in Core Image</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-510"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-510</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>David Hayward</name>
     </author>
@@ -53,7 +53,7 @@
     <title>Audio Unit Extensions</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-508"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-508</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Doug Wyatt</name>
     </author>
@@ -73,7 +73,7 @@
     <title>What's New in Core Audio</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-507"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-507</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Akshatha Nagesh</name>
     </author>
@@ -96,7 +96,7 @@
     <title>Editing Movies in AV Foundation</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-506"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-506</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Tim Monroe</name>
     </author>
@@ -116,7 +116,7 @@
     <title>Using Safari to Deliver and Debug a Responsive Web Design</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-505"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-505</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Jono Wells</name>
     </author>
@@ -136,7 +136,7 @@
     <title>Monetize and Promote Your App with iAd</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-503"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-503</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Carol Teng</name>
     </author>
@@ -159,7 +159,7 @@
     <title>Content Protection for HTTP Live Streaming</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-502"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-502</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Roger Pantos</name>
     </author>
@@ -181,7 +181,7 @@
     <title>What's New in Web Development in WebKit and Safari</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-501"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-501</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Brent Fulgham</name>
     </author>
@@ -202,7 +202,7 @@
     <title>Designing Responsive Web Experiences</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-517"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-517</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Casey Dougherty</name>
     </author>
@@ -225,7 +225,7 @@
     <title>Improving the Accessibility and Usability of Complex Web Applications</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-516"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-516</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Jesse Bunch</name>
     </author>
@@ -245,7 +245,7 @@
     <title>Developing Core Image Filters for iOS</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-515"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-515</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Alexandre Naaman</name>
     </author>
@@ -268,7 +268,7 @@
     <title>Advances in Core Image</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-514"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-514</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>David Hayward</name>
     </author>
@@ -288,7 +288,7 @@
     <title>Direct Access to Video Encoding and Decoding</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-513"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-513</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>David Eldred</name>
     </author>
@@ -308,7 +308,7 @@
     <title>Web Inspector and Modern JavaScript</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-512"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-512</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Timothy Hatcher</name>
     </author>
@@ -328,7 +328,7 @@
     <title>Introducing the Photos Frameworks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-511"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-511</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Adam Swift</name>
     </author>
@@ -348,7 +348,7 @@
     <title>What's New in iAd Workbench</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-510"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-510</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Paresh Rajwat</name>
     </author>
@@ -371,7 +371,7 @@
     <title>Creating 3D Interactive Content with WebGL</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-509"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-509</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Dean Jackson</name>
     </author>
@@ -394,7 +394,7 @@
     <title>Camera Capture: Manual Controls</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-508"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-508</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Brad Ford</name>
     </author>
@@ -414,7 +414,7 @@
     <title>Your App, Your Website, and Safari</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-506"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-506</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Ricky Mondello</name>
     </author>
@@ -434,7 +434,7 @@
     <title>Harnessing Metadata in Audiovisual Media</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-505"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-505</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Adam Sonnanstine</name>
     </author>
@@ -454,7 +454,7 @@
     <title>Advanced Media for the Web</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-504"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-504</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Jer Noble</name>
     </author>
@@ -474,7 +474,7 @@
     <title>Mastering Modern Media Playback</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-503"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-503</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Stefan Hafeneger</name>
     </author>
@@ -494,7 +494,7 @@
     <title>AVAudioEngine in Practice</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-502"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-502</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Kapil Krishnamurthy</name>
     </author>
@@ -514,7 +514,7 @@
     <title>What's New in Core Audio</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-501"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-501</id>
-    <updated>2015-12-26T11:08:44Z</updated>
+    <updated>2015-12-31T17:06:00Z</updated>
     <author>
       <name>Torrey Holbrook Walker</name>
     </author>
