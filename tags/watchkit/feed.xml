@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
-  <subtitle>watchkit</subtitle>
+  <subtitle>watchKit</subtitle>
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/watchkit"/>
   <link href="https://www.pomo.tv/tags/watchkit/feed.xml" rel="self"/>
-  <updated>2015-12-31T17:06:01Z</updated>
+  <updated>2015-12-31T17:21:46Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Upgrading to watchOS 2</title>
+    <link rel="alternate" href="https://vimeo.com/142104528"/>
+    <id>https://vimeo.com/142104528</id>
+    <updated>2015-12-31T17:21:46Z</updated>
+    <author>
+      <name>Pedro Mancheno</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;watchkit&quot;&gt;watchKit&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;watchos&quot;&gt;watchOS&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;142104528&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>WatchKit Tips and Tricks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-228"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-228</id>
-    <updated>2015-12-31T17:06:01Z</updated>
+    <updated>2015-12-31T17:21:46Z</updated>
     <author>
       <name>Jake Behrens</name>
     </author>

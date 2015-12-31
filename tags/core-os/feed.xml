@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/core-os"/>
   <link href="https://www.pomo.tv/tags/core-os/feed.xml" rel="self"/>
-  <updated>2015-12-31T17:05:57Z</updated>
+  <updated>2015-12-31T17:21:41Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Adopting AirPrint</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-718"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-718</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Howard Miller</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Kids and Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-717"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-717</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Chris Espinosa</name>
     </author>
@@ -54,7 +54,7 @@
     <title>Power, Performance and Diagnostics: What's new in GCD and XPC</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-716"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-716</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Daniel Steffen</name>
     </author>
@@ -74,7 +74,7 @@
     <title>User Privacy in iOS and OS X</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-715"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-715</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>David Stites</name>
     </author>
@@ -97,7 +97,7 @@
     <title>Fix Bugs Faster using Activity Tracing</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-714"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-714</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Eric Clements</name>
     </author>
@@ -117,7 +117,7 @@
     <title>What's New in iOS Notifications</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-713"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-713</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Rhett Dickson</name>
     </author>
@@ -140,7 +140,7 @@
     <title>Writing Energy Efficient Code, Part 2</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-712"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-712</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Albert Liu</name>
     </author>
@@ -160,7 +160,7 @@
     <title>Keychain and Authentication with Touch ID</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-711"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-711</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Wade Benson</name>
     </author>
@@ -183,7 +183,7 @@
     <title>Writing Energy Efficient Code, Part 1</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-710"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-710</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Anthony Chivetta</name>
     </author>
@@ -203,7 +203,7 @@
     <title>Cross Platform Nearby Networking</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-709"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-709</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Demijan Klinc</name>
     </author>
@@ -223,7 +223,7 @@
     <title>Taking Core Location Indoors</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-708"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-708</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Nav Patel</name>
     </author>
@@ -243,7 +243,7 @@
     <title>What's New in Foundation Networking</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-707"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-707</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Steve Algernon</name>
     </author>
@@ -263,7 +263,7 @@
     <title>What's New in Core Location</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-706"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-706</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Stephen Rhee</name>
     </author>
@@ -283,7 +283,7 @@
     <title>Distributing Enterprise Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-705"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-705</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Dave Rahardja</name>
     </author>
@@ -303,7 +303,7 @@
     <title>Building Apps for Enterprise and Education</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-704"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-704</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Dave Rahardja</name>
     </author>
@@ -326,7 +326,7 @@
     <title>What's New in the Accelerate Framework</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-703"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-703</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Geoff Belter</name>
     </author>
@@ -346,7 +346,7 @@
     <title>Managing Apple Devices</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-702"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-702</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Todd Fernandez</name>
     </author>
@@ -366,7 +366,7 @@
     <title>Designing Accessories for iOS and OS X</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-701"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-701</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Robert Walsh</name>
     </author>

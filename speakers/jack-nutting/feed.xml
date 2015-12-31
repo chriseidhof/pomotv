@@ -5,16 +5,36 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//speakers/jack-nutting"/>
   <link href="https://www.pomo.tv/speakers/jack-nutting/feed.xml" rel="self"/>
-  <updated>2015-12-31T17:05:51Z</updated>
+  <updated>2015-12-31T17:21:36Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Technical Debt by the Book</title>
+    <link rel="alternate" href="https://vimeo.com/118839635"/>
+    <id>https://vimeo.com/118839635</id>
+    <updated>2015-12-31T17:21:36Z</updated>
+    <author>
+      <name>Jack Nutting</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;management&quot;&gt;management&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;118839635&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>The Future Belongs to the Young</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-jack-nutting-future-belongs-to-the-young/"/>
     <id>https://realm.io/news/swift-summit-jack-nutting-future-belongs-to-the-young/</id>
-    <updated>2015-12-31T17:05:51Z</updated>
+    <updated>2015-12-31T17:21:36Z</updated>
     <author>
       <name>Jack Nutting</name>
     </author>
@@ -34,7 +54,7 @@
     <title>Swift Panel: Where do we go from here?</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-panel-community-where-do-we-go/"/>
     <id>https://realm.io/news/swift-summit-panel-community-where-do-we-go/</id>
-    <updated>2015-12-31T17:05:51Z</updated>
+    <updated>2015-12-31T17:21:36Z</updated>
     <author>
       <name>Abizer Nasir</name>
     </author>

@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv/"/>
   <link href="https://www.pomo.tv/recent.xml" rel="self"/>
-  <updated>2015-12-31T17:05:44Z</updated>
+  <updated>2015-12-31T17:21:29Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Structure and Interpretation of Swift Programs</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=V-YvI83QdMs"/>
     <id>https://www.youtube.com/watch?v=V-YvI83QdMs</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>Colin Barrett</name>
     </author>
@@ -33,7 +33,7 @@
     <title>Functional View Controllers</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sP156LW5BVs"/>
     <id>https://www.youtube.com/watch?v=sP156LW5BVs</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -55,7 +55,7 @@
     <title>Lenses in Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ofjehH9f-CU"/>
     <id>https://www.youtube.com/watch?v=ofjehH9f-CU</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>Brandon Williams</name>
     </author>
@@ -78,7 +78,7 @@
     <title>Result Driven Development</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=aCm68xAWrno"/>
     <id>https://www.youtube.com/watch?v=aCm68xAWrno</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>Brian Partridge</name>
     </author>
@@ -101,7 +101,7 @@
     <title>Protocols with Associated Types</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=XWoNjiSPqI8"/>
     <id>https://www.youtube.com/watch?v=XWoNjiSPqI8</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>Alexis Gallagher</name>
     </author>
@@ -123,7 +123,7 @@
     <title>Functional Thinking</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=hHeideOmLs4"/>
     <id>https://www.youtube.com/watch?v=hHeideOmLs4</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>Agnes Vasarhelyi</name>
     </author>
@@ -143,7 +143,7 @@
     <title>You Used To Inject Me In Your Constructor</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=2--pYf1T6Xc"/>
     <id>https://www.youtube.com/watch?v=2--pYf1T6Xc</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>Veronica Ray</name>
     </author>
@@ -163,7 +163,7 @@
     <title>Exploring Apple Pay with Swift</title>
     <link rel="alternate" href="http://www.skilled.io/wendylu/exploring-apple-pay-with-swift"/>
     <id>http://www.skilled.io/wendylu/exploring-apple-pay-with-swift</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>Wendy Lu</name>
     </author>
@@ -185,7 +185,7 @@
     <title>What the 55 Swift Standard Library Protocols Taught Me</title>
     <link rel="alternate" href="http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me"/>
     <id>http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>Greg Heo</name>
     </author>
@@ -206,7 +206,7 @@
     <title>Discovering Best Practices in Swift</title>
     <link rel="alternate" href="http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift"/>
     <id>http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>
@@ -226,7 +226,7 @@
     <title>Working with Binary Data in Swift</title>
     <link rel="alternate" href="http://www.skilled.io/jpsimard/working-with-binary-data-in-swift"/>
     <id>http://www.skilled.io/jpsimard/working-with-binary-data-in-swift</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -246,7 +246,7 @@
     <title>Open Sourcing Swift</title>
     <link rel="alternate" href="http://www.skilled.io/swiftsummit/open-sourcing-swift"/>
     <id>http://www.skilled.io/swiftsummit/open-sourcing-swift</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -272,10 +272,213 @@
   </entry>
 
     <entry>
+    <title>Technical Debt by the Book</title>
+    <link rel="alternate" href="https://vimeo.com/118839635"/>
+    <id>https://vimeo.com/118839635</id>
+    <updated>2015-12-31T17:21:29Z</updated>
+    <author>
+      <name>Jack Nutting</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;management&quot;&gt;management&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;118839635&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Remote Works!</title>
+    <link rel="alternate" href="https://vimeo.com/118805668"/>
+    <id>https://vimeo.com/118805668</id>
+    <updated>2015-12-31T17:21:29Z</updated>
+    <author>
+      <name>Nevyn Bengtsson</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;remote&quot;&gt;remote&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;118805668&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>UI Testing In Practice</title>
+    <link rel="alternate" href="https://vimeo.com/136014062"/>
+    <id>https://vimeo.com/136014062</id>
+    <updated>2015-12-31T17:21:29Z</updated>
+    <author>
+      <name>Anton Tingström</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;testing&quot;&gt;testing&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;136014062&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introduction to GameplayKit</title>
+    <link rel="alternate" href="https://vimeo.com/136012905"/>
+    <id>https://vimeo.com/136012905</id>
+    <updated>2015-12-31T17:21:29Z</updated>
+    <author>
+      <name>David Rönnqvist</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;gameplaykit&quot;&gt;GameplayKit&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;136012905&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>iPad PiP Video</title>
+    <link rel="alternate" href="https://vimeo.com/138831846"/>
+    <id>https://vimeo.com/138831846</id>
+    <updated>2015-12-31T17:21:29Z</updated>
+    <author>
+      <name>Robin Enhorn</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;pip&quot;&gt;pip&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138831846&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Introduction to tvOS</title>
+    <link rel="alternate" href="https://vimeo.com/142104527"/>
+    <id>https://vimeo.com/142104527</id>
+    <updated>2015-12-31T17:21:29Z</updated>
+    <author>
+      <name>Anton Tingström</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tvos&quot;&gt;tvOS&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;142104527&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Upgrading to watchOS 2</title>
+    <link rel="alternate" href="https://vimeo.com/142104528"/>
+    <id>https://vimeo.com/142104528</id>
+    <updated>2015-12-31T17:21:29Z</updated>
+    <author>
+      <name>Pedro Mancheno</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;watchkit&quot;&gt;watchKit&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;watchos&quot;&gt;watchOS&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;142104528&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>All you have to do is Hoppa!</title>
+    <link rel="alternate" href="https://vimeo.com/146505694"/>
+    <id>https://vimeo.com/146505694</id>
+    <updated>2015-12-31T17:21:29Z</updated>
+    <author>
+      <name>Mohsan Khan</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;scenekit&quot;&gt;sceneKit&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;146505694&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Pragmatic Core Data</title>
+    <link rel="alternate" href="https://vimeo.com/146505672"/>
+    <id>https://vimeo.com/146505672</id>
+    <updated>2015-12-31T17:21:29Z</updated>
+    <author>
+      <name>Florian Kugler</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core-data&quot;&gt;core data&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;146505672&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Continuous Delivery with Fastlane</title>
+    <link rel="alternate" href="https://vimeo.com/146505670"/>
+    <id>https://vimeo.com/146505670</id>
+    <updated>2015-12-31T17:21:29Z</updated>
+    <author>
+      <name>Felix Krause</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ci&quot;&gt;ci&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;146505670&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Building an Invisible App</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=J0d97U8pKwI"/>
     <id>https://www.youtube.com/watch?v=J0d97U8pKwI</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>Alan Wong</name>
     </author>
@@ -294,7 +497,7 @@
     <title>Tooling in Swift - Xcode Integration & CI</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=LvV1W3BcB0o"/>
     <id>https://www.youtube.com/watch?v=LvV1W3BcB0o</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>Stan Chang</name>
     </author>
@@ -316,7 +519,7 @@
     <title>Grand Central Dispatch (GCD), How Yelp uses GCD</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=TGr5aefC92w"/>
     <id>https://www.youtube.com/watch?v=TGr5aefC92w</id>
-    <updated>2015-12-31T17:05:44Z</updated>
+    <updated>2015-12-31T17:21:29Z</updated>
     <author>
       <name>Ben Asher</name>
     </author>
@@ -328,204 +531,6 @@
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;TGr5aefC92w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Good UX and Design for Humans</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=nj7RLxEU98o"/>
-    <id>https://www.youtube.com/watch?v=nj7RLxEU98o</id>
-    <updated>2015-12-31T17:05:44Z</updated>
-    <author>
-      <name>Takemura Ori</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;ux&quot;&gt;ux&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;design&quot;&gt;design&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;nj7RLxEU98o&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Building Smarter Applications Using Cognitive Computing</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=KVPw3LfM1t4"/>
-    <id>https://www.youtube.com/watch?v=KVPw3LfM1t4</id>
-    <updated>2015-12-31T17:05:44Z</updated>
-    <author>
-      <name>Justin Lee</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;cognitive-computing&quot;&gt;cognitive computing&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;KVPw3LfM1t4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>tvOS Platform and APIs</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=VfKvFBp91pA"/>
-    <id>https://www.youtube.com/watch?v=VfKvFBp91pA</id>
-    <updated>2015-12-31T17:05:44Z</updated>
-    <author>
-      <name>Mugunth Kumar</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;tvos&quot;&gt;tvos&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;VfKvFBp91pA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Making it Count</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=0T0FJJ6Mo0E"/>
-    <id>https://www.youtube.com/watch?v=0T0FJJ6Mo0E</id>
-    <updated>2015-12-31T17:05:44Z</updated>
-    <author>
-      <name>Roshni Mahtani</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;0T0FJJ6Mo0E&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>An Exploration of Debugging Techniques and Tools</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=qU2AYfnDdxk"/>
-    <id>https://www.youtube.com/watch?v=qU2AYfnDdxk</id>
-    <updated>2015-12-31T17:05:44Z</updated>
-    <author>
-      <name>Fahim Farook</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;debugging&quot;&gt;debugging&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;qU2AYfnDdxk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Maintaining Sanity and Code</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=nlhHiyNu1LU"/>
-    <id>https://www.youtube.com/watch?v=nlhHiyNu1LU</id>
-    <updated>2015-12-31T17:05:44Z</updated>
-    <author>
-      <name>Bogo Giertler</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;nlhHiyNu1LU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Swift Sync and Async Error Handling</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=mbd6g7NfR-8"/>
-    <id>https://www.youtube.com/watch?v=mbd6g7NfR-8</id>
-    <updated>2015-12-31T17:05:44Z</updated>
-    <author>
-      <name>Javier Soto</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;sync&quot;&gt;sync&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;async&quot;&gt;async&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;error-handling&quot;&gt;error handling&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;mbd6g7NfR-8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Library-Oriented Programming</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=lqNUTW0F4bw"/>
-    <id>https://www.youtube.com/watch?v=lqNUTW0F4bw</id>
-    <updated>2015-12-31T17:05:44Z</updated>
-    <author>
-      <name>Justin Spahr-Summers</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;lqNUTW0F4bw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>*-Oriented Programming</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=j0uFAynIGt8"/>
-    <id>https://www.youtube.com/watch?v=j0uFAynIGt8</id>
-    <updated>2015-12-31T17:05:44Z</updated>
-    <author>
-      <name>Graham Lee</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;j0uFAynIGt8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>What’s in for us after the Indiepocalypse?</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=95XZUsOm31A"/>
-    <id>https://www.youtube.com/watch?v=95XZUsOm31A</id>
-    <updated>2015-12-31T17:05:44Z</updated>
-    <author>
-      <name>Marin Todorov</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;95XZUsOm31A&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>

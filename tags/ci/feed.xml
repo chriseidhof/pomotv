@@ -5,16 +5,36 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/ci"/>
   <link href="https://www.pomo.tv/tags/ci/feed.xml" rel="self"/>
-  <updated>2015-12-31T17:05:57Z</updated>
+  <updated>2015-12-31T17:21:41Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Continuous Delivery with Fastlane</title>
+    <link rel="alternate" href="https://vimeo.com/146505670"/>
+    <id>https://vimeo.com/146505670</id>
+    <updated>2015-12-31T17:21:41Z</updated>
+    <author>
+      <name>Felix Krause</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ci&quot;&gt;ci&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;146505670&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Tooling in Swift - Xcode Integration & CI</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=LvV1W3BcB0o"/>
     <id>https://www.youtube.com/watch?v=LvV1W3BcB0o</id>
-    <updated>2015-12-31T17:05:57Z</updated>
+    <updated>2015-12-31T17:21:41Z</updated>
     <author>
       <name>Stan Chang</name>
     </author>
