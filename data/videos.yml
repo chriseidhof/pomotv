@@ -2806,6 +2806,12 @@ Swift Summit San Francisco 2015:
     tags: [apple pay, swift]
     youtube: uXLNSlTKADo
     direct-link: "http://www.skilled.io/wendylu/exploring-apple-pay-with-swift"
+  - language: English
+    speakers: [Thomas Hanning]
+    title: Error Handling in Swift 2
+    tags: [swift, error handling]
+    youtube: aa3kQaDFU3o
+    direct-link: "http://www.skilled.io/thomashanning/error-handling-in-swift-2"
 Functional Swift Conference 2015:
   - language: English
     speakers: [Veronica Ray]
