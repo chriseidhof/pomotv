@@ -1,12 +1,12 @@
 ---
-title: Events
+title: Editions
 ---
 
-<div class="events">
-  <% data.events.to_a.reverse.each do |event, event_data| %>
-    <h2><%= link_to event, "/events/#{event_data.slug}" %></h2>
+<div class="editions">
+  <% editions.to_a.reverse.each do |edition, edition_data| %>
+    <h2><%= link_to edition, edition_url(edition_data) %></h2>
     <p>
-      <% data.videos[event].each do |video| %>
+      <% data.videos[edition].each do |video| %>
         <%= video.speakers.join(", ") %> - <%= link_to_video video %> <br/>
       <% end %>
     </p>

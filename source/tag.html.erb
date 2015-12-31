@@ -1,8 +1,8 @@
 <h1>Tag: <%= tag %></h1>
 
-<% videos.each do |event, videos| %>
+<% videos.each do |edition, videos| %>
   <% videos.each do |video| %>
-    <p> <%= link_to event, "/events/#{data.events[event].slug}" %> </p>
+    <p> <%= link_to edition, edition_url(editions[edition]) %> </p>
     <%= partial :video, :locals => { :video => video } %>
   <% end %>
 <% end %>

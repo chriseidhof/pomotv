@@ -24,4 +24,4 @@ gem 'dotenv'
 gem 'yt'
 
 # Search with lunr.js
-gem 'middleman-search'
+gem 'middleman-search', '~> 0.5.0'

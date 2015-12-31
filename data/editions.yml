@@ -1,0 +1,88 @@
+- event: UIKonf
+  edition: 2013
+  url: http://www.uikonf.com
+  date: May 2, 2013
+- event: UIKonf 
+  edition: 2014
+  url: http://www.uikonf.com
+  date: May 13-16, 2014
+- event: WWDC 
+  edition: 2014
+  url: https://developer.apple.com/videos/wwdc2014/
+  date: June 2–6, 2014
+- event: AltConf 
+  edition: 2014
+  date: Jun 2-6, 2014
+  url: http://altconf.com
+- event: GitHub Reactive Cocoa Developer Conference 
+  edition: 2014
+  date: Jun 14, 2014
+  url: https://github.com/ReactiveCocoa/ReactiveCocoa/issues/1350
+- event: NSSpain 
+  edition: 2014
+  url: http://nsspain.com/2014/
+  date: September 18-19, 2014
+- event: "#Pragma Conference"
+  edition: 2014
+  url: http://pragmamark.org/events/pragma-conference-2014/
+  date: October 3-4, 2014
+- event: "⌘R Conf"
+  edition: 2014
+  url: http://cmdrconf.com
+  date: October 22-24, 2014
+- event: NSScotland 
+  edition: 2014
+  url: http://2014.nsscotland.com
+  date: October 25-26, 2014
+- event: Functional Swift Conference 
+  edition: 2014
+  url: http://2014.funswiftconf.com
+  date: December 6, 2014
+- event: MCE Conference 
+  edition: 2015
+  url: http://2015.mceconf.com/
+  date: Feb 4-6, 2015
+- event: dotSwift 
+  edition: 2015
+  url: http://2015.mceconf.com/
+  date: Feb 6, 2015
+- event: Swift Summit
+  edition: London 2015
+  url: https://www.swiftsummit.com
+  date: March 21-22, 2015
+- event: NSConference 
+  edition: 2015
+  url: https://vimeo.com/nsconf
+  date: March 16, 2015
+- event: UIKonf 
+  edition: 2015
+  url: http://www.uikonf.com
+  date: May 17-20, 2015
+- event: AltConf 
+  edition: 2015
+  url: https://realm.io/altconf/
+  date: June 8, 2015
+- event: WWDC 
+  edition: 2015
+  url: https://developer.apple.com/videos/wwdc2015/
+  date: June 8-12, 2015
+- event: NSSpain 
+  edition: 2015
+  url: http://nsspain.com/2015/
+  date: September 16-17-18, 2015
+- event: "#Pragma Conference"
+  edition: 2015
+  url: http://pragmaconference.com
+  date: October 9-10, 2015
+- event: iOS Conf Singapore
+  edition: 2015
+  url: http://www.iosconf.sg
+  date: October 24, 2015
+- event: Swift Summit
+  edition: San Francisco 2015
+  url: https://www.swiftsummit.com
+  date: October 29-30, 2015
+- event: Functional Swift Conference 
+  edition: 2015
+  url: http://2015.funswiftconf.com
+  date: December 12, 2015

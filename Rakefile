@@ -5,7 +5,7 @@ require 'yt'
 require 'yaml'
 
 
-task :default => [:build, "lint:speakers", "lint:events"]
+task :default => [:build, "lint:speakers", "lint:editions"]
 
 task :fetchyt, [:user] => :dotenv do |t, args|
   url = "https://www.youtube.com/user/#{args[:user]}/"
@@ -23,7 +23,6 @@ task :fetchwwdc, [:year] => :dotenv do |t, args|
   yaml_content = open("https://raw.githubusercontent.com/ASCIIwwdc/wwdc-session-transcripts/master/#{args[:year]}/_sessions.yml"){|f| f.read}
   yaml_data = YAML::load(yaml_content) 
   
-  # puts yaml_data.inspect
   yaml_data.each do |id, video|
     puts "  - language: English"
     puts "    speakers: [TODO]"
@@ -52,15 +51,31 @@ namespace :lint do
     end
   end
 
-  task :events do
+  task :editions do
     videos = YAML.load_file('data/videos.yml')
-    events = YAML.load_file('data/events.yml')
-    no_events = videos.keys.reject { |event_name|
-      event = events[event_name]
-      event && event['url'] != nil && event['date'] != nil && event['slug'] != nil
+    data_editions = YAML.load_file('data/editions.yml')
+    data_events = YAML.load_file('data/events.yml')
+
+    # TODO: this is duplicated from the video_helpers.rb
+    editions = Hash.new
+    data_editions.each do |metadata|
+      editions["#{metadata["event"]} #{metadata["edition"]}"] = metadata
+    end
+
+    no_events = editions.values.reject { |metadata|
+      data_events[metadata["event"]] != nil
     }
     unless no_events.empty?
       raise "Missing entries in data/events.yml for the following events: \n#{no_events.join(", ")}"
+    end
+
+    no_editions = videos.keys.reject { |edition_name|
+      edition = editions[edition_name]
+      edition && edition['url'] != nil && edition['date'] != nil
+      # && edition['slug'] != nil
+    }
+    unless no_editions.empty?
+      raise "Missing entries in data/editions.yml for the following editions: \n#{no_editions.join(", ")}"
     end
   end
 end

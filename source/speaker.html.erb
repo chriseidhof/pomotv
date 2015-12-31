@@ -7,7 +7,7 @@
 <% videos.each do |conference, videos| %>
   <% videos.each do |video| %>
     <h3><%= video.title %></h3>
-    <p> <%= link_to conference, "/events/#{data.events[conference].slug}" %> </p>
+    <p> <%= link_to conference, edition_url(editions[conference]) %> </p>
     <%= partial :video_content, :locals => { :video => video } %>
   <% end %>
 <% end %>

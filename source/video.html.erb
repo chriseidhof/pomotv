@@ -12,9 +12,9 @@
               <% end %>
             <% end %>
         </p>
-        <% if video.event %>
+        <% if video.edition %>
         <p class="video-meta">
-            At <%= link_to video.event, "/events/#{data.events[video.event].slug}" %>
+            At <%= link_to video.edition, edition_url(editions[video.edition]) %>
         </p>
         <% end %>
     </header>
