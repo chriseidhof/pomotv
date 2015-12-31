@@ -5,7 +5,7 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/playground"/>
   <link href="https://www.pomo.tv/tags/playground/feed.xml" rel="self"/>
-  <updated>2015-12-31T17:26:54Z</updated>
+  <updated>2015-12-31T20:37:41Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Lenses in Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ofjehH9f-CU"/>
     <id>https://www.youtube.com/watch?v=ofjehH9f-CU</id>
-    <updated>2015-12-31T17:26:54Z</updated>
+    <updated>2015-12-31T20:37:41Z</updated>
     <author>
       <name>Brandon Williams</name>
     </author>
@@ -37,7 +37,7 @@
     <title>Authoring Rich Playgrounds</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-405"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-405</id>
-    <updated>2015-12-31T17:26:54Z</updated>
+    <updated>2015-12-31T20:37:41Z</updated>
     <author>
       <name>Sam Page</name>
     </author>
@@ -63,7 +63,7 @@
     <title>Playgrounds Are for Kids</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=eUSvnQhKccQ"/>
     <id>https://www.youtube.com/watch?v=eUSvnQhKccQ</id>
-    <updated>2015-12-31T17:26:54Z</updated>
+    <updated>2015-12-31T20:37:41Z</updated>
     <author>
       <name>Daniel Steinberg</name>
     </author>
@@ -86,7 +86,7 @@
     <title>Functional Programming in a Playground</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=estNbh2TF3E"/>
     <id>https://www.youtube.com/watch?v=estNbh2TF3E</id>
-    <updated>2015-12-31T17:26:54Z</updated>
+    <updated>2015-12-31T20:37:41Z</updated>
     <author>
       <name>Brandon Williams</name>
     </author>

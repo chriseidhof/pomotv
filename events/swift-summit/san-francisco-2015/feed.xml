@@ -5,16 +5,38 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//events/swift-summit/san-francisco-2015"/>
   <link href="https://www.pomo.tv/events/swift-summit/san-francisco-2015/feed.xml" rel="self"/>
-  <updated>2015-12-31T17:26:43Z</updated>
+  <updated>2015-12-31T20:37:31Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Error Handling in Swift 2</title>
+    <link rel="alternate" href="http://www.skilled.io/thomashanning/error-handling-in-swift-2"/>
+    <id>http://www.skilled.io/thomashanning/error-handling-in-swift-2</id>
+    <updated>2015-12-31T20:37:31Z</updated>
+    <author>
+      <name>Thomas Hanning</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;thomashanning&#x2F;error-handling-in-swift-2&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;thomashanning&#x2F;error-handling-in-swift-2&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;error-handling&quot;&gt;error handling&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;aa3kQaDFU3o&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Exploring Apple Pay with Swift</title>
     <link rel="alternate" href="http://www.skilled.io/wendylu/exploring-apple-pay-with-swift"/>
     <id>http://www.skilled.io/wendylu/exploring-apple-pay-with-swift</id>
-    <updated>2015-12-31T17:26:43Z</updated>
+    <updated>2015-12-31T20:37:31Z</updated>
     <author>
       <name>Wendy Lu</name>
     </author>
@@ -36,7 +58,7 @@
     <title>What the 55 Swift Standard Library Protocols Taught Me</title>
     <link rel="alternate" href="http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me"/>
     <id>http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me</id>
-    <updated>2015-12-31T17:26:43Z</updated>
+    <updated>2015-12-31T20:37:31Z</updated>
     <author>
       <name>Greg Heo</name>
     </author>
@@ -57,7 +79,7 @@
     <title>Discovering Best Practices in Swift</title>
     <link rel="alternate" href="http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift"/>
     <id>http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift</id>
-    <updated>2015-12-31T17:26:43Z</updated>
+    <updated>2015-12-31T20:37:31Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>
@@ -77,7 +99,7 @@
     <title>Working with Binary Data in Swift</title>
     <link rel="alternate" href="http://www.skilled.io/jpsimard/working-with-binary-data-in-swift"/>
     <id>http://www.skilled.io/jpsimard/working-with-binary-data-in-swift</id>
-    <updated>2015-12-31T17:26:43Z</updated>
+    <updated>2015-12-31T20:37:31Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -97,7 +119,7 @@
     <title>Open Sourcing Swift</title>
     <link rel="alternate" href="http://www.skilled.io/swiftsummit/open-sourcing-swift"/>
     <id>http://www.skilled.io/swiftsummit/open-sourcing-swift</id>
-    <updated>2015-12-31T17:26:43Z</updated>
+    <updated>2015-12-31T20:37:31Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
