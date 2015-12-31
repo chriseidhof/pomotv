@@ -117,19 +117,20 @@ data.videos.map do |edition,videos|
   end
 end
 
+activate :search do |search|
+  search.resources = ['editions/', 'tags/', 'speakers/', 'videos/']
+  search.index_path = "search/index.json"
+  search.fields = {
+      search_title: {boost: 100, store: true, required: true},
+      content: {boost: 50},
+      url: {index: false, store: true}
+  }
+  # cache the index during development
+  search.cache = true
+end
 
 # Build-specific configuration
 configure :build do
-  # TODO: this needs to be working during debugging also, but currently slows things down too much.
-  activate :search do |search|
-    search.resources = ['editions/', 'tags/', 'speakers/', 'videos/']
-    search.index_path = "search/index.json"
-    search.fields = {
-        search_title: {boost: 100, store: true, required: true},
-        content: {boost: 50},
-        url: {index: false, store: true}
-    }
-  end
   # For example, change the Compass output style for deployment
   # activate :minify_css
 

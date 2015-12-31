@@ -89,7 +89,7 @@ GEM
       middleman-core (>= 3.0.2)
       multi_json (~> 1.0)
       rack-livereload
-    middleman-search (0.4.0)
+    middleman-search (0.5.0)
       middleman-core (~> 3.2)
       nokogiri (~> 1.5)
       therubyracer (~> 0.12)
@@ -115,7 +115,7 @@ GEM
     rack-test (0.6.3)
       rack (>= 1.0)
     rake (10.4.2)
-    rb-fsevent (0.9.6)
+    rb-fsevent (0.9.7)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
     ref (2.0.0)
@@ -156,7 +156,7 @@ DEPENDENCIES
   middleman-blog
   middleman-gh-pages!
   middleman-livereload (~> 3.1.0)
-  middleman-search
+  middleman-search (~> 0.5.0)
   tzinfo-data
   wdm (~> 0.1.0)
   yt
