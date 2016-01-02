@@ -5,40 +5,16 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv/"/>
   <link href="https://www.pomo.tv/recent.xml" rel="self"/>
-  <updated>2016-01-02T16:18:03Z</updated>
+  <updated>2016-01-02T19:57:20Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>Fear and Competition</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=D2RoYvcqhgM"/>
-    <id>https://www.youtube.com/watch?v=D2RoYvcqhgM</id>
-    <updated>2016-01-02T16:18:03Z</updated>
-    <author>
-      <name>Marco Arment</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;ios&quot;&gt;ios&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;buisiness&quot;&gt;buisiness&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;competition&quot;&gt;competition&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;emotion&quot;&gt;emotion&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;D2RoYvcqhgM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
     <title>Structure and Interpretation of Swift Programs</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=V-YvI83QdMs"/>
     <id>https://www.youtube.com/watch?v=V-YvI83QdMs</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Colin Barrett</name>
     </author>
@@ -57,7 +33,7 @@
     <title>Functional View Controllers</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sP156LW5BVs"/>
     <id>https://www.youtube.com/watch?v=sP156LW5BVs</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -79,7 +55,7 @@
     <title>Lenses in Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ofjehH9f-CU"/>
     <id>https://www.youtube.com/watch?v=ofjehH9f-CU</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Brandon Williams</name>
     </author>
@@ -102,7 +78,7 @@
     <title>Result Driven Development</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=aCm68xAWrno"/>
     <id>https://www.youtube.com/watch?v=aCm68xAWrno</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Brian Partridge</name>
     </author>
@@ -125,7 +101,7 @@
     <title>Protocols with Associated Types</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=XWoNjiSPqI8"/>
     <id>https://www.youtube.com/watch?v=XWoNjiSPqI8</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Alexis Gallagher</name>
     </author>
@@ -147,7 +123,7 @@
     <title>Functional Thinking</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=hHeideOmLs4"/>
     <id>https://www.youtube.com/watch?v=hHeideOmLs4</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Agnes Vasarhelyi</name>
     </author>
@@ -167,7 +143,7 @@
     <title>You Used To Inject Me In Your Constructor</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=2--pYf1T6Xc"/>
     <id>https://www.youtube.com/watch?v=2--pYf1T6Xc</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Veronica Ray</name>
     </author>
@@ -187,7 +163,7 @@
     <title>Error Handling in Swift 2</title>
     <link rel="alternate" href="http://www.skilled.io/thomashanning/error-handling-in-swift-2"/>
     <id>http://www.skilled.io/thomashanning/error-handling-in-swift-2</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Thomas Hanning</name>
     </author>
@@ -209,7 +185,7 @@
     <title>Exploring Apple Pay with Swift</title>
     <link rel="alternate" href="http://www.skilled.io/wendylu/exploring-apple-pay-with-swift"/>
     <id>http://www.skilled.io/wendylu/exploring-apple-pay-with-swift</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Wendy Lu</name>
     </author>
@@ -231,7 +207,7 @@
     <title>What the 55 Swift Standard Library Protocols Taught Me</title>
     <link rel="alternate" href="http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me"/>
     <id>http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Greg Heo</name>
     </author>
@@ -252,7 +228,7 @@
     <title>Discovering Best Practices in Swift</title>
     <link rel="alternate" href="http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift"/>
     <id>http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>
@@ -272,7 +248,7 @@
     <title>Working with Binary Data in Swift</title>
     <link rel="alternate" href="http://www.skilled.io/jpsimard/working-with-binary-data-in-swift"/>
     <id>http://www.skilled.io/jpsimard/working-with-binary-data-in-swift</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -292,7 +268,7 @@
     <title>Open Sourcing Swift</title>
     <link rel="alternate" href="http://www.skilled.io/swiftsummit/open-sourcing-swift"/>
     <id>http://www.skilled.io/swiftsummit/open-sourcing-swift</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -321,7 +297,7 @@
     <title>Technical Debt by the Book</title>
     <link rel="alternate" href="https://vimeo.com/118839635"/>
     <id>https://vimeo.com/118839635</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Jack Nutting</name>
     </author>
@@ -341,7 +317,7 @@
     <title>Remote Works!</title>
     <link rel="alternate" href="https://vimeo.com/118805668"/>
     <id>https://vimeo.com/118805668</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Nevyn Bengtsson</name>
     </author>
@@ -362,7 +338,7 @@
     <title>UI Testing In Practice</title>
     <link rel="alternate" href="https://vimeo.com/136014062"/>
     <id>https://vimeo.com/136014062</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Anton Tingström</name>
     </author>
@@ -382,7 +358,7 @@
     <title>Introduction to GameplayKit</title>
     <link rel="alternate" href="https://vimeo.com/136012905"/>
     <id>https://vimeo.com/136012905</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>David Rönnqvist</name>
     </author>
@@ -402,7 +378,7 @@
     <title>iPad PiP Video</title>
     <link rel="alternate" href="https://vimeo.com/138831846"/>
     <id>https://vimeo.com/138831846</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Robin Enhorn</name>
     </author>
@@ -422,7 +398,7 @@
     <title>Introduction to tvOS</title>
     <link rel="alternate" href="https://vimeo.com/142104527"/>
     <id>https://vimeo.com/142104527</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Anton Tingström</name>
     </author>
@@ -442,7 +418,7 @@
     <title>Upgrading to watchOS 2</title>
     <link rel="alternate" href="https://vimeo.com/142104528"/>
     <id>https://vimeo.com/142104528</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Pedro Mancheno</name>
     </author>
@@ -463,7 +439,7 @@
     <title>All you have to do is Hoppa!</title>
     <link rel="alternate" href="https://vimeo.com/146505694"/>
     <id>https://vimeo.com/146505694</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Mohsan Khan</name>
     </author>
@@ -484,7 +460,7 @@
     <title>Pragmatic Core Data</title>
     <link rel="alternate" href="https://vimeo.com/146505672"/>
     <id>https://vimeo.com/146505672</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Florian Kugler</name>
     </author>
@@ -504,7 +480,7 @@
     <title>Continuous Delivery with Fastlane</title>
     <link rel="alternate" href="https://vimeo.com/146505670"/>
     <id>https://vimeo.com/146505670</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Felix Krause</name>
     </author>
@@ -524,7 +500,7 @@
     <title>Building an Invisible App</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=J0d97U8pKwI"/>
     <id>https://www.youtube.com/watch?v=J0d97U8pKwI</id>
-    <updated>2016-01-02T16:18:03Z</updated>
+    <updated>2016-01-02T19:57:20Z</updated>
     <author>
       <name>Alan Wong</name>
     </author>
@@ -534,6 +510,28 @@
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;J0d97U8pKwI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Tooling in Swift - Xcode Integration & CI</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=LvV1W3BcB0o"/>
+    <id>https://www.youtube.com/watch?v=LvV1W3BcB0o</id>
+    <updated>2016-01-02T19:57:20Z</updated>
+    <author>
+      <name>Stan Chang</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;integration&quot;&gt;integration&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;ci&quot;&gt;ci&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;LvV1W3BcB0o&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>

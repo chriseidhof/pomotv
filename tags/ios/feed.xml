@@ -5,40 +5,16 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/ios"/>
   <link href="https://www.pomo.tv/tags/ios/feed.xml" rel="self"/>
-  <updated>2016-01-02T16:18:26Z</updated>
+  <updated>2016-01-02T19:57:40Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>Fear and Competition</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=D2RoYvcqhgM"/>
-    <id>https://www.youtube.com/watch?v=D2RoYvcqhgM</id>
-    <updated>2016-01-02T16:18:26Z</updated>
-    <author>
-      <name>Marco Arment</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;ios&quot;&gt;ios&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;buisiness&quot;&gt;buisiness&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;competition&quot;&gt;competition&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;emotion&quot;&gt;emotion&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;D2RoYvcqhgM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
     <title>What's New in Managing Apple Devices</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-301"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-301</id>
-    <updated>2016-01-02T16:18:26Z</updated>
+    <updated>2016-01-02T19:57:40Z</updated>
     <author>
       <name>Todd Fernandez</name>
     </author>
@@ -57,7 +33,7 @@
     <title>Think Audacious</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-112"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-112</id>
-    <updated>2016-01-02T16:18:26Z</updated>
+    <updated>2016-01-02T19:57:40Z</updated>
     <author>
       <name>Debbie Sterling</name>
     </author>
@@ -75,7 +51,7 @@
     <title>Optimizing Your App for Multitasking on iPad in iOS 9</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-212"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-212</id>
-    <updated>2016-01-02T16:18:26Z</updated>
+    <updated>2016-01-02T19:57:40Z</updated>
     <author>
       <name>Brittany Paine</name>
     </author>
@@ -95,7 +71,7 @@
     <title>Designing for Future Hardware</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-801"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-801</id>
-    <updated>2016-01-02T16:18:26Z</updated>
+    <updated>2016-01-02T19:57:40Z</updated>
     <author>
       <name>Jeffrey Traer Bernstein</name>
     </author>
@@ -121,7 +97,7 @@
     <title>Introducing Search APIs</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-709"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-709</id>
-    <updated>2016-01-02T16:18:26Z</updated>
+    <updated>2016-01-02T19:57:40Z</updated>
     <author>
       <name>Vipul Prakash</name>
     </author>
@@ -140,7 +116,7 @@
     <title>Platforms State of the Union</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-102"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-102</id>
-    <updated>2016-01-02T16:18:26Z</updated>
+    <updated>2016-01-02T19:57:40Z</updated>
     <author>
       <name>Andreas Wendker</name>
     </author>
@@ -152,6 +128,30 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;watchos&quot;&gt;watchos&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-102&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Fear and Competition</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=D2RoYvcqhgM"/>
+    <id>https://www.youtube.com/watch?v=D2RoYvcqhgM</id>
+    <updated>2016-01-02T19:57:40Z</updated>
+    <author>
+      <name>Marco Arment</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ios&quot;&gt;ios&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;buisiness&quot;&gt;buisiness&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;competition&quot;&gt;competition&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;emotion&quot;&gt;emotion&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;D2RoYvcqhgM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
 
     </content>
   </entry>
