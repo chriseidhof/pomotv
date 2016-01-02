@@ -5,16 +5,40 @@
   <id>https://www.pomo.tv/</id>
   <link href="https://www.pomo.tv//tags/indie"/>
   <link href="https://www.pomo.tv/tags/indie/feed.xml" rel="self"/>
-  <updated>2015-12-31T20:37:41Z</updated>
+  <updated>2016-01-02T16:18:25Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Fear and Competition</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=D2RoYvcqhgM"/>
+    <id>https://www.youtube.com/watch?v=D2RoYvcqhgM</id>
+    <updated>2016-01-02T16:18:25Z</updated>
+    <author>
+      <name>Marco Arment</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ios&quot;&gt;ios&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;buisiness&quot;&gt;buisiness&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;competition&quot;&gt;competition&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;emotion&quot;&gt;emotion&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;D2RoYvcqhgM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Scaling Your Indie Business</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=0iQeaoP3Nh8"/>
     <id>https://www.youtube.com/watch?v=0iQeaoP3Nh8</id>
-    <updated>2015-12-31T20:37:41Z</updated>
+    <updated>2016-01-02T16:18:25Z</updated>
     <author>
       <name>Peter Steinberger</name>
     </author>
