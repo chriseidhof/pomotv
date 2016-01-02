@@ -54,6 +54,12 @@ UIKonf 2013:
     title: How I Learned to Stop Worrying about State and Love ReactiveCocoa
     tags: [functional reactive programming, reactivecocoa]
     youtube: YlsunWT87eo
+XOXO 2013:
+  - language: English
+    speakers: [Marco Arment]
+    tags: [ios, indie, buisiness, competition, emotion]
+    youtube: D2RoYvcqhgM
+    title: Fear and Competition
 UIKonf 2014:
   - language: English
     speakers: [Michele Titolo]
@@ -2847,9 +2853,3 @@ Functional Swift Conference 2015:
     speakers: [Colin Barrett]
     title: Structure and Interpretation of Swift Programs
     youtube: V-YvI83QdMs
-XOXO 2013:
-  - language: English
-    speakers: [Marco Arment]
-    tags: [ios, indie, buisiness, competition, emotion]
-    youtube: D2RoYvcqhgM
-    title: Fear and Competition
