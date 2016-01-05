@@ -1,11 +1,11 @@
   <entry>
-    <title><%= video.title %></title>
+    <title><%=h video.title %></title>
     <link rel="alternate" href="<%= video_url(video) %>"/>
     <id><%= video_url(video) %></id>
     <updated><%= Time.now.utc.iso8601 %></updated>
     <% video.speakers.each do |speaker| %>
     <author>
-      <name><%= speaker %></name>
+      <name><%=h speaker %></name>
     </author>
     <% end %>
     <content type="text/html">
