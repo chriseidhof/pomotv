@@ -83,7 +83,7 @@ data.editions.each do |metadata|
   html = "#{base_url}/index.html"
   feed = "#{base_url}/feed.xml"
 
-  proxy html, "edition.html", :locals => { :name => name, :metadata => metadata, :videos => data.videos[name], :atom_feed => feed}, :ignore => true, :search_title => "edition: #{name}"
+  proxy html, "edition.html", :locals => { :name => name, :metadata => metadata, :videos => data.videos[name], :atom_feed => feed}, :ignore => true, :search_title => "Event: #{name}"
   proxy feed, "feed.xml", :locals => { :name => name, :videos => data.videos[name], :html_page => base_url}, :ignore => true
 end
 
@@ -118,7 +118,7 @@ data.videos.map do |edition,videos|
 end
 
 activate :search do |search|
-  search.resources = ['editions/', 'tags/', 'speakers/', 'videos/']
+  search.resources = ['events/', 'tags/', 'speakers/']
   search.index_path = "search/index.json"
   search.fields = {
       search_title: {boost: 100, store: true, required: true},
