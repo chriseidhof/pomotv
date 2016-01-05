@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Chloe Chang</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/chloe-chang"/>
-  <link href="https://www.pomo.tv/speakers/chloe-chang/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:31Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/chloe-chang"/>
+  <link href="http://www.pomo.tv/speakers/chloe-chang/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:32Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>WatchKit In-Depth, Part 2</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-208"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-208</id>
-    <updated>2016-01-02T19:57:31Z</updated>
+    <updated>2016-01-05T23:33:32Z</updated>
     <author>
       <name>Nathan deVries</name>
     </author>

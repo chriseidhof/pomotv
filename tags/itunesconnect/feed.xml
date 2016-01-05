@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>itunesconnect</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//tags/itunesconnect"/>
-  <link href="https://www.pomo.tv/tags/itunesconnect/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:40Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/itunesconnect"/>
+  <link href="http://www.pomo.tv/tags/itunesconnect/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:39Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>iTunes Connect: Development to Distribution</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-304"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-304</id>
-    <updated>2016-01-02T19:57:40Z</updated>
+    <updated>2016-01-05T23:33:39Z</updated>
     <author>
       <name>Paul Turner</name>
     </author>
@@ -32,10 +32,10 @@
   </entry>
 
     <entry>
-    <title>What's New in iTunes Connect</title>
+    <title>What&#x27;s New in iTunes Connect</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-302"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-302</id>
-    <updated>2016-01-02T19:57:40Z</updated>
+    <updated>2016-01-05T23:33:39Z</updated>
     <author>
       <name>Dave Van Tassell</name>
     </author>

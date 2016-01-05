@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Miguel A. Quinones</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/miguel-a-quinones"/>
-  <link href="https://www.pomo.tv/speakers/miguel-a-quinones/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:30Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/miguel-a-quinones"/>
+  <link href="http://www.pomo.tv/speakers/miguel-a-quinones/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:32Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>Poor man's functional programming</title>
+    <title>Poor man&#x27;s functional programming</title>
     <link rel="alternate" href="https://vimeo.com/144208456"/>
     <id>https://vimeo.com/144208456</id>
-    <updated>2016-01-02T19:57:30Z</updated>
+    <updated>2016-01-05T23:33:32Z</updated>
     <author>
       <name>Miguel A. Quinones</name>
     </author>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Colin Barrett</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/colin-barrett"/>
-  <link href="https://www.pomo.tv/speakers/colin-barrett/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:27Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/colin-barrett"/>
+  <link href="http://www.pomo.tv/speakers/colin-barrett/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:30Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Structure and Interpretation of Swift Programs</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=V-YvI83QdMs"/>
     <id>https://www.youtube.com/watch?v=V-YvI83QdMs</id>
-    <updated>2016-01-02T19:57:27Z</updated>
+    <updated>2016-01-05T23:33:30Z</updated>
     <author>
       <name>Colin Barrett</name>
     </author>
@@ -33,7 +33,7 @@
     <title>Advanced iOS Application Architecture and Patterns</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-229"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-229</id>
-    <updated>2016-01-02T19:57:27Z</updated>
+    <updated>2016-01-05T23:33:30Z</updated>
     <author>
       <name>Andy Matuschak</name>
     </author>

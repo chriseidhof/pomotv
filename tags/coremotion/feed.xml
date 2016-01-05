@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>coremotion</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//tags/coremotion"/>
-  <link href="https://www.pomo.tv/tags/coremotion/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:37Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/coremotion"/>
+  <link href="http://www.pomo.tv/tags/coremotion/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:37Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>What's New in Core Motion</title>
+    <title>What&#x27;s New in Core Motion</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-705"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-705</id>
-    <updated>2016-01-02T19:57:37Z</updated>
+    <updated>2016-01-05T23:33:37Z</updated>
     <author>
       <name>Anil Kandangath</name>
     </author>

@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Troy Stephens</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/troy-stephens"/>
-  <link href="https://www.pomo.tv/speakers/troy-stephens/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:31Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/troy-stephens"/>
+  <link href="http://www.pomo.tv/speakers/troy-stephens/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:33Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>What's New in NSCollectionView</title>
+    <title>What&#x27;s New in NSCollectionView</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-225"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-225</id>
-    <updated>2016-01-02T19:57:31Z</updated>
+    <updated>2016-01-05T23:33:33Z</updated>
     <author>
       <name>Troy Stephens</name>
     </author>

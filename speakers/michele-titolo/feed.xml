@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Michele Titolo</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/michele-titolo"/>
-  <link href="https://www.pomo.tv/speakers/michele-titolo/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:26Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/michele-titolo"/>
+  <link href="http://www.pomo.tv/speakers/michele-titolo/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:29Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>All the [tech] world's a stage</title>
+    <title>All the [tech] world&#x27;s a stage</title>
     <link rel="alternate" href="https://vimeo.com/146102508"/>
     <id>https://vimeo.com/146102508</id>
-    <updated>2016-01-02T19:57:26Z</updated>
+    <updated>2016-01-05T23:33:29Z</updated>
     <author>
       <name>Michele Titolo</name>
     </author>
@@ -33,7 +33,7 @@
     <title>The Worst Code</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=gqQzJKU440Y"/>
     <id>https://www.youtube.com/watch?v=gqQzJKU440Y</id>
-    <updated>2016-01-02T19:57:26Z</updated>
+    <updated>2016-01-05T23:33:29Z</updated>
     <author>
       <name>Michele Titolo</name>
     </author>
@@ -50,10 +50,10 @@
   </entry>
 
     <entry>
-    <title>Can't handle my scale</title>
+    <title>Can&#x27;t handle my scale</title>
     <link rel="alternate" href="https://vimeo.com/109624121"/>
     <id>https://vimeo.com/109624121</id>
-    <updated>2016-01-02T19:57:26Z</updated>
+    <updated>2016-01-05T23:33:29Z</updated>
     <author>
       <name>Michele Titolo</name>
     </author>
@@ -72,7 +72,7 @@
     <title>Demystifying the .xcodeproj File</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=C4bPKc8eV34"/>
     <id>https://www.youtube.com/watch?v=C4bPKc8eV34</id>
-    <updated>2016-01-02T19:57:26Z</updated>
+    <updated>2016-01-05T23:33:29Z</updated>
     <author>
       <name>Michele Titolo</name>
     </author>
@@ -91,7 +91,7 @@
     <title>Inheriting code from other people</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=p_GqpSt7gh0"/>
     <id>https://www.youtube.com/watch?v=p_GqpSt7gh0</id>
-    <updated>2016-01-02T19:57:26Z</updated>
+    <updated>2016-01-05T23:33:29Z</updated>
     <author>
       <name>Michele Titolo</name>
     </author>

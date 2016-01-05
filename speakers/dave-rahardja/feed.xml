@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Dave Rahardja</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/dave-rahardja"/>
-  <link href="https://www.pomo.tv/speakers/dave-rahardja/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:35Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/dave-rahardja"/>
+  <link href="http://www.pomo.tv/speakers/dave-rahardja/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:36Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Distributing Enterprise Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-705"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-705</id>
-    <updated>2016-01-02T19:57:35Z</updated>
+    <updated>2016-01-05T23:33:36Z</updated>
     <author>
       <name>Dave Rahardja</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Building Apps for Enterprise and Education</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-704"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-704</id>
-    <updated>2016-01-02T19:57:35Z</updated>
+    <updated>2016-01-05T23:33:36Z</updated>
     <author>
       <name>Dave Rahardja</name>
     </author>

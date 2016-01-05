@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Dave Wiskus</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/dave-wiskus"/>
-  <link href="https://www.pomo.tv/speakers/dave-wiskus/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:27Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/dave-wiskus"/>
+  <link href="http://www.pomo.tv/speakers/dave-wiskus/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:30Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Designing for Humans</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=HL38kUwrpoM"/>
     <id>https://www.youtube.com/watch?v=HL38kUwrpoM</id>
-    <updated>2016-01-02T19:57:27Z</updated>
+    <updated>2016-01-05T23:33:30Z</updated>
     <author>
       <name>Dave Wiskus</name>
     </author>
@@ -36,7 +36,7 @@
     <title>How to Make a Vesper</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=AiwgQIMkiFw"/>
     <id>https://www.youtube.com/watch?v=AiwgQIMkiFw</id>
-    <updated>2016-01-02T19:57:27Z</updated>
+    <updated>2016-01-05T23:33:30Z</updated>
     <author>
       <name>Dave Wiskus</name>
     </author>

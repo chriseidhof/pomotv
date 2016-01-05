@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>git</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//tags/git"/>
-  <link href="https://www.pomo.tv/tags/git/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:39Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/git"/>
+  <link href="http://www.pomo.tv/tags/git/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:38Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Git as a Document Format</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=R6m855mfPGU"/>
     <id>https://www.youtube.com/watch?v=R6m855mfPGU</id>
-    <updated>2016-01-02T19:57:39Z</updated>
+    <updated>2016-01-05T23:33:38Z</updated>
     <author>
       <name>Wil Shipley</name>
     </author>

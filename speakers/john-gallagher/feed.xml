@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>John Gallagher</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/john-gallagher"/>
-  <link href="https://www.pomo.tv/speakers/john-gallagher/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:26Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/john-gallagher"/>
+  <link href="http://www.pomo.tv/speakers/john-gallagher/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:29Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Networking with Monads</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=LqwrUmuodyY"/>
     <id>https://www.youtube.com/watch?v=LqwrUmuodyY</id>
-    <updated>2016-01-02T19:57:26Z</updated>
+    <updated>2016-01-05T23:33:29Z</updated>
     <author>
       <name>John Gallagher</name>
     </author>

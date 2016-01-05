@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>security</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//tags/security"/>
-  <link href="https://www.pomo.tv/tags/security/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:42Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/security"/>
+  <link href="http://www.pomo.tv/tags/security/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:40Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Security and Your Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-706"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-706</id>
-    <updated>2016-01-02T19:57:42Z</updated>
+    <updated>2016-01-05T23:33:40Z</updated>
     <author>
       <name>Ivan Krstic</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Securing iOS applications</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=qaeN-rk_YVU"/>
     <id>https://www.youtube.com/watch?v=qaeN-rk_YVU</id>
-    <updated>2016-01-02T19:57:42Z</updated>
+    <updated>2016-01-05T23:33:40Z</updated>
     <author>
       <name>Max Bazaliy</name>
     </author>
@@ -54,7 +54,7 @@
     <title>Demystifying security best practices</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=2FHc9QTpsqQ"/>
     <id>https://www.youtube.com/watch?v=2FHc9QTpsqQ</id>
-    <updated>2016-01-02T19:57:42Z</updated>
+    <updated>2016-01-05T23:33:40Z</updated>
     <author>
       <name>Conrad Stoll</name>
     </author>

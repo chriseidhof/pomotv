@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Ricky Mondello</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/ricky-mondello"/>
-  <link href="https://www.pomo.tv/speakers/ricky-mondello/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:31Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/ricky-mondello"/>
+  <link href="http://www.pomo.tv/speakers/ricky-mondello/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:33Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Introducing Safari View Controller</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-504"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-504</id>
-    <updated>2016-01-02T19:57:31Z</updated>
+    <updated>2016-01-05T23:33:33Z</updated>
     <author>
       <name>Ricky Mondello</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Your App, Your Website, and Safari</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-506"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-506</id>
-    <updated>2016-01-02T19:57:31Z</updated>
+    <updated>2016-01-05T23:33:33Z</updated>
     <author>
       <name>Ricky Mondello</name>
     </author>

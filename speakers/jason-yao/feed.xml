@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Jason Yao</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/jason-yao"/>
-  <link href="https://www.pomo.tv/speakers/jason-yao/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:31Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/jason-yao"/>
+  <link href="http://www.pomo.tv/speakers/jason-yao/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:33Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Mysteries of Auto Layout, Part 1</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-218"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-218</id>
-    <updated>2016-01-02T19:57:31Z</updated>
+    <updated>2016-01-05T23:33:33Z</updated>
     <author>
       <name>Jason Yao</name>
     </author>

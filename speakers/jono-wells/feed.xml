@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Jono Wells</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/jono-wells"/>
-  <link href="https://www.pomo.tv/speakers/jono-wells/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:32Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/jono-wells"/>
+  <link href="http://www.pomo.tv/speakers/jono-wells/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:33Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Using Safari to Deliver and Debug a Responsive Web Design</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-505"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-505</id>
-    <updated>2016-01-02T19:57:32Z</updated>
+    <updated>2016-01-05T23:33:33Z</updated>
     <author>
       <name>Jono Wells</name>
     </author>

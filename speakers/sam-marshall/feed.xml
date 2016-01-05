@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Sam Marshall</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/sam-marshall"/>
-  <link href="https://www.pomo.tv/speakers/sam-marshall/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:29Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/sam-marshall"/>
+  <link href="http://www.pomo.tv/speakers/sam-marshall/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:31Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Everything is Terrible</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=CQn9AAZonMk"/>
     <id>https://www.youtube.com/watch?v=CQn9AAZonMk</id>
-    <updated>2016-01-02T19:57:29Z</updated>
+    <updated>2016-01-05T23:33:31Z</updated>
     <author>
       <name>Sam Marshall</name>
     </author>
@@ -35,7 +35,7 @@
     <title>Insecure Code</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=lmvqADmLozM"/>
     <id>https://www.youtube.com/watch?v=lmvqADmLozM</id>
-    <updated>2016-01-02T19:57:29Z</updated>
+    <updated>2016-01-05T23:33:31Z</updated>
     <author>
       <name>Sam Marshall</name>
     </author>

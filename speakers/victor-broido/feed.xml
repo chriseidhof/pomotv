@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Victor Broido</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/victor-broido"/>
-  <link href="https://www.pomo.tv/speakers/victor-broido/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:29Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/victor-broido"/>
+  <link href="http://www.pomo.tv/speakers/victor-broido/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:31Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Hippie Marketing</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=rI-Nf40MGkg"/>
     <id>https://www.youtube.com/watch?v=rI-Nf40MGkg</id>
-    <updated>2016-01-02T19:57:29Z</updated>
+    <updated>2016-01-05T23:33:31Z</updated>
     <author>
       <name>Victor Broido</name>
     </author>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>audio</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//tags/audio"/>
-  <link href="https://www.pomo.tv/tags/audio/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:36Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/audio"/>
+  <link href="http://www.pomo.tv/tags/audio/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:36Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Audio Unit Extensions</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-508"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-508</id>
-    <updated>2016-01-02T19:57:36Z</updated>
+    <updated>2016-01-05T23:33:36Z</updated>
     <author>
       <name>Doug Wyatt</name>
     </author>
@@ -31,10 +31,10 @@
   </entry>
 
     <entry>
-    <title>What's New in Core Audio</title>
+    <title>What&#x27;s New in Core Audio</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-507"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-507</id>
-    <updated>2016-01-02T19:57:36Z</updated>
+    <updated>2016-01-05T23:33:36Z</updated>
     <author>
       <name>Akshatha Nagesh</name>
     </author>
@@ -57,7 +57,7 @@
     <title>Psychoacoustics and Auditory Illusions for App Development</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sDOq8d7SAIQ"/>
     <id>https://www.youtube.com/watch?v=sDOq8d7SAIQ</id>
-    <updated>2016-01-02T19:57:36Z</updated>
+    <updated>2016-01-05T23:33:36Z</updated>
     <author>
       <name>Sally Shepard</name>
     </author>

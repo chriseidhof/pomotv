@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>webkit</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//tags/webkit"/>
-  <link href="https://www.pomo.tv/tags/webkit/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:43Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/webkit"/>
+  <link href="http://www.pomo.tv/tags/webkit/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:41Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>What's New in Web Development in WebKit and Safari</title>
+    <title>What&#x27;s New in Web Development in WebKit and Safari</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-501"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-501</id>
-    <updated>2016-01-02T19:57:43Z</updated>
+    <updated>2016-01-05T23:33:41Z</updated>
     <author>
       <name>Brent Fulgham</name>
     </author>

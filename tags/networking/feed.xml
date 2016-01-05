@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>networking</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//tags/networking"/>
-  <link href="https://www.pomo.tv/tags/networking/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:41Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/networking"/>
+  <link href="http://www.pomo.tv/tags/networking/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:40Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Networking with NSURLSession</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-711"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-711</id>
-    <updated>2016-01-02T19:57:41Z</updated>
+    <updated>2016-01-05T23:33:40Z</updated>
     <author>
       <name>Luke Case</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Networking with Monads</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=LqwrUmuodyY"/>
     <id>https://www.youtube.com/watch?v=LqwrUmuodyY</id>
-    <updated>2016-01-02T19:57:41Z</updated>
+    <updated>2016-01-05T23:33:40Z</updated>
     <author>
       <name>John Gallagher</name>
     </author>

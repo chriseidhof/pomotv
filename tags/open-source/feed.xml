@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>open source</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//tags/open-source"/>
-  <link href="https://www.pomo.tv/tags/open-source/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:41Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/open-source"/>
+  <link href="http://www.pomo.tv/tags/open-source/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:40Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Open Source iOS</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=mVju1coG_6Q"/>
     <id>https://www.youtube.com/watch?v=mVju1coG_6Q</id>
-    <updated>2016-01-02T19:57:41Z</updated>
+    <updated>2016-01-05T23:33:40Z</updated>
     <author>
       <name>Christine Corbett</name>
     </author>

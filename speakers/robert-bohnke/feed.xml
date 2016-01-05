@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Robert Böhnke</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/robert-bohnke"/>
-  <link href="https://www.pomo.tv/speakers/robert-bohnke/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:28Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/robert-bohnke"/>
+  <link href="http://www.pomo.tv/speakers/robert-bohnke/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:30Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Animations Explained</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=51_QMii2kqQ"/>
     <id>https://www.youtube.com/watch?v=51_QMii2kqQ</id>
-    <updated>2016-01-02T19:57:27Z</updated>
+    <updated>2016-01-05T23:33:30Z</updated>
     <author>
       <name>Robert Böhnke</name>
     </author>
@@ -33,7 +33,7 @@
     <title>How I Learned to Stop Worrying about State and Love ReactiveCocoa</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=YlsunWT87eo"/>
     <id>https://www.youtube.com/watch?v=YlsunWT87eo</id>
-    <updated>2016-01-02T19:57:27Z</updated>
+    <updated>2016-01-05T23:33:30Z</updated>
     <author>
       <name>Robert Böhnke</name>
     </author>

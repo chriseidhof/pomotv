@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Oliver Drobnik</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/oliver-drobnik"/>
-  <link href="https://www.pomo.tv/speakers/oliver-drobnik/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:28Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/oliver-drobnik"/>
+  <link href="http://www.pomo.tv/speakers/oliver-drobnik/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:31Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>iOS Subscriptions 2.0</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=_hHDYKJkdyU"/>
     <id>https://www.youtube.com/watch?v=_hHDYKJkdyU</id>
-    <updated>2016-01-02T19:57:28Z</updated>
+    <updated>2016-01-05T23:33:31Z</updated>
     <author>
       <name>Oliver Drobnik</name>
     </author>

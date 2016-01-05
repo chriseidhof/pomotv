@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Brandon Williams</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/brandon-williams"/>
-  <link href="https://www.pomo.tv/speakers/brandon-williams/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:26Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/brandon-williams"/>
+  <link href="http://www.pomo.tv/speakers/brandon-williams/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:29Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Lenses in Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ofjehH9f-CU"/>
     <id>https://www.youtube.com/watch?v=ofjehH9f-CU</id>
-    <updated>2016-01-02T19:57:26Z</updated>
+    <updated>2016-01-05T23:33:29Z</updated>
     <author>
       <name>Brandon Williams</name>
     </author>
@@ -37,7 +37,7 @@
     <title>Functional Programming in a Playground</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=estNbh2TF3E"/>
     <id>https://www.youtube.com/watch?v=estNbh2TF3E</id>
-    <updated>2016-01-02T19:57:26Z</updated>
+    <updated>2016-01-05T23:33:29Z</updated>
     <author>
       <name>Brandon Williams</name>
     </author>

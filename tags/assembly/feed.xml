@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>assembly</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//tags/assembly"/>
-  <link href="https://www.pomo.tv/tags/assembly/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:36Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/assembly"/>
+  <link href="http://www.pomo.tv/tags/assembly/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:36Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>The Why and How of Assembly Language</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=SSCxm5_IloU"/>
     <id>https://www.youtube.com/watch?v=SSCxm5_IloU</id>
-    <updated>2016-01-02T19:57:36Z</updated>
+    <updated>2016-01-05T23:33:36Z</updated>
     <author>
       <name>Gwynne Raskind</name>
     </author>

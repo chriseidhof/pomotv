@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>ui</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//tags/ui"/>
-  <link href="https://www.pomo.tv/tags/ui/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:43Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/ui"/>
+  <link href="http://www.pomo.tv/tags/ui/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:41Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Intelligent UI with AsyncDisplayKit 2.0</title>
     <link rel="alternate" href="https://vimeo.com/140409084"/>
     <id>https://vimeo.com/140409084</id>
-    <updated>2016-01-02T19:57:43Z</updated>
+    <updated>2016-01-05T23:33:41Z</updated>
     <author>
       <name>Scott Goodson</name>
     </author>

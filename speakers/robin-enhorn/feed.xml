@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Robin Enhorn</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/robin-enhorn"/>
-  <link href="https://www.pomo.tv/speakers/robin-enhorn/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:36Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/robin-enhorn"/>
+  <link href="http://www.pomo.tv/speakers/robin-enhorn/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:36Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>iPad PiP Video</title>
     <link rel="alternate" href="https://vimeo.com/138831846"/>
     <id>https://vimeo.com/138831846</id>
-    <updated>2016-01-02T19:57:36Z</updated>
+    <updated>2016-01-05T23:33:36Z</updated>
     <author>
       <name>Robin Enhorn</name>
     </author>

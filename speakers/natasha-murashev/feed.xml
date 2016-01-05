@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Natasha Murashev</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/natasha-murashev"/>
-  <link href="https://www.pomo.tv/speakers/natasha-murashev/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:27Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/natasha-murashev"/>
+  <link href="http://www.pomo.tv/speakers/natasha-murashev/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:29Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>The Zen Guide to WatchOS 2</title>
     <link rel="alternate" href="https://vimeo.com/141086010"/>
     <id>https://vimeo.com/141086010</id>
-    <updated>2016-01-02T19:57:27Z</updated>
+    <updated>2016-01-05T23:33:29Z</updated>
     <author>
       <name>Natasha Murashev</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Swift Thinking</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=4uPCVMfWY34"/>
     <id>https://www.youtube.com/watch?v=4uPCVMfWY34</id>
-    <updated>2016-01-02T19:57:27Z</updated>
+    <updated>2016-01-05T23:33:29Z</updated>
     <author>
       <name>Natasha Murashev</name>
     </author>
@@ -53,7 +53,7 @@
     <title>The Functional Way</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=tohEJSq9gds"/>
     <id>https://www.youtube.com/watch?v=tohEJSq9gds</id>
-    <updated>2016-01-02T19:57:27Z</updated>
+    <updated>2016-01-05T23:33:29Z</updated>
     <author>
       <name>Natasha Murashev</name>
     </author>

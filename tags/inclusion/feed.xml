@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>inclusion</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//tags/inclusion"/>
-  <link href="https://www.pomo.tv/tags/inclusion/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:40Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/inclusion"/>
+  <link href="http://www.pomo.tv/tags/inclusion/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:39Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Technology: The Power and the Promise</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=DyNoSolM1G0"/>
     <id>https://www.youtube.com/watch?v=DyNoSolM1G0</id>
-    <updated>2016-01-02T19:57:40Z</updated>
+    <updated>2016-01-05T23:33:39Z</updated>
     <author>
       <name>Robin Christopherson</name>
     </author>

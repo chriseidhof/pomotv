@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Jaimee Newberry</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/jaimee-newberry"/>
-  <link href="https://www.pomo.tv/speakers/jaimee-newberry/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:27Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/jaimee-newberry"/>
+  <link href="http://www.pomo.tv/speakers/jaimee-newberry/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:30Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>Through Burnout & Back Again: Design Skills that Saved My Life</title>
+    <title>Through Burnout &amp; Back Again: Design Skills that Saved My Life</title>
     <link rel="alternate" href="https://vimeo.com/124384525"/>
     <id>https://vimeo.com/124384525</id>
-    <updated>2016-01-02T19:57:27Z</updated>
+    <updated>2016-01-05T23:33:30Z</updated>
     <author>
       <name>Jaimee Newberry</name>
     </author>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Alberto López</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/alberto-lopez"/>
-  <link href="https://www.pomo.tv/speakers/alberto-lopez/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:28Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/alberto-lopez"/>
+  <link href="http://www.pomo.tv/speakers/alberto-lopez/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:31Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>v.zero: A modern foundation for accepting payments</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=vjSdj83shNQ"/>
     <id>https://www.youtube.com/watch?v=vjSdj83shNQ</id>
-    <updated>2016-01-02T19:57:28Z</updated>
+    <updated>2016-01-05T23:33:31Z</updated>
     <author>
       <name>Alberto López</name>
     </author>

@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Anush Nadathur</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/anush-nadathur"/>
-  <link href="https://www.pomo.tv/speakers/anush-nadathur/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:31Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/anush-nadathur"/>
+  <link href="http://www.pomo.tv/speakers/anush-nadathur/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:33Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>What's New in HomeKit</title>
+    <title>What&#x27;s New in HomeKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-210"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-210</id>
-    <updated>2016-01-02T19:57:31Z</updated>
+    <updated>2016-01-05T23:33:33Z</updated>
     <author>
       <name>Anush Nadathur</name>
     </author>

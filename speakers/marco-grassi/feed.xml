@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Marco Grassi</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/marco-grassi"/>
-  <link href="https://www.pomo.tv/speakers/marco-grassi/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:28Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/marco-grassi"/>
+  <link href="http://www.pomo.tv/speakers/marco-grassi/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:31Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>iOS Apps Security</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Ws2QzE-DK5c"/>
     <id>https://www.youtube.com/watch?v=Ws2QzE-DK5c</id>
-    <updated>2016-01-02T19:57:28Z</updated>
+    <updated>2016-01-05T23:33:31Z</updated>
     <author>
       <name>Marco Grassi</name>
     </author>

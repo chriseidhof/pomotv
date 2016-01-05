@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Jeff Watkins</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/jeff-watkins"/>
-  <link href="https://www.pomo.tv/speakers/jeff-watkins/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:34Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/jeff-watkins"/>
+  <link href="http://www.pomo.tv/speakers/jeff-watkins/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:35Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Advanced User Interfaces with Collection Views</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-232"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-232</id>
-    <updated>2016-01-02T19:57:34Z</updated>
+    <updated>2016-01-05T23:33:35Z</updated>
     <author>
       <name>Jeff Watkins</name>
     </author>

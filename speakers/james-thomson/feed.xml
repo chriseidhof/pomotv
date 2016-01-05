@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>James Thomson</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/james-thomson"/>
-  <link href="https://www.pomo.tv/speakers/james-thomson/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:30Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/james-thomson"/>
+  <link href="http://www.pomo.tv/speakers/james-thomson/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:32Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>How to be Indie and Still Keep Your Sanity</title>
     <link rel="alternate" href="https://vimeo.com/111942375"/>
     <id>https://vimeo.com/111942375</id>
-    <updated>2016-01-02T19:57:30Z</updated>
+    <updated>2016-01-05T23:33:32Z</updated>
     <author>
       <name>James Thomson</name>
     </author>

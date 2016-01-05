@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Micheal Flarup</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/micheal-flarup"/>
-  <link href="https://www.pomo.tv/speakers/micheal-flarup/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:28Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/micheal-flarup"/>
+  <link href="http://www.pomo.tv/speakers/micheal-flarup/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:31Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Design better app icons</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=o35WeRqV6Rc"/>
     <id>https://www.youtube.com/watch?v=o35WeRqV6Rc</id>
-    <updated>2016-01-02T19:57:28Z</updated>
+    <updated>2016-01-05T23:33:31Z</updated>
     <author>
       <name>Micheal Flarup</name>
     </author>

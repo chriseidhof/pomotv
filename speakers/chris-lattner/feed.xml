@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Chris Lattner</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/chris-lattner"/>
-  <link href="https://www.pomo.tv/speakers/chris-lattner/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:30Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/chris-lattner"/>
+  <link href="http://www.pomo.tv/speakers/chris-lattner/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:32Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>What's New in Swift</title>
+    <title>What&#x27;s New in Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-106"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-106</id>
-    <updated>2016-01-02T19:57:30Z</updated>
+    <updated>2016-01-05T23:33:32Z</updated>
     <author>
       <name>Chris Lattner</name>
     </author>

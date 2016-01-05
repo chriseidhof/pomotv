@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Jonathan Rhyne</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/jonathan-rhyne"/>
-  <link href="https://www.pomo.tv/speakers/jonathan-rhyne/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:29Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/jonathan-rhyne"/>
+  <link href="http://www.pomo.tv/speakers/jonathan-rhyne/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:32Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Debugging the Contract</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=wA0_A2Jvz6I"/>
     <id>https://www.youtube.com/watch?v=wA0_A2Jvz6I</id>
-    <updated>2016-01-02T19:57:29Z</updated>
+    <updated>2016-01-05T23:33:32Z</updated>
     <author>
       <name>Jonathan Rhyne</name>
     </author>

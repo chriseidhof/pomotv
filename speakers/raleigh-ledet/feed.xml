@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Raleigh Ledet</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/raleigh-ledet"/>
-  <link href="https://www.pomo.tv/speakers/raleigh-ledet/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:31Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/raleigh-ledet"/>
+  <link href="http://www.pomo.tv/speakers/raleigh-ledet/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:33Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Adopting New Trackpad Features</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-217"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-217</id>
-    <updated>2016-01-02T19:57:31Z</updated>
+    <updated>2016-01-05T23:33:33Z</updated>
     <author>
       <name>Raleigh Ledet</name>
     </author>
@@ -33,7 +33,7 @@
     <title>Storyboards and Controllers on OS X</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-212"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-212</id>
-    <updated>2016-01-02T19:57:31Z</updated>
+    <updated>2016-01-05T23:33:33Z</updated>
     <author>
       <name>Mike Swingler</name>
     </author>

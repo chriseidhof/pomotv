@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Andrew Stone</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/andrew-stone"/>
-  <link href="https://www.pomo.tv/speakers/andrew-stone/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:29Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/andrew-stone"/>
+  <link href="http://www.pomo.tv/speakers/andrew-stone/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:31Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Reflections on device addictions, the big data state, and alternative futures.</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Ffa90t7T35g"/>
     <id>https://www.youtube.com/watch?v=Ffa90t7T35g</id>
-    <updated>2016-01-02T19:57:29Z</updated>
+    <updated>2016-01-05T23:33:31Z</updated>
     <author>
       <name>Andrew Stone</name>
     </author>

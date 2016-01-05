@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Emily Toop</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/emily-toop"/>
-  <link href="https://www.pomo.tv/speakers/emily-toop/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:30Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/emily-toop"/>
+  <link href="http://www.pomo.tv/speakers/emily-toop/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:32Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>Computing's Hidden Heroes</title>
+    <title>Computing&#x27;s Hidden Heroes</title>
     <link rel="alternate" href="https://vimeo.com/111942503"/>
     <id>https://vimeo.com/111942503</id>
-    <updated>2016-01-02T19:57:30Z</updated>
+    <updated>2016-01-05T23:33:32Z</updated>
     <author>
       <name>Emily Toop</name>
     </author>

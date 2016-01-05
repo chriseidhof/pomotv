@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Nick Lockwood</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/nick-lockwood"/>
-  <link href="https://www.pomo.tv/speakers/nick-lockwood/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:28Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/nick-lockwood"/>
+  <link href="http://www.pomo.tv/speakers/nick-lockwood/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:30Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Image performance</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=khoabTSgOFA"/>
     <id>https://www.youtube.com/watch?v=khoabTSgOFA</id>
-    <updated>2016-01-02T19:57:28Z</updated>
+    <updated>2016-01-05T23:33:30Z</updated>
     <author>
       <name>Nick Lockwood</name>
     </author>

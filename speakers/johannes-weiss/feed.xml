@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Johannes Weiß</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/johannes-weiss"/>
-  <link href="https://www.pomo.tv/speakers/johannes-weiss/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:29Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/johannes-weiss"/>
+  <link href="http://www.pomo.tv/speakers/johannes-weiss/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:31Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>The Type System is Your Friend</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-johannes-weiss-the-type-system-is-your-friend/"/>
     <id>https://realm.io/news/swift-summit-johannes-weiss-the-type-system-is-your-friend/</id>
-    <updated>2016-01-02T19:57:29Z</updated>
+    <updated>2016-01-05T23:33:31Z</updated>
     <author>
       <name>Johannes Weiß</name>
     </author>

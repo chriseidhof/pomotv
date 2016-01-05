@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Jamie Wood</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/jamie-wood"/>
-  <link href="https://www.pomo.tv/speakers/jamie-wood/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:33Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/jamie-wood"/>
+  <link href="http://www.pomo.tv/speakers/jamie-wood/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:34Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>What's New in Network Extension and VPN</title>
+    <title>What&#x27;s New in Network Extension and VPN</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-717"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-717</id>
-    <updated>2016-01-02T19:57:33Z</updated>
+    <updated>2016-01-05T23:33:34Z</updated>
     <author>
       <name>Jamie Wood</name>
     </author>

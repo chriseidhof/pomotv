@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>devops</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//tags/devops"/>
-  <link href="https://www.pomo.tv/tags/devops/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:38Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/devops"/>
+  <link href="http://www.pomo.tv/tags/devops/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:37Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>DevOps in the iOS world</title>
     <link rel="alternate" href="https://vimeo.com/146752761"/>
     <id>https://vimeo.com/146752761</id>
-    <updated>2016-01-02T19:57:38Z</updated>
+    <updated>2016-01-05T23:33:37Z</updated>
     <author>
       <name>Piet Brauer</name>
     </author>

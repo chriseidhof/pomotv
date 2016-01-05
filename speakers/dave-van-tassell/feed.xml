@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Dave Van Tassell</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/dave-van-tassell"/>
-  <link href="https://www.pomo.tv/speakers/dave-van-tassell/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:31Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/dave-van-tassell"/>
+  <link href="http://www.pomo.tv/speakers/dave-van-tassell/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:32Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>What's New in iTunes Connect</title>
+    <title>What&#x27;s New in iTunes Connect</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-302"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-302</id>
-    <updated>2016-01-02T19:57:31Z</updated>
+    <updated>2016-01-05T23:33:32Z</updated>
     <author>
       <name>Dave Van Tassell</name>
     </author>
@@ -33,7 +33,7 @@
     <title>The New iTunes Connect</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-302"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-302</id>
-    <updated>2016-01-02T19:57:31Z</updated>
+    <updated>2016-01-05T23:33:32Z</updated>
     <author>
       <name>Dave Van Tassell</name>
     </author>

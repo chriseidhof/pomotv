@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Alexis Gallagher</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/alexis-gallagher"/>
-  <link href="https://www.pomo.tv/speakers/alexis-gallagher/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:27Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/alexis-gallagher"/>
+  <link href="http://www.pomo.tv/speakers/alexis-gallagher/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:29Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Protocols with Associated Types</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=XWoNjiSPqI8"/>
     <id>https://www.youtube.com/watch?v=XWoNjiSPqI8</id>
-    <updated>2016-01-02T19:57:27Z</updated>
+    <updated>2016-01-05T23:33:29Z</updated>
     <author>
       <name>Alexis Gallagher</name>
     </author>

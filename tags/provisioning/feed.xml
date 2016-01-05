@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>provisioning</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//tags/provisioning"/>
-  <link href="https://www.pomo.tv/tags/provisioning/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:41Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/provisioning"/>
+  <link href="http://www.pomo.tv/tags/provisioning/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:40Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Everything is Terrible</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=CQn9AAZonMk"/>
     <id>https://www.youtube.com/watch?v=CQn9AAZonMk</id>
-    <updated>2016-01-02T19:57:41Z</updated>
+    <updated>2016-01-05T23:33:40Z</updated>
     <author>
       <name>Sam Marshall</name>
     </author>

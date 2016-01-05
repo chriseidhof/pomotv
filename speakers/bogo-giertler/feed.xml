@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
   <subtitle>Bogo Giertler</subtitle>
-  <id>https://www.pomo.tv/</id>
-  <link href="https://www.pomo.tv//speakers/bogo-giertler"/>
-  <link href="https://www.pomo.tv/speakers/bogo-giertler/feed.xml" rel="self"/>
-  <updated>2016-01-02T19:57:33Z</updated>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/bogo-giertler"/>
+  <link href="http://www.pomo.tv/speakers/bogo-giertler/feed.xml" rel="self"/>
+  <updated>2016-01-05T23:33:34Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Maintaining Sanity and Code</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=nlhHiyNu1LU"/>
     <id>https://www.youtube.com/watch?v=nlhHiyNu1LU</id>
-    <updated>2016-01-02T19:57:33Z</updated>
+    <updated>2016-01-05T23:33:34Z</updated>
     <author>
       <name>Bogo Giertler</name>
     </author>
