@@ -79,6 +79,9 @@
     <loc>http://www.pomo.tv/events/cocoaheads-stockholm/august-2015/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/cocoaheads-stockholm/september-2015/</loc>
   </url>
   <url>
@@ -1399,6 +1402,75 @@
     <loc>http://www.pomo.tv/speakers/thomas-hanning/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/daniel-haight/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/nick-harris/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/josh-johnson/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/daniel-pfeiffer/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/gene-whitaker/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/jay-graves/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/charles-perry/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/stephen-barnes/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/ellen-shapiro/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/aaron-shekey/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/michael-schneider/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/james-hughes/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/adam-zolyak/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/shawn-davison/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/benjamin-encz/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/jonathan-blocksom/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/justin-williams/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/stepan-hruda/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/curtis-herbert/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/janie-clayton/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/ben-sykes/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/brandon-trebitowski/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/grant-davis/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
@@ -1411,6 +1483,9 @@
     <loc>http://www.pomo.tv/tags/analytics/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/android/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/animations/</loc>
   </url>
   <url>
@@ -1418,6 +1493,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/applepay/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/architecture/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/arduino/</loc>
@@ -1433,6 +1511,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/audio/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/auto-layout/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/autolayout/</loc>
@@ -1597,6 +1678,9 @@
     <loc>http://www.pomo.tv/tags/grid/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/hacking/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/haskell/</loc>
   </url>
   <url>
@@ -1604,6 +1688,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/http/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/hybrid/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/iad/</loc>
@@ -1666,6 +1753,9 @@
     <loc>http://www.pomo.tv/tags/mapkit/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/marketing/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/media/</loc>
   </url>
   <url>
@@ -1693,6 +1783,9 @@
     <loc>http://www.pomo.tv/tags/open-source/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/opengl/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/operators/</loc>
   </url>
   <url>
@@ -1712,6 +1805,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/provisioning/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/psychology/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/railway-oriented-programming/</loc>
@@ -1780,10 +1876,19 @@
     <loc>http://www.pomo.tv/tags/systemframeworks/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/teams/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/testing/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/textkit/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/tools/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/transitions/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/tvos/</loc>
@@ -3332,5 +3437,101 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/funswift/2015/colin-barrett-structure-and-interpretation-of-swift-programs.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/daniel-haight-decision-fatigue.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/jay-freeman-feature-or-bug.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/michele-titolo-all-the-tech-world-s-a-stage.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/matthew-morey-watchkit-notifications.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/nick-harris-git-it-together-discussing-source-control.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/josh-johnson-how-to-lose-an-ios-developer-in-10-days.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/daniel-pfeiffer-the-small-fish-in-a-big-pond-working-with-large-clients.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/gene-whitaker-magic-words-harnessing-the-power-of-textkit.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/jay-graves-provisioning-profile-stockholm-syndrome.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/charles-perry-succeeding-slwoing-a-practical-guide-to-going-indie.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/stephen-barnes-android-101-for-ios-developers-two-sides-of-the-same-coin.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/jay-thrash-good-intentions-ii-enemy-of-the-state.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/cate-huston-ios-testing-beyond-the-model.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/aaron-shekey-ellen-shapiro-the-power-of-working-code-and-designers-who-develop.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/kyle-fuller-practical-declarative-programming.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/michael-schneider-build-a-business-not-an-app.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/james-hughes-beyond-the-banner-how-to-scale-your-revenue-with-innovative-ad-formats.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/adam-zolyak-welcome-to-the-team.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/shawn-davison-advanced-ux-design-for-apple-watch.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/benjamin-encz-safer-swift-code-with-value-types.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/jonathan-blocksom-scenekit-metal-and-opengl.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/justin-williams-mastering-auto-layout.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/stepan-hruda-apple-pay-what-happens-when-you-tap.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/marin-todorov-what’s-in-for-us-after-the-indiepocalypse.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/kyle-richter-the-last-job.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/curtis-herbert-designing-for-1x-3x-without-going-crazy.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/janie-clayton-beyond-white-embracing-the-ios-design-aesthetic.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/greg-heo-switching-your-brain-to-swift.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/ben-sykes-innovation-gaming-perfecting-your-brainstorming-technique-for-killer-products-features.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/brandon-trebitowski-stop-saying-no-how-i-went-from-fired-to-indie-to-over-1m-in-revenue-in-under-a-year.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/grant-davis-fancy-custom-transitions.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/360idev/2015/jay-graves-what-s-new-in-hybrid-app-development.html</loc>
   </url>
 </urlset>

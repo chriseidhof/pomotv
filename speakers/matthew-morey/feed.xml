@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/matthew-morey"/>
   <link href="http://www.pomo.tv/speakers/matthew-morey/feed.xml" rel="self"/>
-  <updated>2016-01-06T22:13:31Z</updated>
+  <updated>2016-01-07T19:53:27Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>WatchKit Notifications</title>
+    <link rel="alternate" href="https://vimeo.com/138114340"/>
+    <id>https://vimeo.com/138114340</id>
+    <updated>2016-01-07T19:53:27Z</updated>
+    <author>
+      <name>Matthew Morey</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;watchkit&quot;&gt;watchkit&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;watchos&quot;&gt;watchos&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138114340&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>High performance Core Data</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Du8ggtwNTaM"/>
     <id>https://www.youtube.com/watch?v=Du8ggtwNTaM</id>
-    <updated>2016-01-06T22:13:31Z</updated>
+    <updated>2016-01-07T19:53:27Z</updated>
     <author>
       <name>Matthew Morey</name>
     </author>

@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/michele-titolo"/>
   <link href="http://www.pomo.tv/speakers/michele-titolo/feed.xml" rel="self"/>
-  <updated>2016-01-06T22:13:30Z</updated>
+  <updated>2016-01-07T19:53:26Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
     <title>All the [tech] world&#x27;s a stage</title>
+    <link rel="alternate" href="https://vimeo.com/139495595"/>
+    <id>https://vimeo.com/139495595</id>
+    <updated>2016-01-07T19:53:26Z</updated>
+    <author>
+      <name>Michele Titolo</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;inspirational&quot;&gt;inspirational&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;culture&quot;&gt;culture&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;139495595&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>All the [tech] world&#x27;s a stage</title>
     <link rel="alternate" href="https://vimeo.com/146102508"/>
     <id>https://vimeo.com/146102508</id>
-    <updated>2016-01-06T22:13:30Z</updated>
+    <updated>2016-01-07T19:53:26Z</updated>
     <author>
       <name>Michele Titolo</name>
     </author>
@@ -33,7 +54,7 @@
     <title>The Worst Code</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=gqQzJKU440Y"/>
     <id>https://www.youtube.com/watch?v=gqQzJKU440Y</id>
-    <updated>2016-01-06T22:13:30Z</updated>
+    <updated>2016-01-07T19:53:26Z</updated>
     <author>
       <name>Michele Titolo</name>
     </author>
@@ -53,7 +74,7 @@
     <title>Can&#x27;t handle my scale</title>
     <link rel="alternate" href="https://vimeo.com/109624121"/>
     <id>https://vimeo.com/109624121</id>
-    <updated>2016-01-06T22:13:30Z</updated>
+    <updated>2016-01-07T19:53:26Z</updated>
     <author>
       <name>Michele Titolo</name>
     </author>
@@ -72,7 +93,7 @@
     <title>Demystifying the .xcodeproj File</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=C4bPKc8eV34"/>
     <id>https://www.youtube.com/watch?v=C4bPKc8eV34</id>
-    <updated>2016-01-06T22:13:30Z</updated>
+    <updated>2016-01-07T19:53:26Z</updated>
     <author>
       <name>Michele Titolo</name>
     </author>
@@ -91,7 +112,7 @@
     <title>Inheriting code from other people</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=p_GqpSt7gh0"/>
     <id>https://www.youtube.com/watch?v=p_GqpSt7gh0</id>
-    <updated>2016-01-06T22:13:30Z</updated>
+    <updated>2016-01-07T19:53:26Z</updated>
     <author>
       <name>Michele Titolo</name>
     </author>

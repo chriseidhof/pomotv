@@ -5,16 +5,36 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/provisioning"/>
   <link href="http://www.pomo.tv/tags/provisioning/feed.xml" rel="self"/>
-  <updated>2016-01-06T22:13:43Z</updated>
+  <updated>2016-01-07T19:53:37Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Provisioning Profile Stockholm Syndrome</title>
+    <link rel="alternate" href="https://vimeo.com/138019345"/>
+    <id>https://vimeo.com/138019345</id>
+    <updated>2016-01-07T19:53:37Z</updated>
+    <author>
+      <name>Jay Graves</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;provisioning&quot;&gt;provisioning&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138019345&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Everything is Terrible</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=CQn9AAZonMk"/>
     <id>https://www.youtube.com/watch?v=CQn9AAZonMk</id>
-    <updated>2016-01-06T22:13:43Z</updated>
+    <updated>2016-01-07T19:53:37Z</updated>
     <author>
       <name>Sam Marshall</name>
     </author>

@@ -5,16 +5,36 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/kyle-richter"/>
   <link href="http://www.pomo.tv/speakers/kyle-richter/feed.xml" rel="self"/>
-  <updated>2016-01-06T22:13:30Z</updated>
+  <updated>2016-01-07T19:53:26Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
     <title>The Last Job</title>
+    <link rel="alternate" href="https://vimeo.com/137560485"/>
+    <id>https://vimeo.com/137560485</id>
+    <updated>2016-01-07T19:53:26Z</updated>
+    <author>
+      <name>Kyle Richter</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;inspirational&quot;&gt;inspirational&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137560485&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>The Last Job</title>
     <link rel="alternate" href="https://vimeo.com/124349695"/>
     <id>https://vimeo.com/124349695</id>
-    <updated>2016-01-06T22:13:30Z</updated>
+    <updated>2016-01-07T19:53:26Z</updated>
     <author>
       <name>Kyle Richter</name>
     </author>

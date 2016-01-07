@@ -5,16 +5,36 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/management"/>
   <link href="http://www.pomo.tv/tags/management/feed.xml" rel="self"/>
-  <updated>2016-01-06T22:13:42Z</updated>
+  <updated>2016-01-07T19:53:36Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>How to Lose an iOS Developer in 10 days</title>
+    <link rel="alternate" href="https://vimeo.com/138117344"/>
+    <id>https://vimeo.com/138117344</id>
+    <updated>2016-01-07T19:53:36Z</updated>
+    <author>
+      <name>Josh Johnson</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;management&quot;&gt;management&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138117344&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Technical Debt by the Book</title>
     <link rel="alternate" href="https://vimeo.com/118839635"/>
     <id>https://vimeo.com/118839635</id>
-    <updated>2016-01-06T22:13:42Z</updated>
+    <updated>2016-01-07T19:53:36Z</updated>
     <author>
       <name>Jack Nutting</name>
     </author>

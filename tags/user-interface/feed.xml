@@ -5,16 +5,59 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/user-interface"/>
   <link href="http://www.pomo.tv/tags/user-interface/feed.xml" rel="self"/>
-  <updated>2016-01-06T22:13:44Z</updated>
+  <updated>2016-01-07T19:53:38Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Beyond White: Embracing the iOS Design Aesthetic</title>
+    <link rel="alternate" href="https://vimeo.com/137536119"/>
+    <id>https://vimeo.com/137536119</id>
+    <updated>2016-01-07T19:53:38Z</updated>
+    <author>
+      <name>Janie Clayton</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;user-interface&quot;&gt;user interface&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;design&quot;&gt;design&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137536119&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Designing for @1x - @3x Without Going Crazy</title>
+    <link rel="alternate" href="https://vimeo.com/137561771"/>
+    <id>https://vimeo.com/137561771</id>
+    <updated>2016-01-07T19:53:38Z</updated>
+    <author>
+      <name>Curtis Herbert</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;user-interface&quot;&gt;user interface&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137561771&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Power Up Your Animations!</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Gh3z6lswj38"/>
     <id>https://www.youtube.com/watch?v=Gh3z6lswj38</id>
-    <updated>2016-01-06T22:13:44Z</updated>
+    <updated>2016-01-07T19:53:38Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>
@@ -35,7 +78,7 @@
     <title>Designing for Humans</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=HL38kUwrpoM"/>
     <id>https://www.youtube.com/watch?v=HL38kUwrpoM</id>
-    <updated>2016-01-06T22:13:44Z</updated>
+    <updated>2016-01-07T19:53:38Z</updated>
     <author>
       <name>Dave Wiskus</name>
     </author>

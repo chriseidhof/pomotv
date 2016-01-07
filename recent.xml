@@ -5,342 +5,414 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv/"/>
   <link href="http://www.pomo.tv/recent.xml" rel="self"/>
-  <updated>2016-01-06T22:13:24Z</updated>
+  <updated>2016-01-07T19:53:20Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>Structure and Interpretation of Swift Programs</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=V-YvI83QdMs"/>
-    <id>https://www.youtube.com/watch?v=V-YvI83QdMs</id>
-    <updated>2016-01-06T22:13:24Z</updated>
+    <title>What&#x27;s New in Hybrid App Development</title>
+    <link rel="alternate" href="https://vimeo.com/137521604"/>
+    <id>https://vimeo.com/137521604</id>
+    <updated>2016-01-07T19:53:20Z</updated>
     <author>
-      <name>Colin Barrett</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;V-YvI83QdMs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Functional View Controllers</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=sP156LW5BVs"/>
-    <id>https://www.youtube.com/watch?v=sP156LW5BVs</id>
-    <updated>2016-01-06T22:13:24Z</updated>
-    <author>
-      <name>Chris Eidhof</name>
+      <name>Jay Graves</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;view-controllers&quot;&gt;view controllers&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;monads&quot;&gt;monads&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;flatmap&quot;&gt;flatMap&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;hybrid&quot;&gt;hybrid&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;sP156LW5BVs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137521604&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Lenses in Swift</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=ofjehH9f-CU"/>
-    <id>https://www.youtube.com/watch?v=ofjehH9f-CU</id>
-    <updated>2016-01-06T22:13:24Z</updated>
+    <title>Fancy Custom Transitions</title>
+    <link rel="alternate" href="https://vimeo.com/137519217"/>
+    <id>https://vimeo.com/137519217</id>
+    <updated>2016-01-07T19:53:20Z</updated>
     <author>
-      <name>Brandon Williams</name>
+      <name>Grant Davis</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;playground&quot;&gt;playground&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;lenses&quot;&gt;lenses&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;transitions&quot;&gt;transitions&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;ofjehH9f-CU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137519217&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Result Driven Development</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=aCm68xAWrno"/>
-    <id>https://www.youtube.com/watch?v=aCm68xAWrno</id>
-    <updated>2016-01-06T22:13:24Z</updated>
+    <title>Stop Saying No - How I Went From Fired, To Indie, To Over $1M In Revenue In Under A Year</title>
+    <link rel="alternate" href="https://vimeo.com/137515894"/>
+    <id>https://vimeo.com/137515894</id>
+    <updated>2016-01-07T19:53:20Z</updated>
     <author>
-      <name>Brian Partridge</name>
+      <name>Brandon Trebitowski</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;result&quot;&gt;result&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;monads&quot;&gt;monads&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;flatmap&quot;&gt;flatMap&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;errors&quot;&gt;errors&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;aCm68xAWrno&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137515894&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Protocols with Associated Types</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=XWoNjiSPqI8"/>
-    <id>https://www.youtube.com/watch?v=XWoNjiSPqI8</id>
-    <updated>2016-01-06T22:13:24Z</updated>
+    <title>Innovation Gaming: Perfecting Your Brainstorming Technique for Killer Products &amp; Features</title>
+    <link rel="alternate" href="https://vimeo.com/137525427"/>
+    <id>https://vimeo.com/137525427</id>
+    <updated>2016-01-07T19:53:20Z</updated>
     <author>
-      <name>Alexis Gallagher</name>
+      <name>Ben Sykes</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;protocols&quot;&gt;protocols&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;associated-types&quot;&gt;associated types&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;pats&quot;&gt;pats&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;psychology&quot;&gt;psychology&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;XWoNjiSPqI8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137525427&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Functional Thinking</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=hHeideOmLs4"/>
-    <id>https://www.youtube.com/watch?v=hHeideOmLs4</id>
-    <updated>2016-01-06T22:13:24Z</updated>
-    <author>
-      <name>Agnes Vasarhelyi</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;functional-reactive-programming&quot;&gt;functional reactive programming&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;hHeideOmLs4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>You Used To Inject Me In Your Constructor</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=2--pYf1T6Xc"/>
-    <id>https://www.youtube.com/watch?v=2--pYf1T6Xc</id>
-    <updated>2016-01-06T22:13:24Z</updated>
-    <author>
-      <name>Veronica Ray</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;dependency-injection&quot;&gt;dependency injection&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;2--pYf1T6Xc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Error Handling in Swift 2</title>
-    <link rel="alternate" href="http://www.skilled.io/thomashanning/error-handling-in-swift-2"/>
-    <id>http://www.skilled.io/thomashanning/error-handling-in-swift-2</id>
-    <updated>2016-01-06T22:13:24Z</updated>
-    <author>
-      <name>Thomas Hanning</name>
-    </author>
-    <content type="text/html">
-        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;thomashanning&#x2F;error-handling-in-swift-2&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;thomashanning&#x2F;error-handling-in-swift-2&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
-&lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;error-handling&quot;&gt;error handling&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;aa3kQaDFU3o&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Exploring Apple Pay with Swift</title>
-    <link rel="alternate" href="http://www.skilled.io/wendylu/exploring-apple-pay-with-swift"/>
-    <id>http://www.skilled.io/wendylu/exploring-apple-pay-with-swift</id>
-    <updated>2016-01-06T22:13:24Z</updated>
-    <author>
-      <name>Wendy Lu</name>
-    </author>
-    <content type="text/html">
-        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;wendylu&#x2F;exploring-apple-pay-with-swift&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;wendylu&#x2F;exploring-apple-pay-with-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
-&lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;apple-pay&quot;&gt;apple pay&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;uXLNSlTKADo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>What the 55 Swift Standard Library Protocols Taught Me</title>
-    <link rel="alternate" href="http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me"/>
-    <id>http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me</id>
-    <updated>2016-01-06T22:13:24Z</updated>
+    <title>Switching Your Brain to Swift</title>
+    <link rel="alternate" href="https://vimeo.com/137530879"/>
+    <id>https://vimeo.com/137530879</id>
+    <updated>2016-01-07T19:53:20Z</updated>
     <author>
       <name>Greg Heo</name>
     </author>
     <content type="text/html">
-        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;gregheo&#x2F;what-the-55-swift-standard-library-protocols-taught-me&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;gregheo&#x2F;what-the-55-swift-standard-library-protocols-taught-me&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
-&lt;p class=&quot;video-meta&quot;&gt;
+      &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;protocols&quot;&gt;protocols&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;_kpYI6GjCuw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137530879&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Discovering Best Practices in Swift</title>
-    <link rel="alternate" href="http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift"/>
-    <id>http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift</id>
-    <updated>2016-01-06T22:13:24Z</updated>
+    <title>Beyond White: Embracing the iOS Design Aesthetic</title>
+    <link rel="alternate" href="https://vimeo.com/137536119"/>
+    <id>https://vimeo.com/137536119</id>
+    <updated>2016-01-07T19:53:20Z</updated>
     <author>
-      <name>Ash Furrow</name>
-    </author>
-    <content type="text/html">
-        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;ashfurrow&#x2F;discovering-best-practices-in-swift&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;ashfurrow&#x2F;discovering-best-practices-in-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
-&lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;f3pd-qhVY40&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Working with Binary Data in Swift</title>
-    <link rel="alternate" href="http://www.skilled.io/jpsimard/working-with-binary-data-in-swift"/>
-    <id>http://www.skilled.io/jpsimard/working-with-binary-data-in-swift</id>
-    <updated>2016-01-06T22:13:24Z</updated>
-    <author>
-      <name>JP Simard</name>
-    </author>
-    <content type="text/html">
-        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;jpsimard&#x2F;working-with-binary-data-in-swift&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;jpsimard&#x2F;working-with-binary-data-in-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
-&lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;kz6d-ES7WtE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Open Sourcing Swift</title>
-    <link rel="alternate" href="http://www.skilled.io/swiftsummit/open-sourcing-swift"/>
-    <id>http://www.skilled.io/swiftsummit/open-sourcing-swift</id>
-    <updated>2016-01-06T22:13:24Z</updated>
-    <author>
-      <name>JP Simard</name>
-    </author>
-    <author>
-      <name>Thomas Visser</name>
-    </author>
-    <author>
-      <name>Boris Bügling</name>
-    </author>
-    <author>
-      <name>Veronica Ray</name>
-    </author>
-    <content type="text/html">
-        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.skilled.io&#x2F;swiftsummit&#x2F;open-sourcing-swift&quot;&gt;http:&#x2F;&#x2F;www.skilled.io&#x2F;swiftsummit&#x2F;open-sourcing-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
-&lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;cmJcc3VAm3c&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Technical Debt by the Book</title>
-    <link rel="alternate" href="https://vimeo.com/118839635"/>
-    <id>https://vimeo.com/118839635</id>
-    <updated>2016-01-06T22:13:24Z</updated>
-    <author>
-      <name>Jack Nutting</name>
+      <name>Janie Clayton</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;management&quot;&gt;management&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;user-interface&quot;&gt;user interface&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;design&quot;&gt;design&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;118839635&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137536119&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Remote Works!</title>
-    <link rel="alternate" href="https://vimeo.com/118805668"/>
-    <id>https://vimeo.com/118805668</id>
-    <updated>2016-01-06T22:13:24Z</updated>
+    <title>Designing for @1x - @3x Without Going Crazy</title>
+    <link rel="alternate" href="https://vimeo.com/137561771"/>
+    <id>https://vimeo.com/137561771</id>
+    <updated>2016-01-07T19:53:20Z</updated>
     <author>
-      <name>Nevyn Bengtsson</name>
+      <name>Curtis Herbert</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;remote&quot;&gt;remote&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;user-interface&quot;&gt;user interface&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;tools&quot;&gt;tools&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;118805668&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137561771&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>UI Testing In Practice</title>
-    <link rel="alternate" href="https://vimeo.com/136014062"/>
-    <id>https://vimeo.com/136014062</id>
-    <updated>2016-01-06T22:13:24Z</updated>
+    <title>The Last Job</title>
+    <link rel="alternate" href="https://vimeo.com/137560485"/>
+    <id>https://vimeo.com/137560485</id>
+    <updated>2016-01-07T19:53:20Z</updated>
     <author>
-      <name>Anton Tingström</name>
+      <name>Kyle Richter</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;inspirational&quot;&gt;inspirational&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137560485&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What’s in for us after the Indiepocalypse?</title>
+    <link rel="alternate" href="https://vimeo.com/137559415"/>
+    <id>https://vimeo.com/137559415</id>
+    <updated>2016-01-07T19:53:20Z</updated>
+    <author>
+      <name>Marin Todorov</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137559415&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Apple Pay: What Happens When you Tap?</title>
+    <link rel="alternate" href="https://vimeo.com/137558116"/>
+    <id>https://vimeo.com/137558116</id>
+    <updated>2016-01-07T19:53:20Z</updated>
+    <author>
+      <name>Stepan Hruda</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;apple-pay&quot;&gt;apple pay&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137558116&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Mastering Auto Layout</title>
+    <link rel="alternate" href="https://vimeo.com/137550517"/>
+    <id>https://vimeo.com/137550517</id>
+    <updated>2016-01-07T19:53:20Z</updated>
+    <author>
+      <name>Justin Williams</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;auto-layout&quot;&gt;auto layout&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137550517&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>SceneKit, Metal, and OpenGL</title>
+    <link rel="alternate" href="https://vimeo.com/137541707"/>
+    <id>https://vimeo.com/137541707</id>
+    <updated>2016-01-07T19:53:20Z</updated>
+    <author>
+      <name>Jonathan Blocksom</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;scenekit&quot;&gt;scenekit&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;metal&quot;&gt;metal&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;opengl&quot;&gt;opengl&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137541707&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Safer Swift Code with Value Types</title>
+    <link rel="alternate" href="https://vimeo.com/137543393"/>
+    <id>https://vimeo.com/137543393</id>
+    <updated>2016-01-07T19:53:20Z</updated>
+    <author>
+      <name>Benjamin Encz</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;value-types&quot;&gt;value types&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137543393&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Advanced UX Design for Apple Watch</title>
+    <link rel="alternate" href="https://vimeo.com/137545605"/>
+    <id>https://vimeo.com/137545605</id>
+    <updated>2016-01-07T19:53:20Z</updated>
+    <author>
+      <name>Shawn Davison</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ux&quot;&gt;ux&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;user-experience&quot;&gt;user experience&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;watchos&quot;&gt;watchos&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;watchkit&quot;&gt;watchkit&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137545605&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Welcome to the Team</title>
+    <link rel="alternate" href="https://vimeo.com/137547563"/>
+    <id>https://vimeo.com/137547563</id>
+    <updated>2016-01-07T19:53:20Z</updated>
+    <author>
+      <name>Adam Zolyak</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;teams&quot;&gt;teams&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137547563&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Beyond the Banner: How to Scale Your Revenue with Innovative Ad Formats</title>
+    <link rel="alternate" href="https://vimeo.com/137548959"/>
+    <id>https://vimeo.com/137548959</id>
+    <updated>2016-01-07T19:53:20Z</updated>
+    <author>
+      <name>James Hughes</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;marketing&quot;&gt;marketing&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137548959&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Build a Business, Not an App</title>
+    <link rel="alternate" href="https://vimeo.com/137539070"/>
+    <id>https://vimeo.com/137539070</id>
+    <updated>2016-01-07T19:53:20Z</updated>
+    <author>
+      <name>Michael Schneider</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;137539070&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Practical Declarative Programming</title>
+    <link rel="alternate" href="https://vimeo.com/138035285"/>
+    <id>https://vimeo.com/138035285</id>
+    <updated>2016-01-07T19:53:20Z</updated>
+    <author>
+      <name>Kyle Fuller</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;refactor&quot;&gt;refactor&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138035285&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>The Power of Working Code and Designers Who Develop</title>
+    <link rel="alternate" href="https://vimeo.com/138027024"/>
+    <id>https://vimeo.com/138027024</id>
+    <updated>2016-01-07T19:53:20Z</updated>
+    <author>
+      <name>Ellen Shapiro</name>
+    </author>
+    <author>
+      <name>Aaron Shekey</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;inspirational&quot;&gt;inspirational&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138027024&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>iOS Testing: Beyond the Model</title>
+    <link rel="alternate" href="https://vimeo.com/138025340"/>
+    <id>https://vimeo.com/138025340</id>
+    <updated>2016-01-07T19:53:20Z</updated>
+    <author>
+      <name>Cate Huston</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
@@ -348,190 +420,108 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;testing&quot;&gt;testing&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;136014062&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138025340&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Introduction to GameplayKit</title>
-    <link rel="alternate" href="https://vimeo.com/136012905"/>
-    <id>https://vimeo.com/136012905</id>
-    <updated>2016-01-06T22:13:24Z</updated>
+    <title>Good Intentions II: Enemy of the State</title>
+    <link rel="alternate" href="https://vimeo.com/138034525"/>
+    <id>https://vimeo.com/138034525</id>
+    <updated>2016-01-07T19:53:20Z</updated>
     <author>
-      <name>David Rönnqvist</name>
+      <name>Jay Thrash</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;gameplaykit&quot;&gt;GameplayKit&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;architecture&quot;&gt;architecture&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;136012905&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138034525&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>iPad PiP Video</title>
-    <link rel="alternate" href="https://vimeo.com/138831846"/>
-    <id>https://vimeo.com/138831846</id>
-    <updated>2016-01-06T22:13:24Z</updated>
+    <title>Android 101 for iOS Developers - Two Sides of the Same Coin</title>
+    <link rel="alternate" href="https://vimeo.com/138033150"/>
+    <id>https://vimeo.com/138033150</id>
+    <updated>2016-01-07T19:53:20Z</updated>
     <author>
-      <name>Robin Enhorn</name>
+      <name>Stephen Barnes</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;pip&quot;&gt;pip&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;android&quot;&gt;android&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138831846&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138033150&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Introduction to tvOS</title>
-    <link rel="alternate" href="https://vimeo.com/142104527"/>
-    <id>https://vimeo.com/142104527</id>
-    <updated>2016-01-06T22:13:24Z</updated>
+    <title>Succeeding Slwoing - A Practical Guide to Going Indie</title>
+    <link rel="alternate" href="https://vimeo.com/138022673"/>
+    <id>https://vimeo.com/138022673</id>
+    <updated>2016-01-07T19:53:20Z</updated>
     <author>
-      <name>Anton Tingström</name>
+      <name>Charles Perry</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;tvos&quot;&gt;tvOS&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;142104527&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138022673&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Upgrading to watchOS 2</title>
-    <link rel="alternate" href="https://vimeo.com/142104528"/>
-    <id>https://vimeo.com/142104528</id>
-    <updated>2016-01-06T22:13:24Z</updated>
+    <title>Provisioning Profile Stockholm Syndrome</title>
+    <link rel="alternate" href="https://vimeo.com/138019345"/>
+    <id>https://vimeo.com/138019345</id>
+    <updated>2016-01-07T19:53:20Z</updated>
     <author>
-      <name>Pedro Mancheno</name>
+      <name>Jay Graves</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;watchkit&quot;&gt;watchKit&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;watchos&quot;&gt;watchOS&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;provisioning&quot;&gt;provisioning&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;142104528&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138019345&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>All you have to do is Hoppa!</title>
-    <link rel="alternate" href="https://vimeo.com/146505694"/>
-    <id>https://vimeo.com/146505694</id>
-    <updated>2016-01-06T22:13:24Z</updated>
+    <title>Magic Words - Harnessing the Power of TextKit</title>
+    <link rel="alternate" href="https://vimeo.com/138031038"/>
+    <id>https://vimeo.com/138031038</id>
+    <updated>2016-01-07T19:53:20Z</updated>
     <author>
-      <name>Mohsan Khan</name>
+      <name>Gene Whitaker</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;scenekit&quot;&gt;sceneKit&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;textkit&quot;&gt;textkit&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;146505694&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Pragmatic Core Data</title>
-    <link rel="alternate" href="https://vimeo.com/146505672"/>
-    <id>https://vimeo.com/146505672</id>
-    <updated>2016-01-06T22:13:24Z</updated>
-    <author>
-      <name>Florian Kugler</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;core-data&quot;&gt;core data&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;146505672&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Continuous Delivery with Fastlane</title>
-    <link rel="alternate" href="https://vimeo.com/146505670"/>
-    <id>https://vimeo.com/146505670</id>
-    <updated>2016-01-06T22:13:24Z</updated>
-    <author>
-      <name>Felix Krause</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;ci&quot;&gt;ci&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;146505670&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Building an Invisible App</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=J0d97U8pKwI"/>
-    <id>https://www.youtube.com/watch?v=J0d97U8pKwI</id>
-    <updated>2016-01-06T22:13:24Z</updated>
-    <author>
-      <name>Alan Wong</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;J0d97U8pKwI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Tooling in Swift - Xcode Integration &amp; CI</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=LvV1W3BcB0o"/>
-    <id>https://www.youtube.com/watch?v=LvV1W3BcB0o</id>
-    <updated>2016-01-06T22:13:24Z</updated>
-    <author>
-      <name>Stan Chang</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;integration&quot;&gt;integration&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;ci&quot;&gt;ci&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;LvV1W3BcB0o&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138031038&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
