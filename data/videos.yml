@@ -2853,3 +2853,164 @@ Functional Swift Conference 2015:
     speakers: [Colin Barrett]
     title: Structure and Interpretation of Swift Programs
     youtube: V-YvI83QdMs
+360iDev 2015:
+  - language: English
+    speakers: [Daniel Haight]
+    title: Decision Fatigue
+    tags: [psychology]
+    vimeo: 142398179
+  - language: English
+    speakers: [Jay Freeman]
+    title: Feature Or Bug?
+    tags: [inspirational,hacking]
+    vimeo: 139491450
+  - language: English
+    speakers: [Michele Titolo]
+    title: "All the [tech] world's a stage"
+    tags: [inspirational,culture]
+    vimeo: 139495595
+  - language: English
+    speakers: [Matthew Morey]
+    title: WatchKit Notifications
+    tags: [watchkit,watchos]
+    vimeo: 138114340
+  - language: English
+    speakers: [Nick Harris]
+    title: "Git it Together - Discussing Source Control"
+    tags: [git,social coding]
+    vimeo: 138116921
+  - language: English
+    speakers: [Josh Johnson]
+    title: How to Lose an iOS Developer in 10 days
+    tags: [management]
+    vimeo: 138117344
+  - language: English
+    speakers: [Daniel Pfeiffer]
+    title: "The Small Fish in a Big Pond: Working with Large Clients"
+    tags: [business,indie]
+    vimeo: 138029043
+  - language: English
+    speakers: [Gene Whitaker]
+    title: "Magic Words - Harnessing the Power of TextKit"
+    tags: [textkit]
+    vimeo: 138031038
+  - language: English
+    speakers: [Jay Graves]
+    title: Provisioning Profile Stockholm Syndrome
+    tags: [provisioning]
+    vimeo: 138019345
+  - language: English
+    speakers: [Charles Perry]
+    title: "Succeeding Slwoing - A Practical Guide to Going Indie"
+    tags: [business,indie]
+    vimeo: 138022673
+  - language: English
+    speakers: [Stephen Barnes]
+    title: "Android 101 for iOS Developers - Two Sides of the Same Coin"
+    tags: [android]
+    vimeo: 138033150
+  - language: English
+    speakers: [Jay Thrash]
+    title: "Good Intentions II: Enemy of the State"
+    tags: [architecture]
+    vimeo: 138034525
+  - language: English
+    speakers: [Cate Huston]
+    title: "iOS Testing: Beyond the Model"
+    tags: [testing]
+    vimeo: 138025340
+  - language: English
+    speakers: [Ellen Shapiro, Aaron Shekey]
+    title: The Power of Working Code and Designers Who Develop
+    tags: [inspirational]
+    vimeo: 138027024
+  - language: English
+    speakers: [Kyle Fuller]
+    title: Practical Declarative Programming
+    tags: [functional programming,refactor]
+    vimeo: 138035285
+  - language: English
+    speakers: [Michael Schneider]
+    title: "Build a Business, Not an App"
+    tags: [business,indie]
+    vimeo: 137539070
+  - language: English
+    speakers: [James Hughes]
+    title: "Beyond the Banner: How to Scale Your Revenue with Innovative Ad Formats"
+    tags: [business,marketing]
+    vimeo: 137548959
+  - language: English
+    speakers: [Adam Zolyak]
+    title: Welcome to the Team
+    tags: [teams]
+    vimeo: 137547563
+  - language: English
+    speakers: [Shawn Davison]
+    title: Advanced UX Design for Apple Watch
+    tags: [ux,user experience,watchos,watchkit]
+    vimeo: 137545605
+  - language: English
+    speakers: [Benjamin Encz]
+    title: Safer Swift Code with Value Types
+    tags: [value types]
+    vimeo: 137543393
+  - language: English
+    speakers: [Jonathan Blocksom]
+    title: "SceneKit, Metal, and OpenGL"
+    tags: [scenekit,metal,opengl,graphics]
+    vimeo: 137541707
+  - language: English
+    speakers: [Justin Williams]
+    title: Mastering Auto Layout
+    tags: [auto layout]
+    vimeo: 137550517
+  - language: English
+    speakers: [Stepan Hruda]
+    title: "Apple Pay: What Happens When you Tap?"
+    tags: [apple pay]
+    vimeo: 137558116
+  - language: English
+    speakers: [Marin Todorov]
+    title: "What’s in for us after the Indiepocalypse?"
+    tags: [indie]
+    vimeo: 137559415
+  - language: English
+    speakers: [Kyle Richter]
+    title: The Last Job
+    tags: [inspirational]
+    vimeo: 137560485
+  - language: English
+    speakers: [Curtis Herbert]
+    title: "Designing for @1x - @3x Without Going Crazy"
+    tags: [graphics,user interface,tools]
+    vimeo: 137561771
+  - language: English
+    speakers: [Janie Clayton]
+    title: "Beyond White: Embracing the iOS Design Aesthetic"
+    tags: [user interface,design]
+    vimeo: 137536119
+  - language: English
+    speakers: [Greg Heo]
+    title: Switching Your Brain to Swift
+    tags: [swift]
+    vimeo: 137530879
+  - language: English
+    speakers: [Ben Sykes]
+    title: "Innovation Gaming: Perfecting Your Brainstorming Technique for Killer Products & Features"
+    tags: [psychology]
+    vimeo: 137525427
+  - language: English
+    speakers: [Brandon Trebitowski]
+    title: "Stop Saying No - How I Went From Fired, To Indie, To Over $1M In Revenue In Under A Year"
+    tags: [business,indie]
+    vimeo: 137515894
+  - language: English
+    speakers: [Grant Davis]
+    title: Fancy Custom Transitions
+    tags: [transitions]
+    vimeo: 137519217
+  - language: English
+    speakers: [Jay Graves]
+    title: "What's New in Hybrid App Development"
+    tags: [hybrid]
+    vimeo: 137521604
