@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/testing"/>
   <link href="http://www.pomo.tv/tags/testing/feed.xml" rel="self"/>
-  <updated>2016-01-07T19:53:38Z</updated>
+  <updated>2016-01-09T13:16:45Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>iOS Testing: Beyond the Model</title>
     <link rel="alternate" href="https://vimeo.com/138025340"/>
     <id>https://vimeo.com/138025340</id>
-    <updated>2016-01-07T19:53:38Z</updated>
+    <updated>2016-01-09T13:16:45Z</updated>
     <author>
       <name>Cate Huston</name>
     </author>
@@ -34,7 +34,7 @@
     <title>UI Testing In Practice</title>
     <link rel="alternate" href="https://vimeo.com/136014062"/>
     <id>https://vimeo.com/136014062</id>
-    <updated>2016-01-07T19:53:38Z</updated>
+    <updated>2016-01-09T13:16:45Z</updated>
     <author>
       <name>Anton Tingström</name>
     </author>
@@ -54,7 +54,7 @@
     <title>UI Testing in Xcode</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-406"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-406</id>
-    <updated>2016-01-07T19:53:38Z</updated>
+    <updated>2016-01-09T13:16:45Z</updated>
     <author>
       <name>Wil Turner</name>
     </author>
@@ -76,7 +76,7 @@
     <title>Testing in Swift</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-jan-riehn-testing/"/>
     <id>https://realm.io/news/swift-summit-jan-riehn-testing/</id>
-    <updated>2016-01-07T19:53:38Z</updated>
+    <updated>2016-01-09T13:16:45Z</updated>
     <author>
       <name>Jan Riehn</name>
     </author>
@@ -97,7 +97,7 @@
     <title>Functional Testing</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=-TOp5-uComQ"/>
     <id>https://www.youtube.com/watch?v=-TOp5-uComQ</id>
-    <updated>2016-01-07T19:53:38Z</updated>
+    <updated>2016-01-09T13:16:45Z</updated>
     <author>
       <name>Brian Gesiak</name>
     </author>
@@ -118,7 +118,7 @@
     <title>End to End Testing at Facebook</title>
     <link rel="alternate" href="https://vimeo.com/111942748"/>
     <id>https://vimeo.com/111942748</id>
-    <updated>2016-01-07T19:53:38Z</updated>
+    <updated>2016-01-09T13:16:45Z</updated>
     <author>
       <name>Graham Lee</name>
     </author>
@@ -138,7 +138,7 @@
     <title>Unit Testing on iOS: No Voodoo necessary</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=UYqm1IZacX0"/>
     <id>https://www.youtube.com/watch?v=UYqm1IZacX0</id>
-    <updated>2016-01-07T19:53:38Z</updated>
+    <updated>2016-01-09T13:16:45Z</updated>
     <author>
       <name>Tim Brückmann</name>
     </author>

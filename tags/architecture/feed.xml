@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/architecture"/>
   <link href="http://www.pomo.tv/tags/architecture/feed.xml" rel="self"/>
-  <updated>2016-01-07T19:53:33Z</updated>
+  <updated>2016-01-09T13:16:40Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Good Intentions II: Enemy of the State</title>
     <link rel="alternate" href="https://vimeo.com/138034525"/>
     <id>https://vimeo.com/138034525</id>
-    <updated>2016-01-07T19:53:33Z</updated>
+    <updated>2016-01-09T13:16:40Z</updated>
     <author>
       <name>Jay Thrash</name>
     </author>
@@ -25,6 +25,26 @@
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;138034525&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Future prooving your iOS apps</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=N5xLQGqmvhQe"/>
+    <id>https://www.youtube.com/watch?v=N5xLQGqmvhQe</id>
+    <updated>2016-01-09T13:16:40Z</updated>
+    <author>
+      <name>Pim Stolk</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;architecture&quot;&gt;architecture&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;N5xLQGqmvhQe&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
