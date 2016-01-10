@@ -14,6 +14,8 @@ MCE Conference:
   slug: "mce"
 NSConference:
   slug: "nsconf"
+NSLondon:
+  slug: "nslondon"
 NSScotland:
   slug: "nsscotland"
 NSSpain:

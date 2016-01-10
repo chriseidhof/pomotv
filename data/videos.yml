@@ -3025,3 +3025,253 @@ Functional Swift Conference 2015:
     title: "What's New in Hybrid App Development"
     tags: [hybrid]
     vimeo: 137521604
+NSLondon July 2013:
+  - language: English
+    speakers: [Matt Galloway]
+    title: Objective-C Digging the Foundations
+    vimeo: 74708693
+NSLondon September 2013:
+  - language: English
+    speakers: [Rob Elkin]
+    title: altWWDC
+    tags: [conference]
+    vimeo: 78552963
+  - language: English
+    speakers: [Abizer Nasir]
+    title: Git Submodules
+    tags: [git]
+    vimeo: 99993729
+NSLondon October 2013:
+  - language: English
+    speakers: [Kurtis Seedbalt]
+    title: Promises
+    tags: [promises]
+    vimeo: 101841386
+  - language: English
+    speakers: [Mike Abdullah]
+    title: What's new in iOS 7 for the Hipster's Hipster
+    tags: [ios7]
+    vimeo: 101841686
+  - language: English
+    speakers: [Kyle Fuller]
+    title: Memory Management
+    tags: [memory]
+    vimeo: 101842496
+  - language: English
+    speakers: [Nigel Barber]
+    title: Fast NEON Math
+    tags: [performance]
+    vimeo: 101849734
+NSLondon November 2013:
+  - language: English
+    speakers: [Matt Galloway]
+    title: ARM for iOS developers
+    tags: [arm]
+    vimeo: 101848722
+  - language: English
+    speakers: [Rui Peres]
+    title: iOS Architecture
+    tags: [architecture]
+    vimeo: 101841366
+NSLondon February 2014:
+  - language: English
+    speakers: [Luka Bratoš]
+    title: PonyDebugger
+    tags: [debugging]
+    vimeo: 98275127
+  - language: English
+    speakers: [Saul Mora]
+    title: Everyday Core Data
+    tags: [core data]
+    vimeo: 98275128
+NSLondon April 2014:
+  - language: English
+    speakers: [Tim Chilvers]
+    title: High fashion and intriguing bugs in code and work
+    tags: [bugs, collaboration]
+    vimeo: 98274951
+  - language: English
+    speakers: [Marin Usalj]
+    title: Everything you didn't know about Alcatraz
+    tags: [alcatraz, xcode, plugin]
+    vimeo: 98274952
+NSLondon May 2014:
+  - language: English
+    speakers: [Daniel Haight]
+    title: A first step into other people's apps
+    tags: [reveal, lldb]
+    vimeo: 98272941
+  - language: English
+    speakers: [Nigel Barber]
+    title: How to draw lines _very_ fast
+    tags: [performance, optimization]
+    vimeo: 98274186
+NSLondon June 2014:
+  - language: English
+    speakers: [Boris Bügling]
+    title: Custom Playgrounds
+    tags: [playgrounds]
+    vimeo: 100785878
+  - language: English
+    speakers: [Johannes Weiß]
+    title: Introduction to Functional Programming
+    tags: [functional programming]
+    vimeo: 100786088
+NSLondon July 2014:
+  - language: English
+    speakers: [Kyle Fuller]
+    title: A swift approach
+    tags: [swift]
+    vimeo: 103413459
+  - language: English
+    speakers: [Rob Stearn]
+    title: MultiPeer Networking
+    tags: [multipeer, networking]
+    vimeo: 103581232
+  - language: English
+    speakers: [Scott Goodson]
+    title: Behind AsyncDisplayKit
+    tags: [asyncdisplaykit, user interaction, animation]
+    vimeo: 103589245
+NSLondon August 2014:
+  - language: English
+    speakers: [Sally Shepard]
+    title: Making an app like 'Clear' accessible
+    tags: [accessibility]
+    vimeo: 105440180
+  - language: English
+    speakers: [Abizer Nasir]
+    title: Thinking in Swift
+    tags: [swift]
+    vimeo: 105440181
+NSLondon September 2014:
+  - language: English
+    speakers: [Mike Abdullah]
+    title: What's New in iOS8 for Hipsters
+    tags: [ios8]
+    vimeo: 115305205
+  - language: English
+    speakers: [Alexsander Akers]
+    title: The Other WatchKit
+    tags: [watchkit]
+    vimeo: 115305206
+NSLondon November 2014:
+  - language: English
+    speakers: [Jon Hocking]
+    title: 208 Weeks Later
+    tags: [collaboration]
+    vimeo: 115883260
+  - language: English
+    speakers: [Meng To]
+    title: Fast Interactive Prototyping
+    tags: [prototyping]
+    vimeo: 115883261
+  - language: English
+    speakers: [Raimon Lapuente]
+    title: Little Wins With UIAppearance
+    tags: [uiappearance, user interface]
+    vimeo: 115883292
+NSLondon January 2015:
+  - language: English
+    speakers: [Mehdi Mulani]
+    title: Reverse Engineering on iOS/Mac
+    tags: [reverse engineering]
+    vimeo: 118019962
+  - language: English
+    speakers: [Joseph Lord]
+    title: Beyond "if let"
+    tags: [swift]
+    vimeo: 118019963
+  - language: English
+    speakers: [Thomas Caterall]
+    title: The Dependencies You Didn't Know You Had
+    tags: [dependencies]
+    vimeo: 118021039
+NSLondon February 2015 Part 1:
+  - language: English
+    speakers: [JP Simard]
+    title: Lessons learned wrapping an Objective-C framework in Swift
+    tags: [framework, swift]
+    vimeo: 118832151
+  - language: English
+    speakers: [Francesco Petrungaro]
+    title: 'iOS App Security: Common Mistakes and Best Practices'
+    tags: [security]
+    vimeo: 118833806
+NSLondon February 2015 Part 2:
+  - language: English
+    speakers: [Johannes Weiß]
+    title: Type Driven Development in Swift
+    tags: [swift, types]
+    vimeo: 121126581
+  - language: English
+    speakers: [Uri Baghin]
+    title: Reactive Cocoa and RX Principles 101
+    tags: [reactive cocoa, rx]
+    vimeo: 121126582
+  - language: English
+    speakers: [Joel Parsons]
+    title: The Modern Password and You
+    tags: [security]
+    vimeo: 121127087
+NSLondon April 2015:
+  - language: English
+    speakers: [Tom Dixon]
+    title: A Delve into Custom Keyboards
+    tags: [keyboards]
+    vimeo: 129662678
+  - language: English
+    speakers: [Neil Kimmett]
+    title: Practical Watchkit
+    tags: [watchkit]
+    vimeo: 133127238
+NSLondon May 2015:
+  - language: English
+    speakers: [Honza Dvorsky]
+    title: Continuous Integration on the Edge
+    tags: [continuous integration]
+    vimeo: 133130698
+NSLondon August 2015:
+  - language: English
+    speakers: [John Sundell]
+    title: Dynamic, native User Interfaces on iOS
+    tags: [dynamic interface, ui]
+    vimeo: 140421667
+  - language: English
+    speakers: [Jani Eväkallio]
+    title: "React Native: Introduction and a Case Study"
+    tags: [react native]
+    vimeo: 140421668
+  - language: English
+    speakers: [Marco Sero]
+    title: Legacy Apps
+    tags: [legacy apps]
+    vimeo: 140421669
+NSLondon September 2015:
+  - language: English
+    speakers: [Tomasz Piekarczyk]
+    title: Core Data - Going Big and Getting There
+    tags: [core data]
+    vimeo: 142254755
+NSLondon October 2015:
+  - language: English
+    speakers: [Mike McDonald]
+    title: Simplifying IoT with Firebase
+    tags: [iot, firebase]
+    vimeo: 143903802
+  - language: English
+    speakers: [Paul Ardeleanu]
+    title: Developers’ Emergency Guide to Public Speaking
+    tags: [presentation, conference, public speaking]
+    vimeo: 143903803
+NSLondon November 2015:
+  - language: English
+    speakers: [Paul Stringer]
+    title: Acceptance Testing  for iOS
+    tags: [acceptance testing, testing]
+    vimeo: 151043020
+  - language: English
+    speakers: [Csordas Csaba]
+    title: Work hard and REST
+    tags: [rest, api, security]
+    vimeo: 151043021
