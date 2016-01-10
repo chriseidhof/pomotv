@@ -5,16 +5,56 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/kyle-fuller"/>
   <link href="http://www.pomo.tv/speakers/kyle-fuller/feed.xml" rel="self"/>
-  <updated>2016-01-09T13:16:33Z</updated>
+  <updated>2016-01-10T18:43:23Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>A swift approach</title>
+    <link rel="alternate" href="https://vimeo.com/103413459"/>
+    <id>https://vimeo.com/103413459</id>
+    <updated>2016-01-10T18:43:23Z</updated>
+    <author>
+      <name>Kyle Fuller</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;103413459&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Memory Management</title>
+    <link rel="alternate" href="https://vimeo.com/101842496"/>
+    <id>https://vimeo.com/101842496</id>
+    <updated>2016-01-10T18:43:23Z</updated>
+    <author>
+      <name>Kyle Fuller</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;memory&quot;&gt;memory&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;101842496&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Practical Declarative Programming</title>
     <link rel="alternate" href="https://vimeo.com/138035285"/>
     <id>https://vimeo.com/138035285</id>
-    <updated>2016-01-09T13:16:33Z</updated>
+    <updated>2016-01-10T18:43:23Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>
@@ -35,7 +75,7 @@
     <title>Swift Panel: Where do we go from here?</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-panel-community-where-do-we-go/"/>
     <id>https://realm.io/news/swift-summit-panel-community-where-do-we-go/</id>
-    <updated>2016-01-09T13:16:33Z</updated>
+    <updated>2016-01-10T18:43:23Z</updated>
     <author>
       <name>Abizer Nasir</name>
     </author>
@@ -70,7 +110,7 @@
     <title>Embracing Change with REST</title>
     <link rel="alternate" href="https://realm.io/news/kyle-fuller-embracing-change-with-rest/"/>
     <id>https://realm.io/news/kyle-fuller-embracing-change-with-rest/</id>
-    <updated>2016-01-09T13:16:33Z</updated>
+    <updated>2016-01-10T18:43:23Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>
@@ -90,7 +130,7 @@
     <title>Practical Functional Programming in Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/kyle-fuller-practical-functional-programming-in-swift"/>
     <id>http://www.thedotpost.com/2015/02/kyle-fuller-practical-functional-programming-in-swift</id>
-    <updated>2016-01-09T13:16:33Z</updated>
+    <updated>2016-01-10T18:43:23Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>
@@ -112,7 +152,7 @@
     <title>ICYMI: Core Data</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=gqhVMXenLdg"/>
     <id>https://www.youtube.com/watch?v=gqhVMXenLdg</id>
-    <updated>2016-01-09T13:16:33Z</updated>
+    <updated>2016-01-10T18:43:23Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>

@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/ui"/>
   <link href="http://www.pomo.tv/tags/ui/feed.xml" rel="self"/>
-  <updated>2016-01-09T13:16:45Z</updated>
+  <updated>2016-01-10T18:43:36Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Dynamic, native User Interfaces on iOS</title>
+    <link rel="alternate" href="https://vimeo.com/140421667"/>
+    <id>https://vimeo.com/140421667</id>
+    <updated>2016-01-10T18:43:36Z</updated>
+    <author>
+      <name>John Sundell</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;dynamic-interface&quot;&gt;dynamic interface&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;ui&quot;&gt;ui&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;140421667&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Intelligent UI with AsyncDisplayKit 2.0</title>
     <link rel="alternate" href="https://vimeo.com/140409084"/>
     <id>https://vimeo.com/140409084</id>
-    <updated>2016-01-09T13:16:45Z</updated>
+    <updated>2016-01-10T18:43:36Z</updated>
     <author>
       <name>Scott Goodson</name>
     </author>

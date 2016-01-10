@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>NSLondon October 2013</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//events/nslondon/october-2013"/>
+  <link href="http://www.pomo.tv/events/nslondon/october-2013/feed.xml" rel="self"/>
+  <updated>2016-01-10T18:43:16Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Fast NEON Math</title>
+    <link rel="alternate" href="https://vimeo.com/101849734"/>
+    <id>https://vimeo.com/101849734</id>
+    <updated>2016-01-10T18:43:16Z</updated>
+    <author>
+      <name>Nigel Barber</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;performance&quot;&gt;performance&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;101849734&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Memory Management</title>
+    <link rel="alternate" href="https://vimeo.com/101842496"/>
+    <id>https://vimeo.com/101842496</id>
+    <updated>2016-01-10T18:43:16Z</updated>
+    <author>
+      <name>Kyle Fuller</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;memory&quot;&gt;memory&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;101842496&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What&#x27;s new in iOS 7 for the Hipster&#x27;s Hipster</title>
+    <link rel="alternate" href="https://vimeo.com/101841686"/>
+    <id>https://vimeo.com/101841686</id>
+    <updated>2016-01-10T18:43:16Z</updated>
+    <author>
+      <name>Mike Abdullah</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ios7&quot;&gt;ios7&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;101841686&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Promises</title>
+    <link rel="alternate" href="https://vimeo.com/101841386"/>
+    <id>https://vimeo.com/101841386</id>
+    <updated>2016-01-10T18:43:16Z</updated>
+    <author>
+      <name>Kurtis Seedbalt</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;promises&quot;&gt;promises&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;101841386&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

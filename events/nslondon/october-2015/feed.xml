@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>NSLondon October 2015</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//events/nslondon/october-2015"/>
+  <link href="http://www.pomo.tv/events/nslondon/october-2015/feed.xml" rel="self"/>
+  <updated>2016-01-10T18:43:21Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Developers’ Emergency Guide to Public Speaking</title>
+    <link rel="alternate" href="https://vimeo.com/143903803"/>
+    <id>https://vimeo.com/143903803</id>
+    <updated>2016-01-10T18:43:21Z</updated>
+    <author>
+      <name>Paul Ardeleanu</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;presentation&quot;&gt;presentation&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;conference&quot;&gt;conference&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;public-speaking&quot;&gt;public speaking&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;143903803&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Simplifying IoT with Firebase</title>
+    <link rel="alternate" href="https://vimeo.com/143903802"/>
+    <id>https://vimeo.com/143903802</id>
+    <updated>2016-01-10T18:43:21Z</updated>
+    <author>
+      <name>Mike McDonald</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;iot&quot;&gt;iot&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;firebase&quot;&gt;firebase&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;143903802&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

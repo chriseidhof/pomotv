@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/lldb"/>
   <link href="http://www.pomo.tv/tags/lldb/feed.xml" rel="self"/>
-  <updated>2016-01-09T13:16:43Z</updated>
+  <updated>2016-01-10T18:43:33Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>A first step into other people&#x27;s apps</title>
+    <link rel="alternate" href="https://vimeo.com/98272941"/>
+    <id>https://vimeo.com/98272941</id>
+    <updated>2016-01-10T18:43:33Z</updated>
+    <author>
+      <name>Daniel Haight</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;reveal&quot;&gt;reveal&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;lldb&quot;&gt;lldb&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;98272941&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>What&#x27;s New in LLDB</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-402"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-402</id>
-    <updated>2016-01-09T13:16:43Z</updated>
+    <updated>2016-01-10T18:43:33Z</updated>
     <author>
       <name>Kate Stone</name>
     </author>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>NSLondon November 2015</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//events/nslondon/november-2015"/>
+  <link href="http://www.pomo.tv/events/nslondon/november-2015/feed.xml" rel="self"/>
+  <updated>2016-01-10T18:43:21Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Work hard and REST</title>
+    <link rel="alternate" href="https://vimeo.com/151043021"/>
+    <id>https://vimeo.com/151043021</id>
+    <updated>2016-01-10T18:43:21Z</updated>
+    <author>
+      <name>Csordas Csaba</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;rest&quot;&gt;rest&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;api&quot;&gt;api&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;security&quot;&gt;security&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;151043021&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Acceptance Testing  for iOS</title>
+    <link rel="alternate" href="https://vimeo.com/151043020"/>
+    <id>https://vimeo.com/151043020</id>
+    <updated>2016-01-10T18:43:21Z</updated>
+    <author>
+      <name>Paul Stringer</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;acceptance-testing&quot;&gt;acceptance testing&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;testing&quot;&gt;testing&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;151043020&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

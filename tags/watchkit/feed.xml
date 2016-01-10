@@ -5,16 +5,56 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/watchkit"/>
   <link href="http://www.pomo.tv/tags/watchkit/feed.xml" rel="self"/>
-  <updated>2016-01-09T13:16:45Z</updated>
+  <updated>2016-01-10T18:43:36Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Practical Watchkit</title>
+    <link rel="alternate" href="https://vimeo.com/133127238"/>
+    <id>https://vimeo.com/133127238</id>
+    <updated>2016-01-10T18:43:36Z</updated>
+    <author>
+      <name>Neil Kimmett</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;watchkit&quot;&gt;watchkit&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;133127238&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>The Other WatchKit</title>
+    <link rel="alternate" href="https://vimeo.com/115305206"/>
+    <id>https://vimeo.com/115305206</id>
+    <updated>2016-01-10T18:43:36Z</updated>
+    <author>
+      <name>Alexsander Akers</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;watchkit&quot;&gt;watchkit&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;115305206&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Advanced UX Design for Apple Watch</title>
     <link rel="alternate" href="https://vimeo.com/137545605"/>
     <id>https://vimeo.com/137545605</id>
-    <updated>2016-01-09T13:16:45Z</updated>
+    <updated>2016-01-10T18:43:36Z</updated>
     <author>
       <name>Shawn Davison</name>
     </author>
@@ -37,7 +77,7 @@
     <title>WatchKit Notifications</title>
     <link rel="alternate" href="https://vimeo.com/138114340"/>
     <id>https://vimeo.com/138114340</id>
-    <updated>2016-01-09T13:16:45Z</updated>
+    <updated>2016-01-10T18:43:36Z</updated>
     <author>
       <name>Matthew Morey</name>
     </author>
@@ -58,7 +98,7 @@
     <title>Upgrading to watchOS 2</title>
     <link rel="alternate" href="https://vimeo.com/142104528"/>
     <id>https://vimeo.com/142104528</id>
-    <updated>2016-01-09T13:16:45Z</updated>
+    <updated>2016-01-10T18:43:36Z</updated>
     <author>
       <name>Pedro Mancheno</name>
     </author>
@@ -79,7 +119,7 @@
     <title>WatchKit Tips and Tricks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-228"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-228</id>
-    <updated>2016-01-09T13:16:45Z</updated>
+    <updated>2016-01-10T18:43:36Z</updated>
     <author>
       <name>Jake Behrens</name>
     </author>

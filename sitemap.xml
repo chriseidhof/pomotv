@@ -22,10 +22,31 @@
     <loc>http://www.pomo.tv/events/uikonf/2013/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/nslondon/july-2013/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/xoxo/2013/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/nslondon/september-2013/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/october-2013/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/november-2013/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/february-2014/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/april-2014/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/uikonf/2014/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/may-2014/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/wwdc/2014/</loc>
@@ -37,7 +58,19 @@
     <loc>http://www.pomo.tv/events/ghreact/2014/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/nslondon/june-2014/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/july-2014/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/august-2014/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/nsspain/2014/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/september-2014/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/pragma/2014/</loc>
@@ -49,10 +82,19 @@
     <loc>http://www.pomo.tv/events/nsscotland/2014/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/nslondon/november-2014/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/funswift/2014/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/nslondon/january-2015/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/cocoaheads-stockholm/february-2015/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/february-2015-part-1/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/mce/2015/</loc>
@@ -61,13 +103,22 @@
     <loc>http://www.pomo.tv/events/dotswift/2015/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/nslondon/february-2015-part-2/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/swift-summit/london-2015/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nsconf/2015/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/nslondon/april-2015/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/uikonf/2015/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/may-2015/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/altconf/2015/</loc>
@@ -82,7 +133,13 @@
     <loc>http://www.pomo.tv/events/360idev/2015/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/nslondon/august-2015/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/cocoaheads-stockholm/september-2015/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/september-2015/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nsspain/2015/</loc>
@@ -92,6 +149,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/pragma/2015/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/october-2015/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/ios-conf-singapore/2015/</loc>
@@ -104,6 +164,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/doios/november-2015/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/november-2015/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/funswift/2015/</loc>
@@ -1480,13 +1543,88 @@
     <loc>http://www.pomo.tv/speakers/pim-stolk/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/honza-dvorsky/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/tom-dixon/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/uri-baghin/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/francesco-petrungaro/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/thomas-caterall/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/mehdi-mulani/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/raimon-lapuente/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/jon-hocking/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/nigel-barber/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/kurtis-seedbalt/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/rui-peres/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/luka-bratos/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/marin-usalj/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/tim-chilvers/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/rob-elkin/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/john-sundell/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/jani-evakallio/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/marco-sero/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/tomasz-piekarczyk/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/mike-mcdonald/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/paul-ardeleanu/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/paul-stringer/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/csordas-csaba/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/gameplaykit/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/acceptance-testing/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/accessibility/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/alcatraz/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/analytics/</loc>
@@ -1495,7 +1633,13 @@
     <loc>http://www.pomo.tv/tags/android/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/animation/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/animations/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/api/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/apple-pay/</loc>
@@ -1510,6 +1654,9 @@
     <loc>http://www.pomo.tv/tags/arduino/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/arm/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/assembly/</loc>
   </url>
   <url>
@@ -1517,6 +1664,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/async/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/asyncdisplaykit/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/audio/</loc>
@@ -1538,6 +1688,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/bluetooth/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/bugs/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/buisiness/</loc>
@@ -1573,13 +1726,22 @@
     <loc>http://www.pomo.tv/tags/cognitive-computing/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/collaboration/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/collection-views/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/competition/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/conference/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/contacts/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/continuous-integration/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/core-data/</loc>
@@ -1603,6 +1765,9 @@
     <loc>http://www.pomo.tv/tags/debugging/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/dependencies/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/dependency-injection/</loc>
   </url>
   <url>
@@ -1622,6 +1787,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/dsls/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/dynamic-interface/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/emotion/</loc>
@@ -1648,10 +1816,16 @@
     <loc>http://www.pomo.tv/tags/files-management/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/firebase/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/flatmap/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/fonts/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/framework/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/frameworks/</loc>
@@ -1735,13 +1909,28 @@
     <loc>http://www.pomo.tv/tags/ios/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/ios7/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/ios8/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/iot/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/itunesconnect/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/keyboards/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/leadership/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/learning/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/legacy-apps/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/lenses/</loc>
@@ -1768,10 +1957,16 @@
     <loc>http://www.pomo.tv/tags/media/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/memory/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/metal/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/monads/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/multipeer/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/multitasking/</loc>
@@ -1798,7 +1993,13 @@
     <loc>http://www.pomo.tv/tags/operators/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/optimization/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/pats/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/performance/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/pip/</loc>
@@ -1807,10 +2008,25 @@
     <loc>http://www.pomo.tv/tags/playground/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/playgrounds/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/plugin/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/presentation/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/promises/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/protocols/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/prototype/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/prototyping/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/provisioning/</loc>
@@ -1819,7 +2035,16 @@
     <loc>http://www.pomo.tv/tags/psychology/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/public-speaking/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/railway-oriented-programming/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/react-native/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/reactive-cocoa/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/reactivecocoa/</loc>
@@ -1834,10 +2059,22 @@
     <loc>http://www.pomo.tv/tags/researchkit/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/rest/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/result/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/reveal/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/reverse-engineering/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/runtime/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/rx/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/rxswift/</loc>
@@ -1903,7 +2140,13 @@
     <loc>http://www.pomo.tv/tags/tvos/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/types/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/ui/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/uiappearance/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/uikit/</loc>
@@ -1916,6 +2159,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/user-experience/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/user-interaction/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/user-interface/</loc>
@@ -3548,5 +3794,143 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/360idev/2015/jay-graves-what-s-new-in-hybrid-app-development.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/july-2013/matt-galloway-objective-c-digging-the-foundations.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/september-2013/rob-elkin-altwwdc.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/september-2013/abizer-nasir-git-submodules.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/october-2013/kurtis-seedbalt-promises.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/october-2013/mike-abdullah-what-s-new-in-ios-7-for-the-hipster-s-hipster.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/october-2013/kyle-fuller-memory-management.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/october-2013/nigel-barber-fast-neon-math.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/november-2013/matt-galloway-arm-for-ios-developers.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/november-2013/rui-peres-ios-architecture.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/february-2014/luka-bratos-ponydebugger.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/february-2014/saul-mora-everyday-core-data.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/april-2014/tim-chilvers-high-fashion-and-intriguing-bugs-in-code-and-work.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/april-2014/marin-usalj-everything-you-didn-t-know-about-alcatraz.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/may-2014/daniel-haight-a-first-step-into-other-people-s-apps.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/may-2014/nigel-barber-how-to-draw-lines-_very_-fast.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/june-2014/boris-bugling-custom-playgrounds.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/june-2014/johannes-weiss-introduction-to-functional-programming.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/july-2014/kyle-fuller-a-swift-approach.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/july-2014/rob-stearn-multipeer-networking.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/july-2014/scott-goodson-behind-asyncdisplaykit.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/august-2014/sally-shepard-making-an-app-like-clear-accessible.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/august-2014/abizer-nasir-thinking-in-swift.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/september-2014/mike-abdullah-what-s-new-in-ios8-for-hipsters.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/september-2014/alexsander-akers-the-other-watchkit.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/november-2014/jon-hocking-208-weeks-later.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/november-2014/meng-to-fast-interactive-prototyping.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/november-2014/raimon-lapuente-little-wins-with-uiappearance.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/january-2015/mehdi-mulani-reverse-engineering-on-ios-mac.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/january-2015/joseph-lord-beyond-if-let.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/january-2015/thomas-caterall-the-dependencies-you-didn-t-know-you-had.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/february-2015-part-1/jp-simard-lessons-learned-wrapping-an-objective-c-framework-in-swift.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/february-2015-part-1/francesco-petrungaro-ios-app-security-common-mistakes-and-best-practices.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/february-2015-part-2/johannes-weiss-type-driven-development-in-swift.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/february-2015-part-2/uri-baghin-reactive-cocoa-and-rx-principles-101.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/february-2015-part-2/joel-parsons-the-modern-password-and-you.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/april-2015/tom-dixon-a-delve-into-custom-keyboards.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/april-2015/neil-kimmett-practical-watchkit.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/may-2015/honza-dvorsky-continuous-integration-on-the-edge.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/august-2015/john-sundell-dynamic-native-user-interfaces-on-ios.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/august-2015/jani-evakallio-react-native-introduction-and-a-case-study.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/august-2015/marco-sero-legacy-apps.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/september-2015/tomasz-piekarczyk-core-data-going-big-and-getting-there.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/october-2015/mike-mcdonald-simplifying-iot-with-firebase.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/october-2015/paul-ardeleanu-developers’-emergency-guide-to-public-speaking.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/november-2015/paul-stringer-acceptance-testing-for-ios.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/november-2015/csordas-csaba-work-hard-and-rest.html</loc>
   </url>
 </urlset>

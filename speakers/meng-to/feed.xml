@@ -5,16 +5,36 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/meng-to"/>
   <link href="http://www.pomo.tv/speakers/meng-to/feed.xml" rel="self"/>
-  <updated>2016-01-09T13:16:33Z</updated>
+  <updated>2016-01-10T18:43:22Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Fast Interactive Prototyping</title>
+    <link rel="alternate" href="https://vimeo.com/115883261"/>
+    <id>https://vimeo.com/115883261</id>
+    <updated>2016-01-10T18:43:22Z</updated>
+    <author>
+      <name>Meng To</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;prototyping&quot;&gt;prototyping&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;115883261&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>iOS Prototyping</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=q9Ax11IZiIE"/>
     <id>https://www.youtube.com/watch?v=q9Ax11IZiIE</id>
-    <updated>2016-01-09T13:16:33Z</updated>
+    <updated>2016-01-10T18:43:22Z</updated>
     <author>
       <name>Meng To</name>
     </author>

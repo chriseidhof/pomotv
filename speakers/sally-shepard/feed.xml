@@ -5,16 +5,36 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/sally-shepard"/>
   <link href="http://www.pomo.tv/speakers/sally-shepard/feed.xml" rel="self"/>
-  <updated>2016-01-09T13:16:32Z</updated>
+  <updated>2016-01-10T18:43:22Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Making an app like &#x27;Clear&#x27; accessible</title>
+    <link rel="alternate" href="https://vimeo.com/105440180"/>
+    <id>https://vimeo.com/105440180</id>
+    <updated>2016-01-10T18:43:22Z</updated>
+    <author>
+      <name>Sally Shepard</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;accessibility&quot;&gt;accessibility&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;105440180&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Embracing the Internet of Things for cats</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=A4hw37d136o"/>
     <id>https://www.youtube.com/watch?v=A4hw37d136o</id>
-    <updated>2016-01-09T13:16:32Z</updated>
+    <updated>2016-01-10T18:43:22Z</updated>
     <author>
       <name>Sally Shepard</name>
     </author>
@@ -33,7 +53,7 @@
     <title>Extracurricular Swift</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-sally-shepard-extracurricular-swift-programming-education/"/>
     <id>https://realm.io/news/swift-summit-sally-shepard-extracurricular-swift-programming-education/</id>
-    <updated>2016-01-09T13:16:32Z</updated>
+    <updated>2016-01-10T18:43:22Z</updated>
     <author>
       <name>Sally Shepard</name>
     </author>
@@ -53,7 +73,7 @@
     <title>Building Habits: Keeping Your Users Engaged</title>
     <link rel="alternate" href="https://vimeo.com/124349468"/>
     <id>https://vimeo.com/124349468</id>
-    <updated>2016-01-09T13:16:32Z</updated>
+    <updated>2016-01-10T18:43:22Z</updated>
     <author>
       <name>Sally Shepard</name>
     </author>
@@ -72,7 +92,7 @@
     <title>Hacking on the AppleTV</title>
     <link rel="alternate" href="https://vimeo.com/111942376"/>
     <id>https://vimeo.com/111942376</id>
-    <updated>2016-01-09T13:16:32Z</updated>
+    <updated>2016-01-10T18:43:22Z</updated>
     <author>
       <name>Sally Shepard</name>
     </author>
@@ -91,7 +111,7 @@
     <title>Psychoacoustics and Auditory Illusions for App Development</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sDOq8d7SAIQ"/>
     <id>https://www.youtube.com/watch?v=sDOq8d7SAIQ</id>
-    <updated>2016-01-09T13:16:32Z</updated>
+    <updated>2016-01-10T18:43:22Z</updated>
     <author>
       <name>Sally Shepard</name>
     </author>
@@ -111,7 +131,7 @@
     <title>Accessibility: Beyond VoiceOver</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=4lzP1SsCcyw"/>
     <id>https://www.youtube.com/watch?v=4lzP1SsCcyw</id>
-    <updated>2016-01-09T13:16:32Z</updated>
+    <updated>2016-01-10T18:43:22Z</updated>
     <author>
       <name>Sally Shepard</name>
     </author>
@@ -130,7 +150,7 @@
     <title>Beyond VoiceOver</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=OC_pmEW_GjE"/>
     <id>https://www.youtube.com/watch?v=OC_pmEW_GjE</id>
-    <updated>2016-01-09T13:16:32Z</updated>
+    <updated>2016-01-10T18:43:22Z</updated>
     <author>
       <name>Sally Shepard</name>
     </author>
