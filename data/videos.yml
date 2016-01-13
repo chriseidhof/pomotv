@@ -2829,6 +2829,12 @@ Swift Summit San Francisco 2015:
     tags: [swift, error handling]
     youtube: aa3kQaDFU3o
     direct-link: "http://www.skilled.io/thomashanning/error-handling-in-swift-2"
+  - language: English
+    speakers: [Chris Eidhof]
+    title: Swift Interop
+    tags: [objective-c, swift, interop, api]
+    youtube: Grc4CEV6CFk
+    direct-link: "https://www.skilled.io/chriseidhof/swift-interop"
 Functional Swift Conference 2015:
   - language: English
     speakers: [Veronica Ray]
