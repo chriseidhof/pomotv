@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/tools"/>
   <link href="http://www.pomo.tv/tags/tools/feed.xml" rel="self"/>
-  <updated>2016-01-11T13:12:31Z</updated>
+  <updated>2016-01-13T09:38:22Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Designing for @1x - @3x Without Going Crazy</title>
     <link rel="alternate" href="https://vimeo.com/137561771"/>
     <id>https://vimeo.com/137561771</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Curtis Herbert</name>
     </author>
@@ -36,7 +36,7 @@
     <title>Remote Works!</title>
     <link rel="alternate" href="https://vimeo.com/118805668"/>
     <id>https://vimeo.com/118805668</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Nevyn Bengtsson</name>
     </author>
@@ -57,7 +57,7 @@
     <title>Advanced Graphics and Animations for iOS Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-419"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-419</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Axel Wefers</name>
     </author>
@@ -80,7 +80,7 @@
     <title>Improving Your App with Instruments</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-418"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-418</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Daniel Delwood</name>
     </author>
@@ -100,7 +100,7 @@
     <title>What&#x27;s New in LLVM</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-417"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-417</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Jim Grosbach</name>
     </author>
@@ -120,7 +120,7 @@
     <title>Building Modern Frameworks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-416"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-416</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Chris Parker</name>
     </author>
@@ -140,7 +140,7 @@
     <title>Continuous Integration with Xcode 6</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-415"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-415</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Brent Shank</name>
     </author>
@@ -160,7 +160,7 @@
     <title>Testing in Xcode 6</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-414"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-414</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Brooke Callahan</name>
     </author>
@@ -183,7 +183,7 @@
     <title>Debugging in Xcode 6</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-413"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-413</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Han Ming Ong</name>
     </author>
@@ -203,7 +203,7 @@
     <title>Localizing with Xcode 6</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-412"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-412</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Zoltan Foley-Fisher</name>
     </author>
@@ -226,7 +226,7 @@
     <title>What&#x27;s New in Interface Builder</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-411"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-411</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Kevin Cathey</name>
     </author>
@@ -246,7 +246,7 @@
     <title>Advanced Swift Debugging in LLDB</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-410"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-410</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Enrico Granata</name>
     </author>
@@ -266,7 +266,7 @@
     <title>Introduction to LLDB and the Swift REPL</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-409"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-409</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Sean Callanan</name>
     </author>
@@ -286,7 +286,7 @@
     <title>Swift Playgrounds</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-408"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-408</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Rick Ballard</name>
     </author>
@@ -309,7 +309,7 @@
     <title>Swift Interoperability In Depth</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-407"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-407</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Doug Gregor</name>
     </author>
@@ -329,7 +329,7 @@
     <title>Integrating Swift with Objective-C</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-406"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-406</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Anders Bertelrud</name>
     </author>
@@ -355,7 +355,7 @@
     <title>Advanced Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-404"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-404</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>John McCall</name>
     </author>
@@ -378,7 +378,7 @@
     <title>Intermediate Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-403"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-403</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Brian Lanier</name>
     </author>
@@ -401,7 +401,7 @@
     <title>Introduction to Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-402"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-402</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Tim Isted</name>
     </author>
@@ -424,7 +424,7 @@
     <title>What&#x27;s New in Xcode 6</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-401"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-401</id>
-    <updated>2016-01-11T13:12:31Z</updated>
+    <updated>2016-01-13T09:38:22Z</updated>
     <author>
       <name>Mike Ferris</name>
     </author>

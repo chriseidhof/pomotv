@@ -1903,6 +1903,9 @@
     <loc>http://www.pomo.tv/tags/interfacebuilder/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/interop/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/interpretation/</loc>
   </url>
   <url>
@@ -1979,6 +1982,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/object-oriented/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/objective-c/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/online-presence/</loc>
@@ -3677,6 +3683,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/swift-summit/san-francisco-2015/thomas-hanning-error-handling-in-swift-2.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/swift-summit/san-francisco-2015/chris-eidhof-swift-interop.html</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/funswift/2015/veronica-ray-you-used-to-inject-me-in-your-constructor.html</loc>
