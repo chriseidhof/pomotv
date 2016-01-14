@@ -44,7 +44,7 @@ task :fetchvimeo, [:channel] => :dotenv do |t, args|
     # Only takes the first paragraph as description 
     puts "    description: #{description.css("p")[2].text}"
     puts "    tags: []"
-    puts "    vimeo: #{item.css("link").text}"
+    puts "    vimeo: #{item.css("link").text.split("/").last}"
   end
 end
 

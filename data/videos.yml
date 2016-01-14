@@ -3293,148 +3293,148 @@ NSConference 2014:
     title: 20 Years of Indie Development
     description: James has been an indie Mac and iOS developer for more than 20 years, creating apps like PCalc and DragThing, as well as working for Apple on the Mac OS X Finder and Dock. He will talk about what has changed, and what has stayed the same, from the days of System 7 through to iOS 7.
     tags: [indie]
-    vimeo: https://vimeo.com/channels/nsconf6/95962975
+    vimeo: 95962975
   - language: English
     speakers: [Lex Friedman]
     title: Being Apple 
     description: Apple offers a lot to aspire to. It’s a big company that’s achieved amazing things, amazing successes, and amazing profits to go along with them. In this talk, Lex will offer up insights on how you can be like Apple in less obvious ways, even it doesn’t score you a $500 billion market cap
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97516548
+    vimeo: 97516548
   - language: English
     speakers: [Ben Balckburne]
     title: Squeezing machine learning algorithms onto an iPad 
     description: Machine learning algorithms can deliver apparently magical features in an app. Typically they require server-side processing, but that means both paying for compute time and moving potentially big or sensitive data over the internet. How do we make machine learning algorithms work within the CPU and RAM constraints of an iOS device?
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97516104
+    vimeo: 97516104
   - language: English
     speakers: [Steve Scott (Scotty)]
     title: Building App Communities
     description: Community is powerful. It creates ownership, advocacy and loyalty. Scotty looks at what it makes community work and how developers can get these forces to work for them by building community around their products.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97513761
+    vimeo: 97513761
   - language: English
     speakers: [Jeff LaMarche]
     title: Surviving The Game
     description: In the world of software, product development is hard, and game development is even harder. The mobile software market is no longer a frontier. Large game publishers have joined the fray, bringing with them multi-million dollar budgets and dedicated advertising campaigns. As smaller game companies struggle to survive and larger ones consolidate in an effort to compete better, nobody in their right mind would get into game development now.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97513702
+    vimeo: 97513702
   - language: English
     speakers: [Martin Winter]
     title: "Ahead of the curve: Understanding bezier paths"
     description: Martin talks about the maths bezier paths and then shows some practical examples (including how to draw randomized but natural-looking roads and rivers on a fictitious map) and API use.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97511944
+    vimeo: 97511944
   - language: English
     speakers: [Halle Winkler]
     title: Post-Apocalyptic Technical Ethics 
     description: We learned some disquieting things about our governments and our industry in 2013. Summer's developer mantra of "was anyone surprised by any of this?" eventually turned into autumn's awkward silence as we also discovered that few of the technologies we base our own privacy expectations on are uncompromised.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97510768
+    vimeo: 97510768
   - language: English
     speakers: [Michael Gachet]
     title: You never know where ios development may take you 
     description: This talk will go over a unique indie development experience which led to helping NGOs in the Horn of Africa find water for local populations.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97510547
+    vimeo: 97510547
   - language: English
     speakers: [Mattt Thompson]
     title: Software Design & Eclecticism 
     description: What makes Foundation stand out among other standard libraries is how thoroughly it’s designed. From its date and time calculations to its internationalization and URL loading system, Cocoa APIs demonstrate thoughtfulness and a deep appreciation for understanding a problem in its entirety.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97508062
+    vimeo: 97508062
   - language: English
     speakers: [Michael Lopp]
     title: The Engineer, The Designer, and the Dictator 
     description: During the course of your career, it is likely you will have an undeniable urge to build a thing. It is equally likely that while you are well-intentioned, you are horrifically bad at a skill that is essential to successful thing building. In this talk, Michael Lopp will discuss ideal team construction in a presentation called “The Engineer, The Designer, and the Dictator”
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97507451
+    vimeo: 97507451
   - language: English
     speakers: [Karsten Kusche]
     title: Building the next generation programming language 
     description: Humans are not the only ones working with the code, computers need to work with it too. If computers have an easier time working with the code, humans can enjoy much better tools to deal with the code!
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97102075
+    vimeo: 97102075
   - language: English
     speakers: [Daniel Pasco]
     title: A Bil-centric view of product development 
     description: "Essentially, given an extraordinarily gifted developer - take Bil, our CTO -, there are things outside his area of expertise that he's recognized as hugely important to making a great app. He wants these people and things because they help him make something even greater: great design, great QA, support, the ability to reach a huge number of users (strong brand, really useful app, great content, etc)"
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97201703
+    vimeo: 97201703
   - language: English
     speakers: [Luc Vandal]
     title: Land or Slam 
     description: How lessons I’ve learned from skateboarding have influenced my current business.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97114266
+    vimeo: 97114266
   - language: English
     speakers: [Tobias Klonk]
     title: Another approach to observation 
     description: In this session Tobias  introduces the audience to another possibility to implement the observer pattern in Cocoa, besides KVO and NotificationCenter.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97102055
+    vimeo: 97102055
   - language: English
     speakers: [Marcus Zarra]
     title: Not Invented Here 
     description: We often hear the phrase “Don’t re-invent the wheel.” But what does that really mean? In this session Marcus will be discussing his opinion on this often quoted phrase as well as a discussion of the impacts he is seeing of third party libraries.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/97058344
+    vimeo: 97058344
   - language: English
     speakers: [Charles Parnot]
     title: The Kitchen Sink Database 
     description: "A database is where you store your data. But in practice, your database scheme can quickly grow to become an untamed beast that makes you cry at night. To improve performance, you have the infamous `full_name` column living next to `first_name` and `last_name`; and then there’s `canonical_full_name` for proper search; and `needs_thumbnail` to keep track of thumbnail operations; and an extra table to normalize some relationships needed in the UI; and so on.  Every time you change the UI or add features, your database scheme gets more complicated. Maybe you did survive the software updates, the not-so-automatic migrations, the if statements littered around and the special `rebuildCache` methods. But now your f*^%$@ users want syncing, and you fear for your sanity. Here is the problem: your database is used both for **storing** the actual data and for **displaying** that data and managing the UI. Your data model is torn between two antagonistic goals, and you have a kitchen sink database. I propose a different approach where you explicitly separate those two functions, and with which you can ultimately get your sanity back."
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/96172262
+    vimeo: 96172262
   - language: English
     speakers: [David Smith]
     title: While Nobody is Looking 
     description: There is a natural pull towards focussing on the visual design of an application. Your choice of color, typography and structure all directly impact how your user will experience your app. But what happens when your user isn’t looking? Designing applications for use by increasingly distracted users requires thinking about your customer from a completely different perspective. Building on lessons learned from years of building audio focused applications these are some guides for ensuring your design is usable in ANY context.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/96086552
+    vimeo: 96086552
   - language: English
     speakers: [Scott Little]
     title: What’s it like to fiddle Mail’s bits? 
     description: Let me give you all a quick view from a totally different place than App Stores, nice simple Cocoa code and easily reusable Open Source projects. Writing Mail plugins is a pain in the ass that gives you tremendous challenges every day. I don’t recommend it, but I do enjoy it.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/96077948
+    vimeo: 96077948
   - language: English
     speakers: [Sean Woodhouse]
     title: Tips and tricks for recording your meetup presentations 
     description: Today there are thousands of iOS and Mac developers meeting up and presenting awesome content all around the world. In this talk Sean will offer some helpful tips on recording, editing and publishing your meetup presentations for everyone to enjoy.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/96107143
+    vimeo: 96107143
   - language: English
     speakers: [Markos Charatzas]
     title: Sound Debugging 
     description: Sound debugging is about elevating Xcode's ability to play sounds on a breakpoint to visualise code execution
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/96070920
+    vimeo: 96070920
   - language: English
     speakers: [Rich Siegel]
     title: Red Meat and Gin 
     description: "Bare Bones Software are widely recognized as one of the longest-lived indie Mac developers, having been in business since 1993. Their longevity stems from how they handle matters that Rich will cover in the talk: product concept, engineering discipline, customer service and support, ecosystem relations, living with Apple, and dealing with the unpredictable."
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/96057339
+    vimeo: 96057339
   - language: English
     speakers: [Damian Sullivan]
     title: Legal Considerations For Contract Developers 
     description: Top legal tips for indie developers working on apps for clients, based on the very expensive mistakes I made in my first 5 years of developing apps for clients.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/96004975
+    vimeo: 96004975
   - language: English
     speakers: [Amy Worrall]
     title: KVO Considered Awesome 
     description: A whirlwind tour through Key Value Coding (KVC), Key Value Observing (KVO), and Cocoa Bindings. Amy will explain what these technologies can do, when to use them, what their limitations are, and some tricks to work around common pitfalls. KVO has had a lot of bad press recently, but when used properly it can help you separate concerns and reduce the number of lines of code required for common operations.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/95999854
+    vimeo: 95999854
   - language: English
     speakers: [Matthew Robinson]
     title: NSURLProtocol, Foundation's man-in-the-middle 
     description: Mattt Thompson described NSURLProtocol as "an Apple-sanctioned man-in-the-middle attack."  Buried deep in Foundation's URL Loading System, NSURLProtocol allows us to intercept requests for URLs from the API libraries we are more familiar with, e.g. AFNetworking, NSURLConnection, UIWebView, NSURLDownload. 
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/95956326
+    vimeo: 95956326
   - language: English
     speakers: [Giovanni Tarducci]
     title: Making Apps in Stop-Motion 
     description: We are in the special effects business without even realizing it.
     tags: []
-    vimeo: https://vimeo.com/channels/nsconf6/95951952
+    vimeo: 95951952
