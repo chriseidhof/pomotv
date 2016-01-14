@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv/"/>
   <link href="http://www.pomo.tv/recent.xml" rel="self"/>
-  <updated>2016-01-13T13:12:15Z</updated>
+  <updated>2016-01-14T15:30:41Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Work hard and REST</title>
     <link rel="alternate" href="https://vimeo.com/151043021"/>
     <id>https://vimeo.com/151043021</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Csordas Csaba</name>
     </author>
@@ -36,7 +36,7 @@
     <title>Acceptance Testing  for iOS</title>
     <link rel="alternate" href="https://vimeo.com/151043020"/>
     <id>https://vimeo.com/151043020</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Paul Stringer</name>
     </author>
@@ -57,7 +57,7 @@
     <title>Developers’ Emergency Guide to Public Speaking</title>
     <link rel="alternate" href="https://vimeo.com/143903803"/>
     <id>https://vimeo.com/143903803</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Paul Ardeleanu</name>
     </author>
@@ -79,7 +79,7 @@
     <title>Simplifying IoT with Firebase</title>
     <link rel="alternate" href="https://vimeo.com/143903802"/>
     <id>https://vimeo.com/143903802</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Mike McDonald</name>
     </author>
@@ -100,7 +100,7 @@
     <title>Core Data - Going Big and Getting There</title>
     <link rel="alternate" href="https://vimeo.com/142254755"/>
     <id>https://vimeo.com/142254755</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Tomasz Piekarczyk</name>
     </author>
@@ -120,7 +120,7 @@
     <title>Legacy Apps</title>
     <link rel="alternate" href="https://vimeo.com/140421669"/>
     <id>https://vimeo.com/140421669</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Marco Sero</name>
     </author>
@@ -140,7 +140,7 @@
     <title>React Native: Introduction and a Case Study</title>
     <link rel="alternate" href="https://vimeo.com/140421668"/>
     <id>https://vimeo.com/140421668</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Jani Eväkallio</name>
     </author>
@@ -160,7 +160,7 @@
     <title>Dynamic, native User Interfaces on iOS</title>
     <link rel="alternate" href="https://vimeo.com/140421667"/>
     <id>https://vimeo.com/140421667</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>John Sundell</name>
     </author>
@@ -181,7 +181,7 @@
     <title>Continuous Integration on the Edge</title>
     <link rel="alternate" href="https://vimeo.com/133130698"/>
     <id>https://vimeo.com/133130698</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Honza Dvorsky</name>
     </author>
@@ -201,7 +201,7 @@
     <title>Practical Watchkit</title>
     <link rel="alternate" href="https://vimeo.com/133127238"/>
     <id>https://vimeo.com/133127238</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Neil Kimmett</name>
     </author>
@@ -221,7 +221,7 @@
     <title>A Delve into Custom Keyboards</title>
     <link rel="alternate" href="https://vimeo.com/129662678"/>
     <id>https://vimeo.com/129662678</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Tom Dixon</name>
     </author>
@@ -241,7 +241,7 @@
     <title>The Modern Password and You</title>
     <link rel="alternate" href="https://vimeo.com/121127087"/>
     <id>https://vimeo.com/121127087</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Joel Parsons</name>
     </author>
@@ -261,7 +261,7 @@
     <title>Reactive Cocoa and RX Principles 101</title>
     <link rel="alternate" href="https://vimeo.com/121126582"/>
     <id>https://vimeo.com/121126582</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Uri Baghin</name>
     </author>
@@ -282,7 +282,7 @@
     <title>Type Driven Development in Swift</title>
     <link rel="alternate" href="https://vimeo.com/121126581"/>
     <id>https://vimeo.com/121126581</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Johannes Weiß</name>
     </author>
@@ -303,7 +303,7 @@
     <title>iOS App Security: Common Mistakes and Best Practices</title>
     <link rel="alternate" href="https://vimeo.com/118833806"/>
     <id>https://vimeo.com/118833806</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Francesco Petrungaro</name>
     </author>
@@ -323,7 +323,7 @@
     <title>Lessons learned wrapping an Objective-C framework in Swift</title>
     <link rel="alternate" href="https://vimeo.com/118832151"/>
     <id>https://vimeo.com/118832151</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -344,7 +344,7 @@
     <title>The Dependencies You Didn&#x27;t Know You Had</title>
     <link rel="alternate" href="https://vimeo.com/118021039"/>
     <id>https://vimeo.com/118021039</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Thomas Caterall</name>
     </author>
@@ -364,7 +364,7 @@
     <title>Beyond &quot;if let&quot;</title>
     <link rel="alternate" href="https://vimeo.com/118019963"/>
     <id>https://vimeo.com/118019963</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Joseph Lord</name>
     </author>
@@ -384,7 +384,7 @@
     <title>Reverse Engineering on iOS&#x2F;Mac</title>
     <link rel="alternate" href="https://vimeo.com/118019962"/>
     <id>https://vimeo.com/118019962</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Mehdi Mulani</name>
     </author>
@@ -404,7 +404,7 @@
     <title>Little Wins With UIAppearance</title>
     <link rel="alternate" href="https://vimeo.com/115883292"/>
     <id>https://vimeo.com/115883292</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Raimon Lapuente</name>
     </author>
@@ -425,7 +425,7 @@
     <title>Fast Interactive Prototyping</title>
     <link rel="alternate" href="https://vimeo.com/115883261"/>
     <id>https://vimeo.com/115883261</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Meng To</name>
     </author>
@@ -445,7 +445,7 @@
     <title>208 Weeks Later</title>
     <link rel="alternate" href="https://vimeo.com/115883260"/>
     <id>https://vimeo.com/115883260</id>
-    <updated>2016-01-13T13:12:14Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Jon Hocking</name>
     </author>
@@ -465,7 +465,7 @@
     <title>The Other WatchKit</title>
     <link rel="alternate" href="https://vimeo.com/115305206"/>
     <id>https://vimeo.com/115305206</id>
-    <updated>2016-01-13T13:12:15Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Alexsander Akers</name>
     </author>
@@ -485,7 +485,7 @@
     <title>What&#x27;s New in iOS8 for Hipsters</title>
     <link rel="alternate" href="https://vimeo.com/115305205"/>
     <id>https://vimeo.com/115305205</id>
-    <updated>2016-01-13T13:12:15Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Mike Abdullah</name>
     </author>
@@ -505,7 +505,7 @@
     <title>Thinking in Swift</title>
     <link rel="alternate" href="https://vimeo.com/105440181"/>
     <id>https://vimeo.com/105440181</id>
-    <updated>2016-01-13T13:12:15Z</updated>
+    <updated>2016-01-14T15:30:41Z</updated>
     <author>
       <name>Abizer Nasir</name>
     </author>

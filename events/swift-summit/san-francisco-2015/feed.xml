@@ -5,16 +5,38 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/swift-summit/san-francisco-2015"/>
   <link href="http://www.pomo.tv/events/swift-summit/san-francisco-2015/feed.xml" rel="self"/>
-  <updated>2016-01-13T13:12:23Z</updated>
+  <updated>2016-01-14T15:30:47Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Lightweight, cross-platform code using Swift</title>
+    <link rel="alternate" href="https://www.skilled.io/mikeellard/lightweight-cross-platform-code-using-swift"/>
+    <id>https://www.skilled.io/mikeellard/lightweight-cross-platform-code-using-swift</id>
+    <updated>2016-01-14T15:30:47Z</updated>
+    <author>
+      <name>Michael Patrick Ellard</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.skilled.io&#x2F;mikeellard&#x2F;lightweight-cross-platform-code-using-swift&quot;&gt;https:&#x2F;&#x2F;www.skilled.io&#x2F;mikeellard&#x2F;lightweight-cross-platform-code-using-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;cross-platform&quot;&gt;cross-platform&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;riJJ0vRhfNU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Swift Interop</title>
     <link rel="alternate" href="https://www.skilled.io/chriseidhof/swift-interop"/>
     <id>https://www.skilled.io/chriseidhof/swift-interop</id>
-    <updated>2016-01-13T13:12:22Z</updated>
+    <updated>2016-01-14T15:30:47Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -38,7 +60,7 @@
     <title>Error Handling in Swift 2</title>
     <link rel="alternate" href="http://www.skilled.io/thomashanning/error-handling-in-swift-2"/>
     <id>http://www.skilled.io/thomashanning/error-handling-in-swift-2</id>
-    <updated>2016-01-13T13:12:22Z</updated>
+    <updated>2016-01-14T15:30:47Z</updated>
     <author>
       <name>Thomas Hanning</name>
     </author>
@@ -60,7 +82,7 @@
     <title>Exploring Apple Pay with Swift</title>
     <link rel="alternate" href="http://www.skilled.io/wendylu/exploring-apple-pay-with-swift"/>
     <id>http://www.skilled.io/wendylu/exploring-apple-pay-with-swift</id>
-    <updated>2016-01-13T13:12:22Z</updated>
+    <updated>2016-01-14T15:30:47Z</updated>
     <author>
       <name>Wendy Lu</name>
     </author>
@@ -82,7 +104,7 @@
     <title>What the 55 Swift Standard Library Protocols Taught Me</title>
     <link rel="alternate" href="http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me"/>
     <id>http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me</id>
-    <updated>2016-01-13T13:12:23Z</updated>
+    <updated>2016-01-14T15:30:47Z</updated>
     <author>
       <name>Greg Heo</name>
     </author>
@@ -103,7 +125,7 @@
     <title>Discovering Best Practices in Swift</title>
     <link rel="alternate" href="http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift"/>
     <id>http://www.skilled.io/ashfurrow/discovering-best-practices-in-swift</id>
-    <updated>2016-01-13T13:12:23Z</updated>
+    <updated>2016-01-14T15:30:47Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>
@@ -123,7 +145,7 @@
     <title>Working with Binary Data in Swift</title>
     <link rel="alternate" href="http://www.skilled.io/jpsimard/working-with-binary-data-in-swift"/>
     <id>http://www.skilled.io/jpsimard/working-with-binary-data-in-swift</id>
-    <updated>2016-01-13T13:12:23Z</updated>
+    <updated>2016-01-14T15:30:47Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -143,7 +165,7 @@
     <title>Open Sourcing Swift</title>
     <link rel="alternate" href="http://www.skilled.io/swiftsummit/open-sourcing-swift"/>
     <id>http://www.skilled.io/swiftsummit/open-sourcing-swift</id>
-    <updated>2016-01-13T13:12:23Z</updated>
+    <updated>2016-01-14T15:30:47Z</updated>
     <author>
       <name>JP Simard</name>
     </author>

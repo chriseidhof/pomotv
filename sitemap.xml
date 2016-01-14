@@ -1612,6 +1612,9 @@
     <loc>http://www.pomo.tv/speakers/csordas-csaba/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/michael-patrick-ellard/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
@@ -1757,6 +1760,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/coremotion/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/cross-platform/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/culture/</loc>
@@ -3686,6 +3692,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/swift-summit/san-francisco-2015/chris-eidhof-swift-interop.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/swift-summit/san-francisco-2015/michael-patrick-ellard-lightweight-cross-platform-code-using-swift.html</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/funswift/2015/veronica-ray-you-used-to-inject-me-in-your-constructor.html</loc>
