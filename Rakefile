@@ -3,7 +3,7 @@ require 'middleman-gh-pages'
 require 'dotenv/tasks'
 require 'yt'
 require 'yaml'
-
+require 'nokogiri'
 
 task :default => [:build, "lint:speakers", "lint:editions"]
 
@@ -31,6 +31,20 @@ task :fetchwwdc, [:year] => :dotenv do |t, args|
     puts "    tags: [#{video[:track]}]".downcase
     puts "    wwdc: \"wwdc#{args[:year]}-#{id}\""
     puts "    direct-link: \"https://developer.apple.com/videos/play/wwdc#{args[:year]}-#{id}\""
+  end
+end
+
+task :fetchvimeo, [:channel] => :dotenv do |t, args|
+  doc = Nokogiri::XML(open("https://vimeo.com/channels/#{args[:channel]}/videos/rss"))
+  doc.css("item").each do |item|
+    description = Nokogiri::HTML(item.xpath("description").text)
+    puts "  - language: English"
+    puts "    speakers: [TODO]"
+    puts "    title: #{item.css("title").text}"
+    # Only takes the first paragraph as description 
+    puts "    description: #{description.css("p")[2].text}"
+    puts "    tags: []"
+    puts "    vimeo: #{item.css("link").text}"
   end
 end
 
