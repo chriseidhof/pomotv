@@ -2835,6 +2835,12 @@ Swift Summit San Francisco 2015:
     tags: [objective-c, swift, interop, api]
     youtube: Grc4CEV6CFk
     direct-link: "https://www.skilled.io/chriseidhof/swift-interop"
+  - language: English
+    speakers: [Michael Patrick Ellard]
+    title: Lightweight, cross-platform code using Swift
+    tags: [swift, cross-platform]
+    youtube: riJJ0vRhfNU
+    direct-link: "https://www.skilled.io/mikeellard/lightweight-cross-platform-code-using-swift"
 Functional Swift Conference 2015:
   - language: English
     speakers: [Veronica Ray]
