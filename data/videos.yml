@@ -3438,3 +3438,16 @@ NSConference 2014:
     description: We are in the special effects business without even realizing it.
     tags: []
     vimeo: 95951952
+CocoaHeadsNL October 2015:
+  - language: English
+    speakers: [Koen Bok]
+    title: Prototyping anything you can imagine
+    description: The future of design tools, prototyping and Framer.
+    tags: [Framer,prototyping]
+    vimeo: 142850816
+  - language: English
+    speakers: [Chris Eidhof]
+    title: Swift C Interoperability
+    description: In this talk, we'll look at Swift's interoperability with C, and how to wrap C functions in a way that feels native to Swift.
+    tags: [swift,c,interoperability]
+    vimeo: 142850815
