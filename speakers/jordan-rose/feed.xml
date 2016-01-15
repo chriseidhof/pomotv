@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/jordan-rose"/>
   <link href="http://www.pomo.tv/speakers/jordan-rose/feed.xml" rel="self"/>
-  <updated>2016-01-15T13:41:00Z</updated>
+  <updated>2016-01-15T17:00:33Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Swift and Objective-C Interoperability</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-401"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-401</id>
-    <updated>2016-01-15T13:41:00Z</updated>
+    <updated>2016-01-15T17:00:33Z</updated>
     <author>
       <name>Jordan Rose</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Integrating Swift with Objective-C</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-406"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-406</id>
-    <updated>2016-01-15T13:41:00Z</updated>
+    <updated>2016-01-15T17:00:33Z</updated>
     <author>
       <name>Anders Bertelrud</name>
     </author>

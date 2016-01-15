@@ -154,6 +154,9 @@
     <loc>http://www.pomo.tv/events/pragma/2015/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/cocoaheads-nl/october-2015/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/nslondon/october-2015/</loc>
   </url>
   <url>
@@ -1672,7 +1675,13 @@
     <loc>http://www.pomo.tv/speakers/giovanni-tarducci/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/koen-bok/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/framer/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/gameplaykit/</loc>
@@ -1985,6 +1994,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/interop/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/interoperability/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/interpretation/</loc>
@@ -4109,5 +4121,11 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nsconf/2014/giovanni-tarducci-making-apps-in-stop-motion.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/cocoaheads-nl/october-2015/koen-bok-prototyping-anything-you-can-imagine.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/cocoaheads-nl/october-2015/chris-eidhof-swift-c-interoperability.html</loc>
   </url>
 </urlset>
