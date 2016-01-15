@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/matt-moriarity"/>
   <link href="http://www.pomo.tv/speakers/matt-moriarity/feed.xml" rel="self"/>
-  <updated>2016-01-15T07:20:42Z</updated>
+  <updated>2016-01-15T13:41:00Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Continuous Integration and Code Coverage in Xcode</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-410"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-410</id>
-    <updated>2016-01-15T07:20:42Z</updated>
+    <updated>2016-01-15T13:41:00Z</updated>
     <author>
       <name>Matt Moriarity</name>
     </author>
