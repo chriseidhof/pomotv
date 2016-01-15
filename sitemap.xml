@@ -172,6 +172,9 @@
     <loc>http://www.pomo.tv/events/funswift/2015/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/speakers/chris-eidhof/</loc>
   </url>
   <url>
@@ -1615,6 +1618,60 @@
     <loc>http://www.pomo.tv/speakers/michael-patrick-ellard/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/lex-friedman/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/ben-balckburne/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/steve-scott-scotty/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/jeff-lamarche/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/michael-gachet/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/karsten-kusche/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/daniel-pasco/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/luc-vandal/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/tobias-klonk/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/marcus-zarra/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/charles-parnot/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/david-smith/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/sean-woodhouse/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/markos-charatzas/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/rich-siegel/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/damian-sullivan/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/matthew-robinson/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/giovanni-tarducci/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
@@ -1625,6 +1682,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/accessibility/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/ai/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/alcatraz/</loc>
@@ -1705,6 +1765,9 @@
     <loc>http://www.pomo.tv/tags/c/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/career/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/category-theory/</loc>
   </url>
   <url>
@@ -1735,6 +1798,9 @@
     <loc>http://www.pomo.tv/tags/collection-views/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/community/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/competition/</loc>
   </url>
   <url>
@@ -1751,6 +1817,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/core-os/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/coregraphics/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/coreimage/</loc>
@@ -1813,6 +1882,9 @@
     <loc>http://www.pomo.tv/tags/errors/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/ethics/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/extension/</loc>
   </url>
   <url>
@@ -1829,6 +1901,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/fonts/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/foundation/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/framework/</loc>
@@ -1933,6 +2008,12 @@
     <loc>http://www.pomo.tv/tags/keyboards/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/kvo/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/language/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/leadership/</loc>
   </url>
   <url>
@@ -1940,6 +2021,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/legacy-apps/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/legal/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/lenses/</loc>
@@ -3950,5 +4034,80 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nslondon/november-2015/csordas-csaba-work-hard-and-rest.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/james-thomson-20-years-of-indie-development.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/lex-friedman-being-apple.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/ben-balckburne-squeezing-machine-learning-algorithms-onto-an-ipad.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/steve-scott-scotty-building-app-communities.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/jeff-lamarche-surviving-the-game.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/martin-winter-ahead-of-the-curve-understanding-bezier-paths.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/halle-winkler-post-apocalyptic-technical-ethics.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/michael-gachet-you-never-know-where-ios-development-may-take-you.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/mattt-thompson-software-design-eclecticism.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/michael-lopp-the-engineer-the-designer-and-the-dictator.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/karsten-kusche-building-the-next-generation-programming-language.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/daniel-pasco-a-bil-centric-view-of-product-development.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/luc-vandal-land-or-slam.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/tobias-klonk-another-approach-to-observation.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/marcus-zarra-not-invented-here.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/charles-parnot-the-kitchen-sink-database.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/david-smith-while-nobody-is-looking.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/scott-little-what’s-it-like-to-fiddle-mail’s-bits.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/sean-woodhouse-tips-and-tricks-for-recording-your-meetup-presentations.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/markos-charatzas-sound-debugging.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/rich-siegel-red-meat-and-gin.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/damian-sullivan-legal-considerations-for-contract-developers.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/amy-worrall-kvo-considered-awesome.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/matthew-robinson-nsurlprotocol-foundation-s-man-in-the-middle.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nsconf/2014/giovanni-tarducci-making-apps-in-stop-motion.html</loc>
   </url>
 </urlset>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>coregraphics</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/coregraphics"/>
+  <link href="http://www.pomo.tv/tags/coregraphics/feed.xml" rel="self"/>
+  <updated>2016-01-15T07:20:48Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Ahead of the curve: Understanding bezier paths</title>
+    <link rel="alternate" href="https://vimeo.com/97511944"/>
+    <id>https://vimeo.com/97511944</id>
+    <updated>2016-01-15T07:20:48Z</updated>
+    <author>
+      <name>Martin Winter</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;coregraphics&quot;&gt;coregraphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Martin talks about the maths bezier paths and then shows some practical examples (including how to draw randomized but natural-looking roads and rivers on a fictitious map) and API use.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97511944&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

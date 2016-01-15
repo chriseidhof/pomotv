@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>kvo</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/kvo"/>
+  <link href="http://www.pomo.tv/tags/kvo/feed.xml" rel="self"/>
+  <updated>2016-01-15T07:20:51Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>KVO Considered Awesome</title>
+    <link rel="alternate" href="https://vimeo.com/95999854"/>
+    <id>https://vimeo.com/95999854</id>
+    <updated>2016-01-15T07:20:51Z</updated>
+    <author>
+      <name>Amy Worrall</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;kvo&quot;&gt;kvo&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;A whirlwind tour through Key Value Coding (KVC), Key Value Observing (KVO), and Cocoa Bindings. Amy will explain what these technologies can do, when to use them, what their limitations are, and some tricks to work around common pitfalls. KVO has had a lot of bad press recently, but when used properly it can help you separate concerns and reduce the number of lines of code required for common operations.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;95999854&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Another approach to observation</title>
+    <link rel="alternate" href="https://vimeo.com/97102055"/>
+    <id>https://vimeo.com/97102055</id>
+    <updated>2016-01-15T07:20:51Z</updated>
+    <author>
+      <name>Tobias Klonk</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;objective-c&quot;&gt;objective-c&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;kvo&quot;&gt;kvo&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;In this session Tobias  introduces the audience to another possibility to implement the observer pattern in Cocoa, besides KVO and NotificationCenter.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97102055&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

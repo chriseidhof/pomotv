@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>NSConference 2014</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//events/nsconf/2014"/>
+  <link href="http://www.pomo.tv/events/nsconf/2014/feed.xml" rel="self"/>
+  <updated>2016-01-15T07:20:38Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Making Apps in Stop-Motion</title>
+    <link rel="alternate" href="https://vimeo.com/95951952"/>
+    <id>https://vimeo.com/95951952</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Giovanni Tarducci</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;We are in the special effects business without even realizing it.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;95951952&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>NSURLProtocol, Foundation&#x27;s man-in-the-middle</title>
+    <link rel="alternate" href="https://vimeo.com/95956326"/>
+    <id>https://vimeo.com/95956326</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Matthew Robinson</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;foundation&quot;&gt;foundation&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;networking&quot;&gt;networking&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Mattt Thompson described NSURLProtocol as &quot;an Apple-sanctioned man-in-the-middle attack.&quot;  Buried deep in Foundation&#x27;s URL Loading System, NSURLProtocol allows us to intercept requests for URLs from the API libraries we are more familiar with, e.g. AFNetworking, NSURLConnection, UIWebView, NSURLDownload.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;95956326&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>KVO Considered Awesome</title>
+    <link rel="alternate" href="https://vimeo.com/95999854"/>
+    <id>https://vimeo.com/95999854</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Amy Worrall</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;kvo&quot;&gt;kvo&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;A whirlwind tour through Key Value Coding (KVC), Key Value Observing (KVO), and Cocoa Bindings. Amy will explain what these technologies can do, when to use them, what their limitations are, and some tricks to work around common pitfalls. KVO has had a lot of bad press recently, but when used properly it can help you separate concerns and reduce the number of lines of code required for common operations.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;95999854&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Legal Considerations For Contract Developers</title>
+    <link rel="alternate" href="https://vimeo.com/96004975"/>
+    <id>https://vimeo.com/96004975</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Damian Sullivan</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;legal&quot;&gt;legal&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Top legal tips for indie developers working on apps for clients, based on the very expensive mistakes I made in my first 5 years of developing apps for clients.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96004975&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Red Meat and Gin</title>
+    <link rel="alternate" href="https://vimeo.com/96057339"/>
+    <id>https://vimeo.com/96057339</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Rich Siegel</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Bare Bones Software are widely recognized as one of the longest-lived indie Mac developers, having been in business since 1993. Their longevity stems from how they handle matters that Rich will cover in the talk: product concept, engineering discipline, customer service and support, ecosystem relations, living with Apple, and dealing with the unpredictable.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96057339&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Sound Debugging</title>
+    <link rel="alternate" href="https://vimeo.com/96070920"/>
+    <id>https://vimeo.com/96070920</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Markos Charatzas</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;debugging&quot;&gt;debugging&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;xcode&quot;&gt;xcode&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Sound debugging is about elevating Xcode&#x27;s ability to play sounds on a breakpoint to visualise code execution&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96070920&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Tips and tricks for recording your meetup presentations</title>
+    <link rel="alternate" href="https://vimeo.com/96107143"/>
+    <id>https://vimeo.com/96107143</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Sean Woodhouse</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;community&quot;&gt;community&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Today there are thousands of iOS and Mac developers meeting up and presenting awesome content all around the world. In this talk Sean will offer some helpful tips on recording, editing and publishing your meetup presentations for everyone to enjoy.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96107143&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>What’s it like to fiddle Mail’s bits?</title>
+    <link rel="alternate" href="https://vimeo.com/96077948"/>
+    <id>https://vimeo.com/96077948</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Scott Little</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;plugin&quot;&gt;plugin&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Let me give you all a quick view from a totally different place than App Stores, nice simple Cocoa code and easily reusable Open Source projects. Writing Mail plugins is a pain in the ass that gives you tremendous challenges every day. I don’t recommend it, but I do enjoy it.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96077948&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>While Nobody is Looking</title>
+    <link rel="alternate" href="https://vimeo.com/96086552"/>
+    <id>https://vimeo.com/96086552</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>David Smith</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;There is a natural pull towards focussing on the visual design of an application. Your choice of color, typography and structure all directly impact how your user will experience your app. But what happens when your user isn’t looking? Designing applications for use by increasingly distracted users requires thinking about your customer from a completely different perspective. Building on lessons learned from years of building audio focused applications these are some guides for ensuring your design is usable in ANY context.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96086552&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>The Kitchen Sink Database</title>
+    <link rel="alternate" href="https://vimeo.com/96172262"/>
+    <id>https://vimeo.com/96172262</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Charles Parnot</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;sync&quot;&gt;sync&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;A database is where you store your data. But in practice, your database scheme can quickly grow to become an untamed beast that makes you cry at night. To improve performance, you have the infamous `full_name` column living next to `first_name` and `last_name`; and then there’s `canonical_full_name` for proper search; and `needs_thumbnail` to keep track of thumbnail operations; and an extra table to normalize some relationships needed in the UI; and so on.  Every time you change the UI or add features, your database scheme gets more complicated. Maybe you did survive the software updates, the not-so-automatic migrations, the if statements littered around and the special `rebuildCache` methods. But now your f*^%$@ users want syncing, and you fear for your sanity. Here is the problem: your database is used both for **storing** the actual data and for **displaying** that data and managing the UI. Your data model is torn between two antagonistic goals, and you have a kitchen sink database. I propose a different approach where you explicitly separate those two functions, and with which you can ultimately get your sanity back.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96172262&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Not Invented Here</title>
+    <link rel="alternate" href="https://vimeo.com/97058344"/>
+    <id>https://vimeo.com/97058344</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Marcus Zarra</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;We often hear the phrase “Don’t re-invent the wheel.” But what does that really mean? In this session Marcus will be discussing his opinion on this often quoted phrase as well as a discussion of the impacts he is seeing of third party libraries.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97058344&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Another approach to observation</title>
+    <link rel="alternate" href="https://vimeo.com/97102055"/>
+    <id>https://vimeo.com/97102055</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Tobias Klonk</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;objective-c&quot;&gt;objective-c&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;kvo&quot;&gt;kvo&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;In this session Tobias  introduces the audience to another possibility to implement the observer pattern in Cocoa, besides KVO and NotificationCenter.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97102055&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Land or Slam</title>
+    <link rel="alternate" href="https://vimeo.com/97114266"/>
+    <id>https://vimeo.com/97114266</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Luc Vandal</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;How lessons I’ve learned from skateboarding have influenced my current business.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97114266&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>A Bil-centric view of product development</title>
+    <link rel="alternate" href="https://vimeo.com/97201703"/>
+    <id>https://vimeo.com/97201703</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Daniel Pasco</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Essentially, given an extraordinarily gifted developer - take Bil, our CTO -, there are things outside his area of expertise that he&#x27;s recognized as hugely important to making a great app. He wants these people and things because they help him make something even greater: great design, great QA, support, the ability to reach a huge number of users (strong brand, really useful app, great content, etc)&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97201703&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Building the next generation programming language</title>
+    <link rel="alternate" href="https://vimeo.com/97102075"/>
+    <id>https://vimeo.com/97102075</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Karsten Kusche</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;language&quot;&gt;language&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Humans are not the only ones working with the code, computers need to work with it too. If computers have an easier time working with the code, humans can enjoy much better tools to deal with the code!&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97102075&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>The Engineer, The Designer, and the Dictator</title>
+    <link rel="alternate" href="https://vimeo.com/97507451"/>
+    <id>https://vimeo.com/97507451</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Michael Lopp</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;career&quot;&gt;career&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;During the course of your career, it is likely you will have an undeniable urge to build a thing. It is equally likely that while you are well-intentioned, you are horrifically bad at a skill that is essential to successful thing building. In this talk, Michael Lopp will discuss ideal team construction in a presentation called “The Engineer, The Designer, and the Dictator”&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97507451&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Software Design &amp; Eclecticism</title>
+    <link rel="alternate" href="https://vimeo.com/97508062"/>
+    <id>https://vimeo.com/97508062</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Mattt Thompson</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;foundation&quot;&gt;foundation&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;What makes Foundation stand out among other standard libraries is how thoroughly it’s designed. From its date and time calculations to its internationalization and URL loading system, Cocoa APIs demonstrate thoughtfulness and a deep appreciation for understanding a problem in its entirety.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97508062&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>You never know where ios development may take you</title>
+    <link rel="alternate" href="https://vimeo.com/97510547"/>
+    <id>https://vimeo.com/97510547</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Michael Gachet</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;This talk will go over a unique indie development experience which led to helping NGOs in the Horn of Africa find water for local populations.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97510547&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Post-Apocalyptic Technical Ethics</title>
+    <link rel="alternate" href="https://vimeo.com/97510768"/>
+    <id>https://vimeo.com/97510768</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Halle Winkler</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ethics&quot;&gt;ethics&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;We learned some disquieting things about our governments and our industry in 2013. Summer&#x27;s developer mantra of &quot;was anyone surprised by any of this?&quot; eventually turned into autumn&#x27;s awkward silence as we also discovered that few of the technologies we base our own privacy expectations on are uncompromised.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97510768&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Ahead of the curve: Understanding bezier paths</title>
+    <link rel="alternate" href="https://vimeo.com/97511944"/>
+    <id>https://vimeo.com/97511944</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Martin Winter</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;coregraphics&quot;&gt;coregraphics&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Martin talks about the maths bezier paths and then shows some practical examples (including how to draw randomized but natural-looking roads and rivers on a fictitious map) and API use.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97511944&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Surviving The Game</title>
+    <link rel="alternate" href="https://vimeo.com/97513702"/>
+    <id>https://vimeo.com/97513702</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Jeff LaMarche</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;In the world of software, product development is hard, and game development is even harder. The mobile software market is no longer a frontier. Large game publishers have joined the fray, bringing with them multi-million dollar budgets and dedicated advertising campaigns. As smaller game companies struggle to survive and larger ones consolidate in an effort to compete better, nobody in their right mind would get into game development now.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97513702&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Building App Communities</title>
+    <link rel="alternate" href="https://vimeo.com/97513761"/>
+    <id>https://vimeo.com/97513761</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Steve Scott (Scotty)</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;community&quot;&gt;community&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Community is powerful. It creates ownership, advocacy and loyalty. Scotty looks at what it makes community work and how developers can get these forces to work for them by building community around their products.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97513761&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Squeezing machine learning algorithms onto an iPad</title>
+    <link rel="alternate" href="https://vimeo.com/97516104"/>
+    <id>https://vimeo.com/97516104</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Ben Balckburne</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ai&quot;&gt;ai&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Machine learning algorithms can deliver apparently magical features in an app. Typically they require server-side processing, but that means both paying for compute time and moving potentially big or sensitive data over the internet. How do we make machine learning algorithms work within the CPU and RAM constraints of an iOS device?&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97516104&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Being Apple</title>
+    <link rel="alternate" href="https://vimeo.com/97516548"/>
+    <id>https://vimeo.com/97516548</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>Lex Friedman</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Apple offers a lot to aspire to. It’s a big company that’s achieved amazing things, amazing successes, and amazing profits to go along with them. In this talk, Lex will offer up insights on how you can be like Apple in less obvious ways, even it doesn’t score you a $500 billion market cap&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97516548&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>20 Years of Indie Development</title>
+    <link rel="alternate" href="https://vimeo.com/95962975"/>
+    <id>https://vimeo.com/95962975</id>
+    <updated>2016-01-15T07:20:38Z</updated>
+    <author>
+      <name>James Thomson</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;James has been an indie Mac and iOS developer for more than 20 years, creating apps like PCalc and DragThing, as well as working for Apple on the Mac OS X Finder and Dock. He will talk about what has changed, and what has stayed the same, from the days of System 7 through to iOS 7.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;95962975&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

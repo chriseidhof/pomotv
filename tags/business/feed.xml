@@ -5,16 +5,146 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/business"/>
   <link href="http://www.pomo.tv/tags/business/feed.xml" rel="self"/>
-  <updated>2016-01-14T15:30:56Z</updated>
+  <updated>2016-01-15T07:20:47Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Legal Considerations For Contract Developers</title>
+    <link rel="alternate" href="https://vimeo.com/96004975"/>
+    <id>https://vimeo.com/96004975</id>
+    <updated>2016-01-15T07:20:47Z</updated>
+    <author>
+      <name>Damian Sullivan</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;legal&quot;&gt;legal&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Top legal tips for indie developers working on apps for clients, based on the very expensive mistakes I made in my first 5 years of developing apps for clients.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96004975&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Red Meat and Gin</title>
+    <link rel="alternate" href="https://vimeo.com/96057339"/>
+    <id>https://vimeo.com/96057339</id>
+    <updated>2016-01-15T07:20:47Z</updated>
+    <author>
+      <name>Rich Siegel</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Bare Bones Software are widely recognized as one of the longest-lived indie Mac developers, having been in business since 1993. Their longevity stems from how they handle matters that Rich will cover in the talk: product concept, engineering discipline, customer service and support, ecosystem relations, living with Apple, and dealing with the unpredictable.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96057339&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>While Nobody is Looking</title>
+    <link rel="alternate" href="https://vimeo.com/96086552"/>
+    <id>https://vimeo.com/96086552</id>
+    <updated>2016-01-15T07:20:47Z</updated>
+    <author>
+      <name>David Smith</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;There is a natural pull towards focussing on the visual design of an application. Your choice of color, typography and structure all directly impact how your user will experience your app. But what happens when your user isn’t looking? Designing applications for use by increasingly distracted users requires thinking about your customer from a completely different perspective. Building on lessons learned from years of building audio focused applications these are some guides for ensuring your design is usable in ANY context.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96086552&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Land or Slam</title>
+    <link rel="alternate" href="https://vimeo.com/97114266"/>
+    <id>https://vimeo.com/97114266</id>
+    <updated>2016-01-15T07:20:47Z</updated>
+    <author>
+      <name>Luc Vandal</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;How lessons I’ve learned from skateboarding have influenced my current business.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97114266&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>A Bil-centric view of product development</title>
+    <link rel="alternate" href="https://vimeo.com/97201703"/>
+    <id>https://vimeo.com/97201703</id>
+    <updated>2016-01-15T07:20:47Z</updated>
+    <author>
+      <name>Daniel Pasco</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Essentially, given an extraordinarily gifted developer - take Bil, our CTO -, there are things outside his area of expertise that he&#x27;s recognized as hugely important to making a great app. He wants these people and things because they help him make something even greater: great design, great QA, support, the ability to reach a huge number of users (strong brand, really useful app, great content, etc)&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97201703&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Surviving The Game</title>
+    <link rel="alternate" href="https://vimeo.com/97513702"/>
+    <id>https://vimeo.com/97513702</id>
+    <updated>2016-01-15T07:20:47Z</updated>
+    <author>
+      <name>Jeff LaMarche</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;In the world of software, product development is hard, and game development is even harder. The mobile software market is no longer a frontier. Large game publishers have joined the fray, bringing with them multi-million dollar budgets and dedicated advertising campaigns. As smaller game companies struggle to survive and larger ones consolidate in an effort to compete better, nobody in their right mind would get into game development now.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97513702&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Stop Saying No - How I Went From Fired, To Indie, To Over $1M In Revenue In Under A Year</title>
     <link rel="alternate" href="https://vimeo.com/137515894"/>
     <id>https://vimeo.com/137515894</id>
-    <updated>2016-01-14T15:30:56Z</updated>
+    <updated>2016-01-15T07:20:47Z</updated>
     <author>
       <name>Brandon Trebitowski</name>
     </author>
@@ -35,7 +165,7 @@
     <title>Beyond the Banner: How to Scale Your Revenue with Innovative Ad Formats</title>
     <link rel="alternate" href="https://vimeo.com/137548959"/>
     <id>https://vimeo.com/137548959</id>
-    <updated>2016-01-14T15:30:56Z</updated>
+    <updated>2016-01-15T07:20:47Z</updated>
     <author>
       <name>James Hughes</name>
     </author>
@@ -56,7 +186,7 @@
     <title>Build a Business, Not an App</title>
     <link rel="alternate" href="https://vimeo.com/137539070"/>
     <id>https://vimeo.com/137539070</id>
-    <updated>2016-01-14T15:30:56Z</updated>
+    <updated>2016-01-15T07:20:47Z</updated>
     <author>
       <name>Michael Schneider</name>
     </author>
@@ -77,7 +207,7 @@
     <title>Succeeding Slwoing - A Practical Guide to Going Indie</title>
     <link rel="alternate" href="https://vimeo.com/138022673"/>
     <id>https://vimeo.com/138022673</id>
-    <updated>2016-01-14T15:30:56Z</updated>
+    <updated>2016-01-15T07:20:47Z</updated>
     <author>
       <name>Charles Perry</name>
     </author>
@@ -98,7 +228,7 @@
     <title>The Small Fish in a Big Pond: Working with Large Clients</title>
     <link rel="alternate" href="https://vimeo.com/138029043"/>
     <id>https://vimeo.com/138029043</id>
-    <updated>2016-01-14T15:30:56Z</updated>
+    <updated>2016-01-15T07:20:47Z</updated>
     <author>
       <name>Daniel Pfeiffer</name>
     </author>
@@ -119,7 +249,7 @@
     <title>Scaling Your Indie Business</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=0iQeaoP3Nh8"/>
     <id>https://www.youtube.com/watch?v=0iQeaoP3Nh8</id>
-    <updated>2016-01-14T15:30:56Z</updated>
+    <updated>2016-01-15T07:20:47Z</updated>
     <author>
       <name>Peter Steinberger</name>
     </author>

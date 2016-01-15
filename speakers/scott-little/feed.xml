@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/scott-little"/>
   <link href="http://www.pomo.tv/speakers/scott-little/feed.xml" rel="self"/>
-  <updated>2016-01-14T15:30:48Z</updated>
+  <updated>2016-01-15T07:20:39Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>What’s it like to fiddle Mail’s bits?</title>
+    <link rel="alternate" href="https://vimeo.com/96077948"/>
+    <id>https://vimeo.com/96077948</id>
+    <updated>2016-01-15T07:20:39Z</updated>
+    <author>
+      <name>Scott Little</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;plugin&quot;&gt;plugin&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Let me give you all a quick view from a totally different place than App Stores, nice simple Cocoa code and easily reusable Open Source projects. Writing Mail plugins is a pain in the ass that gives you tremendous challenges every day. I don’t recommend it, but I do enjoy it.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96077948&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Ultimate Spirit</title>
     <link rel="alternate" href="https://vimeo.com/124349161"/>
     <id>https://vimeo.com/124349161</id>
-    <updated>2016-01-14T15:30:48Z</updated>
+    <updated>2016-01-15T07:20:39Z</updated>
     <author>
       <name>Scott Little</name>
     </author>

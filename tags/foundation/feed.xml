@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>foundation</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/foundation"/>
+  <link href="http://www.pomo.tv/tags/foundation/feed.xml" rel="self"/>
+  <updated>2016-01-15T07:20:49Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>NSURLProtocol, Foundation&#x27;s man-in-the-middle</title>
+    <link rel="alternate" href="https://vimeo.com/95956326"/>
+    <id>https://vimeo.com/95956326</id>
+    <updated>2016-01-15T07:20:49Z</updated>
+    <author>
+      <name>Matthew Robinson</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;foundation&quot;&gt;foundation&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;networking&quot;&gt;networking&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Mattt Thompson described NSURLProtocol as &quot;an Apple-sanctioned man-in-the-middle attack.&quot;  Buried deep in Foundation&#x27;s URL Loading System, NSURLProtocol allows us to intercept requests for URLs from the API libraries we are more familiar with, e.g. AFNetworking, NSURLConnection, UIWebView, NSURLDownload.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;95956326&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Software Design &amp; Eclecticism</title>
+    <link rel="alternate" href="https://vimeo.com/97508062"/>
+    <id>https://vimeo.com/97508062</id>
+    <updated>2016-01-15T07:20:49Z</updated>
+    <author>
+      <name>Mattt Thompson</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;foundation&quot;&gt;foundation&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;What makes Foundation stand out among other standard libraries is how thoroughly it’s designed. From its date and time calculations to its internationalization and URL loading system, Cocoa APIs demonstrate thoughtfulness and a deep appreciation for understanding a problem in its entirety.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97508062&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

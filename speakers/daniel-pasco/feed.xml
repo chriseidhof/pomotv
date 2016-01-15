@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Daniel Pasco</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/daniel-pasco"/>
+  <link href="http://www.pomo.tv/speakers/daniel-pasco/feed.xml" rel="self"/>
+  <updated>2016-01-15T07:20:47Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>A Bil-centric view of product development</title>
+    <link rel="alternate" href="https://vimeo.com/97201703"/>
+    <id>https://vimeo.com/97201703</id>
+    <updated>2016-01-15T07:20:47Z</updated>
+    <author>
+      <name>Daniel Pasco</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Essentially, given an extraordinarily gifted developer - take Bil, our CTO -, there are things outside his area of expertise that he&#x27;s recognized as hugely important to making a great app. He wants these people and things because they help him make something even greater: great design, great QA, support, the ability to reach a huge number of users (strong brand, really useful app, great content, etc)&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97201703&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/halle-winkler"/>
   <link href="http://www.pomo.tv/speakers/halle-winkler/feed.xml" rel="self"/>
-  <updated>2016-01-14T15:30:48Z</updated>
+  <updated>2016-01-15T07:20:39Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Post-Apocalyptic Technical Ethics</title>
+    <link rel="alternate" href="https://vimeo.com/97510768"/>
+    <id>https://vimeo.com/97510768</id>
+    <updated>2016-01-15T07:20:39Z</updated>
+    <author>
+      <name>Halle Winkler</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ethics&quot;&gt;ethics&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;We learned some disquieting things about our governments and our industry in 2013. Summer&#x27;s developer mantra of &quot;was anyone surprised by any of this?&quot; eventually turned into autumn&#x27;s awkward silence as we also discovered that few of the technologies we base our own privacy expectations on are uncompromised.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97510768&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Duct-taping the gates of chaos shut: the weird, little, useful, su...</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=83fqt9MPHD8"/>
     <id>https://www.youtube.com/watch?v=83fqt9MPHD8</id>
-    <updated>2016-01-14T15:30:48Z</updated>
+    <updated>2016-01-15T07:20:39Z</updated>
     <author>
       <name>Halle Winkler</name>
     </author>
@@ -33,7 +54,7 @@
     <title>Duct-Taping The Gates Of Chaos Shut</title>
     <link rel="alternate" href="https://vimeo.com/124349698"/>
     <id>https://vimeo.com/124349698</id>
-    <updated>2016-01-14T15:30:48Z</updated>
+    <updated>2016-01-15T07:20:39Z</updated>
     <author>
       <name>Halle Winkler</name>
     </author>

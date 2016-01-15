@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Lex Friedman</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/lex-friedman"/>
+  <link href="http://www.pomo.tv/speakers/lex-friedman/feed.xml" rel="self"/>
+  <updated>2016-01-15T07:20:47Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Being Apple</title>
+    <link rel="alternate" href="https://vimeo.com/97516548"/>
+    <id>https://vimeo.com/97516548</id>
+    <updated>2016-01-15T07:20:47Z</updated>
+    <author>
+      <name>Lex Friedman</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Apple offers a lot to aspire to. It’s a big company that’s achieved amazing things, amazing successes, and amazing profits to go along with them. In this talk, Lex will offer up insights on how you can be like Apple in less obvious ways, even it doesn’t score you a $500 billion market cap&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97516548&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/amy-worrall"/>
   <link href="http://www.pomo.tv/speakers/amy-worrall/feed.xml" rel="self"/>
-  <updated>2016-01-14T15:30:48Z</updated>
+  <updated>2016-01-15T07:20:39Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>KVO Considered Awesome</title>
+    <link rel="alternate" href="https://vimeo.com/95999854"/>
+    <id>https://vimeo.com/95999854</id>
+    <updated>2016-01-15T07:20:39Z</updated>
+    <author>
+      <name>Amy Worrall</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;kvo&quot;&gt;kvo&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;A whirlwind tour through Key Value Coding (KVC), Key Value Observing (KVO), and Cocoa Bindings. Amy will explain what these technologies can do, when to use them, what their limitations are, and some tricks to work around common pitfalls. KVO has had a lot of bad press recently, but when used properly it can help you separate concerns and reduce the number of lines of code required for common operations.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;95999854&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Here&#x27;s To The Crazy Ones</title>
     <link rel="alternate" href="https://vimeo.com/124349469"/>
     <id>https://vimeo.com/124349469</id>
-    <updated>2016-01-14T15:30:48Z</updated>
+    <updated>2016-01-15T07:20:39Z</updated>
     <author>
       <name>Amy Worrall</name>
     </author>

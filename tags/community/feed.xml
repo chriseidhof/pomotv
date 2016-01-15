@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>community</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/community"/>
+  <link href="http://www.pomo.tv/tags/community/feed.xml" rel="self"/>
+  <updated>2016-01-15T07:20:48Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Tips and tricks for recording your meetup presentations</title>
+    <link rel="alternate" href="https://vimeo.com/96107143"/>
+    <id>https://vimeo.com/96107143</id>
+    <updated>2016-01-15T07:20:48Z</updated>
+    <author>
+      <name>Sean Woodhouse</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;community&quot;&gt;community&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Today there are thousands of iOS and Mac developers meeting up and presenting awesome content all around the world. In this talk Sean will offer some helpful tips on recording, editing and publishing your meetup presentations for everyone to enjoy.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96107143&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Building App Communities</title>
+    <link rel="alternate" href="https://vimeo.com/97513761"/>
+    <id>https://vimeo.com/97513761</id>
+    <updated>2016-01-15T07:20:48Z</updated>
+    <author>
+      <name>Steve Scott (Scotty)</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;community&quot;&gt;community&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Community is powerful. It creates ownership, advocacy and loyalty. Scotty looks at what it makes community work and how developers can get these forces to work for them by building community around their products.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97513761&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>David Smith</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/david-smith"/>
+  <link href="http://www.pomo.tv/speakers/david-smith/feed.xml" rel="self"/>
+  <updated>2016-01-15T07:20:47Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>While Nobody is Looking</title>
+    <link rel="alternate" href="https://vimeo.com/96086552"/>
+    <id>https://vimeo.com/96086552</id>
+    <updated>2016-01-15T07:20:47Z</updated>
+    <author>
+      <name>David Smith</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;There is a natural pull towards focussing on the visual design of an application. Your choice of color, typography and structure all directly impact how your user will experience your app. But what happens when your user isn’t looking? Designing applications for use by increasingly distracted users requires thinking about your customer from a completely different perspective. Building on lessons learned from years of building audio focused applications these are some guides for ensuring your design is usable in ANY context.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96086552&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

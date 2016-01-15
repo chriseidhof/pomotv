@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/michael-lopp"/>
   <link href="http://www.pomo.tv/speakers/michael-lopp/feed.xml" rel="self"/>
-  <updated>2016-01-14T15:30:49Z</updated>
+  <updated>2016-01-15T07:20:40Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>The Engineer, The Designer, and the Dictator</title>
+    <link rel="alternate" href="https://vimeo.com/97507451"/>
+    <id>https://vimeo.com/97507451</id>
+    <updated>2016-01-15T07:20:40Z</updated>
+    <author>
+      <name>Michael Lopp</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;career&quot;&gt;career&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;During the course of your career, it is likely you will have an undeniable urge to build a thing. It is equally likely that while you are well-intentioned, you are horrifically bad at a skill that is essential to successful thing building. In this talk, Michael Lopp will discuss ideal team construction in a presentation called “The Engineer, The Designer, and the Dictator”&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97507451&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Stables and Volatiles</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ztmUUkuVWjk"/>
     <id>https://www.youtube.com/watch?v=ztmUUkuVWjk</id>
-    <updated>2016-01-14T15:30:49Z</updated>
+    <updated>2016-01-15T07:20:40Z</updated>
     <author>
       <name>Michael Lopp</name>
     </author>
