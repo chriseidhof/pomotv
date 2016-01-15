@@ -26,6 +26,10 @@
   edition: February 2014
   url: http://www.meetup.com/NSLondon/events/167138752/
   date: February 27, 2014
+- event: NSConference
+  edition: 2014
+  url: https://vimeo.com/channels/nsconf6
+  date: March 17-19, 2014
 - event: NSLondon
   edition: April 2014
   url: http://www.meetup.com/NSLondon/events/178184972/
@@ -202,7 +206,3 @@
   edition: 2015
   url: http://2015.funswiftconf.com
   date: December 12, 2015
-- event: NSConference
-  edition: 2014
-  url: https://vimeo.com/channels/nsconf6
-  date: March 17-19, 2014
