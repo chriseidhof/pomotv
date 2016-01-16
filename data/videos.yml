@@ -3241,7 +3241,7 @@ NSLondon May 2015:
   - language: English
     speakers: [Honza Dvorsky]
     title: Continuous Integration on the Edge
-    tags: [continuous integration]
+    tags: [continuous integration, xcode server, buildasaur]
     vimeo: 133130698
 NSLondon August 2015:
   - language: English
