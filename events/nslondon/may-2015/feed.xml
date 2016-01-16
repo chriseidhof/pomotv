@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/nslondon/may-2015"/>
   <link href="http://www.pomo.tv/events/nslondon/may-2015/feed.xml" rel="self"/>
-  <updated>2016-01-15T17:00:27Z</updated>
+  <updated>2016-01-16T10:15:41Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Continuous Integration on the Edge</title>
     <link rel="alternate" href="https://vimeo.com/133130698"/>
     <id>https://vimeo.com/133130698</id>
-    <updated>2016-01-15T17:00:27Z</updated>
+    <updated>2016-01-16T10:15:41Z</updated>
     <author>
       <name>Honza Dvorsky</name>
     </author>
@@ -22,6 +22,8 @@
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;continuous-integration&quot;&gt;continuous integration&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;xcode-server&quot;&gt;xcode server&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;buildasaur&quot;&gt;buildasaur&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;133130698&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
