@@ -1615,7 +1615,7 @@ NSConference 2015:
   - language: English
     speakers: [Marcin Krzyżanowski]
     title: "CryptoSwift: Cryptography You Can Do"
-    tags: []
+    tags: [cryptography, security, swift]
     youtube: VGDVA5KxVmk
     direct-link: "https://realm.io/news/swift-summit-marcin-krzyzanowski-cryptoswift-cryptography/"
   - language: English
@@ -3451,3 +3451,10 @@ CocoaHeadsNL October 2015:
     description: In this talk, we'll look at Swift's interoperability with C, and how to wrap C functions in a way that feels native to Swift.
     tags: [swift,c,interoperability]
     vimeo: 142850815
+Mobile Warsaw June 2015:
+  - language: English
+    speakers: [Marcin Krzyżanowski]
+    title: Crypto? Been there, done that
+    description: Implementing OpenPGP and cryptography on iOS.
+    tags: [openpgp, cryptography, swift, security]
+    youtube: FWHADBbn4Kc
