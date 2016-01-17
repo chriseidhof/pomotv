@@ -5,23 +5,50 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/marcin-krzyzanowski"/>
   <link href="http://www.pomo.tv/speakers/marcin-krzyzanowski/feed.xml" rel="self"/>
-  <updated>2016-01-16T10:15:45Z</updated>
+  <updated>2016-01-17T09:51:42Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Crypto? Been there, done that</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=FWHADBbn4Kc"/>
+    <id>https://www.youtube.com/watch?v=FWHADBbn4Kc</id>
+    <updated>2016-01-17T09:51:42Z</updated>
+    <author>
+      <name>Marcin Krzyżanowski</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;openpgp&quot;&gt;openpgp&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;cryptography&quot;&gt;cryptography&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;security&quot;&gt;security&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Implementing OpenPGP and cryptography on iOS.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;FWHADBbn4Kc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>CryptoSwift: Cryptography You Can Do</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-marcin-krzyzanowski-cryptoswift-cryptography/"/>
     <id>https://realm.io/news/swift-summit-marcin-krzyzanowski-cryptoswift-cryptography/</id>
-    <updated>2016-01-16T10:15:45Z</updated>
+    <updated>2016-01-17T09:51:42Z</updated>
     <author>
       <name>Marcin Krzyżanowski</name>
     </author>
     <content type="text/html">
         &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;swift-summit-marcin-krzyzanowski-cryptoswift-cryptography&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;swift-summit-marcin-krzyzanowski-cryptoswift-cryptography&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
 &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;cryptography&quot;&gt;cryptography&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;security&quot;&gt;security&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;VGDVA5KxVmk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;

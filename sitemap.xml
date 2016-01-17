@@ -130,6 +130,9 @@
     <loc>http://www.pomo.tv/events/wwdc/2015/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/june-2015/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/cocoaheads-stockholm/august-2015/</loc>
   </url>
   <url>
@@ -1846,6 +1849,9 @@
     <loc>http://www.pomo.tv/tags/cross-platform/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/cryptography/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/culture/</loc>
   </url>
   <url>
@@ -2099,6 +2105,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/opengl/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/openpgp/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/operators/</loc>
@@ -4133,5 +4142,8 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/cocoaheads-nl/october-2015/chris-eidhof-swift-c-interoperability.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/june-2015/marcin-krzyzanowski-crypto-been-there-done-that.html</loc>
   </url>
 </urlset>
