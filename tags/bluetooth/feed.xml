@@ -5,16 +5,36 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/bluetooth"/>
   <link href="http://www.pomo.tv/tags/bluetooth/feed.xml" rel="self"/>
-  <updated>2016-01-17T09:51:50Z</updated>
+  <updated>2016-01-18T12:53:55Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Conquering CoreBluetooth, a Survival Guide</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=DWROaUFvOWc"/>
+    <id>https://www.youtube.com/watch?v=DWROaUFvOWc</id>
+    <updated>2016-01-18T12:53:55Z</updated>
+    <author>
+      <name>Dan Federman</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;bluetooth&quot;&gt;bluetooth&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;DWROaUFvOWc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Software interactions with the real world</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=-fb4bIkniq8"/>
     <id>https://www.youtube.com/watch?v=-fb4bIkniq8</id>
-    <updated>2016-01-17T09:51:50Z</updated>
+    <updated>2016-01-18T12:53:55Z</updated>
     <author>
       <name>Joris Kluivers</name>
     </author>

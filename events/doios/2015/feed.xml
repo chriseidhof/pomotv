@@ -5,16 +5,119 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/doios/2015"/>
   <link href="http://www.pomo.tv/events/doios/2015/feed.xml" rel="self"/>
-  <updated>2016-01-17T09:51:41Z</updated>
+  <updated>2016-01-18T12:53:45Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Topcoder: The Anatomy of a Challenge</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=2ktBxsDryvg"/>
+    <id>https://www.youtube.com/watch?v=2ktBxsDryvg</id>
+    <updated>2016-01-18T12:53:45Z</updated>
+    <author>
+      <name>Katy Price</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;marketing&quot;&gt;marketing&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;2ktBxsDryvg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>tvOS Perks and Pitfalls</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=1KPQHDCAh0c"/>
+    <id>https://www.youtube.com/watch?v=1KPQHDCAh0c</id>
+    <updated>2016-01-18T12:53:45Z</updated>
+    <author>
+      <name>Axel Roest</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;tvos&quot;&gt;tvOS&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;1KPQHDCAh0c&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>The Parse SDK: What&#x27;s inside?</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=q-Dwu7zHIWk"/>
+    <id>https://www.youtube.com/watch?v=q-Dwu7zHIWk</id>
+    <updated>2016-01-18T12:53:45Z</updated>
+    <author>
+      <name>Nikita Lutsenko</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;architecture&quot;&gt;architecture&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;objective-c&quot;&gt;objective-c&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;q-Dwu7zHIWk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Conquering CoreBluetooth, a Survival Guide</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=DWROaUFvOWc"/>
+    <id>https://www.youtube.com/watch?v=DWROaUFvOWc</id>
+    <updated>2016-01-18T12:53:45Z</updated>
+    <author>
+      <name>Dan Federman</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;bluetooth&quot;&gt;bluetooth&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;DWROaUFvOWc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Apple&#x27;s Next Big Language</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=ZUlRPs9ztRY"/>
+    <id>https://www.youtube.com/watch?v=ZUlRPs9ztRY</id>
+    <updated>2016-01-18T12:53:45Z</updated>
+    <author>
+      <name>Daniel Jalkut</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;assembly&quot;&gt;assembly&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;ZUlRPs9ztRY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Future prooving your iOS apps</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=N5xLQGqmvhQ"/>
     <id>https://www.youtube.com/watch?v=N5xLQGqmvhQ</id>
-    <updated>2016-01-17T09:51:40Z</updated>
+    <updated>2016-01-18T12:53:45Z</updated>
     <author>
       <name>Pim Stolk</name>
     </author>
@@ -34,7 +137,7 @@
     <title>Data protection for mobile client-server architectures</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=zKvt0fv_mkc"/>
     <id>https://www.youtube.com/watch?v=zKvt0fv_mkc</id>
-    <updated>2016-01-17T09:51:40Z</updated>
+    <updated>2016-01-18T12:53:45Z</updated>
     <author>
       <name>Anastasiia Voitova</name>
     </author>
