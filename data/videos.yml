@@ -2753,6 +2753,31 @@ CocoaHeads Stockholm November 2015:
     title: Future prooving your iOS apps
     tags: [architecture]
     youtube: N5xLQGqmvhQ
+  - language: English
+    speakers: [Daniel Jalkut]
+    title: "Apple's Next Big Language"
+    tags: [assembly, swift]
+    youtube: ZUlRPs9ztRY
+  - language: English
+    speakers: [Dan Federman]
+    title: Conquering CoreBluetooth, a Survival Guide
+    tags: [bluetooth]
+    youtube: DWROaUFvOWc
+  - language: English
+    speakers: [Nikita Lutsenko]
+    title: "The Parse SDK: What's inside?"
+    tags: [architecture, objective-c]
+    youtube: "q-Dwu7zHIWk"
+  - language: English
+    speakers: [Axel Roest]
+    title: tvOS Perks and Pitfalls
+    tags: [tvOS]
+    youtube: 1KPQHDCAh0c
+  - language: English
+    speakers: [Katy Price]
+    title: "Topcoder: The Anatomy of a Challenge"
+    tags: [business, marketing]
+    youtube: 2ktBxsDryvg
 CocoaHeads Stockholm October 2015:
   - language: English
     speakers: [Pedro Mancheno]
