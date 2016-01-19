@@ -181,6 +181,9 @@
     <loc>http://www.pomo.tv/events/funswift/2015/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/cocoaheads-nl/january-2016/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/speakers/chris-eidhof/</loc>
   </url>
   <url>
@@ -1696,6 +1699,12 @@
     <loc>http://www.pomo.tv/speakers/katy-price/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/tom-lokhorst/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/niels-van-hoorn/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
@@ -1811,6 +1820,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/cocoapods/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/code-generation/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/code-quality/</loc>
@@ -2041,6 +2053,9 @@
     <loc>http://www.pomo.tv/tags/itunesconnect/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/json/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/keyboards/</loc>
   </url>
   <url>
@@ -2063,6 +2078,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/lenses/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/live-coding/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/lldb/</loc>
@@ -4175,5 +4193,11 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/mobile-warsaw/june-2015/marcin-krzyzanowski-crypto-been-there-done-that.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/cocoaheads-nl/january-2016/tom-lokhorst-swift-jsongen-a-code-generator.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/cocoaheads-nl/january-2016/niels-van-hoorn-protocol-oriented-datasources.html</loc>
   </url>
 </urlset>

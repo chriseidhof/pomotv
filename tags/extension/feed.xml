@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/extension"/>
   <link href="http://www.pomo.tv/tags/extension/feed.xml" rel="self"/>
-  <updated>2016-01-18T12:53:56Z</updated>
+  <updated>2016-01-19T05:52:49Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>App Extension Best Practices</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-224"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-224</id>
-    <updated>2016-01-18T12:53:56Z</updated>
+    <updated>2016-01-19T05:52:49Z</updated>
     <author>
       <name>Sophia Teutschler</name>
     </author>

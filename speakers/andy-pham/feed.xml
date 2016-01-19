@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/andy-pham"/>
   <link href="http://www.pomo.tv/speakers/andy-pham/feed.xml" rel="self"/>
-  <updated>2016-01-18T12:53:52Z</updated>
+  <updated>2016-01-19T05:52:45Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Motion Tracking with the Core Motion Framework</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-612"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-612</id>
-    <updated>2016-01-18T12:53:52Z</updated>
+    <updated>2016-01-19T05:52:45Z</updated>
     <author>
       <name>Andy Pham</name>
     </author>
