@@ -1,0 +1,25 @@
+---
+layout: atom
+name: Feed used to post to Twitter @pomo_tv
+---
+<% data.videos.values.flatten.reverse.take(25).each do |video| %>
+  <%
+    speakers = video.speakers.map do |speaker|
+      twitter = data.speakers[speaker].twitter
+      twitter ? "@#{twitter}" : speaker
+    end
+    allSpeakers = speakers.join(", ")
+  %>
+  <entry>
+    <title><%=h video.title %></title>
+    <link rel="alternate" href="<%= video_url(video) %>"/>
+    <id><%= video_url(video) %></id>
+    <updated><%= Time.now.utc.iso8601 %></updated>
+    <content type="text/plain">
+<%=h video.title %> - <%=h allSpeakers %>
+<% if video['description'] %>
+<%=h video['description'] %>
+<% end %>
+    </content>
+  </entry>
+<% end %>
