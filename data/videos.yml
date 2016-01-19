@@ -2778,6 +2778,26 @@ CocoaHeads Stockholm November 2015:
     title: "Topcoder: The Anatomy of a Challenge"
     tags: [business, marketing]
     youtube: 2ktBxsDryvg
+  - language: English
+    speakers: [Natasha Murashev]
+    title: "Protocol Oriented MVVM"
+    tags: [MVVM, swift]
+    youtube: cGWBpra3YMc
+  - language: English
+    speakers: [Daniel Steinberg]
+    title: "Ready for the future"
+    tags: [programming language, swift]
+    youtube: vPoXUZTMxNs
+  - language: English
+    speakers: [Robert van Loghem]
+    title: "Let your designer tweak and deploy your appto his/hers heart content!"
+    tags: [integration, devops]
+    youtube: WhAF_0Y6MEI
+  - language: English
+    speakers: [Marin Todorov]
+    title: "Power up your animations"
+    tags: [animation]
+    youtube: WP-gZi1byDI
 CocoaHeads Stockholm October 2015:
   - language: English
     speakers: [Pedro Mancheno]
