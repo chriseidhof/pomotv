@@ -5,16 +5,16 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/integration"/>
   <link href="http://www.pomo.tv/tags/integration/feed.xml" rel="self"/>
-  <updated>2016-01-19T09:41:31Z</updated>
+  <updated>2016-01-19T10:42:33Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>Let your designer tweak and deploy your appto his&#x2F;hers heart content!</title>
+    <title>Let your designer tweak and deploy your app to his&#x2F;hers heart content!</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=WhAF_0Y6MEI"/>
     <id>https://www.youtube.com/watch?v=WhAF_0Y6MEI</id>
-    <updated>2016-01-19T09:41:31Z</updated>
+    <updated>2016-01-19T10:42:33Z</updated>
     <author>
       <name>Robert van Loghem</name>
     </author>
@@ -35,7 +35,7 @@
     <title>Tooling in Swift - Xcode Integration &amp; CI</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=LvV1W3BcB0o"/>
     <id>https://www.youtube.com/watch?v=LvV1W3BcB0o</id>
-    <updated>2016-01-19T09:41:31Z</updated>
+    <updated>2016-01-19T10:42:33Z</updated>
     <author>
       <name>Stan Chang</name>
     </author>

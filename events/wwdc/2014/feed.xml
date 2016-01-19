@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/wwdc/2014"/>
   <link href="http://www.pomo.tv/events/wwdc/2014/feed.xml" rel="self"/>
-  <updated>2016-01-19T09:41:10Z</updated>
+  <updated>2016-01-19T10:42:13Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Adopting AirPrint</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-718"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-718</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Howard Miller</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Kids and Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-717"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-717</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Chris Espinosa</name>
     </author>
@@ -54,7 +54,7 @@
     <title>Power, Performance and Diagnostics: What&#x27;s new in GCD and XPC</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-716"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-716</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Daniel Steffen</name>
     </author>
@@ -74,7 +74,7 @@
     <title>User Privacy in iOS and OS X</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-715"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-715</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>David Stites</name>
     </author>
@@ -97,7 +97,7 @@
     <title>Fix Bugs Faster using Activity Tracing</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-714"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-714</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Eric Clements</name>
     </author>
@@ -117,7 +117,7 @@
     <title>What&#x27;s New in iOS Notifications</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-713"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-713</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Rhett Dickson</name>
     </author>
@@ -140,7 +140,7 @@
     <title>Writing Energy Efficient Code, Part 2</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-712"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-712</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Albert Liu</name>
     </author>
@@ -160,7 +160,7 @@
     <title>Keychain and Authentication with Touch ID</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-711"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-711</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Wade Benson</name>
     </author>
@@ -183,7 +183,7 @@
     <title>Writing Energy Efficient Code, Part 1</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-710"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-710</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Anthony Chivetta</name>
     </author>
@@ -203,7 +203,7 @@
     <title>Cross Platform Nearby Networking</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-709"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-709</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Demijan Klinc</name>
     </author>
@@ -223,7 +223,7 @@
     <title>Taking Core Location Indoors</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-708"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-708</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Nav Patel</name>
     </author>
@@ -243,7 +243,7 @@
     <title>What&#x27;s New in Foundation Networking</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-707"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-707</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Steve Algernon</name>
     </author>
@@ -263,7 +263,7 @@
     <title>What&#x27;s New in Core Location</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-706"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-706</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Stephen Rhee</name>
     </author>
@@ -283,7 +283,7 @@
     <title>Distributing Enterprise Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-705"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-705</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Dave Rahardja</name>
     </author>
@@ -303,7 +303,7 @@
     <title>Building Apps for Enterprise and Education</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-704"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-704</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Dave Rahardja</name>
     </author>
@@ -326,7 +326,7 @@
     <title>What&#x27;s New in the Accelerate Framework</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-703"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-703</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Geoff Belter</name>
     </author>
@@ -346,7 +346,7 @@
     <title>Managing Apple Devices</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-702"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-702</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Todd Fernandez</name>
     </author>
@@ -366,7 +366,7 @@
     <title>Designing Accessories for iOS and OS X</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-701"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-701</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Robert Walsh</name>
     </author>
@@ -386,7 +386,7 @@
     <title>Motion Tracking with the Core Motion Framework</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-612"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-612</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Andy Pham</name>
     </author>
@@ -409,7 +409,7 @@
     <title>Designing for Game Controllers</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-611"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-611</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>JJ Cwik</name>
     </author>
@@ -429,7 +429,7 @@
     <title>Building a Game with SceneKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-610"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-610</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Amaury Balliet</name>
     </author>
@@ -449,7 +449,7 @@
     <title>What&#x27;s New in SceneKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-609"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-609</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Thomas Goossens</name>
     </author>
@@ -469,7 +469,7 @@
     <title>Best Practices for Building SpriteKit Games</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-608"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-608</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Jacques Gasselin de Richebourg</name>
     </author>
@@ -492,7 +492,7 @@
     <title>What&#x27;s New in SpriteKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-606"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-606</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Norman Wang</name>
     </author>
@@ -512,7 +512,7 @@
     <title>Working with Metal: Advanced</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-605"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-605</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Gokhan Avkarogullari</name>
     </author>
@@ -538,7 +538,7 @@
     <title>Working with Metal: Fundamentals</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-604"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-604</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Richard Schreyer</name>
     </author>
@@ -561,7 +561,7 @@
     <title>Working with Metal: Overview</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-603"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-603</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Jeremy Sandmel</name>
     </author>
@@ -581,7 +581,7 @@
     <title>Ingredients of Great Games</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-602"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-602</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Geoff Stahl</name>
     </author>
@@ -601,7 +601,7 @@
     <title>Harnessing the Power of the Mac Pro with OpenGL and OpenCL</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-601"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-601</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Abe Stephens</name>
     </author>
@@ -621,7 +621,7 @@
     <title>Designing Responsive Web Experiences</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-517"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-517</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Casey Dougherty</name>
     </author>
@@ -644,7 +644,7 @@
     <title>Improving the Accessibility and Usability of Complex Web Applications</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-516"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-516</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Jesse Bunch</name>
     </author>
@@ -664,7 +664,7 @@
     <title>Developing Core Image Filters for iOS</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-515"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-515</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Alexandre Naaman</name>
     </author>
@@ -687,7 +687,7 @@
     <title>Advances in Core Image</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-514"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-514</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>David Hayward</name>
     </author>
@@ -707,7 +707,7 @@
     <title>Direct Access to Video Encoding and Decoding</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-513"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-513</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>David Eldred</name>
     </author>
@@ -727,7 +727,7 @@
     <title>Web Inspector and Modern JavaScript</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-512"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-512</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Timothy Hatcher</name>
     </author>
@@ -747,7 +747,7 @@
     <title>Introducing the Photos Frameworks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-511"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-511</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Adam Swift</name>
     </author>
@@ -767,7 +767,7 @@
     <title>What&#x27;s New in iAd Workbench</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-510"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-510</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Paresh Rajwat</name>
     </author>
@@ -790,7 +790,7 @@
     <title>Creating 3D Interactive Content with WebGL</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-509"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-509</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Dean Jackson</name>
     </author>
@@ -813,7 +813,7 @@
     <title>Camera Capture: Manual Controls</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-508"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-508</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Brad Ford</name>
     </author>
@@ -833,7 +833,7 @@
     <title>Your App, Your Website, and Safari</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-506"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-506</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Ricky Mondello</name>
     </author>
@@ -853,7 +853,7 @@
     <title>Harnessing Metadata in Audiovisual Media</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-505"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-505</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Adam Sonnanstine</name>
     </author>
@@ -873,7 +873,7 @@
     <title>Advanced Media for the Web</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-504"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-504</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Jer Noble</name>
     </author>
@@ -893,7 +893,7 @@
     <title>Mastering Modern Media Playback</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-503"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-503</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Stefan Hafeneger</name>
     </author>
@@ -913,7 +913,7 @@
     <title>AVAudioEngine in Practice</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-502"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-502</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Kapil Krishnamurthy</name>
     </author>
@@ -933,7 +933,7 @@
     <title>What&#x27;s New in Core Audio</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-501"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-501</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Torrey Holbrook Walker</name>
     </author>
@@ -953,7 +953,7 @@
     <title>Advanced Graphics and Animations for iOS Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-419"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-419</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Axel Wefers</name>
     </author>
@@ -976,7 +976,7 @@
     <title>Improving Your App with Instruments</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-418"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-418</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Daniel Delwood</name>
     </author>
@@ -996,7 +996,7 @@
     <title>What&#x27;s New in LLVM</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-417"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-417</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Jim Grosbach</name>
     </author>
@@ -1016,7 +1016,7 @@
     <title>Building Modern Frameworks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-416"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-416</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Chris Parker</name>
     </author>
@@ -1036,7 +1036,7 @@
     <title>Continuous Integration with Xcode 6</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-415"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-415</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Brent Shank</name>
     </author>
@@ -1056,7 +1056,7 @@
     <title>Testing in Xcode 6</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-414"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-414</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Brooke Callahan</name>
     </author>
@@ -1079,7 +1079,7 @@
     <title>Debugging in Xcode 6</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-413"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-413</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Han Ming Ong</name>
     </author>
@@ -1099,7 +1099,7 @@
     <title>Localizing with Xcode 6</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-412"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-412</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Zoltan Foley-Fisher</name>
     </author>
@@ -1122,7 +1122,7 @@
     <title>What&#x27;s New in Interface Builder</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-411"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-411</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Kevin Cathey</name>
     </author>
@@ -1142,7 +1142,7 @@
     <title>Advanced Swift Debugging in LLDB</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-410"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-410</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Enrico Granata</name>
     </author>
@@ -1162,7 +1162,7 @@
     <title>Introduction to LLDB and the Swift REPL</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-409"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-409</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Sean Callanan</name>
     </author>
@@ -1182,7 +1182,7 @@
     <title>Swift Playgrounds</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-408"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-408</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Rick Ballard</name>
     </author>
@@ -1205,7 +1205,7 @@
     <title>Swift Interoperability In Depth</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-407"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-407</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Doug Gregor</name>
     </author>
@@ -1225,7 +1225,7 @@
     <title>Integrating Swift with Objective-C</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-406"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-406</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Anders Bertelrud</name>
     </author>
@@ -1251,7 +1251,7 @@
     <title>Advanced Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-404"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-404</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>John McCall</name>
     </author>
@@ -1274,7 +1274,7 @@
     <title>Intermediate Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-403"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-403</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Brian Lanier</name>
     </author>
@@ -1297,7 +1297,7 @@
     <title>Introduction to Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-402"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-402</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Tim Isted</name>
     </author>
@@ -1320,7 +1320,7 @@
     <title>What&#x27;s New in Xcode 6</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-401"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-401</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Mike Ferris</name>
     </author>
@@ -1340,7 +1340,7 @@
     <title>JavaScript for Automation</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-306"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-306</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Sal Soghoian</name>
     </author>
@@ -1360,7 +1360,7 @@
     <title>Preventing Unauthorized Purchases with Receipts</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-305"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-305</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>James Wilson</name>
     </author>
@@ -1380,7 +1380,7 @@
     <title>Creating Great App Previews</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-304"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-304</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Paul Turner</name>
     </author>
@@ -1400,7 +1400,7 @@
     <title>Optimizing In-App Purchases</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-303"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-303</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>James Wilson</name>
     </author>
@@ -1420,7 +1420,7 @@
     <title>The New iTunes Connect</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-302"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-302</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Dave Van Tassell</name>
     </author>
@@ -1440,7 +1440,7 @@
     <title>Affiliate Tools for App Developers</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-301"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-301</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Mark Miller</name>
     </author>
@@ -1460,7 +1460,7 @@
     <title>A Strategy for Great Work</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-237"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-237</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Ken Kocienda</name>
     </author>
@@ -1480,7 +1480,7 @@
     <title>Building Interruptible and Responsive Interactions</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-236"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-236</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Josh Shaffer</name>
     </author>
@@ -1503,7 +1503,7 @@
     <title>Advanced Scrollviews and Touch Handling Techniques</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-235"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-235</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Josh Shaffer</name>
     </author>
@@ -1526,7 +1526,7 @@
     <title>Building a Document-based App</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-234"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-234</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Mike Hess</name>
     </author>
@@ -1549,7 +1549,7 @@
     <title>Sharing code between iOS and OS X</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-233"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-233</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Elizabeth Reid</name>
     </author>
@@ -1572,7 +1572,7 @@
     <title>Advanced User Interfaces with Collection Views</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-232"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-232</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Jeff Watkins</name>
     </author>
@@ -1592,7 +1592,7 @@
     <title>Advanced CloudKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-231"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-231</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Jacob Farkas</name>
     </author>
@@ -1612,7 +1612,7 @@
     <title>Making a Great First Impression With Strong Onboarding Design</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-230"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-230</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>John Cavanaugh</name>
     </author>
@@ -1635,7 +1635,7 @@
     <title>Advanced iOS Application Architecture and Patterns</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-229"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-229</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Andy Matuschak</name>
     </author>
@@ -1658,7 +1658,7 @@
     <title>A Look Inside Presentation Controllers</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-228"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-228</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Peter Hajas</name>
     </author>
@@ -1681,7 +1681,7 @@
     <title>Creating Modern Cocoa Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-227"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-227</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Tony Parker</name>
     </author>
@@ -1701,7 +1701,7 @@
     <title>What&#x27;s New in Table and Collection Views</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-226"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-226</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Luke Hiesterman</name>
     </author>
@@ -1724,7 +1724,7 @@
     <title>What&#x27;s New in Core Data</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-225"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-225</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Melissa Turner</name>
     </author>
@@ -1744,7 +1744,7 @@
     <title>Core iOS Application Architectural Patterns</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-224"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-224</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Bill Dudney</name>
     </author>
@@ -1764,7 +1764,7 @@
     <title>Prototyping: Fake It Till You Make It</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-223"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-223</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Jeffrey Traer Bernstein</name>
     </author>
@@ -1793,7 +1793,7 @@
     <title>Optimize Your Earning Power With iAd</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-222"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-222</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>David Wilson</name>
     </author>
@@ -1813,7 +1813,7 @@
     <title>Creating Custom iOS User Interfaces</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-221"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-221</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Brandon Newendorp</name>
     </author>
@@ -1833,7 +1833,7 @@
     <title>Adopting Advanced Features of the New UI of OS X Yosemite</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-220"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-220</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Chris Dreessen</name>
     </author>
@@ -1856,7 +1856,7 @@
     <title>Adopting Handoff on iOS and OS X</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-219"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-219</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Michael Jurewitz</name>
     </author>
@@ -1882,7 +1882,7 @@
     <title>Designing a Great In-App Purchase Experience</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-218"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-218</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Rachel Roth</name>
     </author>
@@ -1902,7 +1902,7 @@
     <title>Creating Extensions for iOS and OS X, Part 2</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-217"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-217</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Damien Sorresso</name>
     </author>
@@ -1922,7 +1922,7 @@
     <title>Building Adaptive Apps with UIKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-216"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-216</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Jacob Xiao</name>
     </author>
@@ -1942,7 +1942,7 @@
     <title>View Controller Advancements in iOS 8</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-214"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-214</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Bruce D. Nilo</name>
     </author>
@@ -1962,7 +1962,7 @@
     <title>Introducing HomeKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-213"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-213</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Kevin McLaughlin</name>
     </author>
@@ -1982,7 +1982,7 @@
     <title>Storyboards and Controllers on OS X</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-212"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-212</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Mike Swingler</name>
     </author>
@@ -2005,7 +2005,7 @@
     <title>Designing Intuitive User Experiences</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-211"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-211</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Mike Stern</name>
     </author>
@@ -2025,7 +2025,7 @@
     <title>Accessibility on iOS</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-210"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-210</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Clare Kasemset</name>
     </author>
@@ -2045,7 +2045,7 @@
     <title>Adapting Your App to the New UI of OS X Yosemite</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-209"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-209</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Patrick Heynen</name>
     </author>
@@ -2065,7 +2065,7 @@
     <title>Introducing CloudKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-208"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-208</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Olivier Bonnet</name>
     </author>
@@ -2085,7 +2085,7 @@
     <title>Accessibility on OS X</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-207"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-207</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Patti Hoa</name>
     </author>
@@ -2108,7 +2108,7 @@
     <title>Introducing the Modern WebKit API</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-206"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-206</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Anders Carlsson</name>
     </author>
@@ -2131,7 +2131,7 @@
     <title>Creating Extensions for iOS and OS X, Part 1</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-205"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-205</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Ian Baird</name>
     </author>
@@ -2154,7 +2154,7 @@
     <title>What&#x27;s New in Cocoa</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-204"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-204</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Ali Ozer</name>
     </author>
@@ -2174,7 +2174,7 @@
     <title>Introducing HealthKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-203"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-203</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Justin Rushing</name>
     </author>
@@ -2197,7 +2197,7 @@
     <title>What&#x27;s New in Cocoa Touch</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-202"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-202</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Jake Behrens</name>
     </author>
@@ -2217,7 +2217,7 @@
     <title>Advanced Topics in Internationalization</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-201"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-201</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Jake Behrens</name>
     </author>
@@ -2237,7 +2237,7 @@
     <title>Apple Design Awards</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-103"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-103</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Shaan Pruden</name>
     </author>
@@ -2260,7 +2260,7 @@
     <title>Platforms State of the Union</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-102"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-102</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Andreas Wendker</name>
     </author>
@@ -2280,7 +2280,7 @@
     <title>Keynote</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-101"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-101</id>
-    <updated>2016-01-19T09:41:10Z</updated>
+    <updated>2016-01-19T10:42:13Z</updated>
     <author>
       <name>Tim Cook</name>
     </author>
