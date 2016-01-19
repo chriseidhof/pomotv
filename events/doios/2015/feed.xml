@@ -5,16 +5,99 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/doios/2015"/>
   <link href="http://www.pomo.tv/events/doios/2015/feed.xml" rel="self"/>
-  <updated>2016-01-19T05:52:38Z</updated>
+  <updated>2016-01-19T09:41:14Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Power up your animations</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=WP-gZi1byDI"/>
+    <id>https://www.youtube.com/watch?v=WP-gZi1byDI</id>
+    <updated>2016-01-19T09:41:14Z</updated>
+    <author>
+      <name>Marin Todorov</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;animation&quot;&gt;animation&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;WP-gZi1byDI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Let your designer tweak and deploy your appto his&#x2F;hers heart content!</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=WhAF_0Y6MEI"/>
+    <id>https://www.youtube.com/watch?v=WhAF_0Y6MEI</id>
+    <updated>2016-01-19T09:41:14Z</updated>
+    <author>
+      <name>Robert van Loghem</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;integration&quot;&gt;integration&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;devops&quot;&gt;devops&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;WhAF_0Y6MEI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Ready for the future</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=vPoXUZTMxNs"/>
+    <id>https://www.youtube.com/watch?v=vPoXUZTMxNs</id>
+    <updated>2016-01-19T09:41:14Z</updated>
+    <author>
+      <name>Daniel Steinberg</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;programming-language&quot;&gt;programming language&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;vPoXUZTMxNs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Protocol Oriented MVVM</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=cGWBpra3YMc"/>
+    <id>https://www.youtube.com/watch?v=cGWBpra3YMc</id>
+    <updated>2016-01-19T09:41:14Z</updated>
+    <author>
+      <name>Natasha Murashev</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;mvvm&quot;&gt;MVVM&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;cGWBpra3YMc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Topcoder: The Anatomy of a Challenge</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=2ktBxsDryvg"/>
     <id>https://www.youtube.com/watch?v=2ktBxsDryvg</id>
-    <updated>2016-01-19T05:52:38Z</updated>
+    <updated>2016-01-19T09:41:14Z</updated>
     <author>
       <name>Katy Price</name>
     </author>
@@ -35,7 +118,7 @@
     <title>tvOS Perks and Pitfalls</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=1KPQHDCAh0c"/>
     <id>https://www.youtube.com/watch?v=1KPQHDCAh0c</id>
-    <updated>2016-01-19T05:52:38Z</updated>
+    <updated>2016-01-19T09:41:14Z</updated>
     <author>
       <name>Axel Roest</name>
     </author>
@@ -55,7 +138,7 @@
     <title>The Parse SDK: What&#x27;s inside?</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=q-Dwu7zHIWk"/>
     <id>https://www.youtube.com/watch?v=q-Dwu7zHIWk</id>
-    <updated>2016-01-19T05:52:38Z</updated>
+    <updated>2016-01-19T09:41:14Z</updated>
     <author>
       <name>Nikita Lutsenko</name>
     </author>
@@ -76,7 +159,7 @@
     <title>Conquering CoreBluetooth, a Survival Guide</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=DWROaUFvOWc"/>
     <id>https://www.youtube.com/watch?v=DWROaUFvOWc</id>
-    <updated>2016-01-19T05:52:38Z</updated>
+    <updated>2016-01-19T09:41:14Z</updated>
     <author>
       <name>Dan Federman</name>
     </author>
@@ -96,7 +179,7 @@
     <title>Apple&#x27;s Next Big Language</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ZUlRPs9ztRY"/>
     <id>https://www.youtube.com/watch?v=ZUlRPs9ztRY</id>
-    <updated>2016-01-19T05:52:38Z</updated>
+    <updated>2016-01-19T09:41:14Z</updated>
     <author>
       <name>Daniel Jalkut</name>
     </author>
@@ -117,7 +200,7 @@
     <title>Future prooving your iOS apps</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=N5xLQGqmvhQ"/>
     <id>https://www.youtube.com/watch?v=N5xLQGqmvhQ</id>
-    <updated>2016-01-19T05:52:38Z</updated>
+    <updated>2016-01-19T09:41:14Z</updated>
     <author>
       <name>Pim Stolk</name>
     </author>
@@ -137,7 +220,7 @@
     <title>Data protection for mobile client-server architectures</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=zKvt0fv_mkc"/>
     <id>https://www.youtube.com/watch?v=zKvt0fv_mkc</id>
-    <updated>2016-01-19T05:52:38Z</updated>
+    <updated>2016-01-19T09:41:14Z</updated>
     <author>
       <name>Anastasiia Voitova</name>
     </author>

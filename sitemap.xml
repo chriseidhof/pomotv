@@ -1705,6 +1705,9 @@
     <loc>http://www.pomo.tv/speakers/niels-van-hoorn/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/robert-van-loghem/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
@@ -1712,6 +1715,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/gameplaykit/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/mvvm/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/acceptance-testing/</loc>
@@ -2168,6 +2174,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/presentation/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/programming-language/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/promises/</loc>
@@ -3809,6 +3818,18 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/doios/2015/katy-price-topcoder-the-anatomy-of-a-challenge.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/doios/2015/natasha-murashev-protocol-oriented-mvvm.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/doios/2015/daniel-steinberg-ready-for-the-future.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/doios/2015/robert-van-loghem-let-your-designer-tweak-and-deploy-your-appto-his-hers-heart-content.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/doios/2015/marin-todorov-power-up-your-animations.html</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/cocoaheads-stockholm/october-2015/pedro-mancheno-upgrading-to-watchos-2.html</loc>

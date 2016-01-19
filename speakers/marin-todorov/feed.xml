@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/marin-todorov"/>
   <link href="http://www.pomo.tv/speakers/marin-todorov/feed.xml" rel="self"/>
-  <updated>2016-01-19T05:52:38Z</updated>
+  <updated>2016-01-19T09:41:15Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>What’s in for us after the Indiepocalypse?</title>
     <link rel="alternate" href="https://vimeo.com/137559415"/>
     <id>https://vimeo.com/137559415</id>
-    <updated>2016-01-19T05:52:38Z</updated>
+    <updated>2016-01-19T09:41:15Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>
@@ -31,10 +31,30 @@
   </entry>
 
     <entry>
+    <title>Power up your animations</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=WP-gZi1byDI"/>
+    <id>https://www.youtube.com/watch?v=WP-gZi1byDI</id>
+    <updated>2016-01-19T09:41:15Z</updated>
+    <author>
+      <name>Marin Todorov</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;animation&quot;&gt;animation&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;WP-gZi1byDI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>What’s in for us after the Indiepocalypse?</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=95XZUsOm31A"/>
     <id>https://www.youtube.com/watch?v=95XZUsOm31A</id>
-    <updated>2016-01-19T05:52:38Z</updated>
+    <updated>2016-01-19T09:41:15Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>
@@ -53,7 +73,7 @@
     <title>Power Up Your Animations!</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Gh3z6lswj38"/>
     <id>https://www.youtube.com/watch?v=Gh3z6lswj38</id>
-    <updated>2016-01-19T05:52:38Z</updated>
+    <updated>2016-01-19T09:41:15Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>

@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/integration"/>
   <link href="http://www.pomo.tv/tags/integration/feed.xml" rel="self"/>
-  <updated>2016-01-19T05:52:50Z</updated>
+  <updated>2016-01-19T09:41:31Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Let your designer tweak and deploy your appto his&#x2F;hers heart content!</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=WhAF_0Y6MEI"/>
+    <id>https://www.youtube.com/watch?v=WhAF_0Y6MEI</id>
+    <updated>2016-01-19T09:41:31Z</updated>
+    <author>
+      <name>Robert van Loghem</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;integration&quot;&gt;integration&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;devops&quot;&gt;devops&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;WhAF_0Y6MEI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Tooling in Swift - Xcode Integration &amp; CI</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=LvV1W3BcB0o"/>
     <id>https://www.youtube.com/watch?v=LvV1W3BcB0o</id>
-    <updated>2016-01-19T05:52:50Z</updated>
+    <updated>2016-01-19T09:41:31Z</updated>
     <author>
       <name>Stan Chang</name>
     </author>

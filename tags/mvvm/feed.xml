@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>MVVM</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/mvvm"/>
+  <link href="http://www.pomo.tv/tags/mvvm/feed.xml" rel="self"/>
+  <updated>2016-01-19T09:41:25Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Protocol Oriented MVVM</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=cGWBpra3YMc"/>
+    <id>https://www.youtube.com/watch?v=cGWBpra3YMc</id>
+    <updated>2016-01-19T09:41:25Z</updated>
+    <author>
+      <name>Natasha Murashev</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;mvvm&quot;&gt;MVVM&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;cGWBpra3YMc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>
