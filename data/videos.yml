@@ -3483,3 +3483,16 @@ Mobile Warsaw June 2015:
     description: Implementing OpenPGP and cryptography on iOS.
     tags: [openpgp, cryptography, swift, security]
     youtube: FWHADBbn4Kc
+CocoaHeadsNL January 2016:
+  - language: English
+    speakers: [Tom Lokhorst]
+    title: Swift JsonGen, a code generator
+    description: Tom Lokhorst talks about parsing JSON in Swift. Why is this such a problem? What libraries are there to solve this problem? And how he created a code generator to deal with JSON once and for all.
+    tags: [json, code generation]
+    vimeo: 152054122
+  - language: English
+    speakers: [Niels van Hoorn]
+    title: Protocol-Oriented DataSources
+    description: Niels van Hoorn talks about protocol-oriented datasources. Combining James Bond and Swift, Niels does a live coding deep dive into protocols, extensions and type aliases.
+    tags: [protocols, live coding]
+    vimeo: 152193160
