@@ -8,7 +8,7 @@ require 'feed_validator'
 
 class Helpers
   def self.validate_feed(filename)
-    data = File.read("build/recent.xml")
+    data = File.read(filename)
     v = W3C::FeedValidator.new
     raise "Invalid feed" unless v.validate_data(data)
     raise "Invalid feed" unless v.valid
@@ -105,5 +105,6 @@ namespace :lint do
 
   task :feeds => :build do
     Helpers.validate_feed 'build/recent.xml'
+    Helpers.validate_feed 'build/twitterfeed.xml'
   end
 end
