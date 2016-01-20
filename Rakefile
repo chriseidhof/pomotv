@@ -103,7 +103,7 @@ namespace :lint do
     end
   end
 
-  task :feeds do # => :build do
+  task :feeds => :build do
     Helpers.validate_feed 'build/recent.xml'
   end
 end
