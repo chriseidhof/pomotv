@@ -41,6 +41,7 @@ GEM
     erubis (2.7.0)
     eventmachine (1.0.8)
     execjs (2.6.0)
+    feedvalidator (0.2.0)
     ffi (1.9.10)
     haml (4.0.7)
       tilt
@@ -152,6 +153,7 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv
+  feedvalidator
   middleman (~> 3.3.12)
   middleman-blog
   middleman-gh-pages!

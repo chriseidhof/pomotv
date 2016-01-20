@@ -4,8 +4,18 @@ require 'dotenv/tasks'
 require 'yt'
 require 'yaml'
 require 'nokogiri'
+require 'feed_validator'
 
-task :default => [:build, "lint:speakers", "lint:editions"]
+class Helpers
+  def self.validate_feed(filename)
+    data = File.read("build/recent.xml")
+    v = W3C::FeedValidator.new
+    raise "Invalid feed" unless v.validate_data(data)
+    raise "Invalid feed" unless v.valid
+  end
+end
+
+task :default => [:build, "lint:speakers", "lint:editions", "lint:feeds"]
 
 task :fetchyt, [:user] => :dotenv do |t, args|
   url = "https://www.youtube.com/user/#{args[:user]}/"
@@ -91,5 +101,9 @@ namespace :lint do
     unless no_editions.empty?
       raise "Missing entries in data/editions.yml for the following editions: \n#{no_editions.join(", ")}"
     end
+  end
+
+  task :feeds do # => :build do
+    Helpers.validate_feed 'build/recent.xml'
   end
 end

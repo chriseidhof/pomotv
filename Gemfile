@@ -25,3 +25,6 @@ gem 'yt'
 
 # Search with lunr.js
 gem 'middleman-search', '~> 0.5.0'
+
+# Validates the feeds
+gem 'feedvalidator'
