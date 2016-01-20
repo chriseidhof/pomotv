@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/graphics"/>
   <link href="http://www.pomo.tv/tags/graphics/feed.xml" rel="self"/>
-  <updated>2016-01-19T10:42:33Z</updated>
+  <updated>2016-01-20T06:37:14Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Ahead of the curve: Understanding bezier paths</title>
     <link rel="alternate" href="https://vimeo.com/97511944"/>
     <id>https://vimeo.com/97511944</id>
-    <updated>2016-01-19T10:42:33Z</updated>
+    <updated>2016-01-20T06:37:14Z</updated>
     <author>
       <name>Martin Winter</name>
     </author>
@@ -36,7 +36,7 @@
     <title>Designing for @1x - @3x Without Going Crazy</title>
     <link rel="alternate" href="https://vimeo.com/137561771"/>
     <id>https://vimeo.com/137561771</id>
-    <updated>2016-01-19T10:42:33Z</updated>
+    <updated>2016-01-20T06:37:14Z</updated>
     <author>
       <name>Curtis Herbert</name>
     </author>
@@ -58,7 +58,7 @@
     <title>SceneKit, Metal, and OpenGL</title>
     <link rel="alternate" href="https://vimeo.com/137541707"/>
     <id>https://vimeo.com/137541707</id>
-    <updated>2016-01-19T10:42:33Z</updated>
+    <updated>2016-01-20T06:37:14Z</updated>
     <author>
       <name>Jonathan Blocksom</name>
     </author>
@@ -81,7 +81,7 @@
     <title>Metal Performance Optimization Techniques</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-610"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-610</id>
-    <updated>2016-01-19T10:42:33Z</updated>
+    <updated>2016-01-20T06:37:14Z</updated>
     <author>
       <name>Phil Bennett</name>
     </author>
@@ -101,7 +101,7 @@
     <title>Deeper into GameplayKit with DemoBots</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-609"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-609</id>
-    <updated>2016-01-19T10:42:33Z</updated>
+    <updated>2016-01-20T06:37:14Z</updated>
     <author>
       <name>Dave Addey</name>
     </author>
@@ -121,7 +121,7 @@
     <title>Introducing GameplayKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-608"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-608</id>
-    <updated>2016-01-19T10:42:33Z</updated>
+    <updated>2016-01-20T06:37:14Z</updated>
     <author>
       <name>Bruno Sommer</name>
     </author>
@@ -141,7 +141,7 @@
     <title>What&#x27;s New in Metal, Part 2</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-607"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-607</id>
-    <updated>2016-01-19T10:42:33Z</updated>
+    <updated>2016-01-20T06:37:14Z</updated>
     <author>
       <name>Dan Omachi</name>
     </author>
@@ -164,7 +164,7 @@
     <title>Enhancements to SceneKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-606"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-606</id>
-    <updated>2016-01-19T10:42:33Z</updated>
+    <updated>2016-01-20T06:37:14Z</updated>
     <author>
       <name>Thomas Goossens</name>
     </author>
@@ -185,7 +185,7 @@
     <title>Going Social with ReplayKit and Game Center</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-605"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-605</id>
-    <updated>2016-01-19T10:42:33Z</updated>
+    <updated>2016-01-20T06:37:14Z</updated>
     <author>
       <name>Megan Gardner</name>
     </author>
@@ -206,7 +206,7 @@
     <title>What&#x27;s New in SpriteKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-604"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-604</id>
-    <updated>2016-01-19T10:42:33Z</updated>
+    <updated>2016-01-20T06:37:14Z</updated>
     <author>
       <name>Tim Oriol</name>
     </author>
@@ -227,7 +227,7 @@
     <title>What&#x27;s New in Metal, Part 1</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-603"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-603</id>
-    <updated>2016-01-19T10:42:33Z</updated>
+    <updated>2016-01-20T06:37:14Z</updated>
     <author>
       <name>Rav Dhiraj</name>
     </author>
@@ -248,7 +248,7 @@
     <title>Managing 3D Assets with Model I&#x2F;O</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-602"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-602</id>
-    <updated>2016-01-19T10:42:33Z</updated>
+    <updated>2016-01-20T06:37:14Z</updated>
     <author>
       <name>Nick Porcino</name>
     </author>
@@ -268,7 +268,7 @@
     <title>Choose Your Character</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=L-zjV57tpnI"/>
     <id>https://www.youtube.com/watch?v=L-zjV57tpnI</id>
-    <updated>2016-01-19T10:42:33Z</updated>
+    <updated>2016-01-20T06:37:14Z</updated>
     <author>
       <name>Brianna Wu</name>
     </author>
