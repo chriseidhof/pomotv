@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/json"/>
   <link href="http://www.pomo.tv/tags/json/feed.xml" rel="self"/>
-  <updated>2016-01-20T06:44:29Z</updated>
+  <updated>2016-01-21T07:18:40Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Swift JsonGen, a code generator</title>
     <link rel="alternate" href="https://vimeo.com/152054122"/>
     <id>https://vimeo.com/152054122</id>
-    <updated>2016-01-20T06:44:29Z</updated>
+    <updated>2016-01-21T07:18:40Z</updated>
     <author>
       <name>Tom Lokhorst</name>
     </author>
