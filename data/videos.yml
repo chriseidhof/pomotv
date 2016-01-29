@@ -2886,6 +2886,12 @@ Swift Summit San Francisco 2015:
     tags: [swift, cross-platform]
     youtube: riJJ0vRhfNU
     direct-link: "https://www.skilled.io/mikeellard/lightweight-cross-platform-code-using-swift"
+  - language: English
+    speakers: [Keith Smiley]
+    title: Tales of a rewrite at Lyft
+    tags: [swift, lyft, rewrite]
+    youtube: FmT3A_tm9_4
+    direct-link: "https://www.skilled.io/keithsmiley/tales-of-a-rewrite-at-lyft"
 Functional Swift Conference 2015:
   - language: English
     speakers: [Veronica Ray]
