@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>lyft</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//tags/lyft"/>
+  <link href="http://www.pomo.tv/tags/lyft/feed.xml" rel="self"/>
+  <updated>2016-01-29T15:22:57Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Tales of a rewrite at Lyft</title>
+    <link rel="alternate" href="https://www.skilled.io/keithsmiley/tales-of-a-rewrite-at-lyft"/>
+    <id>https://www.skilled.io/keithsmiley/tales-of-a-rewrite-at-lyft</id>
+    <updated>2016-01-29T15:22:57Z</updated>
+    <author>
+      <name>Keith Smiley</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.skilled.io&#x2F;keithsmiley&#x2F;tales-of-a-rewrite-at-lyft&quot;&gt;https:&#x2F;&#x2F;www.skilled.io&#x2F;keithsmiley&#x2F;tales-of-a-rewrite-at-lyft&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;lyft&quot;&gt;lyft&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;rewrite&quot;&gt;rewrite&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;FmT3A_tm9_4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

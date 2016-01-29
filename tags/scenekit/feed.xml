@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/scenekit"/>
   <link href="http://www.pomo.tv/tags/scenekit/feed.xml" rel="self"/>
-  <updated>2016-01-21T07:18:42Z</updated>
+  <updated>2016-01-29T15:22:58Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>SceneKit, Metal, and OpenGL</title>
     <link rel="alternate" href="https://vimeo.com/137541707"/>
     <id>https://vimeo.com/137541707</id>
-    <updated>2016-01-21T07:18:42Z</updated>
+    <updated>2016-01-29T15:22:58Z</updated>
     <author>
       <name>Jonathan Blocksom</name>
     </author>
@@ -37,7 +37,7 @@
     <title>All you have to do is Hoppa!</title>
     <link rel="alternate" href="https://vimeo.com/146505694"/>
     <id>https://vimeo.com/146505694</id>
-    <updated>2016-01-21T07:18:42Z</updated>
+    <updated>2016-01-29T15:22:58Z</updated>
     <author>
       <name>Mohsan Khan</name>
     </author>
@@ -58,7 +58,7 @@
     <title>Enhancements to SceneKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-606"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-606</id>
-    <updated>2016-01-21T07:18:42Z</updated>
+    <updated>2016-01-29T15:22:58Z</updated>
     <author>
       <name>Thomas Goossens</name>
     </author>

@@ -1705,6 +1705,9 @@
     <loc>http://www.pomo.tv/speakers/niels-van-hoorn/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/keith-smiley/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/speakers/robert-van-loghem/</loc>
   </url>
   <url>
@@ -2095,6 +2098,9 @@
     <loc>http://www.pomo.tv/tags/low-level/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/lyft/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/machine-interaction/</loc>
   </url>
   <url>
@@ -2231,6 +2237,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/reverse-engineering/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/rewrite/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/runtime/</loc>
@@ -3875,6 +3884,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/swift-summit/san-francisco-2015/michael-patrick-ellard-lightweight-cross-platform-code-using-swift.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/swift-summit/san-francisco-2015/keith-smiley-tales-of-a-rewrite-at-lyft.html</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/funswift/2015/veronica-ray-you-used-to-inject-me-in-your-constructor.html</loc>
