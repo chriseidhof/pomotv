@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/watchos"/>
   <link href="http://www.pomo.tv/tags/watchos/feed.xml" rel="self"/>
-  <updated>2016-01-29T15:39:15Z</updated>
+  <updated>2016-01-30T09:09:24Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Advanced UX Design for Apple Watch</title>
     <link rel="alternate" href="https://vimeo.com/137545605"/>
     <id>https://vimeo.com/137545605</id>
-    <updated>2016-01-29T15:39:14Z</updated>
+    <updated>2016-01-30T09:09:24Z</updated>
     <author>
       <name>Shawn Davison</name>
     </author>
@@ -37,7 +37,7 @@
     <title>WatchKit Notifications</title>
     <link rel="alternate" href="https://vimeo.com/138114340"/>
     <id>https://vimeo.com/138114340</id>
-    <updated>2016-01-29T15:39:14Z</updated>
+    <updated>2016-01-30T09:09:24Z</updated>
     <author>
       <name>Matthew Morey</name>
     </author>
@@ -58,7 +58,7 @@
     <title>Upgrading to watchOS 2</title>
     <link rel="alternate" href="https://vimeo.com/142104528"/>
     <id>https://vimeo.com/142104528</id>
-    <updated>2016-01-29T15:39:14Z</updated>
+    <updated>2016-01-30T09:09:24Z</updated>
     <author>
       <name>Pedro Mancheno</name>
     </author>
@@ -79,7 +79,7 @@
     <title>The Zen Guide to WatchOS 2</title>
     <link rel="alternate" href="https://vimeo.com/141086010"/>
     <id>https://vimeo.com/141086010</id>
-    <updated>2016-01-29T15:39:14Z</updated>
+    <updated>2016-01-30T09:09:24Z</updated>
     <author>
       <name>Natasha Murashev</name>
     </author>
@@ -99,7 +99,7 @@
     <title>Introducing Watch Connectivity</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-713"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-713</id>
-    <updated>2016-01-29T15:39:14Z</updated>
+    <updated>2016-01-30T09:09:24Z</updated>
     <author>
       <name>Chris Jensen</name>
     </author>
@@ -122,7 +122,7 @@
     <title>Performance on iOS and watchOS</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-230"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-230</id>
-    <updated>2016-01-29T15:39:14Z</updated>
+    <updated>2016-01-30T09:09:24Z</updated>
     <author>
       <name>Ben Englert</name>
     </author>
@@ -142,7 +142,7 @@
     <title>Layout and Animation Techniques for WatchKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-216"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-216</id>
-    <updated>2016-01-29T15:39:14Z</updated>
+    <updated>2016-01-30T09:09:24Z</updated>
     <author>
       <name>Miguel Sanchez</name>
     </author>
@@ -162,7 +162,7 @@
     <title>Designing for Apple Watch</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-802"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-802</id>
-    <updated>2016-01-29T15:39:14Z</updated>
+    <updated>2016-01-30T09:09:24Z</updated>
     <author>
       <name>Mike Stern</name>
     </author>
@@ -181,7 +181,7 @@
     <title>Introducing WatchKit for watchOS 2</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-105"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-105</id>
-    <updated>2016-01-29T15:39:15Z</updated>
+    <updated>2016-01-30T09:09:24Z</updated>
     <author>
       <name>Josh Shaffer</name>
     </author>
@@ -200,7 +200,7 @@
     <title>Platforms State of the Union</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-102"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-102</id>
-    <updated>2016-01-29T15:39:15Z</updated>
+    <updated>2016-01-30T09:09:24Z</updated>
     <author>
       <name>Andreas Wendker</name>
     </author>

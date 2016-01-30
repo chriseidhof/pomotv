@@ -5,16 +5,40 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/wil-shipley"/>
   <link href="http://www.pomo.tv/speakers/wil-shipley/feed.xml" rel="self"/>
-  <updated>2016-01-29T15:38:57Z</updated>
+  <updated>2016-01-30T09:09:04Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Sharing Swift between iOS and OS X</title>
+    <link rel="alternate" href="https://www.skilled.io/wilshipley/sharing-swift-between-ios-and-os-x"/>
+    <id>https://www.skilled.io/wilshipley/sharing-swift-between-ios-and-os-x</id>
+    <updated>2016-01-30T09:09:04Z</updated>
+    <author>
+      <name>Wil Shipley</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.skilled.io&#x2F;wilshipley&#x2F;sharing-swift-between-ios-and-os-x&quot;&gt;https:&#x2F;&#x2F;www.skilled.io&#x2F;wilshipley&#x2F;sharing-swift-between-ios-and-os-x&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;sharing&quot;&gt;sharing&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;opengl&quot;&gt;opengl&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;metal&quot;&gt;metal&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;_qfwZ-HjVNs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Git as a Document Format</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=R6m855mfPGU"/>
     <id>https://www.youtube.com/watch?v=R6m855mfPGU</id>
-    <updated>2016-01-29T15:38:57Z</updated>
+    <updated>2016-01-30T09:09:04Z</updated>
     <author>
       <name>Wil Shipley</name>
     </author>
