@@ -2892,6 +2892,24 @@ Swift Summit San Francisco 2015:
     tags: [swift, lyft, rewrite]
     youtube: FmT3A_tm9_4
     direct-link: "https://www.skilled.io/keithsmiley/tales-of-a-rewrite-at-lyft"
+  - language: English
+    speakers: [Wil Shipley]
+    title: Sharing Swift between iOS and OS X
+    tags: [swift, sharing, opengl, metal]
+    youtube: _qfwZ-HjVNs
+    direct-link: "https://www.skilled.io/wilshipley/sharing-swift-between-ios-and-os-x"
+  - language: English
+    speakers: [Veronica Ray]
+    title: Making Swift even more functional
+    tags: [swift, functional]
+    youtube: FhqqE-kURAM
+    direct-link: "https://www.skilled.io/veronicaray/making-swift-even-more-functional"
+  - language: English
+    speakers: [Javier Soto]
+    title: Simple Asynchronous Swift code with ReactiveCocoa 4
+    tags: [swift, asynchronous, reactivecocoa]
+    youtube: Ent6LJDIB3I
+    direct-link: "https://www.skilled.io/javiersoto/simple-asynchronous-swift-code-with-reactivecocoa-4"
 Functional Swift Conference 2015:
   - language: English
     speakers: [Veronica Ray]
