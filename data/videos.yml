@@ -3516,3 +3516,16 @@ CocoaHeadsNL January 2016:
     description: Niels van Hoorn talks about protocol-oriented datasources. Combining James Bond and Swift, Niels does a live coding deep dive into protocols, extensions and type aliases.
     tags: [protocols, live coding]
     vimeo: 152193160
+CocoaLove 2015:
+  - language: English
+    speakers: [Chris Barajas]
+    title: Thank You for Bugging me
+    description: Chris provides support for users of Rogue Amoeba’s fine audio software. There is no good substitute for human-to-human support, although technology can provide shortcuts. Chris talked about how technology and humanity intersect in the role of support, and how good support finds the strengths of each to keep a company and its customers happy.
+    tags: [support]
+    vimeo: 153709408
+  - language: English
+    speakers: [Allen Pike]
+    title: Competing with Art
+    description: Allen spoke about the similarities between indie programmers and artists/musicians. Thanks to advances our tools and the community it's never been an easier time to get into programming, but that leads to a highly competitive hit-driven economy very similar to music, where it can be hard to get noticed. Sometimes we need to focus on our side projects not for the potential economic gains, but the creative outlet they provide.
+    tags: [support]
+    vimeo: 153679708
