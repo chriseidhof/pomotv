@@ -3264,7 +3264,7 @@ NSLondon January 2015:
     tags: [swift]
     vimeo: 118019963
   - language: English
-    speakers: [Thomas Caterall]
+    speakers: [Thomas Catterall]
     title: The Dependencies You Didn't Know You Had
     tags: [dependencies]
     vimeo: 118021039
@@ -3356,6 +3356,47 @@ NSLondon November 2015:
     title: Work hard and REST
     tags: [rest, api, security]
     vimeo: 151043021
+NSLondon January 2016:
+  - language: English
+    speakers: [Bohdan Orlov]
+    title: iOS Architecture Patterns
+    tags: [architecture, MVVM]
+    vimeo: 153520720
+  - language: English
+    speakers: [Mark Szulyovszky]
+    title: Quick introduction to RFP with zero theory
+    tags: [architecture, frp, functional, functional programming, functional reactive programming]
+    vimeo: 153520718
+  - language: English
+    speakers: [Rheese Burgess]
+    title: Using Elm/React inspired architecture to build Cocoa apps in a functional way
+    tags: [architecture, frp, functional, functional programming, functional reactive programming]
+    vimeo: 153520719
+  - language: English
+    speakers: [Mannie Tagarira]
+    title: Code Reviews
+    tags: [code quality, teams]
+    vimeo: 153826697
+  - language: English
+    speakers: [Emily Toop]
+    title: Diagnosing Allergies
+    tags: [data science, health]
+    vimeo: 153826698
+  - language: English
+    speakers: [Ron Herrema]
+    title: Developing Sophisticated iOS Audio projects with libpd
+    tags: [audio]
+    vimeo: 153826702
+  - language: English
+    speakers: [Shane Reid]
+    title: Performance issues at Grabble
+    tags: [performance]
+    vimeo: 153826701
+  - language: English
+    speakers: [Thomas Catterall]
+    title: "Crash Your App: Five Tips In Five Minutes For Building a Stable App"
+    tags: [code quality]
+    vimeo: 153826699
 NSConference 2014:
   - language: English
     speakers: [James Thomson]
