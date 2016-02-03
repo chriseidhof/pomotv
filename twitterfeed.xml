@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv/"/>
   <link href="http://www.pomo.tv/twitterfeed.xml" rel="self"/>
-  <updated>2016-02-03T09:55:45Z</updated>
+  <updated>2016-02-03T10:09:08Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Competing with Art</title>
     <link rel="alternate" href="https://vimeo.com/153679708"/>
     <id>https://vimeo.com/153679708</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Competing with Art - @apike
 Allen spoke about the similarities between indie programmers and artists&#x2F;musicians. Thanks to advances our tools and the community it&#x27;s never been an easier time to get into programming, but that leads to a highly competitive hit-driven economy very similar to music, where it can be hard to get noticed. Sometimes we need to focus on our side projects not for the potential economic gains, but the creative outlet they provide.
@@ -24,7 +24,7 @@ Allen spoke about the similarities between indie programmers and artists&#x2F;mu
     <title>Thank You for Bugging me</title>
     <link rel="alternate" href="https://vimeo.com/153709408"/>
     <id>https://vimeo.com/153709408</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Thank You for Bugging me - @_Barajas
 Chris provides support for users of Rogue Amoeba’s fine audio software. There is no good substitute for human-to-human support, although technology can provide shortcuts. Chris talked about how technology and humanity intersect in the role of support, and how good support finds the strengths of each to keep a company and its customers happy.
@@ -34,7 +34,7 @@ Chris provides support for users of Rogue Amoeba’s fine audio software. There 
     <title>Protocol-Oriented DataSources</title>
     <link rel="alternate" href="https://vimeo.com/152193160"/>
     <id>https://vimeo.com/152193160</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Protocol-Oriented DataSources - @nvh
 Niels van Hoorn talks about protocol-oriented datasources. Combining James Bond and Swift, Niels does a live coding deep dive into protocols, extensions and type aliases.
@@ -44,7 +44,7 @@ Niels van Hoorn talks about protocol-oriented datasources. Combining James Bond 
     <title>Swift JsonGen, a code generator</title>
     <link rel="alternate" href="https://vimeo.com/152054122"/>
     <id>https://vimeo.com/152054122</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Swift JsonGen, a code generator - @tomlokhorst
 Tom Lokhorst talks about parsing JSON in Swift. Why is this such a problem? What libraries are there to solve this problem? And how he created a code generator to deal with JSON once and for all.
@@ -54,7 +54,7 @@ Tom Lokhorst talks about parsing JSON in Swift. Why is this such a problem? What
     <title>Crypto? Been there, done that</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=FWHADBbn4Kc"/>
     <id>https://www.youtube.com/watch?v=FWHADBbn4Kc</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Crypto? Been there, done that - @krzyzanowskim
 Implementing OpenPGP and cryptography on iOS.
@@ -64,7 +64,7 @@ Implementing OpenPGP and cryptography on iOS.
     <title>Swift C Interoperability</title>
     <link rel="alternate" href="https://vimeo.com/142850815"/>
     <id>https://vimeo.com/142850815</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Swift C Interoperability - @chriseidhof
 In this talk, we&#x27;ll look at Swift&#x27;s interoperability with C, and how to wrap C functions in a way that feels native to Swift.
@@ -74,7 +74,7 @@ In this talk, we&#x27;ll look at Swift&#x27;s interoperability with C, and how t
     <title>Prototyping anything you can imagine</title>
     <link rel="alternate" href="https://vimeo.com/142850816"/>
     <id>https://vimeo.com/142850816</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Prototyping anything you can imagine - @koenbok
 The future of design tools, prototyping and Framer.
@@ -84,7 +84,7 @@ The future of design tools, prototyping and Framer.
     <title>Making Apps in Stop-Motion</title>
     <link rel="alternate" href="https://vimeo.com/95951952"/>
     <id>https://vimeo.com/95951952</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Making Apps in Stop-Motion - @giovatardu
 We are in the special effects business without even realizing it.
@@ -94,7 +94,7 @@ We are in the special effects business without even realizing it.
     <title>NSURLProtocol, Foundation&#x27;s man-in-the-middle</title>
     <link rel="alternate" href="https://vimeo.com/95956326"/>
     <id>https://vimeo.com/95956326</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 NSURLProtocol, Foundation&#x27;s man-in-the-middle - @mttrb
 Mattt Thompson described NSURLProtocol as &quot;an Apple-sanctioned man-in-the-middle attack.&quot;  Buried deep in Foundation&#x27;s URL Loading System, NSURLProtocol allows us to intercept requests for URLs from the API libraries we are more familiar with, e.g. AFNetworking, NSURLConnection, UIWebView, NSURLDownload.
@@ -104,7 +104,7 @@ Mattt Thompson described NSURLProtocol as &quot;an Apple-sanctioned man-in-the-m
     <title>KVO Considered Awesome</title>
     <link rel="alternate" href="https://vimeo.com/95999854"/>
     <id>https://vimeo.com/95999854</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 KVO Considered Awesome - @amyruthworrall
 A whirlwind tour through Key Value Coding (KVC), Key Value Observing (KVO), and Cocoa Bindings. Amy will explain what these technologies can do, when to use them, what their limitations are, and some tricks to work around common pitfalls. KVO has had a lot of bad press recently, but when used properly it can help you separate concerns and reduce the number of lines of code required for common operations.
@@ -114,7 +114,7 @@ A whirlwind tour through Key Value Coding (KVC), Key Value Observing (KVO), and 
     <title>Legal Considerations For Contract Developers</title>
     <link rel="alternate" href="https://vimeo.com/96004975"/>
     <id>https://vimeo.com/96004975</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Legal Considerations For Contract Developers - @DamianOS3
 Top legal tips for indie developers working on apps for clients, based on the very expensive mistakes I made in my first 5 years of developing apps for clients.
@@ -124,7 +124,7 @@ Top legal tips for indie developers working on apps for clients, based on the ve
     <title>Red Meat and Gin</title>
     <link rel="alternate" href="https://vimeo.com/96057339"/>
     <id>https://vimeo.com/96057339</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Red Meat and Gin - @siegel
 Bare Bones Software are widely recognized as one of the longest-lived indie Mac developers, having been in business since 1993. Their longevity stems from how they handle matters that Rich will cover in the talk: product concept, engineering discipline, customer service and support, ecosystem relations, living with Apple, and dealing with the unpredictable.
@@ -134,7 +134,7 @@ Bare Bones Software are widely recognized as one of the longest-lived indie Mac 
     <title>Sound Debugging</title>
     <link rel="alternate" href="https://vimeo.com/96070920"/>
     <id>https://vimeo.com/96070920</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Sound Debugging - @qnoid
 Sound debugging is about elevating Xcode&#x27;s ability to play sounds on a breakpoint to visualise code execution
@@ -144,7 +144,7 @@ Sound debugging is about elevating Xcode&#x27;s ability to play sounds on a brea
     <title>Tips and tricks for recording your meetup presentations</title>
     <link rel="alternate" href="https://vimeo.com/96107143"/>
     <id>https://vimeo.com/96107143</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Tips and tricks for recording your meetup presentations - @seanwoodhouse
 Today there are thousands of iOS and Mac developers meeting up and presenting awesome content all around the world. In this talk Sean will offer some helpful tips on recording, editing and publishing your meetup presentations for everyone to enjoy.
@@ -154,7 +154,7 @@ Today there are thousands of iOS and Mac developers meeting up and presenting aw
     <title>What’s it like to fiddle Mail’s bits?</title>
     <link rel="alternate" href="https://vimeo.com/96077948"/>
     <id>https://vimeo.com/96077948</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 What’s it like to fiddle Mail’s bits? - @littleknown
 Let me give you all a quick view from a totally different place than App Stores, nice simple Cocoa code and easily reusable Open Source projects. Writing Mail plugins is a pain in the ass that gives you tremendous challenges every day. I don’t recommend it, but I do enjoy it.
@@ -164,7 +164,7 @@ Let me give you all a quick view from a totally different place than App Stores,
     <title>While Nobody is Looking</title>
     <link rel="alternate" href="https://vimeo.com/96086552"/>
     <id>https://vimeo.com/96086552</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 While Nobody is Looking - @_DavidSmith
 There is a natural pull towards focussing on the visual design of an application. Your choice of color, typography and structure all directly impact how your user will experience your app. But what happens when your user isn’t looking? Designing applications for use by increasingly distracted users requires thinking about your customer from a completely different perspective. Building on lessons learned from years of building audio focused applications these are some guides for ensuring your design is usable in ANY context.
@@ -174,7 +174,7 @@ There is a natural pull towards focussing on the visual design of an application
     <title>The Kitchen Sink Database</title>
     <link rel="alternate" href="https://vimeo.com/96172262"/>
     <id>https://vimeo.com/96172262</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 The Kitchen Sink Database - @cparnot
 A database is where you store your data. But in practice, your database scheme can quickly grow to become an untamed beast that makes you cry at night. To improve performance, you have the infamous `full_name` column living next to `first_name` and `last_name`; and then there’s `canonical_full_name` for proper search; and `needs_thumbnail` to keep track of thumbnail operations; and an extra table to normalize some relationships needed in the UI; and so on.  Every time you change the UI or add features, your database scheme gets more complicated. Maybe you did survive the software updates, the not-so-automatic migrations, the if statements littered around and the special `rebuildCache` methods. But now your f*^%$@ users want syncing, and you fear for your sanity. Here is the problem: your database is used both for **storing** the actual data and for **displaying** that data and managing the UI. Your data model is torn between two antagonistic goals, and you have a kitchen sink database. I propose a different approach where you explicitly separate those two functions, and with which you can ultimately get your sanity back.
@@ -184,7 +184,7 @@ A database is where you store your data. But in practice, your database scheme c
     <title>Not Invented Here</title>
     <link rel="alternate" href="https://vimeo.com/97058344"/>
     <id>https://vimeo.com/97058344</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Not Invented Here - @mzarra
 We often hear the phrase “Don’t re-invent the wheel.” But what does that really mean? In this session Marcus will be discussing his opinion on this often quoted phrase as well as a discussion of the impacts he is seeing of third party libraries.
@@ -194,7 +194,7 @@ We often hear the phrase “Don’t re-invent the wheel.” But what does that r
     <title>Another approach to observation</title>
     <link rel="alternate" href="https://vimeo.com/97102055"/>
     <id>https://vimeo.com/97102055</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Another approach to observation - @tonklon
 In this session Tobias  introduces the audience to another possibility to implement the observer pattern in Cocoa, besides KVO and NotificationCenter.
@@ -204,7 +204,7 @@ In this session Tobias  introduces the audience to another possibility to implem
     <title>Land or Slam</title>
     <link rel="alternate" href="https://vimeo.com/97114266"/>
     <id>https://vimeo.com/97114266</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Land or Slam - @lucvandal
 How lessons I’ve learned from skateboarding have influenced my current business.
@@ -214,7 +214,7 @@ How lessons I’ve learned from skateboarding have influenced my current busines
     <title>A Bil-centric view of product development</title>
     <link rel="alternate" href="https://vimeo.com/97201703"/>
     <id>https://vimeo.com/97201703</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 A Bil-centric view of product development - @dlpasco
 Essentially, given an extraordinarily gifted developer - take Bil, our CTO -, there are things outside his area of expertise that he&#x27;s recognized as hugely important to making a great app. He wants these people and things because they help him make something even greater: great design, great QA, support, the ability to reach a huge number of users (strong brand, really useful app, great content, etc)
@@ -224,7 +224,7 @@ Essentially, given an extraordinarily gifted developer - take Bil, our CTO -, th
     <title>Building the next generation programming language</title>
     <link rel="alternate" href="https://vimeo.com/97102075"/>
     <id>https://vimeo.com/97102075</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Building the next generation programming language - Karsten Kusche
 Humans are not the only ones working with the code, computers need to work with it too. If computers have an easier time working with the code, humans can enjoy much better tools to deal with the code!
@@ -234,7 +234,7 @@ Humans are not the only ones working with the code, computers need to work with 
     <title>The Engineer, The Designer, and the Dictator</title>
     <link rel="alternate" href="https://vimeo.com/97507451"/>
     <id>https://vimeo.com/97507451</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 The Engineer, The Designer, and the Dictator - @rands
 During the course of your career, it is likely you will have an undeniable urge to build a thing. It is equally likely that while you are well-intentioned, you are horrifically bad at a skill that is essential to successful thing building. In this talk, Michael Lopp will discuss ideal team construction in a presentation called “The Engineer, The Designer, and the Dictator”
@@ -244,7 +244,7 @@ During the course of your career, it is likely you will have an undeniable urge 
     <title>Software Design &amp; Eclecticism</title>
     <link rel="alternate" href="https://vimeo.com/97508062"/>
     <id>https://vimeo.com/97508062</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 Software Design &amp; Eclecticism - @mattt
 What makes Foundation stand out among other standard libraries is how thoroughly it’s designed. From its date and time calculations to its internationalization and URL loading system, Cocoa APIs demonstrate thoughtfulness and a deep appreciation for understanding a problem in its entirety.
@@ -254,7 +254,7 @@ What makes Foundation stand out among other standard libraries is how thoroughly
     <title>You never know where ios development may take you</title>
     <link rel="alternate" href="https://vimeo.com/97510547"/>
     <id>https://vimeo.com/97510547</id>
-    <updated>2016-02-03T09:55:45Z</updated>
+    <updated>2016-02-03T10:09:08Z</updated>
     <content type="text/plain">
 You never know where ios development may take you - @6Be
 This talk will go over a unique indie development experience which led to helping NGOs in the Horn of Africa find water for local populations.

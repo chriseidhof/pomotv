@@ -187,6 +187,9 @@
     <loc>http://www.pomo.tv/events/cocoaheads-nl/january-2016/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/nslondon/january-2016/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/speakers/chris-eidhof/</loc>
   </url>
   <url>
@@ -1570,7 +1573,7 @@
     <loc>http://www.pomo.tv/speakers/francesco-petrungaro/</loc>
   </url>
   <url>
-    <loc>http://www.pomo.tv/speakers/thomas-caterall/</loc>
+    <loc>http://www.pomo.tv/speakers/thomas-catterall/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/speakers/mehdi-mulani/</loc>
@@ -1718,6 +1721,24 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/speakers/chris-barajas/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/bohdan-orlov/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/mark-szulyovszky/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/rheese-burgess/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/mannie-tagarira/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/ron-herrema/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/shane-reid/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
@@ -1903,6 +1924,9 @@
     <loc>http://www.pomo.tv/tags/culture/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/data-science/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/debugging/</loc>
   </url>
   <url>
@@ -2015,6 +2039,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/haskell/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/health/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/homekit/</loc>
@@ -4123,7 +4150,7 @@
     <loc>http://www.pomo.tv/events/nslondon/january-2015/joseph-lord-beyond-if-let.html</loc>
   </url>
   <url>
-    <loc>http://www.pomo.tv/events/nslondon/january-2015/thomas-caterall-the-dependencies-you-didn-t-know-you-had.html</loc>
+    <loc>http://www.pomo.tv/events/nslondon/january-2015/thomas-catterall-the-dependencies-you-didn-t-know-you-had.html</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nslondon/february-2015-part-1/jp-simard-lessons-learned-wrapping-an-objective-c-framework-in-swift.html</loc>
@@ -4172,6 +4199,30 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nslondon/november-2015/csordas-csaba-work-hard-and-rest.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/january-2016/bohdan-orlov-ios-architecture-patterns.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/january-2016/mark-szulyovszky-quick-introduction-to-rfp-with-zero-theory.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/january-2016/rheese-burgess-using-elm-react-inspired-architecture-to-build-cocoa-apps-in-a-functional-way.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/january-2016/mannie-tagarira-code-reviews.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/january-2016/emily-toop-diagnosing-allergies.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/january-2016/ron-herrema-developing-sophisticated-ios-audio-projects-with-libpd.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/january-2016/shane-reid-performance-issues-at-grabble.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/january-2016/thomas-catterall-crash-your-app-five-tips-in-five-minutes-for-building-a-stable-app.html</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nsconf/2014/james-thomson-20-years-of-indie-development.html</loc>

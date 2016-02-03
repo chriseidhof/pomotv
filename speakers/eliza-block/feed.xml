@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/eliza-block"/>
   <link href="http://www.pomo.tv/speakers/eliza-block/feed.xml" rel="self"/>
-  <updated>2016-02-03T09:55:55Z</updated>
+  <updated>2016-02-03T10:09:17Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Creating Complications with ClockKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-209"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-209</id>
-    <updated>2016-02-03T09:55:55Z</updated>
+    <updated>2016-02-03T10:09:17Z</updated>
     <author>
       <name>Eliza Block</name>
     </author>
@@ -36,7 +36,7 @@
     <title>Advanced Scrollviews and Touch Handling Techniques</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-235"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-235</id>
-    <updated>2016-02-03T09:55:55Z</updated>
+    <updated>2016-02-03T10:09:17Z</updated>
     <author>
       <name>Josh Shaffer</name>
     </author>

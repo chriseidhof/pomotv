@@ -5,16 +5,36 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/performance"/>
   <link href="http://www.pomo.tv/tags/performance/feed.xml" rel="self"/>
-  <updated>2016-02-03T09:56:06Z</updated>
+  <updated>2016-02-03T10:09:28Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Performance issues at Grabble</title>
+    <link rel="alternate" href="https://vimeo.com/153826701"/>
+    <id>https://vimeo.com/153826701</id>
+    <updated>2016-02-03T10:09:28Z</updated>
+    <author>
+      <name>Shane Reid</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;performance&quot;&gt;performance&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153826701&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>How to draw lines _very_ fast</title>
     <link rel="alternate" href="https://vimeo.com/98274186"/>
     <id>https://vimeo.com/98274186</id>
-    <updated>2016-02-03T09:56:06Z</updated>
+    <updated>2016-02-03T10:09:28Z</updated>
     <author>
       <name>Nigel Barber</name>
     </author>
@@ -35,7 +55,7 @@
     <title>Fast NEON Math</title>
     <link rel="alternate" href="https://vimeo.com/101849734"/>
     <id>https://vimeo.com/101849734</id>
-    <updated>2016-02-03T09:56:06Z</updated>
+    <updated>2016-02-03T10:09:28Z</updated>
     <author>
       <name>Nigel Barber</name>
     </author>

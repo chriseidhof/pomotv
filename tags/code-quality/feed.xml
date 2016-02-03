@@ -5,16 +5,57 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/code-quality"/>
   <link href="http://www.pomo.tv/tags/code-quality/feed.xml" rel="self"/>
-  <updated>2016-02-03T09:56:01Z</updated>
+  <updated>2016-02-03T10:09:23Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Crash Your App: Five Tips In Five Minutes For Building a Stable App</title>
+    <link rel="alternate" href="https://vimeo.com/153826699"/>
+    <id>https://vimeo.com/153826699</id>
+    <updated>2016-02-03T10:09:23Z</updated>
+    <author>
+      <name>Thomas Catterall</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;code-quality&quot;&gt;code quality&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153826699&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Code Reviews</title>
+    <link rel="alternate" href="https://vimeo.com/153826697"/>
+    <id>https://vimeo.com/153826697</id>
+    <updated>2016-02-03T10:09:23Z</updated>
+    <author>
+      <name>Mannie Tagarira</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;code-quality&quot;&gt;code quality&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;teams&quot;&gt;teams&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153826697&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Empower your Objective-C</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=cINmPrJzQeM"/>
     <id>https://www.youtube.com/watch?v=cINmPrJzQeM</id>
-    <updated>2016-02-03T09:56:01Z</updated>
+    <updated>2016-02-03T10:09:23Z</updated>
     <author>
       <name>Krzysztof Zabłocki</name>
     </author>

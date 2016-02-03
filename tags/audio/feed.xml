@@ -5,16 +5,36 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/audio"/>
   <link href="http://www.pomo.tv/tags/audio/feed.xml" rel="self"/>
-  <updated>2016-02-03T09:56:01Z</updated>
+  <updated>2016-02-03T10:09:23Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Developing Sophisticated iOS Audio projects with libpd</title>
+    <link rel="alternate" href="https://vimeo.com/153826702"/>
+    <id>https://vimeo.com/153826702</id>
+    <updated>2016-02-03T10:09:23Z</updated>
+    <author>
+      <name>Ron Herrema</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;audio&quot;&gt;audio&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153826702&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Audio Unit Extensions</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-508"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-508</id>
-    <updated>2016-02-03T09:56:01Z</updated>
+    <updated>2016-02-03T10:09:23Z</updated>
     <author>
       <name>Doug Wyatt</name>
     </author>
@@ -34,7 +54,7 @@
     <title>What&#x27;s New in Core Audio</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-507"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-507</id>
-    <updated>2016-02-03T09:56:01Z</updated>
+    <updated>2016-02-03T10:09:23Z</updated>
     <author>
       <name>Akshatha Nagesh</name>
     </author>
@@ -57,7 +77,7 @@
     <title>Psychoacoustics and Auditory Illusions for App Development</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sDOq8d7SAIQ"/>
     <id>https://www.youtube.com/watch?v=sDOq8d7SAIQ</id>
-    <updated>2016-02-03T09:56:01Z</updated>
+    <updated>2016-02-03T10:09:23Z</updated>
     <author>
       <name>Sally Shepard</name>
     </author>

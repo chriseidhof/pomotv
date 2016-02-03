@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Rheese Burgess</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/rheese-burgess"/>
+  <link href="http://www.pomo.tv/speakers/rheese-burgess/feed.xml" rel="self"/>
+  <updated>2016-02-03T10:09:22Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Using Elm&#x2F;React inspired architecture to build Cocoa apps in a functional way</title>
+    <link rel="alternate" href="https://vimeo.com/153520719"/>
+    <id>https://vimeo.com/153520719</id>
+    <updated>2016-02-03T10:09:22Z</updated>
+    <author>
+      <name>Rheese Burgess</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;architecture&quot;&gt;architecture&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;frp&quot;&gt;frp&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional&quot;&gt;functional&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-reactive-programming&quot;&gt;functional reactive programming&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153520719&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

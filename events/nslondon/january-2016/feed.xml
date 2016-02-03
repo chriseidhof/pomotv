@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>NSLondon January 2016</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//events/nslondon/january-2016"/>
+  <link href="http://www.pomo.tv/events/nslondon/january-2016/feed.xml" rel="self"/>
+  <updated>2016-02-03T10:09:13Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Crash Your App: Five Tips In Five Minutes For Building a Stable App</title>
+    <link rel="alternate" href="https://vimeo.com/153826699"/>
+    <id>https://vimeo.com/153826699</id>
+    <updated>2016-02-03T10:09:13Z</updated>
+    <author>
+      <name>Thomas Catterall</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;code-quality&quot;&gt;code quality&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153826699&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Performance issues at Grabble</title>
+    <link rel="alternate" href="https://vimeo.com/153826701"/>
+    <id>https://vimeo.com/153826701</id>
+    <updated>2016-02-03T10:09:13Z</updated>
+    <author>
+      <name>Shane Reid</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;performance&quot;&gt;performance&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153826701&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Developing Sophisticated iOS Audio projects with libpd</title>
+    <link rel="alternate" href="https://vimeo.com/153826702"/>
+    <id>https://vimeo.com/153826702</id>
+    <updated>2016-02-03T10:09:13Z</updated>
+    <author>
+      <name>Ron Herrema</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;audio&quot;&gt;audio&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153826702&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Diagnosing Allergies</title>
+    <link rel="alternate" href="https://vimeo.com/153826698"/>
+    <id>https://vimeo.com/153826698</id>
+    <updated>2016-02-03T10:09:13Z</updated>
+    <author>
+      <name>Emily Toop</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;data-science&quot;&gt;data science&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;health&quot;&gt;health&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153826698&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Code Reviews</title>
+    <link rel="alternate" href="https://vimeo.com/153826697"/>
+    <id>https://vimeo.com/153826697</id>
+    <updated>2016-02-03T10:09:13Z</updated>
+    <author>
+      <name>Mannie Tagarira</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;code-quality&quot;&gt;code quality&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;teams&quot;&gt;teams&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153826697&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Using Elm&#x2F;React inspired architecture to build Cocoa apps in a functional way</title>
+    <link rel="alternate" href="https://vimeo.com/153520719"/>
+    <id>https://vimeo.com/153520719</id>
+    <updated>2016-02-03T10:09:13Z</updated>
+    <author>
+      <name>Rheese Burgess</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;architecture&quot;&gt;architecture&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;frp&quot;&gt;frp&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional&quot;&gt;functional&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-reactive-programming&quot;&gt;functional reactive programming&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153520719&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Quick introduction to RFP with zero theory</title>
+    <link rel="alternate" href="https://vimeo.com/153520718"/>
+    <id>https://vimeo.com/153520718</id>
+    <updated>2016-02-03T10:09:13Z</updated>
+    <author>
+      <name>Mark Szulyovszky</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;architecture&quot;&gt;architecture&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;frp&quot;&gt;frp&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional&quot;&gt;functional&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;functional-reactive-programming&quot;&gt;functional reactive programming&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153520718&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>iOS Architecture Patterns</title>
+    <link rel="alternate" href="https://vimeo.com/153520720"/>
+    <id>https://vimeo.com/153520720</id>
+    <updated>2016-02-03T10:09:13Z</updated>
+    <author>
+      <name>Bohdan Orlov</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;architecture&quot;&gt;architecture&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;mvvm&quot;&gt;MVVM&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153520720&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>
