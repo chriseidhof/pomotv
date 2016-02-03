@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv/"/>
   <link href="http://www.pomo.tv/recent.xml" rel="self"/>
-  <updated>2016-02-03T10:09:07Z</updated>
+  <updated>2016-02-03T13:19:49Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Competing with Art</title>
     <link rel="alternate" href="https://vimeo.com/153679708"/>
     <id>https://vimeo.com/153679708</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Allen Pike</name>
     </author>
@@ -35,7 +35,7 @@
     <title>Thank You for Bugging me</title>
     <link rel="alternate" href="https://vimeo.com/153709408"/>
     <id>https://vimeo.com/153709408</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Chris Barajas</name>
     </author>
@@ -56,7 +56,7 @@
     <title>Protocol-Oriented DataSources</title>
     <link rel="alternate" href="https://vimeo.com/152193160"/>
     <id>https://vimeo.com/152193160</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Niels van Hoorn</name>
     </author>
@@ -78,7 +78,7 @@
     <title>Swift JsonGen, a code generator</title>
     <link rel="alternate" href="https://vimeo.com/152054122"/>
     <id>https://vimeo.com/152054122</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Tom Lokhorst</name>
     </author>
@@ -100,7 +100,7 @@
     <title>Crypto? Been there, done that</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=FWHADBbn4Kc"/>
     <id>https://www.youtube.com/watch?v=FWHADBbn4Kc</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Marcin Krzyżanowski</name>
     </author>
@@ -124,7 +124,7 @@
     <title>Swift C Interoperability</title>
     <link rel="alternate" href="https://vimeo.com/142850815"/>
     <id>https://vimeo.com/142850815</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -147,7 +147,7 @@
     <title>Prototyping anything you can imagine</title>
     <link rel="alternate" href="https://vimeo.com/142850816"/>
     <id>https://vimeo.com/142850816</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Koen Bok</name>
     </author>
@@ -169,7 +169,7 @@
     <title>Making Apps in Stop-Motion</title>
     <link rel="alternate" href="https://vimeo.com/95951952"/>
     <id>https://vimeo.com/95951952</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Giovanni Tarducci</name>
     </author>
@@ -189,7 +189,7 @@
     <title>NSURLProtocol, Foundation&#x27;s man-in-the-middle</title>
     <link rel="alternate" href="https://vimeo.com/95956326"/>
     <id>https://vimeo.com/95956326</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Matthew Robinson</name>
     </author>
@@ -211,7 +211,7 @@
     <title>KVO Considered Awesome</title>
     <link rel="alternate" href="https://vimeo.com/95999854"/>
     <id>https://vimeo.com/95999854</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Amy Worrall</name>
     </author>
@@ -232,7 +232,7 @@
     <title>Legal Considerations For Contract Developers</title>
     <link rel="alternate" href="https://vimeo.com/96004975"/>
     <id>https://vimeo.com/96004975</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Damian Sullivan</name>
     </author>
@@ -254,7 +254,7 @@
     <title>Red Meat and Gin</title>
     <link rel="alternate" href="https://vimeo.com/96057339"/>
     <id>https://vimeo.com/96057339</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Rich Siegel</name>
     </author>
@@ -275,7 +275,7 @@
     <title>Sound Debugging</title>
     <link rel="alternate" href="https://vimeo.com/96070920"/>
     <id>https://vimeo.com/96070920</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Markos Charatzas</name>
     </author>
@@ -297,7 +297,7 @@
     <title>Tips and tricks for recording your meetup presentations</title>
     <link rel="alternate" href="https://vimeo.com/96107143"/>
     <id>https://vimeo.com/96107143</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Sean Woodhouse</name>
     </author>
@@ -318,7 +318,7 @@
     <title>What’s it like to fiddle Mail’s bits?</title>
     <link rel="alternate" href="https://vimeo.com/96077948"/>
     <id>https://vimeo.com/96077948</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Scott Little</name>
     </author>
@@ -339,7 +339,7 @@
     <title>While Nobody is Looking</title>
     <link rel="alternate" href="https://vimeo.com/96086552"/>
     <id>https://vimeo.com/96086552</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>David Smith</name>
     </author>
@@ -361,7 +361,7 @@
     <title>The Kitchen Sink Database</title>
     <link rel="alternate" href="https://vimeo.com/96172262"/>
     <id>https://vimeo.com/96172262</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Charles Parnot</name>
     </author>
@@ -382,7 +382,7 @@
     <title>Not Invented Here</title>
     <link rel="alternate" href="https://vimeo.com/97058344"/>
     <id>https://vimeo.com/97058344</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Marcus Zarra</name>
     </author>
@@ -402,7 +402,7 @@
     <title>Another approach to observation</title>
     <link rel="alternate" href="https://vimeo.com/97102055"/>
     <id>https://vimeo.com/97102055</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Tobias Klonk</name>
     </author>
@@ -424,7 +424,7 @@
     <title>Land or Slam</title>
     <link rel="alternate" href="https://vimeo.com/97114266"/>
     <id>https://vimeo.com/97114266</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Luc Vandal</name>
     </author>
@@ -446,7 +446,7 @@
     <title>A Bil-centric view of product development</title>
     <link rel="alternate" href="https://vimeo.com/97201703"/>
     <id>https://vimeo.com/97201703</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Daniel Pasco</name>
     </author>
@@ -467,7 +467,7 @@
     <title>Building the next generation programming language</title>
     <link rel="alternate" href="https://vimeo.com/97102075"/>
     <id>https://vimeo.com/97102075</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Karsten Kusche</name>
     </author>
@@ -488,7 +488,7 @@
     <title>The Engineer, The Designer, and the Dictator</title>
     <link rel="alternate" href="https://vimeo.com/97507451"/>
     <id>https://vimeo.com/97507451</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Michael Lopp</name>
     </author>
@@ -509,7 +509,7 @@
     <title>Software Design &amp; Eclecticism</title>
     <link rel="alternate" href="https://vimeo.com/97508062"/>
     <id>https://vimeo.com/97508062</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Mattt Thompson</name>
     </author>
@@ -530,7 +530,7 @@
     <title>You never know where ios development may take you</title>
     <link rel="alternate" href="https://vimeo.com/97510547"/>
     <id>https://vimeo.com/97510547</id>
-    <updated>2016-02-03T10:09:07Z</updated>
+    <updated>2016-02-03T13:19:49Z</updated>
     <author>
       <name>Michael Gachet</name>
     </author>
