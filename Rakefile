@@ -15,6 +15,12 @@ class Helpers
   end
 end
 
+module Enumerable
+  def sorted?
+    each_cons(2).all? { |a, b| (a <=> b) <= 0 }
+  end
+end
+
 task :default => [:build, "lint:speakers", "lint:editions", "lint:feeds"]
 
 task :fetchyt, [:user] => :dotenv do |t, args|
@@ -86,6 +92,9 @@ namespace :lint do
       editions["#{metadata["event"]} #{metadata["edition"]}"] = metadata
     end
 
+    edition_dates = data_editions.map { |v| DateTime.parse(v['date']) }
+    raise "The editions.yml is not sorted by date." unless edition_dates.sorted?
+
     no_events = editions.values.reject { |metadata|
       data_events[metadata["event"]] != nil
     }
@@ -101,6 +110,7 @@ namespace :lint do
     unless no_editions.empty?
       raise "Missing entries in data/editions.yml for the following editions: \n#{no_editions.join(", ")}"
     end
+
   end
 
   task :feeds => :build do
