@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/daniel-steffen"/>
   <link href="http://www.pomo.tv/speakers/daniel-steffen/feed.xml" rel="self"/>
-  <updated>2016-01-30T09:09:09Z</updated>
+  <updated>2016-02-03T06:28:36Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Building Responsive and Efficient Apps with GCD</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-718"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-718</id>
-    <updated>2016-01-30T09:09:09Z</updated>
+    <updated>2016-02-03T06:28:36Z</updated>
     <author>
       <name>Anthony Chivetta</name>
     </author>
@@ -37,7 +37,7 @@
     <title>Power, Performance and Diagnostics: What&#x27;s new in GCD and XPC</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-716"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-716</id>
-    <updated>2016-01-30T09:09:09Z</updated>
+    <updated>2016-02-03T06:28:36Z</updated>
     <author>
       <name>Daniel Steffen</name>
     </author>

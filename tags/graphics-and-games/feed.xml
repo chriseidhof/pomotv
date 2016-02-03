@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/graphics-and-games"/>
   <link href="http://www.pomo.tv/tags/graphics-and-games/feed.xml" rel="self"/>
-  <updated>2016-01-30T09:09:18Z</updated>
+  <updated>2016-02-03T06:28:43Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Motion Tracking with the Core Motion Framework</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-612"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-612</id>
-    <updated>2016-01-30T09:09:18Z</updated>
+    <updated>2016-02-03T06:28:43Z</updated>
     <author>
       <name>Andy Pham</name>
     </author>
@@ -37,7 +37,7 @@
     <title>Designing for Game Controllers</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-611"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-611</id>
-    <updated>2016-01-30T09:09:18Z</updated>
+    <updated>2016-02-03T06:28:43Z</updated>
     <author>
       <name>JJ Cwik</name>
     </author>
@@ -57,7 +57,7 @@
     <title>Building a Game with SceneKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-610"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-610</id>
-    <updated>2016-01-30T09:09:18Z</updated>
+    <updated>2016-02-03T06:28:43Z</updated>
     <author>
       <name>Amaury Balliet</name>
     </author>
@@ -77,7 +77,7 @@
     <title>What&#x27;s New in SceneKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-609"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-609</id>
-    <updated>2016-01-30T09:09:18Z</updated>
+    <updated>2016-02-03T06:28:43Z</updated>
     <author>
       <name>Thomas Goossens</name>
     </author>
@@ -97,7 +97,7 @@
     <title>Best Practices for Building SpriteKit Games</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-608"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-608</id>
-    <updated>2016-01-30T09:09:18Z</updated>
+    <updated>2016-02-03T06:28:43Z</updated>
     <author>
       <name>Jacques Gasselin de Richebourg</name>
     </author>
@@ -120,7 +120,7 @@
     <title>What&#x27;s New in SpriteKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-606"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-606</id>
-    <updated>2016-01-30T09:09:18Z</updated>
+    <updated>2016-02-03T06:28:43Z</updated>
     <author>
       <name>Norman Wang</name>
     </author>
@@ -140,7 +140,7 @@
     <title>Working with Metal: Advanced</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-605"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-605</id>
-    <updated>2016-01-30T09:09:18Z</updated>
+    <updated>2016-02-03T06:28:43Z</updated>
     <author>
       <name>Gokhan Avkarogullari</name>
     </author>
@@ -166,7 +166,7 @@
     <title>Working with Metal: Fundamentals</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-604"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-604</id>
-    <updated>2016-01-30T09:09:18Z</updated>
+    <updated>2016-02-03T06:28:43Z</updated>
     <author>
       <name>Richard Schreyer</name>
     </author>
@@ -189,7 +189,7 @@
     <title>Working with Metal: Overview</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-603"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-603</id>
-    <updated>2016-01-30T09:09:18Z</updated>
+    <updated>2016-02-03T06:28:43Z</updated>
     <author>
       <name>Jeremy Sandmel</name>
     </author>
@@ -209,7 +209,7 @@
     <title>Ingredients of Great Games</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-602"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-602</id>
-    <updated>2016-01-30T09:09:18Z</updated>
+    <updated>2016-02-03T06:28:43Z</updated>
     <author>
       <name>Geoff Stahl</name>
     </author>
@@ -229,7 +229,7 @@
     <title>Harnessing the Power of the Mac Pro with OpenGL and OpenCL</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-601"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-601</id>
-    <updated>2016-01-30T09:09:18Z</updated>
+    <updated>2016-02-03T06:28:43Z</updated>
     <author>
       <name>Abe Stephens</name>
     </author>

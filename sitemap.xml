@@ -184,6 +184,9 @@
     <loc>http://www.pomo.tv/events/cocoaheads-nl/january-2016/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/cocoalove/2015/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/speakers/chris-eidhof/</loc>
   </url>
   <url>
@@ -1711,6 +1714,12 @@
     <loc>http://www.pomo.tv/speakers/robert-van-loghem/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/allen-pike/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/chris-barajas/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
@@ -2288,6 +2297,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/strings/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/support/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/swift/</loc>
@@ -4250,5 +4262,11 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/cocoaheads-nl/january-2016/niels-van-hoorn-protocol-oriented-datasources.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/cocoalove/2015/chris-barajas-thank-you-for-bugging-me.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/cocoalove/2015/allen-pike-competing-with-art.html</loc>
   </url>
 </urlset>

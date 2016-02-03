@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>CocoaLove 2015</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//events/cocoalove/2015"/>
+  <link href="http://www.pomo.tv/events/cocoalove/2015/feed.xml" rel="self"/>
+  <updated>2016-02-03T06:28:30Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Competing with Art</title>
+    <link rel="alternate" href="https://vimeo.com/153679708"/>
+    <id>https://vimeo.com/153679708</id>
+    <updated>2016-02-03T06:28:30Z</updated>
+    <author>
+      <name>Allen Pike</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;support&quot;&gt;support&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Allen spoke about the similarities between indie programmers and artists&#x2F;musicians. Thanks to advances our tools and the community it&#x27;s never been an easier time to get into programming, but that leads to a highly competitive hit-driven economy very similar to music, where it can be hard to get noticed. Sometimes we need to focus on our side projects not for the potential economic gains, but the creative outlet they provide.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153679708&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Thank You for Bugging me</title>
+    <link rel="alternate" href="https://vimeo.com/153709408"/>
+    <id>https://vimeo.com/153709408</id>
+    <updated>2016-02-03T06:28:30Z</updated>
+    <author>
+      <name>Chris Barajas</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;support&quot;&gt;support&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Chris provides support for users of Rogue Amoeba’s fine audio software. There is no good substitute for human-to-human support, although technology can provide shortcuts. Chris talked about how technology and humanity intersect in the role of support, and how good support finds the strengths of each to keep a company and its customers happy.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153709408&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>
