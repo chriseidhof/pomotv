@@ -9,7 +9,7 @@
 - event: XOXO
   edition: 2013
   url: http://2013.xoxofest.com/
-  date: September 19-22, 2013
+  date: September 19, 2013
 - event: NSLondon
   edition: September 2013
   url: http://www.meetup.com/NSLondon/events/140717992/
@@ -29,7 +29,7 @@
 - event: NSConference
   edition: 2014
   url: https://vimeo.com/channels/nsconf6
-  date: March 17-19, 2014
+  date: March 17, 2014
 - event: NSLondon
   edition: April 2014
   url: http://www.meetup.com/NSLondon/events/178184972/
@@ -37,7 +37,7 @@
 - event: UIKonf 
   edition: 2014
   url: http://www.uikonf.com
-  date: May 13-16, 2014
+  date: May 13, 2014
 - event: NSLondon
   edition: May 2014
   url: http://www.meetup.com/NSLondon/events/184015892/
@@ -45,14 +45,14 @@
 - event: WWDC 
   edition: 2014
   url: https://developer.apple.com/videos/wwdc2014/
-  date: June 2–6, 2014
+  date: June 2, 2014
 - event: AltConf 
   edition: 2014
-  date: Jun 2-6, 2014
+  date: Jun 2, 2014
   url: http://altconf.com
 - event: GitHub Reactive Cocoa Developer Conference 
   edition: 2014
-  date: Jun 14, 2014
+  date: June 14, 2014
   url: https://github.com/ReactiveCocoa/ReactiveCocoa/issues/1350
 - event: NSLondon
   edition: June 2014
@@ -69,7 +69,7 @@
 - event: NSSpain 
   edition: 2014
   url: http://nsspain.com/2014/
-  date: September 18-19, 2014
+  date: September 18, 2014
 - event: NSLondon
   edition: September 2014
   url: http://www.meetup.com/NSLondon/events/208206092/
@@ -77,15 +77,15 @@
 - event: "#Pragma Conference"
   edition: 2014
   url: http://pragmamark.org/events/pragma-conference-2014/
-  date: October 3-4, 2014
+  date: October 3, 2014
 - event: "⌘R Conf"
   edition: 2014
   url: http://cmdrconf.com
-  date: October 22-24, 2014
+  date: October 22, 2014
 - event: NSScotland 
   edition: 2014
   url: http://2014.nsscotland.com
-  date: October 25-26, 2014
+  date: October 25, 2014
 - event: NSLondon
   edition: November 2014
   url: http://www.meetup.com/NSLondon/events/217616672/
@@ -109,7 +109,7 @@
 - event: MCE Conference 
   edition: 2015
   url: http://2015.mceconf.com/
-  date: Feb 4-6, 2015
+  date: Feb 4, 2015
 - event: dotSwift 
   edition: 2015
   url: http://2015.mceconf.com/
@@ -118,14 +118,14 @@
   edition: February 2015 Part 2
   url: http://www.meetup.com/NSLondon/events/220581240/
   date: February 26, 2015
-- event: Swift Summit
-  edition: London 2015
-  url: https://www.swiftsummit.com
-  date: March 21-22, 2015
 - event: NSConference 
   edition: 2015
   url: https://vimeo.com/nsconf
   date: March 16, 2015
+- event: Swift Summit
+  edition: London 2015
+  url: https://www.swiftsummit.com
+  date: March 21, 2015
 - event: NSLondon
   edition: April 2015
   url: http://www.meetup.com/NSLondon/events/221748091/
@@ -133,7 +133,7 @@
 - event: UIKonf 
   edition: 2015
   url: http://www.uikonf.com
-  date: May 17-20, 2015
+  date: May 17, 2015
 - event: NSLondon
   edition: May 2015
   url: http://www.meetup.com/NSLondon/events/222318474/
@@ -145,7 +145,7 @@
 - event: WWDC 
   edition: 2015
   url: https://developer.apple.com/videos/wwdc2015/
-  date: June 8-12, 2015
+  date: June 8, 2015
 - event: Mobile Warsaw
   edition: June 2015
   url: http://www.meetup.com/Mobile-Warsaw/events/222434708/
@@ -157,7 +157,7 @@
 - event: 360iDev
   edition: 2015
   url: https://vimeopro.com/360conferences/360idev-2015/
-  date: August 16-19, 2015
+  date: August 16, 2015
 - event: NSLondon
   edition: August 2015
   url: http://www.meetup.com/NSLondon/events/224592143/
@@ -166,14 +166,14 @@
   edition: September 2015
   url: https://vimeo.com/cocoaheadssthlm
   date: September 07, 2015
+- event: NSSpain 
+  edition: 2015
+  url: http://nsspain.com/2015/
+  date: September 16, 2015
 - event: NSLondon
   edition: September 2015
   url: http://www.meetup.com/NSLondon/events/225391186/
   date: September 24, 2015
-- event: NSSpain 
-  edition: 2015
-  url: http://nsspain.com/2015/
-  date: September 16-17-18, 2015
 - event: CocoaHeads Stockholm
   edition: October 2015
   url: https://vimeo.com/cocoaheadssthlm
@@ -181,11 +181,11 @@
 - event: "#Pragma Conference"
   edition: 2015
   url: http://pragmaconference.com
-  date: October 9-10, 2015
+  date: October 9, 2015
 - event: CocoaLove
   edition: 2015
   url: http://cocoalove.org
-  date: October 9-11, 2015
+  date: October 9, 2015
 - event: CocoaHeadsNL
   edition: October 2015
   url: http://www.cocoaheads.nl
@@ -201,7 +201,7 @@
 - event: Swift Summit
   edition: San Francisco 2015
   url: https://www.swiftsummit.com
-  date: October 29-30, 2015
+  date: October 29, 2015
 - event: CocoaHeads Stockholm
   edition: November 2015
   url: https://vimeo.com/cocoaheadssthlm
