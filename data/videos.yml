@@ -1817,71 +1817,85 @@ AltConf 2015:
     title: "[Objective] C++: What Could Possibly Go Wrong?"
     tags: [c++, interpretation]
     youtube: 4hOEB_C342Q
+    direct-link: "https://realm.io/news/altconf-peter-steinberger-objective-c++-what-could-possibly-go-wrong/"
   - language: English
     speakers: [Aaron Hillegass]
     title: A Eulogy for Objective-C
     tags: [c++, interpretation]
     youtube: 2s7UR-rNFss
+    direct-link: "https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/"
   - language: English
     speakers: [Nathan Eror]
     title: "Beyond the Grid - Creating Unique, High Performance Interfaces With UICollectionView"
     tags: [interface, grid, collection views]
     youtube: tm-SO0RFt5c
+    direct-link: "https://realm.io/news/altconf-nathan-eror-uicollectionview/"
   - language: English
     speakers: [Brianna Wu]
     title: "Choose Your Character"
     tags: [games, graphics, 3d]
     youtube: L-zjV57tpnI
+    direct-link: "https://realm.io/news/altconf-brianna-wu-choose-your-character/"
   - language: English
     speakers: [Dave Wiskus]
     title: "Designing for Humans"
     tags: [design, user interface, user experience]
     youtube: HL38kUwrpoM
+    direct-link: "https://realm.io/news/altconf-dave-wiskus-designing-for-humans/"
   - language: English
     speakers: [Ash Furrow]
     title: Functional Reactive Awesomeness With Swift
     tags: [frp, functional reactive programming, rxswift]
     youtube: 6k5U_a00bhQ
+    direct-link: "https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/"
   - language: English
     speakers: [Wil Shipley]
     title: Git as a Document Format
     tags: [git, documents, files management]
     youtube: R6m855mfPGU
+    direct-link: "https://realm.io/news/altconf-wil-shipley-git-document-format/"
   - language: English
     speakers: [Ashley Nelson Hornstein]
     title: Humanities x Technology
     tags: [inspirational, machine interaction]
     youtube: 54DpTIQtObw
+    direct-link: "https://realm.io/news/altconf-ashley-nelson-hornstein-humanities-technology/"
   - language: English
     speakers: [Saul Mora]
     title: Object-Oriented Functional Programming
     tags: [functional programming, object oriented]
     youtube: cw7vzDv0MUc
+    direct-link: "https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/"
   - language: English
     speakers: [Ray Wenderlich]
     title: Overloading Comparison
     tags: [inspirational, online presence]
     youtube: tWYAuKJ5Vio
+    direct-link: "https://realm.io/news/altconf-ray-wenderlich-overloading-comparison/"
   - language: English
     speakers: [Daniel Steinberg]
     title: Playgrounds Are for Kids
     tags: [inspirational, playground, learning, swift]
     youtube: eUSvnQhKccQ
+    direct-link: "https://realm.io/news/altconf-daniel-steinberg-swift-playgrounds-education/"
   - language: English
     speakers: [Marin Todorov]
     title: Power Up Your Animations!
     tags: [animations, user interface]
     youtube: Gh3z6lswj38
+    direct-link: "https://realm.io/news/altconf-marin-todorov-animations/"
   - language: English
     speakers: [Justin Searls]
     title: The Social Coding Contract
     tags: [social coding]
     youtube: kI9g6c5kjv8
+    direct-link: "https://realm.io/news/altconf-justin-searls-open-source-social-contract/"
   - language: English
     speakers: [Michele Titolo]
     title: The Worst Code
     tags: [social coding]
     youtube: gqQzJKU440Y
+    direct-link: "https://realm.io/news/altconf-michele-titolo-worst-code/"
 WWDC 2015:
   - language: English
     speakers: [Andreas Wendker]
@@ -2625,16 +2639,19 @@ NSSpain 2015:
     title: Embracing the Internet of Things for cats
     tags: []
     youtube: A4hw37d136o
+    direct-link: "https://realm.io/news/pragma-sally-shepard-internet-cats-wearables/"
   - language: English
     speakers: [Tim Oliver]
     title: Marketing on the App Store
     tags: []
     youtube: UGPaHZAo_us
+    direct-link: "https://realm.io/news/pragma-tim-oliver-app-store-marketing/"
   - language: English
     speakers: [Marcus S. Zarra]
     title: Core Data Threading Demystified
     tags: [core data]
     youtube: _QolYhiKWvU
+    direct-link: "https://realm.io/news/marcus-zarra-core-data-threading/"
   - language: English
     speakers: [Orta Therox]
     title: Open Source by Default
@@ -2645,6 +2662,7 @@ NSSpain 2015:
     title: State of Statelessness
     tags: []
     youtube: Be8Tka4DV-Q
+    direct-link: "https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/"
   - language: English
     speakers: [Ash Furrow]
     title: Loosely Held Strong Convictions
@@ -2655,26 +2673,31 @@ NSSpain 2015:
     title: Swift and C
     tags: []
     youtube: -ag-f9N8SJE
+    direct-link: "https://realm.io/news/pragma-chris-eidhof-swift-c/"
   - language: English
     speakers: [Christopher Downer]
     title: Design 101 for Developers
     tags: []
     youtube: rpV4Oaah4fk
+    direct-link: "https://realm.io/news/christopher-downer-design-101-for-developers/"
   - language: English
     speakers: [Marin Todorov]
     title: What’s in for us after the Indiepocalypse?
     tags: []
     youtube: 95XZUsOm31A
+    direct-link: "https://realm.io/news/pragma-marin-todorov-indie-developers-app-store/"
   - language: English
     speakers: [Graham Lee]
     title: "*-Oriented Programming"
     tags: []
     youtube: j0uFAynIGt8
+    direct-link: "https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/"
   - language: English
     speakers: [Justin Spahr-Summers]
     title: Library-Oriented Programming
     tags: []
     youtube: lqNUTW0F4bw
+    direct-link: "https://realm.io/news/justin-spahr-summers-library-oriented-programming/"
 iOS Conf Singapore 2015:
   - language: English
     speakers: [Javier Soto]
