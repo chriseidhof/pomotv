@@ -5,21 +5,22 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/graham-lee"/>
   <link href="http://www.pomo.tv/speakers/graham-lee/feed.xml" rel="self"/>
-  <updated>2016-02-03T13:19:57Z</updated>
+  <updated>2016-02-05T07:11:43Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
     <title>*-Oriented Programming</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=j0uFAynIGt8"/>
-    <id>https://www.youtube.com/watch?v=j0uFAynIGt8</id>
-    <updated>2016-02-03T13:19:57Z</updated>
+    <link rel="alternate" href="https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/"/>
+    <id>https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/</id>
+    <updated>2016-02-05T07:11:43Z</updated>
     <author>
       <name>Graham Lee</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;pragma-graham-lee-oriented-programming-paradigms&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;pragma-graham-lee-oriented-programming-paradigms&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
@@ -33,7 +34,7 @@
     <title>Object-Oriented Programming in Objective-C</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=_BbGxpiYFDg"/>
     <id>https://www.youtube.com/watch?v=_BbGxpiYFDg</id>
-    <updated>2016-02-03T13:19:57Z</updated>
+    <updated>2016-02-05T07:11:43Z</updated>
     <author>
       <name>Graham Lee</name>
     </author>
@@ -52,7 +53,7 @@
     <title>End to End Testing at Facebook</title>
     <link rel="alternate" href="https://vimeo.com/111942748"/>
     <id>https://vimeo.com/111942748</id>
-    <updated>2016-02-03T13:19:57Z</updated>
+    <updated>2016-02-05T07:11:43Z</updated>
     <author>
       <name>Graham Lee</name>
     </author>

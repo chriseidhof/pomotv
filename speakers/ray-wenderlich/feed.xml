@@ -5,21 +5,22 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/ray-wenderlich"/>
   <link href="http://www.pomo.tv/speakers/ray-wenderlich/feed.xml" rel="self"/>
-  <updated>2016-02-03T13:19:56Z</updated>
+  <updated>2016-02-05T07:11:41Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
     <title>Overloading Comparison</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=tWYAuKJ5Vio"/>
-    <id>https://www.youtube.com/watch?v=tWYAuKJ5Vio</id>
-    <updated>2016-02-03T13:19:56Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-ray-wenderlich-overloading-comparison/"/>
+    <id>https://realm.io/news/altconf-ray-wenderlich-overloading-comparison/</id>
+    <updated>2016-02-05T07:11:41Z</updated>
     <author>
       <name>Ray Wenderlich</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-ray-wenderlich-overloading-comparison&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-ray-wenderlich-overloading-comparison&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;inspirational&quot;&gt;inspirational&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;online-presence&quot;&gt;online presence&lt;&#x2F;a&gt;
@@ -35,7 +36,7 @@
     <title>Adding Juice to your Games</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=5aGFPpMvILY"/>
     <id>https://www.youtube.com/watch?v=5aGFPpMvILY</id>
-    <updated>2016-02-03T13:19:56Z</updated>
+    <updated>2016-02-05T07:11:41Z</updated>
     <author>
       <name>Ray Wenderlich</name>
     </author>

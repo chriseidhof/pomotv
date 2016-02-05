@@ -5,21 +5,22 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/3d"/>
   <link href="http://www.pomo.tv/tags/3d/feed.xml" rel="self"/>
-  <updated>2016-02-03T13:20:07Z</updated>
+  <updated>2016-02-05T07:11:55Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
     <title>Choose Your Character</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=L-zjV57tpnI"/>
-    <id>https://www.youtube.com/watch?v=L-zjV57tpnI</id>
-    <updated>2016-02-03T13:20:07Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-brianna-wu-choose-your-character/"/>
+    <id>https://realm.io/news/altconf-brianna-wu-choose-your-character/</id>
+    <updated>2016-02-05T07:11:55Z</updated>
     <author>
       <name>Brianna Wu</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-brianna-wu-choose-your-character&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-brianna-wu-choose-your-character&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;

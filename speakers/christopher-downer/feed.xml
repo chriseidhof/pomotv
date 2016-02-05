@@ -5,21 +5,22 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/christopher-downer"/>
   <link href="http://www.pomo.tv/speakers/christopher-downer/feed.xml" rel="self"/>
-  <updated>2016-02-03T13:19:57Z</updated>
+  <updated>2016-02-05T07:11:42Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
     <title>Design 101 for Developers</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=rpV4Oaah4fk"/>
-    <id>https://www.youtube.com/watch?v=rpV4Oaah4fk</id>
-    <updated>2016-02-03T13:19:57Z</updated>
+    <link rel="alternate" href="https://realm.io/news/christopher-downer-design-101-for-developers/"/>
+    <id>https://realm.io/news/christopher-downer-design-101-for-developers/</id>
+    <updated>2016-02-05T07:11:42Z</updated>
     <author>
       <name>Christopher Downer</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;christopher-downer-design-101-for-developers&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;christopher-downer-design-101-for-developers&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
@@ -33,7 +34,7 @@
     <title>Designing custom interfaces</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=jQ4i9EQFlNE"/>
     <id>https://www.youtube.com/watch?v=jQ4i9EQFlNE</id>
-    <updated>2016-02-03T13:19:57Z</updated>
+    <updated>2016-02-05T07:11:42Z</updated>
     <author>
       <name>Christopher Downer</name>
     </author>

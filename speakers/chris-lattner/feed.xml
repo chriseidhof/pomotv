@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/chris-lattner"/>
   <link href="http://www.pomo.tv/speakers/chris-lattner/feed.xml" rel="self"/>
-  <updated>2016-02-03T13:19:59Z</updated>
+  <updated>2016-02-05T07:11:46Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>What&#x27;s New in Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-106"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-106</id>
-    <updated>2016-02-03T13:19:59Z</updated>
+    <updated>2016-02-05T07:11:46Z</updated>
     <author>
       <name>Chris Lattner</name>
     </author>

@@ -5,21 +5,22 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/altconf/2015"/>
   <link href="http://www.pomo.tv/events/altconf/2015/feed.xml" rel="self"/>
-  <updated>2016-02-03T13:19:53Z</updated>
+  <updated>2016-02-05T07:11:37Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
     <title>The Worst Code</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=gqQzJKU440Y"/>
-    <id>https://www.youtube.com/watch?v=gqQzJKU440Y</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-michele-titolo-worst-code/"/>
+    <id>https://realm.io/news/altconf-michele-titolo-worst-code/</id>
+    <updated>2016-02-05T07:11:36Z</updated>
     <author>
       <name>Michele Titolo</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-michele-titolo-worst-code&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-michele-titolo-worst-code&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;social-coding&quot;&gt;social coding&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
@@ -32,14 +33,15 @@
 
     <entry>
     <title>The Social Coding Contract</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=kI9g6c5kjv8"/>
-    <id>https://www.youtube.com/watch?v=kI9g6c5kjv8</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-justin-searls-open-source-social-contract/"/>
+    <id>https://realm.io/news/altconf-justin-searls-open-source-social-contract/</id>
+    <updated>2016-02-05T07:11:36Z</updated>
     <author>
       <name>Justin Searls</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-justin-searls-open-source-social-contract&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-justin-searls-open-source-social-contract&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;social-coding&quot;&gt;social coding&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
@@ -52,14 +54,15 @@
 
     <entry>
     <title>Power Up Your Animations!</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Gh3z6lswj38"/>
-    <id>https://www.youtube.com/watch?v=Gh3z6lswj38</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-marin-todorov-animations/"/>
+    <id>https://realm.io/news/altconf-marin-todorov-animations/</id>
+    <updated>2016-02-05T07:11:36Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-marin-todorov-animations&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-marin-todorov-animations&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;animations&quot;&gt;animations&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;user-interface&quot;&gt;user interface&lt;&#x2F;a&gt;
@@ -73,14 +76,15 @@
 
     <entry>
     <title>Playgrounds Are for Kids</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=eUSvnQhKccQ"/>
-    <id>https://www.youtube.com/watch?v=eUSvnQhKccQ</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-daniel-steinberg-swift-playgrounds-education/"/>
+    <id>https://realm.io/news/altconf-daniel-steinberg-swift-playgrounds-education/</id>
+    <updated>2016-02-05T07:11:36Z</updated>
     <author>
       <name>Daniel Steinberg</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-daniel-steinberg-swift-playgrounds-education&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-daniel-steinberg-swift-playgrounds-education&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;inspirational&quot;&gt;inspirational&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;playground&quot;&gt;playground&lt;&#x2F;a&gt;
@@ -96,14 +100,15 @@
 
     <entry>
     <title>Overloading Comparison</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=tWYAuKJ5Vio"/>
-    <id>https://www.youtube.com/watch?v=tWYAuKJ5Vio</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-ray-wenderlich-overloading-comparison/"/>
+    <id>https://realm.io/news/altconf-ray-wenderlich-overloading-comparison/</id>
+    <updated>2016-02-05T07:11:36Z</updated>
     <author>
       <name>Ray Wenderlich</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-ray-wenderlich-overloading-comparison&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-ray-wenderlich-overloading-comparison&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;inspirational&quot;&gt;inspirational&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;online-presence&quot;&gt;online presence&lt;&#x2F;a&gt;
@@ -117,14 +122,15 @@
 
     <entry>
     <title>Object-Oriented Functional Programming</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=cw7vzDv0MUc"/>
-    <id>https://www.youtube.com/watch?v=cw7vzDv0MUc</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/"/>
+    <id>https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/</id>
+    <updated>2016-02-05T07:11:36Z</updated>
     <author>
       <name>Saul Mora</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-saul-mora-object-orientated-functional-programming&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-saul-mora-object-orientated-functional-programming&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;functional-programming&quot;&gt;functional programming&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;object-oriented&quot;&gt;object oriented&lt;&#x2F;a&gt;
@@ -138,14 +144,15 @@
 
     <entry>
     <title>Humanities x Technology</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=54DpTIQtObw"/>
-    <id>https://www.youtube.com/watch?v=54DpTIQtObw</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-ashley-nelson-hornstein-humanities-technology/"/>
+    <id>https://realm.io/news/altconf-ashley-nelson-hornstein-humanities-technology/</id>
+    <updated>2016-02-05T07:11:36Z</updated>
     <author>
       <name>Ashley Nelson Hornstein</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-ashley-nelson-hornstein-humanities-technology&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-ashley-nelson-hornstein-humanities-technology&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;inspirational&quot;&gt;inspirational&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;machine-interaction&quot;&gt;machine interaction&lt;&#x2F;a&gt;
@@ -159,14 +166,15 @@
 
     <entry>
     <title>Git as a Document Format</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=R6m855mfPGU"/>
-    <id>https://www.youtube.com/watch?v=R6m855mfPGU</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-wil-shipley-git-document-format/"/>
+    <id>https://realm.io/news/altconf-wil-shipley-git-document-format/</id>
+    <updated>2016-02-05T07:11:36Z</updated>
     <author>
       <name>Wil Shipley</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-wil-shipley-git-document-format&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-wil-shipley-git-document-format&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;git&quot;&gt;git&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;documents&quot;&gt;documents&lt;&#x2F;a&gt;
@@ -181,14 +189,15 @@
 
     <entry>
     <title>Functional Reactive Awesomeness With Swift</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=6k5U_a00bhQ"/>
-    <id>https://www.youtube.com/watch?v=6k5U_a00bhQ</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/"/>
+    <id>https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/</id>
+    <updated>2016-02-05T07:11:36Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-ash-furrow-functional-reactive-swift&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-ash-furrow-functional-reactive-swift&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;frp&quot;&gt;frp&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;functional-reactive-programming&quot;&gt;functional reactive programming&lt;&#x2F;a&gt;
@@ -203,14 +212,15 @@
 
     <entry>
     <title>Designing for Humans</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=HL38kUwrpoM"/>
-    <id>https://www.youtube.com/watch?v=HL38kUwrpoM</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-dave-wiskus-designing-for-humans/"/>
+    <id>https://realm.io/news/altconf-dave-wiskus-designing-for-humans/</id>
+    <updated>2016-02-05T07:11:37Z</updated>
     <author>
       <name>Dave Wiskus</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-dave-wiskus-designing-for-humans&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-dave-wiskus-designing-for-humans&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;design&quot;&gt;design&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;user-interface&quot;&gt;user interface&lt;&#x2F;a&gt;
@@ -225,14 +235,15 @@
 
     <entry>
     <title>Choose Your Character</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=L-zjV57tpnI"/>
-    <id>https://www.youtube.com/watch?v=L-zjV57tpnI</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-brianna-wu-choose-your-character/"/>
+    <id>https://realm.io/news/altconf-brianna-wu-choose-your-character/</id>
+    <updated>2016-02-05T07:11:37Z</updated>
     <author>
       <name>Brianna Wu</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-brianna-wu-choose-your-character&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-brianna-wu-choose-your-character&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;graphics&quot;&gt;graphics&lt;&#x2F;a&gt;
@@ -247,14 +258,15 @@
 
     <entry>
     <title>Beyond the Grid - Creating Unique, High Performance Interfaces With UICollectionView</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=tm-SO0RFt5c"/>
-    <id>https://www.youtube.com/watch?v=tm-SO0RFt5c</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-nathan-eror-uicollectionview/"/>
+    <id>https://realm.io/news/altconf-nathan-eror-uicollectionview/</id>
+    <updated>2016-02-05T07:11:37Z</updated>
     <author>
       <name>Nathan Eror</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-nathan-eror-uicollectionview&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-nathan-eror-uicollectionview&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;interface&quot;&gt;interface&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;grid&quot;&gt;grid&lt;&#x2F;a&gt;
@@ -269,14 +281,15 @@
 
     <entry>
     <title>A Eulogy for Objective-C</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=2s7UR-rNFss"/>
-    <id>https://www.youtube.com/watch?v=2s7UR-rNFss</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/"/>
+    <id>https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/</id>
+    <updated>2016-02-05T07:11:37Z</updated>
     <author>
       <name>Aaron Hillegass</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-aaron-hillegass-eulogy-for-objective-c&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-aaron-hillegass-eulogy-for-objective-c&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;c&quot;&gt;c++&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;interpretation&quot;&gt;interpretation&lt;&#x2F;a&gt;
@@ -290,14 +303,15 @@
 
     <entry>
     <title>[Objective] C++: What Could Possibly Go Wrong?</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=4hOEB_C342Q"/>
-    <id>https://www.youtube.com/watch?v=4hOEB_C342Q</id>
-    <updated>2016-02-03T13:19:53Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-peter-steinberger-objective-c++-what-could-possibly-go-wrong/"/>
+    <id>https://realm.io/news/altconf-peter-steinberger-objective-c++-what-could-possibly-go-wrong/</id>
+    <updated>2016-02-05T07:11:37Z</updated>
     <author>
       <name>Peter Steinberger</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-peter-steinberger-objective-c++-what-could-possibly-go-wrong&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-peter-steinberger-objective-c++-what-could-possibly-go-wrong&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;c&quot;&gt;c++&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;interpretation&quot;&gt;interpretation&lt;&#x2F;a&gt;

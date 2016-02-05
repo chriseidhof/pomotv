@@ -5,21 +5,22 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/collection-views"/>
   <link href="http://www.pomo.tv/tags/collection-views/feed.xml" rel="self"/>
-  <updated>2016-02-03T13:20:08Z</updated>
+  <updated>2016-02-05T07:11:57Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
     <title>Beyond the Grid - Creating Unique, High Performance Interfaces With UICollectionView</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=tm-SO0RFt5c"/>
-    <id>https://www.youtube.com/watch?v=tm-SO0RFt5c</id>
-    <updated>2016-02-03T13:20:08Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-nathan-eror-uicollectionview/"/>
+    <id>https://realm.io/news/altconf-nathan-eror-uicollectionview/</id>
+    <updated>2016-02-05T07:11:57Z</updated>
     <author>
       <name>Nathan Eror</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-nathan-eror-uicollectionview&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-nathan-eror-uicollectionview&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;interface&quot;&gt;interface&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;grid&quot;&gt;grid&lt;&#x2F;a&gt;

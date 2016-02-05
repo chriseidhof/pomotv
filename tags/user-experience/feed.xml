@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/user-experience"/>
   <link href="http://www.pomo.tv/tags/user-experience/feed.xml" rel="self"/>
-  <updated>2016-02-03T13:20:15Z</updated>
+  <updated>2016-02-05T07:12:07Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Advanced UX Design for Apple Watch</title>
     <link rel="alternate" href="https://vimeo.com/137545605"/>
     <id>https://vimeo.com/137545605</id>
-    <updated>2016-02-03T13:20:15Z</updated>
+    <updated>2016-02-05T07:12:07Z</updated>
     <author>
       <name>Shawn Davison</name>
     </author>
@@ -35,14 +35,15 @@
 
     <entry>
     <title>Designing for Humans</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=HL38kUwrpoM"/>
-    <id>https://www.youtube.com/watch?v=HL38kUwrpoM</id>
-    <updated>2016-02-03T13:20:15Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-dave-wiskus-designing-for-humans/"/>
+    <id>https://realm.io/news/altconf-dave-wiskus-designing-for-humans/</id>
+    <updated>2016-02-05T07:12:07Z</updated>
     <author>
       <name>Dave Wiskus</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-dave-wiskus-designing-for-humans&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-dave-wiskus-designing-for-humans&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;design&quot;&gt;design&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;user-interface&quot;&gt;user interface&lt;&#x2F;a&gt;

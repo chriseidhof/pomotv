@@ -5,21 +5,22 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/rxswift"/>
   <link href="http://www.pomo.tv/tags/rxswift/feed.xml" rel="self"/>
-  <updated>2016-02-03T13:20:14Z</updated>
+  <updated>2016-02-05T07:12:05Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
     <title>Functional Reactive Awesomeness With Swift</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=6k5U_a00bhQ"/>
-    <id>https://www.youtube.com/watch?v=6k5U_a00bhQ</id>
-    <updated>2016-02-03T13:20:14Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/"/>
+    <id>https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/</id>
+    <updated>2016-02-05T07:12:05Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-ash-furrow-functional-reactive-swift&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-ash-furrow-functional-reactive-swift&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;frp&quot;&gt;frp&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;functional-reactive-programming&quot;&gt;functional reactive programming&lt;&#x2F;a&gt;

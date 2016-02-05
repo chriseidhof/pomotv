@@ -5,21 +5,22 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/peter-steinberger"/>
   <link href="http://www.pomo.tv/speakers/peter-steinberger/feed.xml" rel="self"/>
-  <updated>2016-02-03T13:19:56Z</updated>
+  <updated>2016-02-05T07:11:41Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
     <title>[Objective] C++: What Could Possibly Go Wrong?</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=4hOEB_C342Q"/>
-    <id>https://www.youtube.com/watch?v=4hOEB_C342Q</id>
-    <updated>2016-02-03T13:19:56Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-peter-steinberger-objective-c++-what-could-possibly-go-wrong/"/>
+    <id>https://realm.io/news/altconf-peter-steinberger-objective-c++-what-could-possibly-go-wrong/</id>
+    <updated>2016-02-05T07:11:41Z</updated>
     <author>
       <name>Peter Steinberger</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-peter-steinberger-objective-c++-what-could-possibly-go-wrong&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-peter-steinberger-objective-c++-what-could-possibly-go-wrong&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;c&quot;&gt;c++&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;interpretation&quot;&gt;interpretation&lt;&#x2F;a&gt;
@@ -35,7 +36,7 @@
     <title>Scaling Your Indie Business</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=0iQeaoP3Nh8"/>
     <id>https://www.youtube.com/watch?v=0iQeaoP3Nh8</id>
-    <updated>2016-02-03T13:19:56Z</updated>
+    <updated>2016-02-05T07:11:41Z</updated>
     <author>
       <name>Peter Steinberger</name>
     </author>
@@ -56,7 +57,7 @@
     <title>How to bend UIKit to your will</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=psPNxC3G_hc"/>
     <id>https://www.youtube.com/watch?v=psPNxC3G_hc</id>
-    <updated>2016-02-03T13:19:56Z</updated>
+    <updated>2016-02-05T07:11:41Z</updated>
     <author>
       <name>Peter Steinberger</name>
     </author>

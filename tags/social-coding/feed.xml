@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/social-coding"/>
   <link href="http://www.pomo.tv/tags/social-coding/feed.xml" rel="self"/>
-  <updated>2016-02-03T13:20:14Z</updated>
+  <updated>2016-02-05T07:12:05Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Git it Together - Discussing Source Control</title>
     <link rel="alternate" href="https://vimeo.com/138116921"/>
     <id>https://vimeo.com/138116921</id>
-    <updated>2016-02-03T13:20:14Z</updated>
+    <updated>2016-02-05T07:12:05Z</updated>
     <author>
       <name>Nick Harris</name>
     </author>
@@ -33,14 +33,15 @@
 
     <entry>
     <title>The Worst Code</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=gqQzJKU440Y"/>
-    <id>https://www.youtube.com/watch?v=gqQzJKU440Y</id>
-    <updated>2016-02-03T13:20:14Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-michele-titolo-worst-code/"/>
+    <id>https://realm.io/news/altconf-michele-titolo-worst-code/</id>
+    <updated>2016-02-05T07:12:05Z</updated>
     <author>
       <name>Michele Titolo</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-michele-titolo-worst-code&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-michele-titolo-worst-code&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;social-coding&quot;&gt;social coding&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
@@ -53,14 +54,15 @@
 
     <entry>
     <title>The Social Coding Contract</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=kI9g6c5kjv8"/>
-    <id>https://www.youtube.com/watch?v=kI9g6c5kjv8</id>
-    <updated>2016-02-03T13:20:14Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-justin-searls-open-source-social-contract/"/>
+    <id>https://realm.io/news/altconf-justin-searls-open-source-social-contract/</id>
+    <updated>2016-02-05T07:12:05Z</updated>
     <author>
       <name>Justin Searls</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-justin-searls-open-source-social-contract&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-justin-searls-open-source-social-contract&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;social-coding&quot;&gt;social coding&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;

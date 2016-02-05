@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/design"/>
   <link href="http://www.pomo.tv/tags/design/feed.xml" rel="self"/>
-  <updated>2016-02-03T13:20:09Z</updated>
+  <updated>2016-02-05T07:11:58Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Beyond White: Embracing the iOS Design Aesthetic</title>
     <link rel="alternate" href="https://vimeo.com/137536119"/>
     <id>https://vimeo.com/137536119</id>
-    <updated>2016-02-03T13:20:09Z</updated>
+    <updated>2016-02-05T07:11:58Z</updated>
     <author>
       <name>Janie Clayton</name>
     </author>
@@ -35,7 +35,7 @@
     <title>Good UX and Design for Humans</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=nj7RLxEU98o"/>
     <id>https://www.youtube.com/watch?v=nj7RLxEU98o</id>
-    <updated>2016-02-03T13:20:09Z</updated>
+    <updated>2016-02-05T07:11:58Z</updated>
     <author>
       <name>Takemura Ori</name>
     </author>
@@ -56,7 +56,7 @@
     <title>Apple Watch Design Tips and Tricks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-805"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-805</id>
-    <updated>2016-02-03T13:20:09Z</updated>
+    <updated>2016-02-05T07:11:58Z</updated>
     <author>
       <name>Mike Stern</name>
     </author>
@@ -75,7 +75,7 @@
     <title>Designing with Animation</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-803"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-803</id>
-    <updated>2016-02-03T13:20:09Z</updated>
+    <updated>2016-02-05T07:11:58Z</updated>
     <author>
       <name>Julian Missig</name>
     </author>
@@ -98,14 +98,15 @@
 
     <entry>
     <title>Designing for Humans</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=HL38kUwrpoM"/>
-    <id>https://www.youtube.com/watch?v=HL38kUwrpoM</id>
-    <updated>2016-02-03T13:20:09Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-dave-wiskus-designing-for-humans/"/>
+    <id>https://realm.io/news/altconf-dave-wiskus-designing-for-humans/</id>
+    <updated>2016-02-05T07:11:58Z</updated>
     <author>
       <name>Dave Wiskus</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-dave-wiskus-designing-for-humans&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-dave-wiskus-designing-for-humans&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;design&quot;&gt;design&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;user-interface&quot;&gt;user interface&lt;&#x2F;a&gt;

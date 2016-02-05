@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/marin-todorov"/>
   <link href="http://www.pomo.tv/speakers/marin-todorov/feed.xml" rel="self"/>
-  <updated>2016-02-03T13:19:56Z</updated>
+  <updated>2016-02-05T07:11:41Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>What’s in for us after the Indiepocalypse?</title>
     <link rel="alternate" href="https://vimeo.com/137559415"/>
     <id>https://vimeo.com/137559415</id>
-    <updated>2016-02-03T13:19:56Z</updated>
+    <updated>2016-02-05T07:11:41Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Power up your animations</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=WP-gZi1byDI"/>
     <id>https://www.youtube.com/watch?v=WP-gZi1byDI</id>
-    <updated>2016-02-03T13:19:56Z</updated>
+    <updated>2016-02-05T07:11:41Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>
@@ -52,14 +52,15 @@
 
     <entry>
     <title>What’s in for us after the Indiepocalypse?</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=95XZUsOm31A"/>
-    <id>https://www.youtube.com/watch?v=95XZUsOm31A</id>
-    <updated>2016-02-03T13:19:56Z</updated>
+    <link rel="alternate" href="https://realm.io/news/pragma-marin-todorov-indie-developers-app-store/"/>
+    <id>https://realm.io/news/pragma-marin-todorov-indie-developers-app-store/</id>
+    <updated>2016-02-05T07:11:41Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;pragma-marin-todorov-indie-developers-app-store&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;pragma-marin-todorov-indie-developers-app-store&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
@@ -71,14 +72,15 @@
 
     <entry>
     <title>Power Up Your Animations!</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Gh3z6lswj38"/>
-    <id>https://www.youtube.com/watch?v=Gh3z6lswj38</id>
-    <updated>2016-02-03T13:19:56Z</updated>
+    <link rel="alternate" href="https://realm.io/news/altconf-marin-todorov-animations/"/>
+    <id>https://realm.io/news/altconf-marin-todorov-animations/</id>
+    <updated>2016-02-05T07:11:41Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>
     <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-marin-todorov-animations&#x2F;&quot;&gt;https:&#x2F;&#x2F;realm.io&#x2F;news&#x2F;altconf-marin-todorov-animations&#x2F;&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;animations&quot;&gt;animations&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;user-interface&quot;&gt;user interface&lt;&#x2F;a&gt;
