@@ -3506,7 +3506,7 @@ NSConference 2014:
     tags: [objective-c, kvo]
     vimeo: 97102055
   - language: English
-    speakers: [Marcus Zarra]
+    speakers: [Marcus S. Zarra]
     title: Not Invented Here 
     description: We often hear the phrase “Don’t re-invent the wheel.” But what does that really mean? In this session Marcus will be discussing his opinion on this often quoted phrase as well as a discussion of the impacts he is seeing of third party libraries.
     tags: []
