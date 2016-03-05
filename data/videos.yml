@@ -3617,3 +3617,25 @@ CocoaLove 2015:
     description: Allen spoke about the similarities between indie programmers and artists/musicians. Thanks to advances our tools and the community it's never been an easier time to get into programming, but that leads to a highly competitive hit-driven economy very similar to music, where it can be hard to get noticed. Sometimes we need to focus on our side projects not for the potential economic gains, but the creative outlet they provide.
     tags: [support]
     vimeo: 153679708
+Seattle Xcoders December 2015:
+  - language: English
+    speakers: [Curt Clifton]
+    title: Runtime Hacking for Fun and Profit
+    tags: [runtime, objective-c]
+    vimeo: 151482623
+Seattle Xcoders January 2016:
+  - language: English
+    speakers: [Tim Ekl]
+    title: Fix issue
+    tags: [xcode, provisioning]
+    vimeo: 154148473
+  - language: English
+    speakers: [Nathaniel Irons]
+    title: Ignore That Young Man From 2014
+    tags: [xcode, build, archive]
+    vimeo: 154146675
+  - language: English
+    speakers: [Nathan Corvino]
+    title: Universal Links, with a Nod to Other Web-Like Advances
+    tags: [universal links]
+    vimeo: 151531189
