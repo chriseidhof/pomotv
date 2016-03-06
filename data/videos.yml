@@ -57,7 +57,7 @@ UIKonf 2013:
 XOXO 2013:
   - language: English
     speakers: [Marco Arment]
-    tags: [ios, indie, buisiness, competition, emotion]
+    tags: [iOS, indie, buisiness, competition, emotion]
     youtube: D2RoYvcqhgM
     title: Fear and Competition
 UIKonf 2014:
@@ -1729,7 +1729,7 @@ UIKonf 2015:
   - language: English
     speakers: [Claus Höfele]
     title: Practical WatchKit Development
-    tags: []
+    tags: [watchOS]
     youtube: T9h72hH9TWA
   - language: English
     speakers: [Brian Gesiak]
@@ -1900,7 +1900,7 @@ WWDC 2015:
   - language: English
     speakers: [Andreas Wendker]
     title: Platforms State of the Union
-    tags: [ios, watchos]
+    tags: [iOS, watchOS]
     wwdc: "wwdc2015-102"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/1026npwuy2crj2xyuq11/102/102_platforms_state_of_the_union.pdf?dl=1"
   - language: English
@@ -1924,31 +1924,31 @@ WWDC 2015:
   - language: English
     speakers: [Mike Stern]
     title: Designing for Apple Watch
-    tags: [watchos]
+    tags: [watchOS]
     wwdc: "wwdc2015-802"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/802mpzd3nzovlygpbg/802/802_designing_for_apple_watch.pdf?dl=1"
   - language: English
     speakers: [Vipul Prakash]
     title: Introducing Search APIs
-    tags: [ios]
+    tags: [iOS]
     wwdc: "wwdc2015-709"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/709jcaer6su/709/709_introducing_search_apis.pdf?dl=1"
   - language: English
     speakers: [Jeffrey Traer Bernstein, Matthaeus Krenn, Bill Lindmeier]
     title: Designing for Future Hardware
-    tags: [prototype, ios]
+    tags: [prototype, iOS]
     wwdc: "wwdc2015-801"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/801auxyvb1pgtkufjk/801/801_designing_for_future_hardware.pdf?dl=1"
   - language: English
     speakers: [Brittany Paine]
     title: Optimizing Your App for Multitasking on iPad in iOS 9
-    tags: [ios, frameworks]
+    tags: [iOS, frameworks]
     wwdc: "wwdc2015-212"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/212mm5ra3oau66/212/212_optimizing_your_app_for_multitasking_on_ipad_in_ios_9.pdf?dl=1"
   - language: English
     speakers: [Debbie Sterling]
     title: Think Audacious
-    tags: [ios]
+    tags: [iOS]
     wwdc: "wwdc2015-112"
   - language: English
     speakers: [Antonio Cavedoni]
@@ -1965,7 +1965,7 @@ WWDC 2015:
   - language: English
     speakers: [Todd Fernandez]
     title: "What's New in Managing Apple Devices"
-    tags: [ios]
+    tags: [iOS]
     wwdc: "wwdc2015-301"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/301tcfp66f/301/301_whats_new_in_managing_apple_devices.pdf?dl=1"
   - language: English
@@ -2079,7 +2079,7 @@ WWDC 2015:
   - language: English
     speakers: [Miguel Sanchez]
     title: "Layout and Animation Techniques for WatchKit"
-    tags: [frameworks, watchos]
+    tags: [frameworks, watchOS]
     wwdc: "wwdc2015-216"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/216isrjt4ku9w4/216/216_layout_and_animation_techniques_for_watchkit.pdf?dl=1"
   - language: English
@@ -2151,7 +2151,7 @@ WWDC 2015:
   - language: English
     speakers: [Jake Behrens]
     title: "WatchKit Tips and Tricks"
-    tags: [frameworks, watchkit]
+    tags: [frameworks, watchKit]
     wwdc: "wwdc2015-228"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/228eahxjbaops/228/228_watchkit_tips_and_tricks.pdf?dl=1"
   - language: English
@@ -2163,7 +2163,7 @@ WWDC 2015:
   - language: English
     speakers: [Ben Englert]
     title: "Performance on iOS and watchOS"
-    tags: [frameworks, watchos]
+    tags: [frameworks, watchOS]
     wwdc: "wwdc2015-230"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/230wt8hs0wt8/230/230_performance_on_ios_and_watchos.pdf?dl=1"
   - language: English
@@ -2462,7 +2462,7 @@ WWDC 2015:
   - language: English
     speakers: [Chris Jensen, Alexander Ledwith]
     title: "Introducing Watch Connectivity"
-    tags: [systemframeworks, watchos]
+    tags: [systemframeworks, watchOS]
     wwdc: "wwdc2015-713"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/713gc2tqvvb/713/713_introducing_watch_connectivity.pdf?dl=1"
   - language: English
@@ -2581,7 +2581,7 @@ NSSpain 2015:
   - language: English
     speakers: [Natasha Murashev]
     title: The Zen Guide to WatchOS 2
-    tags: [watchos]
+    tags: [watchOS]
     vimeo: 141086010
   - language: English
     speakers: [Charlie Cowan]
@@ -2825,7 +2825,7 @@ CocoaHeads Stockholm October 2015:
   - language: English
     speakers: [Pedro Mancheno]
     title: Upgrading to watchOS 2
-    tags: [watchKit, watchOS]
+    tags: [watchOS]
     vimeo: 142104528
   - language: English
     speakers: [Anton Tingström]
@@ -2900,7 +2900,7 @@ Swift Summit San Francisco 2015:
   - language: English
     speakers: [Chris Eidhof]
     title: Swift Interop
-    tags: [objective-c, swift, interop, api]
+    tags: [objective-c, swift, interoperability, api]
     youtube: Grc4CEV6CFk
     direct-link: "https://www.skilled.io/chriseidhof/swift-interop"
   - language: English
@@ -2987,7 +2987,7 @@ Functional Swift Conference 2015:
   - language: English
     speakers: [Matthew Morey]
     title: WatchKit Notifications
-    tags: [watchkit,watchos]
+    tags: [watchKit,watchOS]
     vimeo: 138114340
   - language: English
     speakers: [Nick Harris]
@@ -3062,7 +3062,7 @@ Functional Swift Conference 2015:
   - language: English
     speakers: [Shawn Davison]
     title: Advanced UX Design for Apple Watch
-    tags: [ux,user experience,watchos,watchkit]
+    tags: [ux,user experience,watchOS,watchKit]
     vimeo: 137545605
   - language: English
     speakers: [Benjamin Encz]
@@ -3077,7 +3077,7 @@ Functional Swift Conference 2015:
   - language: English
     speakers: [Justin Williams]
     title: Mastering Auto Layout
-    tags: [auto layout]
+    tags: [autolayout]
     vimeo: 137550517
   - language: English
     speakers: [Stepan Hruda]
@@ -3154,7 +3154,7 @@ NSLondon October 2013:
   - language: English
     speakers: [Mike Abdullah]
     title: What's new in iOS 7 for the Hipster's Hipster
-    tags: [ios7]
+    tags: [iOS7]
     vimeo: 101841686
   - language: English
     speakers: [Kyle Fuller]
@@ -3235,7 +3235,7 @@ NSLondon July 2014:
   - language: English
     speakers: [Scott Goodson]
     title: Behind AsyncDisplayKit
-    tags: [asyncdisplaykit, user interaction, animation]
+    tags: [asyncdisplaykit, user interaction, animations]
     vimeo: 103589245
 NSLondon August 2014:
   - language: English
@@ -3252,12 +3252,12 @@ NSLondon September 2014:
   - language: English
     speakers: [Mike Abdullah]
     title: What's New in iOS8 for Hipsters
-    tags: [ios8]
+    tags: [iOS8]
     vimeo: 115305205
   - language: English
     speakers: [Alexsander Akers]
     title: The Other WatchKit
-    tags: [watchkit]
+    tags: [watchKit]
     vimeo: 115305206
 NSLondon November 2014:
   - language: English
@@ -3327,7 +3327,7 @@ NSLondon April 2015:
   - language: English
     speakers: [Neil Kimmett]
     title: Practical Watchkit
-    tags: [watchkit]
+    tags: [watchKit]
     vimeo: 133127238
 NSLondon May 2015:
   - language: English
@@ -3429,13 +3429,13 @@ NSConference 2014:
     vimeo: 95962975
   - language: English
     speakers: [Lex Friedman]
-    title: Being Apple 
+    title: Being Apple
     description: Apple offers a lot to aspire to. It’s a big company that’s achieved amazing things, amazing successes, and amazing profits to go along with them. In this talk, Lex will offer up insights on how you can be like Apple in less obvious ways, even it doesn’t score you a $500 billion market cap
     tags: []
     vimeo: 97516548
   - language: English
     speakers: [Ben Balckburne]
-    title: Squeezing machine learning algorithms onto an iPad 
+    title: Squeezing machine learning algorithms onto an iPad
     description: Machine learning algorithms can deliver apparently magical features in an app. Typically they require server-side processing, but that means both paying for compute time and moving potentially big or sensitive data over the internet. How do we make machine learning algorithms work within the CPU and RAM constraints of an iOS device?
     tags: [ai]
     vimeo: 97516104
@@ -3459,115 +3459,115 @@ NSConference 2014:
     vimeo: 97511944
   - language: English
     speakers: [Halle Winkler]
-    title: Post-Apocalyptic Technical Ethics 
+    title: Post-Apocalyptic Technical Ethics
     description: We learned some disquieting things about our governments and our industry in 2013. Summer's developer mantra of "was anyone surprised by any of this?" eventually turned into autumn's awkward silence as we also discovered that few of the technologies we base our own privacy expectations on are uncompromised.
     tags: [ethics]
     vimeo: 97510768
   - language: English
     speakers: [Michael Gachet]
-    title: You never know where ios development may take you 
+    title: You never know where ios development may take you
     description: This talk will go over a unique indie development experience which led to helping NGOs in the Horn of Africa find water for local populations.
     tags: [indie]
     vimeo: 97510547
   - language: English
     speakers: [Mattt Thompson]
-    title: Software Design & Eclecticism 
+    title: Software Design & Eclecticism
     description: What makes Foundation stand out among other standard libraries is how thoroughly it’s designed. From its date and time calculations to its internationalization and URL loading system, Cocoa APIs demonstrate thoughtfulness and a deep appreciation for understanding a problem in its entirety.
     tags: [foundation]
     vimeo: 97508062
   - language: English
     speakers: [Michael Lopp]
-    title: The Engineer, The Designer, and the Dictator 
+    title: The Engineer, The Designer, and the Dictator
     description: During the course of your career, it is likely you will have an undeniable urge to build a thing. It is equally likely that while you are well-intentioned, you are horrifically bad at a skill that is essential to successful thing building. In this talk, Michael Lopp will discuss ideal team construction in a presentation called “The Engineer, The Designer, and the Dictator”
     tags: [career]
     vimeo: 97507451
   - language: English
     speakers: [Karsten Kusche]
-    title: Building the next generation programming language 
+    title: Building the next generation programming language
     description: Humans are not the only ones working with the code, computers need to work with it too. If computers have an easier time working with the code, humans can enjoy much better tools to deal with the code!
     tags: [language]
     vimeo: 97102075
   - language: English
     speakers: [Daniel Pasco]
-    title: A Bil-centric view of product development 
+    title: A Bil-centric view of product development
     description: "Essentially, given an extraordinarily gifted developer - take Bil, our CTO -, there are things outside his area of expertise that he's recognized as hugely important to making a great app. He wants these people and things because they help him make something even greater: great design, great QA, support, the ability to reach a huge number of users (strong brand, really useful app, great content, etc)"
     tags: [business]
     vimeo: 97201703
   - language: English
     speakers: [Luc Vandal]
-    title: Land or Slam 
+    title: Land or Slam
     description: How lessons I’ve learned from skateboarding have influenced my current business.
     tags: [business, indie]
     vimeo: 97114266
   - language: English
     speakers: [Tobias Klonk]
-    title: Another approach to observation 
+    title: Another approach to observation
     description: In this session Tobias  introduces the audience to another possibility to implement the observer pattern in Cocoa, besides KVO and NotificationCenter.
     tags: [objective-c, kvo]
     vimeo: 97102055
   - language: English
     speakers: [Marcus S. Zarra]
-    title: Not Invented Here 
+    title: Not Invented Here
     description: We often hear the phrase “Don’t re-invent the wheel.” But what does that really mean? In this session Marcus will be discussing his opinion on this often quoted phrase as well as a discussion of the impacts he is seeing of third party libraries.
     tags: []
     vimeo: 97058344
   - language: English
     speakers: [Charles Parnot]
-    title: The Kitchen Sink Database 
+    title: The Kitchen Sink Database
     description: "A database is where you store your data. But in practice, your database scheme can quickly grow to become an untamed beast that makes you cry at night. To improve performance, you have the infamous `full_name` column living next to `first_name` and `last_name`; and then there’s `canonical_full_name` for proper search; and `needs_thumbnail` to keep track of thumbnail operations; and an extra table to normalize some relationships needed in the UI; and so on.  Every time you change the UI or add features, your database scheme gets more complicated. Maybe you did survive the software updates, the not-so-automatic migrations, the if statements littered around and the special `rebuildCache` methods. But now your f*^%$@ users want syncing, and you fear for your sanity. Here is the problem: your database is used both for **storing** the actual data and for **displaying** that data and managing the UI. Your data model is torn between two antagonistic goals, and you have a kitchen sink database. I propose a different approach where you explicitly separate those two functions, and with which you can ultimately get your sanity back."
     tags: [sync]
     vimeo: 96172262
   - language: English
     speakers: [David Smith]
-    title: While Nobody is Looking 
+    title: While Nobody is Looking
     description: There is a natural pull towards focussing on the visual design of an application. Your choice of color, typography and structure all directly impact how your user will experience your app. But what happens when your user isn’t looking? Designing applications for use by increasingly distracted users requires thinking about your customer from a completely different perspective. Building on lessons learned from years of building audio focused applications these are some guides for ensuring your design is usable in ANY context.
     tags: [business, indie]
     vimeo: 96086552
   - language: English
     speakers: [Scott Little]
-    title: What’s it like to fiddle Mail’s bits? 
+    title: What’s it like to fiddle Mail’s bits?
     description: Let me give you all a quick view from a totally different place than App Stores, nice simple Cocoa code and easily reusable Open Source projects. Writing Mail plugins is a pain in the ass that gives you tremendous challenges every day. I don’t recommend it, but I do enjoy it.
     tags: [plugin]
     vimeo: 96077948
   - language: English
     speakers: [Sean Woodhouse]
-    title: Tips and tricks for recording your meetup presentations 
+    title: Tips and tricks for recording your meetup presentations
     description: Today there are thousands of iOS and Mac developers meeting up and presenting awesome content all around the world. In this talk Sean will offer some helpful tips on recording, editing and publishing your meetup presentations for everyone to enjoy.
     tags: [community]
     vimeo: 96107143
   - language: English
     speakers: [Markos Charatzas]
-    title: Sound Debugging 
+    title: Sound Debugging
     description: Sound debugging is about elevating Xcode's ability to play sounds on a breakpoint to visualise code execution
     tags: [debugging, xcode]
     vimeo: 96070920
   - language: English
     speakers: [Rich Siegel]
-    title: Red Meat and Gin 
+    title: Red Meat and Gin
     description: "Bare Bones Software are widely recognized as one of the longest-lived indie Mac developers, having been in business since 1993. Their longevity stems from how they handle matters that Rich will cover in the talk: product concept, engineering discipline, customer service and support, ecosystem relations, living with Apple, and dealing with the unpredictable."
     tags: [business]
     vimeo: 96057339
   - language: English
     speakers: [Damian Sullivan]
-    title: Legal Considerations For Contract Developers 
+    title: Legal Considerations For Contract Developers
     description: Top legal tips for indie developers working on apps for clients, based on the very expensive mistakes I made in my first 5 years of developing apps for clients.
     tags: [business, legal]
     vimeo: 96004975
   - language: English
     speakers: [Amy Worrall]
-    title: KVO Considered Awesome 
+    title: KVO Considered Awesome
     description: A whirlwind tour through Key Value Coding (KVC), Key Value Observing (KVO), and Cocoa Bindings. Amy will explain what these technologies can do, when to use them, what their limitations are, and some tricks to work around common pitfalls. KVO has had a lot of bad press recently, but when used properly it can help you separate concerns and reduce the number of lines of code required for common operations.
     tags: [kvo]
     vimeo: 95999854
   - language: English
     speakers: [Matthew Robinson]
-    title: NSURLProtocol, Foundation's man-in-the-middle 
-    description: Mattt Thompson described NSURLProtocol as "an Apple-sanctioned man-in-the-middle attack."  Buried deep in Foundation's URL Loading System, NSURLProtocol allows us to intercept requests for URLs from the API libraries we are more familiar with, e.g. AFNetworking, NSURLConnection, UIWebView, NSURLDownload. 
+    title: NSURLProtocol, Foundation's man-in-the-middle
+    description: Mattt Thompson described NSURLProtocol as "an Apple-sanctioned man-in-the-middle attack."  Buried deep in Foundation's URL Loading System, NSURLProtocol allows us to intercept requests for URLs from the API libraries we are more familiar with, e.g. AFNetworking, NSURLConnection, UIWebView, NSURLDownload.
     tags: [foundation, networking]
     vimeo: 95956326
   - language: English
     speakers: [Giovanni Tarducci]
-    title: Making Apps in Stop-Motion 
+    title: Making Apps in Stop-Motion
     description: We are in the special effects business without even realizing it.
     tags: []
     vimeo: 95951952
