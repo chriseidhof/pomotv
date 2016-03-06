@@ -1450,6 +1450,42 @@ dotSwift 2015:
     tags: [swift]
     youtube: DTAs_OVGWIs
     direct-link: "http://www.thedotpost.com/2015/02/dimitri-dupuis-latour-think-swiftly"
+dotSwift 2016:
+  - language: English
+    speakers: [Rob Napier]
+    title: "Beyond Crusty: Real-World Protocols"
+    tags: [swift, protocols]
+    youtube: QCxkaTj7QJs
+  - language: English
+    speakers: [Chris Eidhof]
+    title: "Tiny Networking"
+    tags: [swift, networking]
+    youtube: ewk-XNzXzAA
+  - language: English
+    speakers: [Ayaka Nonaka]
+    title: "Going Swift and Beyond"
+    tags: [swift]
+    youtube: fdnpexLkdx4
+  - language: English
+    speakers: [Roy Marmelstein]
+    title: "Localization is hard"
+    tags: [swift, localization]
+    youtube: R9_jFbQsFWA
+  - language: English
+    speakers: [Maxim Zaks]
+    title: "Beyond JSON in Swift"
+    tags: [swift]
+    youtube: e8K9F8IVu14
+  - language: English
+    speakers: [TJ Usiyan]
+    title: "Swift [and the] Evolution"
+    tags: [swift]
+    youtube: Gh1RgYz--wg
+  - language: English
+    speakers: [Thomas Visser]
+    title: "The Bright Future of Swift"
+    tags: [swift]
+    youtube: vjGvsJv4Wos
 NSConference 2015:
   - language: English
     speakers: [James Dempsey]

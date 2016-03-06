@@ -34,7 +34,7 @@
   edition: April 2014
   url: http://www.meetup.com/NSLondon/events/178184972/
   date: April 28, 2014
-- event: UIKonf 
+- event: UIKonf
   edition: 2014
   url: http://www.uikonf.com
   date: May 13, 2014
@@ -42,15 +42,15 @@
   edition: May 2014
   url: http://www.meetup.com/NSLondon/events/184015892/
   date: May 22, 2014
-- event: WWDC 
+- event: WWDC
   edition: 2014
   url: https://developer.apple.com/videos/wwdc2014/
   date: June 2, 2014
-- event: AltConf 
+- event: AltConf
   edition: 2014
   date: Jun 2, 2014
   url: http://altconf.com
-- event: GitHub Reactive Cocoa Developer Conference 
+- event: GitHub Reactive Cocoa Developer Conference
   edition: 2014
   date: June 14, 2014
   url: https://github.com/ReactiveCocoa/ReactiveCocoa/issues/1350
@@ -66,7 +66,7 @@
   edition: August 2014
   url: http://www.meetup.com/NSLondon/events/202477212/
   date: August 28, 2014
-- event: NSSpain 
+- event: NSSpain
   edition: 2014
   url: http://nsspain.com/2014/
   date: September 18, 2014
@@ -82,7 +82,7 @@
   edition: 2014
   url: http://cmdrconf.com
   date: October 22, 2014
-- event: NSScotland 
+- event: NSScotland
   edition: 2014
   url: http://2014.nsscotland.com
   date: October 25, 2014
@@ -90,7 +90,7 @@
   edition: November 2014
   url: http://www.meetup.com/NSLondon/events/217616672/
   date: November 13, 2014
-- event: Functional Swift Conference 
+- event: Functional Swift Conference
   edition: 2014
   url: http://2014.funswiftconf.com
   date: December 6, 2014
@@ -106,19 +106,19 @@
   edition: February 2015 Part 1
   url: http://www.meetup.com/NSLondon/events/220054561/
   date: February 2, 2015
-- event: MCE Conference 
+- event: MCE Conference
   edition: 2015
   url: http://2015.mceconf.com/
   date: Feb 4, 2015
-- event: dotSwift 
+- event: dotSwift
   edition: 2015
-  url: http://2015.dotswift.io
+  url: http://2015.dotswift.io/
   date: Feb 6, 2015
 - event: NSLondon
   edition: February 2015 Part 2
   url: http://www.meetup.com/NSLondon/events/220581240/
   date: February 26, 2015
-- event: NSConference 
+- event: NSConference
   edition: 2015
   url: https://vimeo.com/nsconf
   date: March 16, 2015
@@ -130,7 +130,7 @@
   edition: April 2015
   url: http://www.meetup.com/NSLondon/events/221748091/
   date: April 23, 2015
-- event: UIKonf 
+- event: UIKonf
   edition: 2015
   url: http://www.uikonf.com
   date: May 17, 2015
@@ -138,11 +138,11 @@
   edition: May 2015
   url: http://www.meetup.com/NSLondon/events/222318474/
   date: May 28, 2015
-- event: AltConf 
+- event: AltConf
   edition: 2015
   url: https://realm.io/altconf/
   date: June 8, 2015
-- event: WWDC 
+- event: WWDC
   edition: 2015
   url: https://developer.apple.com/videos/wwdc2015/
   date: June 8, 2015
@@ -166,7 +166,7 @@
   edition: September 2015
   url: https://vimeo.com/cocoaheadssthlm
   date: September 07, 2015
-- event: NSSpain 
+- event: NSSpain
   edition: 2015
   url: http://nsspain.com/2015/
   date: September 16, 2015
@@ -218,7 +218,7 @@
   edition: December 2015
   url: https://vimeo.com/seattlexcoders
   date: December 10, 2015
-- event: Functional Swift Conference 
+- event: Functional Swift Conference
   edition: 2015
   url: http://2015.funswiftconf.com
   date: December 12, 2015
@@ -234,3 +234,7 @@
   edition: January 2016
   url: http://www.meetup.com/NSLondon/events/228033506/
   date: January 28, 2016
+- event: dotSwift
+  edition: 2016
+  url: http://2016.dotswift.io/
+  date: January 29, 2016
