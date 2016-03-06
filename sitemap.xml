@@ -181,10 +181,16 @@
     <loc>http://www.pomo.tv/events/nslondon/november-2015/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/december-2015/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/funswift/2015/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/cocoaheads-nl/january-2016/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/january-2016/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nslondon/january-2016/</loc>
@@ -1660,9 +1666,6 @@
     <loc>http://www.pomo.tv/speakers/tobias-klonk/</loc>
   </url>
   <url>
-    <loc>http://www.pomo.tv/speakers/marcus-zarra/</loc>
-  </url>
-  <url>
     <loc>http://www.pomo.tv/speakers/charles-parnot/</loc>
   </url>
   <url>
@@ -1741,6 +1744,18 @@
     <loc>http://www.pomo.tv/speakers/shane-reid/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/tim-ekl/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/nathaniel-irons/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/nathan-corvino/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/curt-clifton/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
@@ -1789,6 +1804,9 @@
     <loc>http://www.pomo.tv/tags/architecture/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/archive/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/arduino/</loc>
   </url>
   <url>
@@ -1832,6 +1850,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/bugs/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/build/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/buildasaur/</loc>
@@ -2375,6 +2396,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/unicode/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/universal-links/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/user-experience/</loc>
@@ -4267,7 +4291,7 @@
     <loc>http://www.pomo.tv/events/nsconf/2014/tobias-klonk-another-approach-to-observation.html</loc>
   </url>
   <url>
-    <loc>http://www.pomo.tv/events/nsconf/2014/marcus-zarra-not-invented-here.html</loc>
+    <loc>http://www.pomo.tv/events/nsconf/2014/marcus-s-zarra-not-invented-here.html</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nsconf/2014/charles-parnot-the-kitchen-sink-database.html</loc>
@@ -4319,5 +4343,17 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/cocoalove/2015/allen-pike-competing-with-art.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/december-2015/curt-clifton-runtime-hacking-for-fun-and-profit.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/january-2016/tim-ekl-fix-issue.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/january-2016/nathaniel-irons-ignore-that-young-man-from-2014.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/january-2016/nathan-corvino-universal-links-with-a-nod-to-other-web-like-advances.html</loc>
   </url>
 </urlset>

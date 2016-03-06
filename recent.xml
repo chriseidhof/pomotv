@@ -5,16 +5,100 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv/"/>
   <link href="http://www.pomo.tv/recent.xml" rel="self"/>
-  <updated>2016-02-05T07:11:30Z</updated>
+  <updated>2016-03-06T07:46:13Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Universal Links, with a Nod to Other Web-Like Advances</title>
+    <link rel="alternate" href="https://vimeo.com/151531189"/>
+    <id>https://vimeo.com/151531189</id>
+    <updated>2016-03-06T07:46:13Z</updated>
+    <author>
+      <name>Nathan Corvino</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;universal-links&quot;&gt;universal links&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;151531189&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Ignore That Young Man From 2014</title>
+    <link rel="alternate" href="https://vimeo.com/154146675"/>
+    <id>https://vimeo.com/154146675</id>
+    <updated>2016-03-06T07:46:13Z</updated>
+    <author>
+      <name>Nathaniel Irons</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;xcode&quot;&gt;xcode&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;build&quot;&gt;build&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;archive&quot;&gt;archive&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;154146675&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Fix issue</title>
+    <link rel="alternate" href="https://vimeo.com/154148473"/>
+    <id>https://vimeo.com/154148473</id>
+    <updated>2016-03-06T07:46:13Z</updated>
+    <author>
+      <name>Tim Ekl</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;xcode&quot;&gt;xcode&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;provisioning&quot;&gt;provisioning&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;154148473&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Runtime Hacking for Fun and Profit</title>
+    <link rel="alternate" href="https://vimeo.com/151482623"/>
+    <id>https://vimeo.com/151482623</id>
+    <updated>2016-03-06T07:46:13Z</updated>
+    <author>
+      <name>Curt Clifton</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;runtime&quot;&gt;runtime&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;objective-c&quot;&gt;objective-c&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;151482623&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Competing with Art</title>
     <link rel="alternate" href="https://vimeo.com/153679708"/>
     <id>https://vimeo.com/153679708</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Allen Pike</name>
     </author>
@@ -35,7 +119,7 @@
     <title>Thank You for Bugging me</title>
     <link rel="alternate" href="https://vimeo.com/153709408"/>
     <id>https://vimeo.com/153709408</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Chris Barajas</name>
     </author>
@@ -56,7 +140,7 @@
     <title>Protocol-Oriented DataSources</title>
     <link rel="alternate" href="https://vimeo.com/152193160"/>
     <id>https://vimeo.com/152193160</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Niels van Hoorn</name>
     </author>
@@ -78,7 +162,7 @@
     <title>Swift JsonGen, a code generator</title>
     <link rel="alternate" href="https://vimeo.com/152054122"/>
     <id>https://vimeo.com/152054122</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Tom Lokhorst</name>
     </author>
@@ -100,7 +184,7 @@
     <title>Crypto? Been there, done that</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=FWHADBbn4Kc"/>
     <id>https://www.youtube.com/watch?v=FWHADBbn4Kc</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Marcin Krzyżanowski</name>
     </author>
@@ -124,7 +208,7 @@
     <title>Swift C Interoperability</title>
     <link rel="alternate" href="https://vimeo.com/142850815"/>
     <id>https://vimeo.com/142850815</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -147,7 +231,7 @@
     <title>Prototyping anything you can imagine</title>
     <link rel="alternate" href="https://vimeo.com/142850816"/>
     <id>https://vimeo.com/142850816</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Koen Bok</name>
     </author>
@@ -169,7 +253,7 @@
     <title>Making Apps in Stop-Motion</title>
     <link rel="alternate" href="https://vimeo.com/95951952"/>
     <id>https://vimeo.com/95951952</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Giovanni Tarducci</name>
     </author>
@@ -189,7 +273,7 @@
     <title>NSURLProtocol, Foundation&#x27;s man-in-the-middle</title>
     <link rel="alternate" href="https://vimeo.com/95956326"/>
     <id>https://vimeo.com/95956326</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Matthew Robinson</name>
     </author>
@@ -211,7 +295,7 @@
     <title>KVO Considered Awesome</title>
     <link rel="alternate" href="https://vimeo.com/95999854"/>
     <id>https://vimeo.com/95999854</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Amy Worrall</name>
     </author>
@@ -232,7 +316,7 @@
     <title>Legal Considerations For Contract Developers</title>
     <link rel="alternate" href="https://vimeo.com/96004975"/>
     <id>https://vimeo.com/96004975</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Damian Sullivan</name>
     </author>
@@ -254,7 +338,7 @@
     <title>Red Meat and Gin</title>
     <link rel="alternate" href="https://vimeo.com/96057339"/>
     <id>https://vimeo.com/96057339</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Rich Siegel</name>
     </author>
@@ -275,7 +359,7 @@
     <title>Sound Debugging</title>
     <link rel="alternate" href="https://vimeo.com/96070920"/>
     <id>https://vimeo.com/96070920</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Markos Charatzas</name>
     </author>
@@ -297,7 +381,7 @@
     <title>Tips and tricks for recording your meetup presentations</title>
     <link rel="alternate" href="https://vimeo.com/96107143"/>
     <id>https://vimeo.com/96107143</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Sean Woodhouse</name>
     </author>
@@ -318,7 +402,7 @@
     <title>What’s it like to fiddle Mail’s bits?</title>
     <link rel="alternate" href="https://vimeo.com/96077948"/>
     <id>https://vimeo.com/96077948</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Scott Little</name>
     </author>
@@ -339,7 +423,7 @@
     <title>While Nobody is Looking</title>
     <link rel="alternate" href="https://vimeo.com/96086552"/>
     <id>https://vimeo.com/96086552</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>David Smith</name>
     </author>
@@ -361,7 +445,7 @@
     <title>The Kitchen Sink Database</title>
     <link rel="alternate" href="https://vimeo.com/96172262"/>
     <id>https://vimeo.com/96172262</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Charles Parnot</name>
     </author>
@@ -382,9 +466,9 @@
     <title>Not Invented Here</title>
     <link rel="alternate" href="https://vimeo.com/97058344"/>
     <id>https://vimeo.com/97058344</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
-      <name>Marcus Zarra</name>
+      <name>Marcus S. Zarra</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
@@ -402,7 +486,7 @@
     <title>Another approach to observation</title>
     <link rel="alternate" href="https://vimeo.com/97102055"/>
     <id>https://vimeo.com/97102055</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Tobias Klonk</name>
     </author>
@@ -424,7 +508,7 @@
     <title>Land or Slam</title>
     <link rel="alternate" href="https://vimeo.com/97114266"/>
     <id>https://vimeo.com/97114266</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Luc Vandal</name>
     </author>
@@ -446,7 +530,7 @@
     <title>A Bil-centric view of product development</title>
     <link rel="alternate" href="https://vimeo.com/97201703"/>
     <id>https://vimeo.com/97201703</id>
-    <updated>2016-02-05T07:11:30Z</updated>
+    <updated>2016-03-06T07:46:13Z</updated>
     <author>
       <name>Daniel Pasco</name>
     </author>
@@ -458,90 +542,6 @@
   &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Essentially, given an extraordinarily gifted developer - take Bil, our CTO -, there are things outside his area of expertise that he&#x27;s recognized as hugely important to making a great app. He wants these people and things because they help him make something even greater: great design, great QA, support, the ability to reach a huge number of users (strong brand, really useful app, great content, etc)&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97201703&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Building the next generation programming language</title>
-    <link rel="alternate" href="https://vimeo.com/97102075"/>
-    <id>https://vimeo.com/97102075</id>
-    <updated>2016-02-05T07:11:30Z</updated>
-    <author>
-      <name>Karsten Kusche</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;language&quot;&gt;language&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Humans are not the only ones working with the code, computers need to work with it too. If computers have an easier time working with the code, humans can enjoy much better tools to deal with the code!&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97102075&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>The Engineer, The Designer, and the Dictator</title>
-    <link rel="alternate" href="https://vimeo.com/97507451"/>
-    <id>https://vimeo.com/97507451</id>
-    <updated>2016-02-05T07:11:30Z</updated>
-    <author>
-      <name>Michael Lopp</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;career&quot;&gt;career&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;During the course of your career, it is likely you will have an undeniable urge to build a thing. It is equally likely that while you are well-intentioned, you are horrifically bad at a skill that is essential to successful thing building. In this talk, Michael Lopp will discuss ideal team construction in a presentation called “The Engineer, The Designer, and the Dictator”&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97507451&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Software Design &amp; Eclecticism</title>
-    <link rel="alternate" href="https://vimeo.com/97508062"/>
-    <id>https://vimeo.com/97508062</id>
-    <updated>2016-02-05T07:11:30Z</updated>
-    <author>
-      <name>Mattt Thompson</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;foundation&quot;&gt;foundation&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;What makes Foundation stand out among other standard libraries is how thoroughly it’s designed. From its date and time calculations to its internationalization and URL loading system, Cocoa APIs demonstrate thoughtfulness and a deep appreciation for understanding a problem in its entirety.&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97508062&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>You never know where ios development may take you</title>
-    <link rel="alternate" href="https://vimeo.com/97510547"/>
-    <id>https://vimeo.com/97510547</id>
-    <updated>2016-02-05T07:11:30Z</updated>
-    <author>
-      <name>Michael Gachet</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;This talk will go over a unique indie development experience which led to helping NGOs in the Horn of Africa find water for local populations.&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97510547&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>

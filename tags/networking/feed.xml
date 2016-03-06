@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/networking"/>
   <link href="http://www.pomo.tv/tags/networking/feed.xml" rel="self"/>
-  <updated>2016-02-05T07:12:04Z</updated>
+  <updated>2016-03-06T07:46:33Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>NSURLProtocol, Foundation&#x27;s man-in-the-middle</title>
     <link rel="alternate" href="https://vimeo.com/95956326"/>
     <id>https://vimeo.com/95956326</id>
-    <updated>2016-02-05T07:12:04Z</updated>
+    <updated>2016-03-06T07:46:33Z</updated>
     <author>
       <name>Matthew Robinson</name>
     </author>
@@ -36,7 +36,7 @@
     <title>MultiPeer Networking</title>
     <link rel="alternate" href="https://vimeo.com/103581232"/>
     <id>https://vimeo.com/103581232</id>
-    <updated>2016-02-05T07:12:04Z</updated>
+    <updated>2016-03-06T07:46:33Z</updated>
     <author>
       <name>Rob Stearn</name>
     </author>
@@ -57,7 +57,7 @@
     <title>Networking with NSURLSession</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-711"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-711</id>
-    <updated>2016-02-05T07:12:04Z</updated>
+    <updated>2016-03-06T07:46:33Z</updated>
     <author>
       <name>Luke Case</name>
     </author>
@@ -77,7 +77,7 @@
     <title>Networking with Monads</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=LqwrUmuodyY"/>
     <id>https://www.youtube.com/watch?v=LqwrUmuodyY</id>
-    <updated>2016-02-05T07:12:04Z</updated>
+    <updated>2016-03-06T07:46:33Z</updated>
     <author>
       <name>John Gallagher</name>
     </author>

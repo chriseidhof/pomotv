@@ -5,16 +5,36 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/marcus-s-zarra"/>
   <link href="http://www.pomo.tv/speakers/marcus-s-zarra/feed.xml" rel="self"/>
-  <updated>2016-02-05T07:11:43Z</updated>
+  <updated>2016-03-06T07:46:21Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Not Invented Here</title>
+    <link rel="alternate" href="https://vimeo.com/97058344"/>
+    <id>https://vimeo.com/97058344</id>
+    <updated>2016-03-06T07:46:21Z</updated>
+    <author>
+      <name>Marcus S. Zarra</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;We often hear the phrase “Don’t re-invent the wheel.” But what does that really mean? In this session Marcus will be discussing his opinion on this often quoted phrase as well as a discussion of the impacts he is seeing of third party libraries.&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97058344&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Core Data Threading Demystified</title>
     <link rel="alternate" href="https://realm.io/news/marcus-zarra-core-data-threading/"/>
     <id>https://realm.io/news/marcus-zarra-core-data-threading/</id>
-    <updated>2016-02-05T07:11:43Z</updated>
+    <updated>2016-03-06T07:46:21Z</updated>
     <author>
       <name>Marcus S. Zarra</name>
     </author>
@@ -35,7 +55,7 @@
     <title>Core Data: Multi-Threading Clarity</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ckbke8vjHMw"/>
     <id>https://www.youtube.com/watch?v=ckbke8vjHMw</id>
-    <updated>2016-02-05T07:11:43Z</updated>
+    <updated>2016-03-06T07:46:21Z</updated>
     <author>
       <name>Marcus S. Zarra</name>
     </author>
