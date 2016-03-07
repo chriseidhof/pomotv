@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/runtime"/>
   <link href="http://www.pomo.tv/tags/runtime/feed.xml" rel="self"/>
-  <updated>2016-03-07T07:41:07Z</updated>
+  <updated>2016-03-07T09:05:17Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Runtime Hacking for Fun and Profit</title>
     <link rel="alternate" href="https://vimeo.com/151482623"/>
     <id>https://vimeo.com/151482623</id>
-    <updated>2016-03-07T07:41:07Z</updated>
+    <updated>2016-03-07T09:05:17Z</updated>
     <author>
       <name>Curt Clifton</name>
     </author>
@@ -35,7 +35,7 @@
     <title>Swift Funtime</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-boris-bugling-runtime-funtime/"/>
     <id>https://realm.io/news/swift-summit-boris-bugling-runtime-funtime/</id>
-    <updated>2016-03-07T07:41:07Z</updated>
+    <updated>2016-03-07T09:05:17Z</updated>
     <author>
       <name>Boris Bügling</name>
     </author>
@@ -56,7 +56,7 @@
     <title>Objective-C funtime - know your runtime</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=vrEoUSuMu_c"/>
     <id>https://www.youtube.com/watch?v=vrEoUSuMu_c</id>
-    <updated>2016-03-07T07:41:07Z</updated>
+    <updated>2016-03-07T09:05:17Z</updated>
     <author>
       <name>Boris Bügling</name>
     </author>
@@ -76,7 +76,7 @@
     <title>How to bend UIKit to your will</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=psPNxC3G_hc"/>
     <id>https://www.youtube.com/watch?v=psPNxC3G_hc</id>
-    <updated>2016-03-07T07:41:07Z</updated>
+    <updated>2016-03-07T09:05:17Z</updated>
     <author>
       <name>Peter Steinberger</name>
     </author>
