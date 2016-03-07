@@ -57,7 +57,7 @@ UIKonf 2013:
 XOXO 2013:
   - language: English
     speakers: [Marco Arment]
-    tags: [iOS, indie, buisiness, competition, emotion]
+    tags: [ios, indie, buisiness, competition, emotion]
     youtube: D2RoYvcqhgM
     title: Fear and Competition
 UIKonf 2014:
@@ -1729,7 +1729,7 @@ UIKonf 2015:
   - language: English
     speakers: [Claus Höfele]
     title: Practical WatchKit Development
-    tags: [watchOS]
+    tags: [watchos]
     youtube: T9h72hH9TWA
   - language: English
     speakers: [Brian Gesiak]
@@ -1900,7 +1900,7 @@ WWDC 2015:
   - language: English
     speakers: [Andreas Wendker]
     title: Platforms State of the Union
-    tags: [iOS, watchOS]
+    tags: [ios, watchos]
     wwdc: "wwdc2015-102"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/1026npwuy2crj2xyuq11/102/102_platforms_state_of_the_union.pdf?dl=1"
   - language: English
@@ -1924,31 +1924,31 @@ WWDC 2015:
   - language: English
     speakers: [Mike Stern]
     title: Designing for Apple Watch
-    tags: [watchOS]
+    tags: [watchos]
     wwdc: "wwdc2015-802"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/802mpzd3nzovlygpbg/802/802_designing_for_apple_watch.pdf?dl=1"
   - language: English
     speakers: [Vipul Prakash]
     title: Introducing Search APIs
-    tags: [iOS]
+    tags: [ios]
     wwdc: "wwdc2015-709"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/709jcaer6su/709/709_introducing_search_apis.pdf?dl=1"
   - language: English
     speakers: [Jeffrey Traer Bernstein, Matthaeus Krenn, Bill Lindmeier]
     title: Designing for Future Hardware
-    tags: [prototype, iOS]
+    tags: [prototype, ios]
     wwdc: "wwdc2015-801"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/801auxyvb1pgtkufjk/801/801_designing_for_future_hardware.pdf?dl=1"
   - language: English
     speakers: [Brittany Paine]
     title: Optimizing Your App for Multitasking on iPad in iOS 9
-    tags: [iOS, frameworks]
+    tags: [ios, frameworks]
     wwdc: "wwdc2015-212"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/212mm5ra3oau66/212/212_optimizing_your_app_for_multitasking_on_ipad_in_ios_9.pdf?dl=1"
   - language: English
     speakers: [Debbie Sterling]
     title: Think Audacious
-    tags: [iOS]
+    tags: [ios]
     wwdc: "wwdc2015-112"
   - language: English
     speakers: [Antonio Cavedoni]
@@ -1965,7 +1965,7 @@ WWDC 2015:
   - language: English
     speakers: [Todd Fernandez]
     title: "What's New in Managing Apple Devices"
-    tags: [iOS]
+    tags: [ios]
     wwdc: "wwdc2015-301"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/301tcfp66f/301/301_whats_new_in_managing_apple_devices.pdf?dl=1"
   - language: English
@@ -2079,7 +2079,7 @@ WWDC 2015:
   - language: English
     speakers: [Miguel Sanchez]
     title: "Layout and Animation Techniques for WatchKit"
-    tags: [frameworks, watchOS]
+    tags: [frameworks, watchos]
     wwdc: "wwdc2015-216"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/216isrjt4ku9w4/216/216_layout_and_animation_techniques_for_watchkit.pdf?dl=1"
   - language: English
@@ -2151,7 +2151,7 @@ WWDC 2015:
   - language: English
     speakers: [Jake Behrens]
     title: "WatchKit Tips and Tricks"
-    tags: [frameworks, watchKit]
+    tags: [frameworks, watchkit]
     wwdc: "wwdc2015-228"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/228eahxjbaops/228/228_watchkit_tips_and_tricks.pdf?dl=1"
   - language: English
@@ -2163,7 +2163,7 @@ WWDC 2015:
   - language: English
     speakers: [Ben Englert]
     title: "Performance on iOS and watchOS"
-    tags: [frameworks, watchOS]
+    tags: [frameworks, watchos]
     wwdc: "wwdc2015-230"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/230wt8hs0wt8/230/230_performance_on_ios_and_watchos.pdf?dl=1"
   - language: English
@@ -2462,7 +2462,7 @@ WWDC 2015:
   - language: English
     speakers: [Chris Jensen, Alexander Ledwith]
     title: "Introducing Watch Connectivity"
-    tags: [systemframeworks, watchOS]
+    tags: [systemframeworks, watchos]
     wwdc: "wwdc2015-713"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/713gc2tqvvb/713/713_introducing_watch_connectivity.pdf?dl=1"
   - language: English
@@ -2581,7 +2581,7 @@ NSSpain 2015:
   - language: English
     speakers: [Natasha Murashev]
     title: The Zen Guide to WatchOS 2
-    tags: [watchOS]
+    tags: [watchos]
     vimeo: 141086010
   - language: English
     speakers: [Charlie Cowan]
@@ -2763,7 +2763,7 @@ CocoaHeads Stockholm November 2015:
   - language: English
     speakers: [Mohsan Khan]
     title: All you have to do is Hoppa!
-    tags: [games, sceneKit]
+    tags: [games, scenekit]
     vimeo: 146505694
 "do{iOS} Amsterdam 2015":
   - language: English
@@ -2794,7 +2794,7 @@ CocoaHeads Stockholm November 2015:
   - language: English
     speakers: [Axel Roest]
     title: tvOS Perks and Pitfalls
-    tags: [tvOS]
+    tags: [tvos]
     youtube: 1KPQHDCAh0c
   - language: English
     speakers: [Katy Price]
@@ -2804,7 +2804,7 @@ CocoaHeads Stockholm November 2015:
   - language: English
     speakers: [Natasha Murashev]
     title: "Protocol Oriented MVVM"
-    tags: [MVVM, swift]
+    tags: [mmvm, swift]
     youtube: cGWBpra3YMc
   - language: English
     speakers: [Daniel Steinberg]
@@ -2825,12 +2825,12 @@ CocoaHeads Stockholm October 2015:
   - language: English
     speakers: [Pedro Mancheno]
     title: Upgrading to watchOS 2
-    tags: [watchOS]
+    tags: [watchos]
     vimeo: 142104528
   - language: English
     speakers: [Anton Tingström]
     title: Introduction to tvOS
-    tags: [tvOS]
+    tags: [tvos]
     vimeo: 142104527
 CocoaHeads Stockholm September 2015:
   - language: English
@@ -2842,7 +2842,7 @@ CocoaHeads Stockholm August 2015:
   - language: English
     speakers: [David Rönnqvist]
     title: Introduction to GameplayKit
-    tags: [GameplayKit]
+    tags: [gameplaykit]
     vimeo: 136012905
   - language: English
     speakers: [Anton Tingström]
@@ -2953,7 +2953,7 @@ Functional Swift Conference 2015:
     speakers: [Brian Partridge]
     title: Result Driven Development
     youtube: aCm68xAWrno
-    tags: [result,monads,flatMap,errors]
+    tags: [result,monads,flatmap,errors]
   - language: English
     speakers: [Brandon Williams]
     title: Lenses in Swift
@@ -2962,7 +2962,7 @@ Functional Swift Conference 2015:
   - language: English
     speakers: [Chris Eidhof]
     title: Functional View Controllers
-    tags: [view controllers, monads, flatMap]
+    tags: [view controllers, monads, flatmap]
     youtube: sP156LW5BVs
   - language: English
     speakers: [Colin Barrett]
@@ -2987,7 +2987,7 @@ Functional Swift Conference 2015:
   - language: English
     speakers: [Matthew Morey]
     title: WatchKit Notifications
-    tags: [watchKit,watchOS]
+    tags: [watchkit,watchos]
     vimeo: 138114340
   - language: English
     speakers: [Nick Harris]
@@ -3062,7 +3062,7 @@ Functional Swift Conference 2015:
   - language: English
     speakers: [Shawn Davison]
     title: Advanced UX Design for Apple Watch
-    tags: [ux,user experience,watchOS,watchKit]
+    tags: [ux,user experience,watchos,watchkit]
     vimeo: 137545605
   - language: English
     speakers: [Benjamin Encz]
@@ -3154,7 +3154,7 @@ NSLondon October 2013:
   - language: English
     speakers: [Mike Abdullah]
     title: What's new in iOS 7 for the Hipster's Hipster
-    tags: [iOS7]
+    tags: [ios7]
     vimeo: 101841686
   - language: English
     speakers: [Kyle Fuller]
@@ -3252,12 +3252,12 @@ NSLondon September 2014:
   - language: English
     speakers: [Mike Abdullah]
     title: What's New in iOS8 for Hipsters
-    tags: [iOS8]
+    tags: [ios8]
     vimeo: 115305205
   - language: English
     speakers: [Alexsander Akers]
     title: The Other WatchKit
-    tags: [watchKit]
+    tags: [watchkit]
     vimeo: 115305206
 NSLondon November 2014:
   - language: English
@@ -3327,7 +3327,7 @@ NSLondon April 2015:
   - language: English
     speakers: [Neil Kimmett]
     title: Practical Watchkit
-    tags: [watchKit]
+    tags: [watchkit]
     vimeo: 133127238
 NSLondon May 2015:
   - language: English
@@ -3383,7 +3383,7 @@ NSLondon January 2016:
   - language: English
     speakers: [Bohdan Orlov]
     title: iOS Architecture Patterns
-    tags: [architecture, MVVM]
+    tags: [architecture, mvvm]
     vimeo: 153520720
   - language: English
     speakers: [Mark Szulyovszky]
@@ -3576,7 +3576,7 @@ CocoaHeadsNL October 2015:
     speakers: [Koen Bok]
     title: Prototyping anything you can imagine
     description: The future of design tools, prototyping and Framer.
-    tags: [Framer,prototyping]
+    tags: [framer,prototyping]
     vimeo: 142850816
   - language: English
     speakers: [Chris Eidhof]
