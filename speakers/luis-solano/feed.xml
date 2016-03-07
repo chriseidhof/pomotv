@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/luis-solano"/>
   <link href="http://www.pomo.tv/speakers/luis-solano/feed.xml" rel="self"/>
-  <updated>2016-03-07T09:04:59Z</updated>
+  <updated>2016-03-07T10:12:56Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Writing DSLs for Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=a3rR5XVA22w"/>
     <id>https://www.youtube.com/watch?v=a3rR5XVA22w</id>
-    <updated>2016-03-07T09:04:59Z</updated>
+    <updated>2016-03-07T10:12:56Z</updated>
     <author>
       <name>Luis Solano</name>
     </author>
@@ -33,7 +33,7 @@
     <title>Techniques for writing DSLs in Objective-C</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=vv88YvH6Eqs"/>
     <id>https://www.youtube.com/watch?v=vv88YvH6Eqs</id>
-    <updated>2016-03-07T09:04:59Z</updated>
+    <updated>2016-03-07T10:12:56Z</updated>
     <author>
       <name>Luis Solano</name>
     </author>

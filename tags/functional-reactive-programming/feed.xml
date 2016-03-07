@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/functional-reactive-programming"/>
   <link href="http://www.pomo.tv/tags/functional-reactive-programming/feed.xml" rel="self"/>
-  <updated>2016-03-07T09:05:12Z</updated>
+  <updated>2016-03-07T10:13:14Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Using Elm&#x2F;React inspired architecture to build Cocoa apps in a functional way</title>
     <link rel="alternate" href="https://vimeo.com/153520719"/>
     <id>https://vimeo.com/153520719</id>
-    <updated>2016-03-07T09:05:12Z</updated>
+    <updated>2016-03-07T10:13:14Z</updated>
     <author>
       <name>Rheese Burgess</name>
     </author>
@@ -38,7 +38,7 @@
     <title>Quick introduction to RFP with zero theory</title>
     <link rel="alternate" href="https://vimeo.com/153520718"/>
     <id>https://vimeo.com/153520718</id>
-    <updated>2016-03-07T09:05:12Z</updated>
+    <updated>2016-03-07T10:13:14Z</updated>
     <author>
       <name>Mark Szulyovszky</name>
     </author>
@@ -62,7 +62,7 @@
     <title>Functional Thinking</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=hHeideOmLs4"/>
     <id>https://www.youtube.com/watch?v=hHeideOmLs4</id>
-    <updated>2016-03-07T09:05:12Z</updated>
+    <updated>2016-03-07T10:13:14Z</updated>
     <author>
       <name>Agnes Vasarhelyi</name>
     </author>
@@ -82,7 +82,7 @@
     <title>Functional Reactive Awesomeness With Swift</title>
     <link rel="alternate" href="https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/"/>
     <id>https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/</id>
-    <updated>2016-03-07T09:05:12Z</updated>
+    <updated>2016-03-07T10:13:14Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>
@@ -105,7 +105,7 @@
     <title>Functional Reactive Programming without Black Magic - Build your own...</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=AcDaWe3S75c"/>
     <id>https://www.youtube.com/watch?v=AcDaWe3S75c</id>
-    <updated>2016-03-07T09:05:12Z</updated>
+    <updated>2016-03-07T10:13:14Z</updated>
     <author>
       <name>Jens Ravens</name>
     </author>
@@ -125,7 +125,7 @@
     <title>Enemy Of The State</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=7AqXBuJOJkY"/>
     <id>https://www.youtube.com/watch?v=7AqXBuJOJkY</id>
-    <updated>2016-03-07T09:05:12Z</updated>
+    <updated>2016-03-07T10:13:14Z</updated>
     <author>
       <name>Justin Spahr-Summers</name>
     </author>
@@ -145,7 +145,7 @@
     <title>How I Learned to Stop Worrying about State and Love ReactiveCocoa</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=YlsunWT87eo"/>
     <id>https://www.youtube.com/watch?v=YlsunWT87eo</id>
-    <updated>2016-03-07T09:05:12Z</updated>
+    <updated>2016-03-07T10:13:14Z</updated>
     <author>
       <name>Robert Böhnke</name>
     </author>
