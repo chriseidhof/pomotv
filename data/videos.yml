@@ -1450,6 +1450,49 @@ dotSwift 2015:
     tags: [swift]
     youtube: DTAs_OVGWIs
     direct-link: "http://www.thedotpost.com/2015/02/dimitri-dupuis-latour-think-swiftly"
+dotSwift 2016:
+  - language: English
+    speakers: [Rob Napier]
+    title: "Beyond Crusty: Real-World Protocols"
+    tags: [swift, protocols]
+    youtube: QCxkaTj7QJs
+    direct-link: "http://www.thedotpost.com/2016/01/rob-napier-beyond-crusty-real-world-protocols"
+  - language: English
+    speakers: [Chris Eidhof]
+    title: "Tiny Networking"
+    tags: [swift, networking]
+    youtube: ewk-XNzXzAA
+    direct-link: "http://www.thedotpost.com/2016/01/chris-eidhof-tiny-networking-in-swift"
+  - language: English
+    speakers: [Ayaka Nonaka]
+    title: "Going Swift and Beyond"
+    tags: [swift, coordinators]
+    youtube: fdnpexLkdx4
+    direct-link: "http://www.thedotpost.com/2016/01/ayaka-nonaka-going-swift-and-beyond-first-wave-swift"
+  - language: English
+    speakers: [Roy Marmelstein]
+    title: "Localization is hard"
+    tags: [swift, localization]
+    youtube: R9_jFbQsFWA
+    direct-link: "http://www.thedotpost.com/2016/01/roy-marmelstein-localization-is-hard"
+  - language: English
+    speakers: [Maxim Zaks]
+    title: "Beyond JSON in Swift"
+    tags: [swift, flatbuffers]
+    youtube: e8K9F8IVu14
+    direct-link: "http://www.thedotpost.com/2016/01/maxim-zaks-beyond-json"
+  - language: English
+    speakers: [TJ Usiyan]
+    title: "Swift [and the] Evolution"
+    tags: [swift]
+    youtube: Gh1RgYz--wg
+    direct-link: "http://www.thedotpost.com/2016/01/tj-usiyan-swift-and-the-evolution"
+  - language: English
+    speakers: [Thomas Visser]
+    title: "The Bright Future of Swift"
+    tags: [swift, futures]
+    youtube: vjGvsJv4Wos
+    direct-link: "http://www.thedotpost.com/2016/01/thomas-visser-the-bright-future-of-swift"
 NSConference 2015:
   - language: English
     speakers: [James Dempsey]
