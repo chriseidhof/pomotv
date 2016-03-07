@@ -1729,7 +1729,7 @@ UIKonf 2015:
   - language: English
     speakers: [Claus Höfele]
     title: Practical WatchKit Development
-    tags: []
+    tags: [watchos]
     youtube: T9h72hH9TWA
   - language: English
     speakers: [Brian Gesiak]
@@ -2763,7 +2763,7 @@ CocoaHeads Stockholm November 2015:
   - language: English
     speakers: [Mohsan Khan]
     title: All you have to do is Hoppa!
-    tags: [games, sceneKit]
+    tags: [games, scenekit]
     vimeo: 146505694
 "do{iOS} Amsterdam 2015":
   - language: English
@@ -2794,7 +2794,7 @@ CocoaHeads Stockholm November 2015:
   - language: English
     speakers: [Axel Roest]
     title: tvOS Perks and Pitfalls
-    tags: [tvOS]
+    tags: [tvos]
     youtube: 1KPQHDCAh0c
   - language: English
     speakers: [Katy Price]
@@ -2804,7 +2804,7 @@ CocoaHeads Stockholm November 2015:
   - language: English
     speakers: [Natasha Murashev]
     title: "Protocol Oriented MVVM"
-    tags: [MVVM, swift]
+    tags: [mmvm, swift]
     youtube: cGWBpra3YMc
   - language: English
     speakers: [Daniel Steinberg]
@@ -2825,12 +2825,12 @@ CocoaHeads Stockholm October 2015:
   - language: English
     speakers: [Pedro Mancheno]
     title: Upgrading to watchOS 2
-    tags: [watchKit, watchOS]
+    tags: [watchos]
     vimeo: 142104528
   - language: English
     speakers: [Anton Tingström]
     title: Introduction to tvOS
-    tags: [tvOS]
+    tags: [tvos]
     vimeo: 142104527
 CocoaHeads Stockholm September 2015:
   - language: English
@@ -2842,7 +2842,7 @@ CocoaHeads Stockholm August 2015:
   - language: English
     speakers: [David Rönnqvist]
     title: Introduction to GameplayKit
-    tags: [GameplayKit]
+    tags: [gameplaykit]
     vimeo: 136012905
   - language: English
     speakers: [Anton Tingström]
@@ -2900,7 +2900,7 @@ Swift Summit San Francisco 2015:
   - language: English
     speakers: [Chris Eidhof]
     title: Swift Interop
-    tags: [objective-c, swift, interop, api]
+    tags: [objective-c, swift, interoperability, api]
     youtube: Grc4CEV6CFk
     direct-link: "https://www.skilled.io/chriseidhof/swift-interop"
   - language: English
@@ -2953,7 +2953,7 @@ Functional Swift Conference 2015:
     speakers: [Brian Partridge]
     title: Result Driven Development
     youtube: aCm68xAWrno
-    tags: [result,monads,flatMap,errors]
+    tags: [result,monads,flatmap,errors]
   - language: English
     speakers: [Brandon Williams]
     title: Lenses in Swift
@@ -2962,7 +2962,7 @@ Functional Swift Conference 2015:
   - language: English
     speakers: [Chris Eidhof]
     title: Functional View Controllers
-    tags: [view controllers, monads, flatMap]
+    tags: [view controllers, monads, flatmap]
     youtube: sP156LW5BVs
   - language: English
     speakers: [Colin Barrett]
@@ -3077,7 +3077,7 @@ Functional Swift Conference 2015:
   - language: English
     speakers: [Justin Williams]
     title: Mastering Auto Layout
-    tags: [auto layout]
+    tags: [autolayout]
     vimeo: 137550517
   - language: English
     speakers: [Stepan Hruda]
@@ -3235,7 +3235,7 @@ NSLondon July 2014:
   - language: English
     speakers: [Scott Goodson]
     title: Behind AsyncDisplayKit
-    tags: [asyncdisplaykit, user interaction, animation]
+    tags: [asyncdisplaykit, user interaction, animations]
     vimeo: 103589245
 NSLondon August 2014:
   - language: English
@@ -3383,7 +3383,7 @@ NSLondon January 2016:
   - language: English
     speakers: [Bohdan Orlov]
     title: iOS Architecture Patterns
-    tags: [architecture, MVVM]
+    tags: [architecture, mvvm]
     vimeo: 153520720
   - language: English
     speakers: [Mark Szulyovszky]
@@ -3429,13 +3429,13 @@ NSConference 2014:
     vimeo: 95962975
   - language: English
     speakers: [Lex Friedman]
-    title: Being Apple 
+    title: Being Apple
     description: Apple offers a lot to aspire to. It’s a big company that’s achieved amazing things, amazing successes, and amazing profits to go along with them. In this talk, Lex will offer up insights on how you can be like Apple in less obvious ways, even it doesn’t score you a $500 billion market cap
     tags: []
     vimeo: 97516548
   - language: English
     speakers: [Ben Balckburne]
-    title: Squeezing machine learning algorithms onto an iPad 
+    title: Squeezing machine learning algorithms onto an iPad
     description: Machine learning algorithms can deliver apparently magical features in an app. Typically they require server-side processing, but that means both paying for compute time and moving potentially big or sensitive data over the internet. How do we make machine learning algorithms work within the CPU and RAM constraints of an iOS device?
     tags: [ai]
     vimeo: 97516104
@@ -3459,115 +3459,115 @@ NSConference 2014:
     vimeo: 97511944
   - language: English
     speakers: [Halle Winkler]
-    title: Post-Apocalyptic Technical Ethics 
+    title: Post-Apocalyptic Technical Ethics
     description: We learned some disquieting things about our governments and our industry in 2013. Summer's developer mantra of "was anyone surprised by any of this?" eventually turned into autumn's awkward silence as we also discovered that few of the technologies we base our own privacy expectations on are uncompromised.
     tags: [ethics]
     vimeo: 97510768
   - language: English
     speakers: [Michael Gachet]
-    title: You never know where ios development may take you 
+    title: You never know where ios development may take you
     description: This talk will go over a unique indie development experience which led to helping NGOs in the Horn of Africa find water for local populations.
     tags: [indie]
     vimeo: 97510547
   - language: English
     speakers: [Mattt Thompson]
-    title: Software Design & Eclecticism 
+    title: Software Design & Eclecticism
     description: What makes Foundation stand out among other standard libraries is how thoroughly it’s designed. From its date and time calculations to its internationalization and URL loading system, Cocoa APIs demonstrate thoughtfulness and a deep appreciation for understanding a problem in its entirety.
     tags: [foundation]
     vimeo: 97508062
   - language: English
     speakers: [Michael Lopp]
-    title: The Engineer, The Designer, and the Dictator 
+    title: The Engineer, The Designer, and the Dictator
     description: During the course of your career, it is likely you will have an undeniable urge to build a thing. It is equally likely that while you are well-intentioned, you are horrifically bad at a skill that is essential to successful thing building. In this talk, Michael Lopp will discuss ideal team construction in a presentation called “The Engineer, The Designer, and the Dictator”
     tags: [career]
     vimeo: 97507451
   - language: English
     speakers: [Karsten Kusche]
-    title: Building the next generation programming language 
+    title: Building the next generation programming language
     description: Humans are not the only ones working with the code, computers need to work with it too. If computers have an easier time working with the code, humans can enjoy much better tools to deal with the code!
     tags: [language]
     vimeo: 97102075
   - language: English
     speakers: [Daniel Pasco]
-    title: A Bil-centric view of product development 
+    title: A Bil-centric view of product development
     description: "Essentially, given an extraordinarily gifted developer - take Bil, our CTO -, there are things outside his area of expertise that he's recognized as hugely important to making a great app. He wants these people and things because they help him make something even greater: great design, great QA, support, the ability to reach a huge number of users (strong brand, really useful app, great content, etc)"
     tags: [business]
     vimeo: 97201703
   - language: English
     speakers: [Luc Vandal]
-    title: Land or Slam 
+    title: Land or Slam
     description: How lessons I’ve learned from skateboarding have influenced my current business.
     tags: [business, indie]
     vimeo: 97114266
   - language: English
     speakers: [Tobias Klonk]
-    title: Another approach to observation 
+    title: Another approach to observation
     description: In this session Tobias  introduces the audience to another possibility to implement the observer pattern in Cocoa, besides KVO and NotificationCenter.
     tags: [objective-c, kvo]
     vimeo: 97102055
   - language: English
     speakers: [Marcus S. Zarra]
-    title: Not Invented Here 
+    title: Not Invented Here
     description: We often hear the phrase “Don’t re-invent the wheel.” But what does that really mean? In this session Marcus will be discussing his opinion on this often quoted phrase as well as a discussion of the impacts he is seeing of third party libraries.
     tags: []
     vimeo: 97058344
   - language: English
     speakers: [Charles Parnot]
-    title: The Kitchen Sink Database 
+    title: The Kitchen Sink Database
     description: "A database is where you store your data. But in practice, your database scheme can quickly grow to become an untamed beast that makes you cry at night. To improve performance, you have the infamous `full_name` column living next to `first_name` and `last_name`; and then there’s `canonical_full_name` for proper search; and `needs_thumbnail` to keep track of thumbnail operations; and an extra table to normalize some relationships needed in the UI; and so on.  Every time you change the UI or add features, your database scheme gets more complicated. Maybe you did survive the software updates, the not-so-automatic migrations, the if statements littered around and the special `rebuildCache` methods. But now your f*^%$@ users want syncing, and you fear for your sanity. Here is the problem: your database is used both for **storing** the actual data and for **displaying** that data and managing the UI. Your data model is torn between two antagonistic goals, and you have a kitchen sink database. I propose a different approach where you explicitly separate those two functions, and with which you can ultimately get your sanity back."
     tags: [sync]
     vimeo: 96172262
   - language: English
     speakers: [David Smith]
-    title: While Nobody is Looking 
+    title: While Nobody is Looking
     description: There is a natural pull towards focussing on the visual design of an application. Your choice of color, typography and structure all directly impact how your user will experience your app. But what happens when your user isn’t looking? Designing applications for use by increasingly distracted users requires thinking about your customer from a completely different perspective. Building on lessons learned from years of building audio focused applications these are some guides for ensuring your design is usable in ANY context.
     tags: [business, indie]
     vimeo: 96086552
   - language: English
     speakers: [Scott Little]
-    title: What’s it like to fiddle Mail’s bits? 
+    title: What’s it like to fiddle Mail’s bits?
     description: Let me give you all a quick view from a totally different place than App Stores, nice simple Cocoa code and easily reusable Open Source projects. Writing Mail plugins is a pain in the ass that gives you tremendous challenges every day. I don’t recommend it, but I do enjoy it.
     tags: [plugin]
     vimeo: 96077948
   - language: English
     speakers: [Sean Woodhouse]
-    title: Tips and tricks for recording your meetup presentations 
+    title: Tips and tricks for recording your meetup presentations
     description: Today there are thousands of iOS and Mac developers meeting up and presenting awesome content all around the world. In this talk Sean will offer some helpful tips on recording, editing and publishing your meetup presentations for everyone to enjoy.
     tags: [community]
     vimeo: 96107143
   - language: English
     speakers: [Markos Charatzas]
-    title: Sound Debugging 
+    title: Sound Debugging
     description: Sound debugging is about elevating Xcode's ability to play sounds on a breakpoint to visualise code execution
     tags: [debugging, xcode]
     vimeo: 96070920
   - language: English
     speakers: [Rich Siegel]
-    title: Red Meat and Gin 
+    title: Red Meat and Gin
     description: "Bare Bones Software are widely recognized as one of the longest-lived indie Mac developers, having been in business since 1993. Their longevity stems from how they handle matters that Rich will cover in the talk: product concept, engineering discipline, customer service and support, ecosystem relations, living with Apple, and dealing with the unpredictable."
     tags: [business]
     vimeo: 96057339
   - language: English
     speakers: [Damian Sullivan]
-    title: Legal Considerations For Contract Developers 
+    title: Legal Considerations For Contract Developers
     description: Top legal tips for indie developers working on apps for clients, based on the very expensive mistakes I made in my first 5 years of developing apps for clients.
     tags: [business, legal]
     vimeo: 96004975
   - language: English
     speakers: [Amy Worrall]
-    title: KVO Considered Awesome 
+    title: KVO Considered Awesome
     description: A whirlwind tour through Key Value Coding (KVC), Key Value Observing (KVO), and Cocoa Bindings. Amy will explain what these technologies can do, when to use them, what their limitations are, and some tricks to work around common pitfalls. KVO has had a lot of bad press recently, but when used properly it can help you separate concerns and reduce the number of lines of code required for common operations.
     tags: [kvo]
     vimeo: 95999854
   - language: English
     speakers: [Matthew Robinson]
-    title: NSURLProtocol, Foundation's man-in-the-middle 
-    description: Mattt Thompson described NSURLProtocol as "an Apple-sanctioned man-in-the-middle attack."  Buried deep in Foundation's URL Loading System, NSURLProtocol allows us to intercept requests for URLs from the API libraries we are more familiar with, e.g. AFNetworking, NSURLConnection, UIWebView, NSURLDownload. 
+    title: NSURLProtocol, Foundation's man-in-the-middle
+    description: Mattt Thompson described NSURLProtocol as "an Apple-sanctioned man-in-the-middle attack."  Buried deep in Foundation's URL Loading System, NSURLProtocol allows us to intercept requests for URLs from the API libraries we are more familiar with, e.g. AFNetworking, NSURLConnection, UIWebView, NSURLDownload.
     tags: [foundation, networking]
     vimeo: 95956326
   - language: English
     speakers: [Giovanni Tarducci]
-    title: Making Apps in Stop-Motion 
+    title: Making Apps in Stop-Motion
     description: We are in the special effects business without even realizing it.
     tags: []
     vimeo: 95951952
@@ -3576,7 +3576,7 @@ CocoaHeadsNL October 2015:
     speakers: [Koen Bok]
     title: Prototyping anything you can imagine
     description: The future of design tools, prototyping and Framer.
-    tags: [Framer,prototyping]
+    tags: [framer,prototyping]
     vimeo: 142850816
   - language: English
     speakers: [Chris Eidhof]
