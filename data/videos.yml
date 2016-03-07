@@ -1464,7 +1464,7 @@ dotSwift 2016:
   - language: English
     speakers: [Ayaka Nonaka]
     title: "Going Swift and Beyond"
-    tags: [swift]
+    tags: [swift, coordinators]
     youtube: fdnpexLkdx4
   - language: English
     speakers: [Roy Marmelstein]
@@ -1474,7 +1474,7 @@ dotSwift 2016:
   - language: English
     speakers: [Maxim Zaks]
     title: "Beyond JSON in Swift"
-    tags: [swift]
+    tags: [swift, flatbuffers]
     youtube: e8K9F8IVu14
   - language: English
     speakers: [TJ Usiyan]
@@ -1484,7 +1484,7 @@ dotSwift 2016:
   - language: English
     speakers: [Thomas Visser]
     title: "The Bright Future of Swift"
-    tags: [swift]
+    tags: [swift, futures]
     youtube: vjGvsJv4Wos
 NSConference 2015:
   - language: English
