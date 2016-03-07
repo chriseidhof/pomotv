@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
-  <subtitle>GameplayKit</subtitle>
+  <subtitle>gameplaykit</subtitle>
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/gameplaykit"/>
   <link href="http://www.pomo.tv/tags/gameplaykit/feed.xml" rel="self"/>
-  <updated>2016-03-06T07:46:28Z</updated>
+  <updated>2016-03-07T07:41:04Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,14 +14,14 @@
     <title>Introduction to GameplayKit</title>
     <link rel="alternate" href="https://vimeo.com/136012905"/>
     <id>https://vimeo.com/136012905</id>
-    <updated>2016-03-06T07:46:28Z</updated>
+    <updated>2016-03-07T07:41:04Z</updated>
     <author>
       <name>David Rönnqvist</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;gameplaykit&quot;&gt;GameplayKit&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;gameplaykit&quot;&gt;gameplaykit&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;136012905&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;

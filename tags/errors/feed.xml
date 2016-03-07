@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/errors"/>
   <link href="http://www.pomo.tv/tags/errors/feed.xml" rel="self"/>
-  <updated>2016-03-06T07:46:30Z</updated>
+  <updated>2016-03-07T07:41:03Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Result Driven Development</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=aCm68xAWrno"/>
     <id>https://www.youtube.com/watch?v=aCm68xAWrno</id>
-    <updated>2016-03-06T07:46:30Z</updated>
+    <updated>2016-03-07T07:41:03Z</updated>
     <author>
       <name>Brian Partridge</name>
     </author>
@@ -23,7 +23,7 @@
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;result&quot;&gt;result&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;monads&quot;&gt;monads&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;flatmap&quot;&gt;flatMap&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;flatmap&quot;&gt;flatmap&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;errors&quot;&gt;errors&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;

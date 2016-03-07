@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/funswift/2015"/>
   <link href="http://www.pomo.tv/events/funswift/2015/feed.xml" rel="self"/>
-  <updated>2016-03-06T07:46:19Z</updated>
+  <updated>2016-03-07T07:40:52Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Structure and Interpretation of Swift Programs</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=V-YvI83QdMs"/>
     <id>https://www.youtube.com/watch?v=V-YvI83QdMs</id>
-    <updated>2016-03-06T07:46:19Z</updated>
+    <updated>2016-03-07T07:40:52Z</updated>
     <author>
       <name>Colin Barrett</name>
     </author>
@@ -33,7 +33,7 @@
     <title>Functional View Controllers</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sP156LW5BVs"/>
     <id>https://www.youtube.com/watch?v=sP156LW5BVs</id>
-    <updated>2016-03-06T07:46:19Z</updated>
+    <updated>2016-03-07T07:40:52Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -42,7 +42,7 @@
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;view-controllers&quot;&gt;view controllers&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;monads&quot;&gt;monads&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;flatmap&quot;&gt;flatMap&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;flatmap&quot;&gt;flatmap&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;sP156LW5BVs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -55,7 +55,7 @@
     <title>Lenses in Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ofjehH9f-CU"/>
     <id>https://www.youtube.com/watch?v=ofjehH9f-CU</id>
-    <updated>2016-03-06T07:46:19Z</updated>
+    <updated>2016-03-07T07:40:52Z</updated>
     <author>
       <name>Brandon Williams</name>
     </author>
@@ -78,7 +78,7 @@
     <title>Result Driven Development</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=aCm68xAWrno"/>
     <id>https://www.youtube.com/watch?v=aCm68xAWrno</id>
-    <updated>2016-03-06T07:46:19Z</updated>
+    <updated>2016-03-07T07:40:52Z</updated>
     <author>
       <name>Brian Partridge</name>
     </author>
@@ -87,7 +87,7 @@
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;result&quot;&gt;result&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;monads&quot;&gt;monads&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;flatmap&quot;&gt;flatMap&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;flatmap&quot;&gt;flatmap&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;errors&quot;&gt;errors&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
@@ -101,7 +101,7 @@
     <title>Protocols with Associated Types</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=XWoNjiSPqI8"/>
     <id>https://www.youtube.com/watch?v=XWoNjiSPqI8</id>
-    <updated>2016-03-06T07:46:19Z</updated>
+    <updated>2016-03-07T07:40:52Z</updated>
     <author>
       <name>Alexis Gallagher</name>
     </author>
@@ -123,7 +123,7 @@
     <title>Functional Thinking</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=hHeideOmLs4"/>
     <id>https://www.youtube.com/watch?v=hHeideOmLs4</id>
-    <updated>2016-03-06T07:46:19Z</updated>
+    <updated>2016-03-07T07:40:52Z</updated>
     <author>
       <name>Agnes Vasarhelyi</name>
     </author>
@@ -143,7 +143,7 @@
     <title>You Used To Inject Me In Your Constructor</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=2--pYf1T6Xc"/>
     <id>https://www.youtube.com/watch?v=2--pYf1T6Xc</id>
-    <updated>2016-03-06T07:46:19Z</updated>
+    <updated>2016-03-07T07:40:52Z</updated>
     <author>
       <name>Veronica Ray</name>
     </author>

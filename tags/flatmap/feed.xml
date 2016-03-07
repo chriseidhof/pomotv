@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
-  <subtitle>flatMap</subtitle>
+  <subtitle>flatmap</subtitle>
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/flatmap"/>
   <link href="http://www.pomo.tv/tags/flatmap/feed.xml" rel="self"/>
-  <updated>2016-03-06T07:46:30Z</updated>
+  <updated>2016-03-07T07:41:03Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Functional View Controllers</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sP156LW5BVs"/>
     <id>https://www.youtube.com/watch?v=sP156LW5BVs</id>
-    <updated>2016-03-06T07:46:30Z</updated>
+    <updated>2016-03-07T07:41:03Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -23,7 +23,7 @@
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;view-controllers&quot;&gt;view controllers&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;monads&quot;&gt;monads&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;flatmap&quot;&gt;flatMap&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;flatmap&quot;&gt;flatmap&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;sP156LW5BVs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -36,7 +36,7 @@
     <title>Result Driven Development</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=aCm68xAWrno"/>
     <id>https://www.youtube.com/watch?v=aCm68xAWrno</id>
-    <updated>2016-03-06T07:46:30Z</updated>
+    <updated>2016-03-07T07:41:03Z</updated>
     <author>
       <name>Brian Partridge</name>
     </author>
@@ -45,7 +45,7 @@
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;result&quot;&gt;result&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;monads&quot;&gt;monads&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;flatmap&quot;&gt;flatMap&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;flatmap&quot;&gt;flatmap&lt;&#x2F;a&gt;
       &lt;a href=&quot;&#x2F;tags&#x2F;errors&quot;&gt;errors&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;

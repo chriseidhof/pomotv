@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
-  <subtitle>sceneKit</subtitle>
+  <subtitle>scenekit</subtitle>
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/scenekit"/>
   <link href="http://www.pomo.tv/tags/scenekit/feed.xml" rel="self"/>
-  <updated>2016-03-06T07:46:34Z</updated>
+  <updated>2016-03-07T07:41:08Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>SceneKit, Metal, and OpenGL</title>
     <link rel="alternate" href="https://vimeo.com/137541707"/>
     <id>https://vimeo.com/137541707</id>
-    <updated>2016-03-06T07:46:34Z</updated>
+    <updated>2016-03-07T07:41:08Z</updated>
     <author>
       <name>Jonathan Blocksom</name>
     </author>
@@ -37,7 +37,7 @@
     <title>All you have to do is Hoppa!</title>
     <link rel="alternate" href="https://vimeo.com/146505694"/>
     <id>https://vimeo.com/146505694</id>
-    <updated>2016-03-06T07:46:34Z</updated>
+    <updated>2016-03-07T07:41:08Z</updated>
     <author>
       <name>Mohsan Khan</name>
     </author>
@@ -45,7 +45,7 @@
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;games&quot;&gt;games&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;scenekit&quot;&gt;sceneKit&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;scenekit&quot;&gt;scenekit&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;146505694&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
@@ -58,7 +58,7 @@
     <title>Enhancements to SceneKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-606"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-606</id>
-    <updated>2016-03-06T07:46:34Z</updated>
+    <updated>2016-03-07T07:41:08Z</updated>
     <author>
       <name>Thomas Goossens</name>
     </author>

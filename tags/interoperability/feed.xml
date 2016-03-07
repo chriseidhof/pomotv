@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/interoperability"/>
   <link href="http://www.pomo.tv/tags/interoperability/feed.xml" rel="self"/>
-  <updated>2016-03-06T07:46:32Z</updated>
+  <updated>2016-03-07T07:41:05Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Swift C Interoperability</title>
     <link rel="alternate" href="https://vimeo.com/142850815"/>
     <id>https://vimeo.com/142850815</id>
-    <updated>2016-03-06T07:46:32Z</updated>
+    <updated>2016-03-07T07:41:05Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -28,6 +28,30 @@
   &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;In this talk, we&#x27;ll look at Swift&#x27;s interoperability with C, and how to wrap C functions in a way that feels native to Swift.&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;142850815&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift Interop</title>
+    <link rel="alternate" href="https://www.skilled.io/chriseidhof/swift-interop"/>
+    <id>https://www.skilled.io/chriseidhof/swift-interop</id>
+    <updated>2016-03-07T07:41:05Z</updated>
+    <author>
+      <name>Chris Eidhof</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.skilled.io&#x2F;chriseidhof&#x2F;swift-interop&quot;&gt;https:&#x2F;&#x2F;www.skilled.io&#x2F;chriseidhof&#x2F;swift-interop&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;objective-c&quot;&gt;objective-c&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;interoperability&quot;&gt;interoperability&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;api&quot;&gt;api&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;Grc4CEV6CFk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>

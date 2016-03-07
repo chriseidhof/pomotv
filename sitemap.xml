@@ -1759,15 +1759,6 @@
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
-    <loc>http://www.pomo.tv/tags/framer/</loc>
-  </url>
-  <url>
-    <loc>http://www.pomo.tv/tags/gameplaykit/</loc>
-  </url>
-  <url>
-    <loc>http://www.pomo.tv/tags/mvvm/</loc>
-  </url>
-  <url>
     <loc>http://www.pomo.tv/tags/acceptance-testing/</loc>
   </url>
   <url>
@@ -1829,9 +1820,6 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/audio/</loc>
-  </url>
-  <url>
-    <loc>http://www.pomo.tv/tags/auto-layout/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/autolayout/</loc>
@@ -2017,6 +2005,9 @@
     <loc>http://www.pomo.tv/tags/foundation/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/framer/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/framework/</loc>
   </url>
   <url>
@@ -2036,6 +2027,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/gamecenter/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/gameplaykit/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/games/</loc>
@@ -2099,9 +2093,6 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/interfacebuilder/</loc>
-  </url>
-  <url>
-    <loc>http://www.pomo.tv/tags/interop/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/interoperability/</loc>
@@ -2185,6 +2176,9 @@
     <loc>http://www.pomo.tv/tags/metal/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/mmvm/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/monads/</loc>
   </url>
   <url>
@@ -2192,6 +2186,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/multitasking/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/mvvm/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/networking/</loc>

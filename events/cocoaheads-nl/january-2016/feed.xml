@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/cocoaheads-nl/january-2016"/>
   <link href="http://www.pomo.tv/events/cocoaheads-nl/january-2016/feed.xml" rel="self"/>
-  <updated>2016-03-06T07:46:19Z</updated>
+  <updated>2016-03-07T07:40:52Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Protocol-Oriented DataSources</title>
     <link rel="alternate" href="https://vimeo.com/152193160"/>
     <id>https://vimeo.com/152193160</id>
-    <updated>2016-03-06T07:46:19Z</updated>
+    <updated>2016-03-07T07:40:52Z</updated>
     <author>
       <name>Niels van Hoorn</name>
     </author>
@@ -36,7 +36,7 @@
     <title>Swift JsonGen, a code generator</title>
     <link rel="alternate" href="https://vimeo.com/152054122"/>
     <id>https://vimeo.com/152054122</id>
-    <updated>2016-03-06T07:46:19Z</updated>
+    <updated>2016-03-07T07:40:52Z</updated>
     <author>
       <name>Tom Lokhorst</name>
     </author>

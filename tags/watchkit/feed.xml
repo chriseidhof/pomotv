@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>www.pomo.tv</title>
-  <subtitle>watchKit</subtitle>
+  <subtitle>watchkit</subtitle>
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/watchkit"/>
   <link href="http://www.pomo.tv/tags/watchkit/feed.xml" rel="self"/>
-  <updated>2016-03-06T07:46:35Z</updated>
+  <updated>2016-03-07T07:41:09Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Practical Watchkit</title>
     <link rel="alternate" href="https://vimeo.com/133127238"/>
     <id>https://vimeo.com/133127238</id>
-    <updated>2016-03-06T07:46:35Z</updated>
+    <updated>2016-03-07T07:41:09Z</updated>
     <author>
       <name>Neil Kimmett</name>
     </author>
@@ -34,7 +34,7 @@
     <title>The Other WatchKit</title>
     <link rel="alternate" href="https://vimeo.com/115305206"/>
     <id>https://vimeo.com/115305206</id>
-    <updated>2016-03-06T07:46:35Z</updated>
+    <updated>2016-03-07T07:41:09Z</updated>
     <author>
       <name>Alexsander Akers</name>
     </author>
@@ -54,7 +54,7 @@
     <title>Advanced UX Design for Apple Watch</title>
     <link rel="alternate" href="https://vimeo.com/137545605"/>
     <id>https://vimeo.com/137545605</id>
-    <updated>2016-03-06T07:46:35Z</updated>
+    <updated>2016-03-07T07:41:09Z</updated>
     <author>
       <name>Shawn Davison</name>
     </author>
@@ -77,7 +77,7 @@
     <title>WatchKit Notifications</title>
     <link rel="alternate" href="https://vimeo.com/138114340"/>
     <id>https://vimeo.com/138114340</id>
-    <updated>2016-03-06T07:46:35Z</updated>
+    <updated>2016-03-07T07:41:09Z</updated>
     <author>
       <name>Matthew Morey</name>
     </author>
@@ -95,31 +95,10 @@
   </entry>
 
     <entry>
-    <title>Upgrading to watchOS 2</title>
-    <link rel="alternate" href="https://vimeo.com/142104528"/>
-    <id>https://vimeo.com/142104528</id>
-    <updated>2016-03-06T07:46:35Z</updated>
-    <author>
-      <name>Pedro Mancheno</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;watchkit&quot;&gt;watchKit&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;watchos&quot;&gt;watchOS&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;142104528&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
     <title>WatchKit Tips and Tricks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-228"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-228</id>
-    <updated>2016-03-06T07:46:35Z</updated>
+    <updated>2016-03-07T07:41:09Z</updated>
     <author>
       <name>Jake Behrens</name>
     </author>
