@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/swift-summit/london-2015"/>
   <link href="http://www.pomo.tv/events/swift-summit/london-2015/feed.xml" rel="self"/>
-  <updated>2016-03-07T10:12:50Z</updated>
+  <updated>2016-03-07T13:33:36Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>The Monad Among Us</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-al-skipp-monads/"/>
     <id>https://realm.io/news/swift-summit-al-skipp-monads/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Al Skipp</name>
     </author>
@@ -35,7 +35,7 @@
     <title>ReactiveCocoa and Swift: Better Together</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-colin-eberhardt-reactivecocoa/"/>
     <id>https://realm.io/news/swift-summit-colin-eberhardt-reactivecocoa/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Colin Eberhardt</name>
     </author>
@@ -55,7 +55,7 @@
     <title>Back to the Futures</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-javier-soto-futures/"/>
     <id>https://realm.io/news/swift-summit-javier-soto-futures/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Javier Soto</name>
     </author>
@@ -75,7 +75,7 @@
     <title>The Supercomputer In Your Pocket: Metal &amp; Swift</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-simon-gladman-metal/"/>
     <id>https://realm.io/news/swift-summit-simon-gladman-metal/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Simon Gladman</name>
     </author>
@@ -95,7 +95,7 @@
     <title>Zero-Cost Abstractions</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-airspeed-velocity-zero-cost-abstractions/"/>
     <id>https://realm.io/news/swift-summit-airspeed-velocity-zero-cost-abstractions/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Airspeed Velocity</name>
     </author>
@@ -115,7 +115,7 @@
     <title>How Swift is Swift?</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-joseph-lord-performance/"/>
     <id>https://realm.io/news/swift-summit-joseph-lord-performance/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Joseph Lord</name>
     </author>
@@ -135,7 +135,7 @@
     <title>Debugging in Swift: How Hard Can It Be?</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-carola-nitz-debugging/"/>
     <id>https://realm.io/news/swift-summit-carola-nitz-debugging/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Carola Nitz</name>
     </author>
@@ -155,7 +155,7 @@
     <title>Testing in Swift</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-jan-riehn-testing/"/>
     <id>https://realm.io/news/swift-summit-jan-riehn-testing/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Jan Riehn</name>
     </author>
@@ -176,7 +176,7 @@
     <title>Swift All-Star Panel</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-all-star-panel-discussion-eidhof-gesiak-ayaka-airspeed/"/>
     <id>https://realm.io/news/swift-summit-all-star-panel-discussion-eidhof-gesiak-ayaka-airspeed/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Airspeed Velocity</name>
     </author>
@@ -208,7 +208,7 @@
     <title>What Haskell Taught Me About Writing Swift</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/"/>
     <id>https://realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Abizer Nasir</name>
     </author>
@@ -229,7 +229,7 @@
     <title>The Type System is Your Friend</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-johannes-weiss-the-type-system-is-your-friend/"/>
     <id>https://realm.io/news/swift-summit-johannes-weiss-the-type-system-is-your-friend/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Johannes Weiß</name>
     </author>
@@ -249,7 +249,7 @@
     <title>Functional View Controllers: An Experiment</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-chris-eidhof-functional-view-controllers/"/>
     <id>https://realm.io/news/swift-summit-chris-eidhof-functional-view-controllers/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -270,7 +270,7 @@
     <title>Swift, Meet Objective-C</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-daniel-tomlinson-meet-objective-c/"/>
     <id>https://realm.io/news/swift-summit-daniel-tomlinson-meet-objective-c/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Daniel Tomlinson</name>
     </author>
@@ -290,7 +290,7 @@
     <title>The Future Belongs to the Young</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-jack-nutting-future-belongs-to-the-young/"/>
     <id>https://realm.io/news/swift-summit-jack-nutting-future-belongs-to-the-young/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Jack Nutting</name>
     </author>
@@ -310,7 +310,7 @@
     <title>Swift Panel: Where do we go from here?</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-panel-community-where-do-we-go/"/>
     <id>https://realm.io/news/swift-summit-panel-community-where-do-we-go/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Abizer Nasir</name>
     </author>
@@ -345,7 +345,7 @@
     <title>JSON, Swift, and Type Safety: It&#x27;s a wrap</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-anthony-levings-json-type-safety/"/>
     <id>https://realm.io/news/swift-summit-anthony-levings-json-type-safety/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Anthony Levings</name>
     </author>
@@ -365,7 +365,7 @@
     <title>Swift Funtime</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-boris-bugling-runtime-funtime/"/>
     <id>https://realm.io/news/swift-summit-boris-bugling-runtime-funtime/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Boris Bügling</name>
     </author>
@@ -386,7 +386,7 @@
     <title>CryptoSwift: Cryptography You Can Do</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-marcin-krzyzanowski-cryptoswift-cryptography/"/>
     <id>https://realm.io/news/swift-summit-marcin-krzyzanowski-cryptoswift-cryptography/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Marcin Krzyżanowski</name>
     </author>
@@ -409,7 +409,7 @@
     <title>Taylor: The Most Un-Googleable Swift Library</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-jorge-izquierdo-taylor-http-server-library/"/>
     <id>https://realm.io/news/swift-summit-jorge-izquierdo-taylor-http-server-library/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Jorge Izquierdo</name>
     </author>
@@ -429,7 +429,7 @@
     <title>Extracurricular Swift</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-sally-shepard-extracurricular-swift-programming-education/"/>
     <id>https://realm.io/news/swift-summit-sally-shepard-extracurricular-swift-programming-education/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Sally Shepard</name>
     </author>
@@ -449,7 +449,7 @@
     <title>(Functional) Programming for Everyone</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-daniel-steinberg-functional-programming-for-everyone/"/>
     <id>https://realm.io/news/swift-summit-daniel-steinberg-functional-programming-for-everyone/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Daniel Steinberg</name>
     </author>
@@ -469,7 +469,7 @@
     <title>Compelling Code</title>
     <link rel="alternate" href="https://realm.io/news/compelling-code/"/>
     <id>https://realm.io/news/compelling-code/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Brian Gesiak</name>
     </author>
@@ -489,7 +489,7 @@
     <title>Swift Scripting</title>
     <link rel="alternate" href="https://realm.io/news/swift-scripting/"/>
     <id>https://realm.io/news/swift-scripting/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Ayaka Nonaka</name>
     </author>
@@ -509,7 +509,7 @@
     <title>Embracing Change with REST</title>
     <link rel="alternate" href="https://realm.io/news/kyle-fuller-embracing-change-with-rest/"/>
     <id>https://realm.io/news/kyle-fuller-embracing-change-with-rest/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>
@@ -529,7 +529,7 @@
     <title>Death by Indecision</title>
     <link rel="alternate" href="https://realm.io/news/alexsander-akers-death-by-indecision/"/>
     <id>https://realm.io/news/alexsander-akers-death-by-indecision/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Alexsander Akers</name>
     </author>
@@ -549,7 +549,7 @@
     <title>Closures in API Design</title>
     <link rel="alternate" href="https://realm.io/news/closures-api-design/"/>
     <id>https://realm.io/news/closures-api-design/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Hermés Piqué</name>
     </author>
@@ -569,7 +569,7 @@
     <title>View from the Other Side</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-gem-barrett-other-side/"/>
     <id>https://realm.io/news/swift-summit-gem-barrett-other-side/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Gem Barrett</name>
     </author>
@@ -589,7 +589,7 @@
     <title>Swifty Methods</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-swifty-methods-clarity-brevity/"/>
     <id>https://realm.io/news/swift-summit-swifty-methods-clarity-brevity/</id>
-    <updated>2016-03-07T10:12:50Z</updated>
+    <updated>2016-03-07T13:33:36Z</updated>
     <author>
       <name>Radek Pietruszewski</name>
     </author>

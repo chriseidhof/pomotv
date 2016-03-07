@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/protocols"/>
   <link href="http://www.pomo.tv/tags/protocols/feed.xml" rel="self"/>
-  <updated>2016-03-07T10:13:18Z</updated>
+  <updated>2016-03-07T13:33:55Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Protocol-Oriented DataSources</title>
     <link rel="alternate" href="https://vimeo.com/152193160"/>
     <id>https://vimeo.com/152193160</id>
-    <updated>2016-03-07T10:13:18Z</updated>
+    <updated>2016-03-07T13:33:55Z</updated>
     <author>
       <name>Niels van Hoorn</name>
     </author>
@@ -36,7 +36,7 @@
     <title>Protocols with Associated Types</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=XWoNjiSPqI8"/>
     <id>https://www.youtube.com/watch?v=XWoNjiSPqI8</id>
-    <updated>2016-03-07T10:13:18Z</updated>
+    <updated>2016-03-07T13:33:55Z</updated>
     <author>
       <name>Alexis Gallagher</name>
     </author>
@@ -58,7 +58,7 @@
     <title>What the 55 Swift Standard Library Protocols Taught Me</title>
     <link rel="alternate" href="http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me"/>
     <id>http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me</id>
-    <updated>2016-03-07T10:13:18Z</updated>
+    <updated>2016-03-07T13:33:55Z</updated>
     <author>
       <name>Greg Heo</name>
     </author>
@@ -79,7 +79,7 @@
     <title>Protocol-Oriented Programming in Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-408"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-408</id>
-    <updated>2016-03-07T10:13:18Z</updated>
+    <updated>2016-03-07T13:33:55Z</updated>
     <author>
       <name>Dave Abrahams</name>
     </author>
@@ -91,6 +91,28 @@
       &lt;a href=&quot;&#x2F;tags&#x2F;protocols&quot;&gt;protocols&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
   &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;developer.apple.com&#x2F;videos&#x2F;play&#x2F;wwdc2015-408&quot;&gt;Watch on apple.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Beyond Crusty: Real-World Protocols</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2016/01/rob-napier-beyond-crusty-real-world-protocols"/>
+    <id>http://www.thedotpost.com/2016/01/rob-napier-beyond-crusty-real-world-protocols</id>
+    <updated>2016-03-07T13:33:55Z</updated>
+    <author>
+      <name>Rob Napier</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;rob-napier-beyond-crusty-real-world-protocols&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;rob-napier-beyond-crusty-real-world-protocols&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;protocols&quot;&gt;protocols&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;QCxkaTj7QJs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
 
     </content>
   </entry>

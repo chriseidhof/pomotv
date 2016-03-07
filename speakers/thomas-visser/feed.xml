@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/thomas-visser"/>
   <link href="http://www.pomo.tv/speakers/thomas-visser/feed.xml" rel="self"/>
-  <updated>2016-03-07T10:12:59Z</updated>
+  <updated>2016-03-07T13:33:42Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Open Sourcing Swift</title>
     <link rel="alternate" href="http://www.skilled.io/swiftsummit/open-sourcing-swift"/>
     <id>http://www.skilled.io/swiftsummit/open-sourcing-swift</id>
-    <updated>2016-03-07T10:12:59Z</updated>
+    <updated>2016-03-07T13:33:42Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -34,6 +34,28 @@
 &lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;cmJcc3VAm3c&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>The Bright Future of Swift</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2016/01/thomas-visser-the-bright-future-of-swift"/>
+    <id>http://www.thedotpost.com/2016/01/thomas-visser-the-bright-future-of-swift</id>
+    <updated>2016-03-07T13:33:42Z</updated>
+    <author>
+      <name>Thomas Visser</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;thomas-visser-the-bright-future-of-swift&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;thomas-visser-the-bright-future-of-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;futures&quot;&gt;futures&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;vjGvsJv4Wos&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>

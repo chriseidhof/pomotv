@@ -196,6 +196,9 @@
     <loc>http://www.pomo.tv/events/nslondon/january-2016/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/dotswift/2016/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/speakers/chris-eidhof/</loc>
   </url>
   <url>
@@ -284,6 +287,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/speakers/rob-rhyne/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/rob-napier/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/speakers/jessie-char/</loc>
@@ -1756,6 +1762,15 @@
     <loc>http://www.pomo.tv/speakers/curt-clifton/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/tj-usiyan/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/roy-marmelstein/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/maxim-zaks/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
@@ -1906,6 +1921,9 @@
     <loc>http://www.pomo.tv/tags/continuous-integration/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/coordinators/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/core-data/</loc>
   </url>
   <url>
@@ -1996,6 +2014,9 @@
     <loc>http://www.pomo.tv/tags/firebase/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/flatbuffers/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/flatmap/</loc>
   </url>
   <url>
@@ -2024,6 +2045,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/functional-reactive-programming/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/futures/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/gamecenter/</loc>
@@ -2147,6 +2171,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/lldb/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/localization/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/low-level/</loc>
@@ -3167,6 +3194,27 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/dotswift/2015/dimitri-dupuis-latour-think-swiftly.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/dotswift/2016/rob-napier-beyond-crusty-real-world-protocols.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/dotswift/2016/chris-eidhof-tiny-networking.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/dotswift/2016/ayaka-nonaka-going-swift-and-beyond.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/dotswift/2016/roy-marmelstein-localization-is-hard.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/dotswift/2016/maxim-zaks-beyond-json-in-swift.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/dotswift/2016/tj-usiyan-swift-and-the-evolution.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/dotswift/2016/thomas-visser-the-bright-future-of-swift.html</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nsconf/2015/james-dempsey-the-future-a-look-back.html</loc>

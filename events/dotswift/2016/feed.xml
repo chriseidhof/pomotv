@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>dotSwift 2016</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//events/dotswift/2016"/>
+  <link href="http://www.pomo.tv/events/dotswift/2016/feed.xml" rel="self"/>
+  <updated>2016-03-07T13:33:39Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>The Bright Future of Swift</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2016/01/thomas-visser-the-bright-future-of-swift"/>
+    <id>http://www.thedotpost.com/2016/01/thomas-visser-the-bright-future-of-swift</id>
+    <updated>2016-03-07T13:33:39Z</updated>
+    <author>
+      <name>Thomas Visser</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;thomas-visser-the-bright-future-of-swift&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;thomas-visser-the-bright-future-of-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;futures&quot;&gt;futures&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;vjGvsJv4Wos&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Swift [and the] Evolution</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2016/01/tj-usiyan-swift-and-the-evolution"/>
+    <id>http://www.thedotpost.com/2016/01/tj-usiyan-swift-and-the-evolution</id>
+    <updated>2016-03-07T13:33:39Z</updated>
+    <author>
+      <name>TJ Usiyan</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;tj-usiyan-swift-and-the-evolution&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;tj-usiyan-swift-and-the-evolution&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;Gh1RgYz--wg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Beyond JSON in Swift</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2016/01/maxim-zaks-beyond-json"/>
+    <id>http://www.thedotpost.com/2016/01/maxim-zaks-beyond-json</id>
+    <updated>2016-03-07T13:33:39Z</updated>
+    <author>
+      <name>Maxim Zaks</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;maxim-zaks-beyond-json&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;maxim-zaks-beyond-json&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;flatbuffers&quot;&gt;flatbuffers&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;e8K9F8IVu14&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Localization is hard</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2016/01/roy-marmelstein-localization-is-hard"/>
+    <id>http://www.thedotpost.com/2016/01/roy-marmelstein-localization-is-hard</id>
+    <updated>2016-03-07T13:33:39Z</updated>
+    <author>
+      <name>Roy Marmelstein</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;roy-marmelstein-localization-is-hard&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;roy-marmelstein-localization-is-hard&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;localization&quot;&gt;localization&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;R9_jFbQsFWA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Going Swift and Beyond</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2016/01/ayaka-nonaka-going-swift-and-beyond-first-wave-swift"/>
+    <id>http://www.thedotpost.com/2016/01/ayaka-nonaka-going-swift-and-beyond-first-wave-swift</id>
+    <updated>2016-03-07T13:33:39Z</updated>
+    <author>
+      <name>Ayaka Nonaka</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;ayaka-nonaka-going-swift-and-beyond-first-wave-swift&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;ayaka-nonaka-going-swift-and-beyond-first-wave-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;coordinators&quot;&gt;coordinators&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;fdnpexLkdx4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Tiny Networking</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2016/01/chris-eidhof-tiny-networking-in-swift"/>
+    <id>http://www.thedotpost.com/2016/01/chris-eidhof-tiny-networking-in-swift</id>
+    <updated>2016-03-07T13:33:39Z</updated>
+    <author>
+      <name>Chris Eidhof</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;chris-eidhof-tiny-networking-in-swift&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;chris-eidhof-tiny-networking-in-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;networking&quot;&gt;networking&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;ewk-XNzXzAA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Beyond Crusty: Real-World Protocols</title>
+    <link rel="alternate" href="http://www.thedotpost.com/2016/01/rob-napier-beyond-crusty-real-world-protocols"/>
+    <id>http://www.thedotpost.com/2016/01/rob-napier-beyond-crusty-real-world-protocols</id>
+    <updated>2016-03-07T13:33:39Z</updated>
+    <author>
+      <name>Rob Napier</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;rob-napier-beyond-crusty-real-world-protocols&quot;&gt;http:&#x2F;&#x2F;www.thedotpost.com&#x2F;2016&#x2F;01&#x2F;rob-napier-beyond-crusty-real-world-protocols&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;protocols&quot;&gt;protocols&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;QCxkaTj7QJs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>
