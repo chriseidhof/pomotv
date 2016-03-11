@@ -3682,3 +3682,14 @@ Seattle Xcoders January 2016:
     title: Universal Links, with a Nod to Other Web-Like Advances
     tags: [universal links]
     vimeo: 151531189
+Seattle Xcoders February 2016:
+  - language: English
+    speakers: [Vivek Gani]
+    title: A Swift Introduction to Reactive Cocoa
+    tags: [swift, reactive cocoa]
+    vimeo: 158447577
+  - language: English
+    speakers: [Pavan Adavi]
+    title: Continuous Integrations for iOS Apps
+    tags: [xcode, build, continuous integration]
+    vimeo: 158290425
