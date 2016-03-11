@@ -5,16 +5,38 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/continuous-integration"/>
   <link href="http://www.pomo.tv/tags/continuous-integration/feed.xml" rel="self"/>
-  <updated>2016-03-07T13:33:50Z</updated>
+  <updated>2016-03-11T15:54:09Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Continuous Integrations for iOS Apps</title>
+    <link rel="alternate" href="https://vimeo.com/158290425"/>
+    <id>https://vimeo.com/158290425</id>
+    <updated>2016-03-11T15:54:09Z</updated>
+    <author>
+      <name>Pavan Adavi</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;xcode&quot;&gt;xcode&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;build&quot;&gt;build&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;continuous-integration&quot;&gt;continuous integration&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;158290425&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Continuous Integration on the Edge</title>
     <link rel="alternate" href="https://vimeo.com/133130698"/>
     <id>https://vimeo.com/133130698</id>
-    <updated>2016-03-07T13:33:50Z</updated>
+    <updated>2016-03-11T15:54:09Z</updated>
     <author>
       <name>Honza Dvorsky</name>
     </author>

@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/pragma/2015"/>
   <link href="http://www.pomo.tv/events/pragma/2015/feed.xml" rel="self"/>
-  <updated>2016-03-07T13:33:38Z</updated>
+  <updated>2016-03-11T15:53:58Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Library-Oriented Programming</title>
     <link rel="alternate" href="https://realm.io/news/justin-spahr-summers-library-oriented-programming/"/>
     <id>https://realm.io/news/justin-spahr-summers-library-oriented-programming/</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Justin Spahr-Summers</name>
     </author>
@@ -34,7 +34,7 @@
     <title>*-Oriented Programming</title>
     <link rel="alternate" href="https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/"/>
     <id>https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Graham Lee</name>
     </author>
@@ -54,7 +54,7 @@
     <title>What’s in for us after the Indiepocalypse?</title>
     <link rel="alternate" href="https://realm.io/news/pragma-marin-todorov-indie-developers-app-store/"/>
     <id>https://realm.io/news/pragma-marin-todorov-indie-developers-app-store/</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>
@@ -74,7 +74,7 @@
     <title>Design 101 for Developers</title>
     <link rel="alternate" href="https://realm.io/news/christopher-downer-design-101-for-developers/"/>
     <id>https://realm.io/news/christopher-downer-design-101-for-developers/</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Christopher Downer</name>
     </author>
@@ -94,7 +94,7 @@
     <title>Swift and C</title>
     <link rel="alternate" href="https://realm.io/news/pragma-chris-eidhof-swift-c/"/>
     <id>https://realm.io/news/pragma-chris-eidhof-swift-c/</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -114,7 +114,7 @@
     <title>Loosely Held Strong Convictions</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=hlLhtWLghGA"/>
     <id>https://www.youtube.com/watch?v=hlLhtWLghGA</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>
@@ -133,7 +133,7 @@
     <title>State of Statelessness</title>
     <link rel="alternate" href="https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/"/>
     <id>https://realm.io/news/pragma-hannes-verlinde-statelessness-react-native/</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Hannes Verlinde</name>
     </author>
@@ -153,7 +153,7 @@
     <title>Open Source by Default</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sMeBHPpgRVE"/>
     <id>https://www.youtube.com/watch?v=sMeBHPpgRVE</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Orta Therox</name>
     </author>
@@ -172,7 +172,7 @@
     <title>Core Data Threading Demystified</title>
     <link rel="alternate" href="https://realm.io/news/marcus-zarra-core-data-threading/"/>
     <id>https://realm.io/news/marcus-zarra-core-data-threading/</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Marcus S. Zarra</name>
     </author>
@@ -193,7 +193,7 @@
     <title>Marketing on the App Store</title>
     <link rel="alternate" href="https://realm.io/news/pragma-tim-oliver-app-store-marketing/"/>
     <id>https://realm.io/news/pragma-tim-oliver-app-store-marketing/</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Tim Oliver</name>
     </author>
@@ -213,7 +213,7 @@
     <title>Embracing the Internet of Things for cats</title>
     <link rel="alternate" href="https://realm.io/news/pragma-sally-shepard-internet-cats-wearables/"/>
     <id>https://realm.io/news/pragma-sally-shepard-internet-cats-wearables/</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Sally Shepard</name>
     </author>
@@ -233,7 +233,7 @@
     <title>Be armed to the teeth to ...</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=wN-4dUUarOo"/>
     <id>https://www.youtube.com/watch?v=wN-4dUUarOo</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Anastasia Kazakova</name>
     </author>
@@ -252,7 +252,7 @@
     <title>Design better app icons</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=o35WeRqV6Rc"/>
     <id>https://www.youtube.com/watch?v=o35WeRqV6Rc</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Micheal Flarup</name>
     </author>
@@ -271,7 +271,7 @@
     <title>Presence, Personality and Pulse</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=1Om6l2nGTgI"/>
     <id>https://www.youtube.com/watch?v=1Om6l2nGTgI</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Anton McConville</name>
     </author>
@@ -290,7 +290,7 @@
     <title>Let&#x27;s Prototype it!</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=QlBMd7tyqiQ"/>
     <id>https://www.youtube.com/watch?v=QlBMd7tyqiQ</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Martina Pagura</name>
     </author>
@@ -309,7 +309,7 @@
     <title>iOS Subscriptions 2.0</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=_hHDYKJkdyU"/>
     <id>https://www.youtube.com/watch?v=_hHDYKJkdyU</id>
-    <updated>2016-03-07T13:33:38Z</updated>
+    <updated>2016-03-11T15:53:58Z</updated>
     <author>
       <name>Oliver Drobnik</name>
     </author>

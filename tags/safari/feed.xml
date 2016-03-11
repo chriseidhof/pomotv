@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/safari"/>
   <link href="http://www.pomo.tv/tags/safari/feed.xml" rel="self"/>
-  <updated>2016-03-07T13:33:56Z</updated>
+  <updated>2016-03-11T15:54:15Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Using Safari to Deliver and Debug a Responsive Web Design</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-505"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-505</id>
-    <updated>2016-03-07T13:33:56Z</updated>
+    <updated>2016-03-11T15:54:15Z</updated>
     <author>
       <name>Jono Wells</name>
     </author>
@@ -34,7 +34,7 @@
     <title>What&#x27;s New in Web Development in WebKit and Safari</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-501"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-501</id>
-    <updated>2016-03-07T13:33:56Z</updated>
+    <updated>2016-03-11T15:54:15Z</updated>
     <author>
       <name>Brent Fulgham</name>
     </author>
@@ -55,7 +55,7 @@
     <title>Introducing Safari View Controller</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-504"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-504</id>
-    <updated>2016-03-07T13:33:56Z</updated>
+    <updated>2016-03-11T15:54:15Z</updated>
     <author>
       <name>Ricky Mondello</name>
     </author>

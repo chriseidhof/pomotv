@@ -199,6 +199,9 @@
     <loc>http://www.pomo.tv/events/dotswift/2016/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/february-2016/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/speakers/chris-eidhof/</loc>
   </url>
   <url>
@@ -1769,6 +1772,12 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/speakers/maxim-zaks/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/vivek-gani/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/pavan-adavi/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
@@ -4400,5 +4409,11 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/seattle-xcoders/january-2016/nathan-corvino-universal-links-with-a-nod-to-other-web-like-advances.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/february-2016/vivek-gani-a-swift-introduction-to-reactive-cocoa.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/february-2016/pavan-adavi-continuous-integrations-for-ios-apps.html</loc>
   </url>
 </urlset>
