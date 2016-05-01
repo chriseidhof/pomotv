@@ -2976,6 +2976,36 @@ Swift Summit San Francisco 2015:
     tags: [swift, asynchronous, reactivecocoa]
     youtube: Ent6LJDIB3I
     direct-link: "https://www.skilled.io/javiersoto/simple-asynchronous-swift-code-with-reactivecocoa-4"
+  - language: English
+    speakers: [Gwendolyn Weston]
+    title: Why Swift is swift
+    tags: [swift,compiler optimization]
+    youtube: MWBc5F8Upwc
+    direct-link: "https://www.skilled.io/purpleyay/why-swift-is-swift"
+  - language: English
+    speakers: [Nick ONeil]
+    title: "Let's Code: Storage for Structs"
+    tags: [swift,serialization]
+    youtube: dlQjysGjDtY
+    direct-link: "https://www.skilled.io/nickoneill/lets-code-storage-for-structs"
+  - language: English
+    speakers: [Kristina Thai]
+    title: How to build a Compelling Watch App
+    tags: [swift,Apple Watch]
+    youtube: dKjrDtizX2U
+    direct-link: "https://www.skilled.io/kristinathai/how-to-build-a-compelling-watch-app"
+  - language: English
+    speakers: [Thomas Visser]
+    title: "Beyond the block based API: Building a simple future"
+    tags: [swift,futures,live coding,BrightFutures]
+    youtube: 4iV-cmmF1iU
+    direct-link: "https://www.skilled.io/thomasvisser/building-a-simple-future-library-in-swift"
+  - language: English
+    speakers: [Saul Mora]
+    title: Cocoa APIs in a Swifty world
+    tags: [swift,cocoa,API design]
+    youtube: OCCcfY9U6DY
+    direct-link: "https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world"
 Functional Swift Conference 2015:
   - language: English
     speakers: [Veronica Ray]
