@@ -3627,13 +3627,137 @@ CocoaHeadsNL October 2015:
     description: In this talk, we'll look at Swift's interoperability with C, and how to wrap C functions in a way that feels native to Swift.
     tags: [swift,c,interoperability]
     vimeo: 142850815
-Mobile Warsaw June 2015:
+"Mobile Warsaw Edition #1":
+  - language: English
+    speakers: [Chris Eidhof]
+    title: Swift and C Interop
+    tags: [swift,interop]
+    youtube: p7wtjTnzErA
+Mobile Warsaw February 2015:
+  - language: English
+    speakers: [Bartosz Waresiak]
+    title: Playing with Instruments
+    tags: [xcode,instruments]
+    youtube: yzILC67e838
+Mobile Warsaw March 2015:
+  - language: English
+    speakers: [Kamil Trzciński]
+    title: Android vs iOS security comparison
+    tags: [security]
+    youtube: UfWJQJpj_kc
+  - language: English
+    speakers: [Błażej Marcinkiewicz]
+    title: Protecting iOS apps
+    tags: [security]
+    youtube: aM6mrH1Mgnw
+Mobile Warsaw April 2015:
+  - language: English
+    speakers: [Scott Little]
+    title: "Go for a Sub: using a subscription model for your product"
+    tags: [mac,business]
+    youtube: 8B_xrozB1S8
+  - language: English
+    speakers: [Paweł Dudek]
+    title: Introduction to Behavior Driven Development. The whys and hows
+    tags: [testing,bdd]
+    youtube: GMW42938dEE
+Mobile Warsaw May 2015:
   - language: English
     speakers: [Marcin Krzyżanowski]
     title: Crypto? Been there, done that
     description: Implementing OpenPGP and cryptography on iOS.
     tags: [openpgp, cryptography, swift, security]
     youtube: FWHADBbn4Kc
+Mobile Warsaw June 2015:
+  - language: English
+    speakers: [Maciej Oczko]
+    title: Dependency injection on iOS
+    tags: [dependency,injection]
+    youtube: OcgL6P2bDyM
+  - language: English
+    speakers: [Hector Zarate]
+    title: "iOS at Spotify: From Plan to Done"
+    tags: [business]
+    youtube: VF_ScayzDcw
+Mobile Warsaw July 2015:
+  - language: English
+    speakers: [Adrian Kashivskyy]
+    title: Hidden gems in Swift
+    tags: [swift]
+    youtube: NP7PdeZv75w
+  - language: English
+    speakers: [Alexey Denisov]
+    title: Magic Behind Xcode Compilation.
+    tags: [xcode,compilation,compiler]
+    youtube: w3jKBWkspNI
+Mobile Warsaw August 2015:
+  - language: English
+    speakers: [Edgar Neto]
+    title: Efficient Localisation
+    tags: [localization]
+    youtube: vz6Co9HFSag
+  - language: English
+    speakers: [Marcio Klepacz]
+    title: How we integrate and deploy mobile apps with Travis CI
+    tags: [ci,cd]
+    youtube: lITbVPttDoc
+Mobile Warsaw September 2015:
+  - language: English
+    speakers: [Marius Rackwitz]
+    title: Error Handling In Swift 2.0
+    tags: [swift,error]
+    youtube: kGIKwIOMK8A
+Mobile Warsaw October 2015:
+  - language: English
+    speakers: [Radek Pietruszewski]
+    title: Achieving clarity in Swift
+    tags: [swift,design]
+    youtube: YA1C0Zcs9IQ
+Mobile Warsaw November 2015:
+  - language: English
+    speakers: [Arkadiusz Holko]
+    title: Taming Core Data
+    tags: [core,data]
+    youtube: NfQFAjt-spY
+Mobile Warsaw January 2016:
+  - language: English
+    speakers: [Maciej Witaszek]
+    title: "tvOS: Don't touch the screen"
+    tags: [tvOS]
+    youtube: GhmiGZZmmrQ
+  - language: English
+    speakers: [Kamila Wojciechowska]
+    title: Cash Rich, Time Poor
+    tags: [business]
+    youtube: 2h6cywhWawE
+Mobile Warsaw February 2016:
+  - language: English
+    speakers: [Karol Kozub]
+    title: 3D Touch
+    tags: [3dtouch]
+    youtube: F6u2ab3Vdns
+  - language: English
+    speakers: [Maxim Zaks]
+    title: Beyond JSON
+    tags: [json,bson]
+    youtube: OUNpNo-oyQY
+Mobile Warsaw March 2016:
+  - language: English
+    speakers: [Szymon Kuczur]
+    title: Rrrrrr… MVVM and Reactive Programming
+    tags: [mvvm,reactive]
+    youtube: WkOnvw4zC4A
+  - language: English
+    speakers: [Radek Pietruszewski]
+    title: Statically-Typed Swifty APIs
+    tags: [swift,api,typesystem]
+    youtube: z9oF92dQ2DY
+Mobile Warsaw April 2016:
+  - language: English
+    speakers: [Krzysztof Siejkowski]
+    title: "RxSwift: an elegant weapon for statically typed age"
+    tags: [rxswift,reactive]
+    youtube: CBUb7V75h4U
 CocoaHeadsNL January 2016:
   - language: English
     speakers: [Tom Lokhorst]
@@ -3693,3 +3817,9 @@ Seattle Xcoders February 2016:
     title: Continuous Integrations for iOS Apps
     tags: [xcode, build, continuous integration]
     vimeo: 158290425
+Mobile Warsaw MCE Meetup Night 2016:
+  - language: English
+    speakers: [Marin Todorov]
+    title: Building reactive apps with Realm
+    tags: [realm,reactive]
+    youtube: IFhkuSI6NBk
