@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/rxswift"/>
   <link href="http://www.pomo.tv/tags/rxswift/feed.xml" rel="self"/>
-  <updated>2016-03-11T15:54:14Z</updated>
+  <updated>2016-05-10T07:23:07Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>RxSwift: an elegant weapon for statically typed age</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=CBUb7V75h4U"/>
+    <id>https://www.youtube.com/watch?v=CBUb7V75h4U</id>
+    <updated>2016-05-10T07:23:07Z</updated>
+    <author>
+      <name>Krzysztof Siejkowski</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;rxswift&quot;&gt;rxswift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;reactive&quot;&gt;reactive&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;CBUb7V75h4U&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Functional Reactive Awesomeness With Swift</title>
     <link rel="alternate" href="https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/"/>
     <id>https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/</id>
-    <updated>2016-03-11T15:54:14Z</updated>
+    <updated>2016-05-10T07:23:07Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>

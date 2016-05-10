@@ -5,16 +5,36 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/localization"/>
   <link href="http://www.pomo.tv/tags/localization/feed.xml" rel="self"/>
-  <updated>2016-03-11T15:54:13Z</updated>
+  <updated>2016-05-10T07:23:03Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Efficient Localisation</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=vz6Co9HFSag"/>
+    <id>https://www.youtube.com/watch?v=vz6Co9HFSag</id>
+    <updated>2016-05-10T07:23:03Z</updated>
+    <author>
+      <name>Edgar Neto</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;localization&quot;&gt;localization&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;vz6Co9HFSag&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Localization is hard</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/roy-marmelstein-localization-is-hard"/>
     <id>http://www.thedotpost.com/2016/01/roy-marmelstein-localization-is-hard</id>
-    <updated>2016-03-11T15:54:13Z</updated>
+    <updated>2016-05-10T07:23:03Z</updated>
     <author>
       <name>Roy Marmelstein</name>
     </author>

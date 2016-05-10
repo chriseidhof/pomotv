@@ -106,6 +106,9 @@
     <loc>http://www.pomo.tv/events/dotswift/2015/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/february-2015/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/nslondon/february-2015-part-2/</loc>
   </url>
   <url>
@@ -115,10 +118,19 @@
     <loc>http://www.pomo.tv/events/swift-summit/london-2015/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/march-2015/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/april-2015/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/nslondon/april-2015/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/uikonf/2015/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/may-2015/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nslondon/may-2015/</loc>
@@ -133,10 +145,19 @@
     <loc>http://www.pomo.tv/events/mobile-warsaw/june-2015/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/july-2015/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/cocoaheads-stockholm/august-2015/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/360idev/2015/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/august-2015/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/edition-1/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nslondon/august-2015/</loc>
@@ -146,6 +167,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nsspain/2015/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/september-2015/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nslondon/september-2015/</loc>
@@ -163,6 +187,9 @@
     <loc>http://www.pomo.tv/events/cocoaheads-nl/october-2015/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/october-2015/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/nslondon/october-2015/</loc>
   </url>
   <url>
@@ -176,6 +203,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/doios/2015/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/november-2015/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nslondon/november-2015/</loc>
@@ -193,6 +223,9 @@
     <loc>http://www.pomo.tv/events/seattle-xcoders/january-2016/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/january-2016/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/nslondon/january-2016/</loc>
   </url>
   <url>
@@ -200,6 +233,18 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/seattle-xcoders/february-2016/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/february-2016/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/march-2016/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/april-2016/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/mce-meetup-night-2016/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/speakers/chris-eidhof/</loc>
@@ -1780,7 +1825,55 @@
     <loc>http://www.pomo.tv/speakers/pavan-adavi/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/bartosz-waresiak/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/blazej-marcinkiewicz/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/kamil-trzcinski/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/pawel-dudek/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/maciej-oczko/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/alexey-denisov/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/adrian-kashivskyy/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/marcio-klepacz/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/edgar-neto/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/arkadiusz-holko/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/kamila-wojciechowska/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/maciej-witaszek/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/karol-kozub/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/szymon-kuczur/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/krzysztof-siejkowski/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/3dtouch/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/acceptance-testing/</loc>
@@ -1858,7 +1951,13 @@
     <loc>http://www.pomo.tv/tags/bananakit/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/bdd/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/bluetooth/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/bson/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/bugs/</loc>
@@ -1883,6 +1982,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/category-theory/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/cd/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/ci/</loc>
@@ -1921,6 +2023,12 @@
     <loc>http://www.pomo.tv/tags/competition/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/compilation/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/compiler/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/conference/</loc>
   </url>
   <url>
@@ -1931,6 +2039,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/coordinators/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/core/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/core-data/</loc>
@@ -1960,6 +2071,9 @@
     <loc>http://www.pomo.tv/tags/culture/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/data/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/data-science/</loc>
   </url>
   <url>
@@ -1967,6 +2081,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/dependencies/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/dependency/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/dependency-injection/</loc>
@@ -2000,6 +2117,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/environmental-change/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/error/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/error-handling/</loc>
@@ -2113,6 +2233,9 @@
     <loc>http://www.pomo.tv/tags/indie/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/injection/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/inspirational/</loc>
   </url>
   <url>
@@ -2126,6 +2249,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/interfacebuilder/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/interop/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/interoperability/</loc>
@@ -2189,6 +2315,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/lyft/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/mac/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/machine-interaction/</loc>
@@ -2308,10 +2437,16 @@
     <loc>http://www.pomo.tv/tags/react-native/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/reactive/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/reactive-cocoa/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/reactivecocoa/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/realm/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/refactor/</loc>
@@ -2414,6 +2549,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/types/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/typesystem/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/ui/</loc>
@@ -4384,7 +4522,73 @@
     <loc>http://www.pomo.tv/events/cocoaheads-nl/october-2015/chris-eidhof-swift-c-interoperability.html</loc>
   </url>
   <url>
-    <loc>http://www.pomo.tv/events/mobile-warsaw/june-2015/marcin-krzyzanowski-crypto-been-there-done-that.html</loc>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/edition-1/chris-eidhof-swift-and-c-interop.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/february-2015/bartosz-waresiak-playing-with-instruments.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/march-2015/kamil-trzcinski-android-vs-ios-security-comparison.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/march-2015/blazej-marcinkiewicz-protecting-ios-apps.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/april-2015/scott-little-go-for-a-sub-using-a-subscription-model-for-your-product.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/april-2015/pawel-dudek-introduction-to-behavior-driven-development-the-whys-and-hows.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/may-2015/marcin-krzyzanowski-crypto-been-there-done-that.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/june-2015/maciej-oczko-dependency-injection-on-ios.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/june-2015/hector-zarate-ios-at-spotify-from-plan-to-done.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/july-2015/adrian-kashivskyy-hidden-gems-in-swift.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/july-2015/alexey-denisov-magic-behind-xcode-compilation.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/august-2015/edgar-neto-efficient-localisation.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/august-2015/marcio-klepacz-how-we-integrate-and-deploy-mobile-apps-with-travis-ci.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/september-2015/marius-rackwitz-error-handling-in-swift-2-0.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/october-2015/radek-pietruszewski-achieving-clarity-in-swift.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/november-2015/arkadiusz-holko-taming-core-data.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/january-2016/maciej-witaszek-tvos-don-t-touch-the-screen.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/january-2016/kamila-wojciechowska-cash-rich-time-poor.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/february-2016/karol-kozub-3d-touch.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/february-2016/maxim-zaks-beyond-json.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/march-2016/szymon-kuczur-rrrrrr...-mvvm-and-reactive-programming.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/march-2016/radek-pietruszewski-statically-typed-swifty-apis.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/april-2016/krzysztof-siejkowski-rxswift-an-elegant-weapon-for-statically-typed-age.html</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/cocoaheads-nl/january-2016/tom-lokhorst-swift-jsongen-a-code-generator.html</loc>
@@ -4415,5 +4619,8 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/seattle-xcoders/february-2016/pavan-adavi-continuous-integrations-for-ios-apps.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/mobile-warsaw/mce-meetup-night-2016/marin-todorov-building-reactive-apps-with-realm.html</loc>
   </url>
 </urlset>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Mobile Warsaw March 2016</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//events/mobile-warsaw/march-2016"/>
+  <link href="http://www.pomo.tv/events/mobile-warsaw/march-2016/feed.xml" rel="self"/>
+  <updated>2016-05-10T07:22:28Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Statically-Typed Swifty APIs</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=z9oF92dQ2DY"/>
+    <id>https://www.youtube.com/watch?v=z9oF92dQ2DY</id>
+    <updated>2016-05-10T07:22:28Z</updated>
+    <author>
+      <name>Radek Pietruszewski</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;api&quot;&gt;api&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;typesystem&quot;&gt;typesystem&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;z9oF92dQ2DY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Rrrrrr… MVVM and Reactive Programming</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=WkOnvw4zC4A"/>
+    <id>https://www.youtube.com/watch?v=WkOnvw4zC4A</id>
+    <updated>2016-05-10T07:22:28Z</updated>
+    <author>
+      <name>Szymon Kuczur</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;mvvm&quot;&gt;mvvm&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;reactive&quot;&gt;reactive&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;WkOnvw4zC4A&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

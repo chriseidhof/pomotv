@@ -5,16 +5,59 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/radek-pietruszewski"/>
   <link href="http://www.pomo.tv/speakers/radek-pietruszewski/feed.xml" rel="self"/>
-  <updated>2016-03-11T15:54:00Z</updated>
+  <updated>2016-05-10T07:22:33Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Statically-Typed Swifty APIs</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=z9oF92dQ2DY"/>
+    <id>https://www.youtube.com/watch?v=z9oF92dQ2DY</id>
+    <updated>2016-05-10T07:22:33Z</updated>
+    <author>
+      <name>Radek Pietruszewski</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;api&quot;&gt;api&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;typesystem&quot;&gt;typesystem&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;z9oF92dQ2DY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Achieving clarity in Swift</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=YA1C0Zcs9IQ"/>
+    <id>https://www.youtube.com/watch?v=YA1C0Zcs9IQ</id>
+    <updated>2016-05-10T07:22:33Z</updated>
+    <author>
+      <name>Radek Pietruszewski</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;design&quot;&gt;design&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;YA1C0Zcs9IQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Swift Panel: Where do we go from here?</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-panel-community-where-do-we-go/"/>
     <id>https://realm.io/news/swift-summit-panel-community-where-do-we-go/</id>
-    <updated>2016-03-11T15:54:00Z</updated>
+    <updated>2016-05-10T07:22:33Z</updated>
     <author>
       <name>Abizer Nasir</name>
     </author>
@@ -49,7 +92,7 @@
     <title>Swifty Methods</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-swifty-methods-clarity-brevity/"/>
     <id>https://realm.io/news/swift-summit-swifty-methods-clarity-brevity/</id>
-    <updated>2016-03-11T15:54:00Z</updated>
+    <updated>2016-05-10T07:22:33Z</updated>
     <author>
       <name>Radek Pietruszewski</name>
     </author>

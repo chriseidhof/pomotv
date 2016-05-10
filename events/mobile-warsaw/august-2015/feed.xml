@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Mobile Warsaw August 2015</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//events/mobile-warsaw/august-2015"/>
+  <link href="http://www.pomo.tv/events/mobile-warsaw/august-2015/feed.xml" rel="self"/>
+  <updated>2016-05-10T07:22:25Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>How we integrate and deploy mobile apps with Travis CI</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=lITbVPttDoc"/>
+    <id>https://www.youtube.com/watch?v=lITbVPttDoc</id>
+    <updated>2016-05-10T07:22:25Z</updated>
+    <author>
+      <name>Marcio Klepacz</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ci&quot;&gt;ci&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;cd&quot;&gt;cd&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;lITbVPttDoc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Efficient Localisation</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=vz6Co9HFSag"/>
+    <id>https://www.youtube.com/watch?v=vz6Co9HFSag</id>
+    <updated>2016-05-10T07:22:25Z</updated>
+    <author>
+      <name>Edgar Neto</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;localization&quot;&gt;localization&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;vz6Co9HFSag&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

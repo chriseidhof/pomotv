@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/ci"/>
   <link href="http://www.pomo.tv/tags/ci/feed.xml" rel="self"/>
-  <updated>2016-03-11T15:54:09Z</updated>
+  <updated>2016-05-10T07:22:53Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>How we integrate and deploy mobile apps with Travis CI</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=lITbVPttDoc"/>
+    <id>https://www.youtube.com/watch?v=lITbVPttDoc</id>
+    <updated>2016-05-10T07:22:53Z</updated>
+    <author>
+      <name>Marcio Klepacz</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ci&quot;&gt;ci&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;cd&quot;&gt;cd&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;lITbVPttDoc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Continuous Delivery with Fastlane</title>
     <link rel="alternate" href="https://vimeo.com/146505670"/>
     <id>https://vimeo.com/146505670</id>
-    <updated>2016-03-11T15:54:09Z</updated>
+    <updated>2016-05-10T07:22:53Z</updated>
     <author>
       <name>Felix Krause</name>
     </author>
@@ -34,7 +55,7 @@
     <title>Tooling in Swift - Xcode Integration &amp; CI</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=LvV1W3BcB0o"/>
     <id>https://www.youtube.com/watch?v=LvV1W3BcB0o</id>
-    <updated>2016-03-11T15:54:09Z</updated>
+    <updated>2016-05-10T07:22:53Z</updated>
     <author>
       <name>Stan Chang</name>
     </author>

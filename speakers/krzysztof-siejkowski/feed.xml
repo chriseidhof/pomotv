@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Krzysztof Siejkowski</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/krzysztof-siejkowski"/>
+  <link href="http://www.pomo.tv/speakers/krzysztof-siejkowski/feed.xml" rel="self"/>
+  <updated>2016-05-10T07:22:51Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>RxSwift: an elegant weapon for statically typed age</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=CBUb7V75h4U"/>
+    <id>https://www.youtube.com/watch?v=CBUb7V75h4U</id>
+    <updated>2016-05-10T07:22:51Z</updated>
+    <author>
+      <name>Krzysztof Siejkowski</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;rxswift&quot;&gt;rxswift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;reactive&quot;&gt;reactive&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;CBUb7V75h4U&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

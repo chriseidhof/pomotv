@@ -5,30 +5,47 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/mobile-warsaw/june-2015"/>
   <link href="http://www.pomo.tv/events/mobile-warsaw/june-2015/feed.xml" rel="self"/>
-  <updated>2016-03-11T15:53:57Z</updated>
+  <updated>2016-05-10T07:22:24Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
-    <title>Crypto? Been there, done that</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=FWHADBbn4Kc"/>
-    <id>https://www.youtube.com/watch?v=FWHADBbn4Kc</id>
-    <updated>2016-03-11T15:53:57Z</updated>
+    <title>iOS at Spotify: From Plan to Done</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=VF_ScayzDcw"/>
+    <id>https://www.youtube.com/watch?v=VF_ScayzDcw</id>
+    <updated>2016-05-10T07:22:24Z</updated>
     <author>
-      <name>Marcin Krzyżanowski</name>
+      <name>Hector Zarate</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;openpgp&quot;&gt;openpgp&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;cryptography&quot;&gt;cryptography&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;security&quot;&gt;security&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Implementing OpenPGP and cryptography on iOS.&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;FWHADBbn4Kc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;VF_ScayzDcw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Dependency injection on iOS</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=OcgL6P2bDyM"/>
+    <id>https://www.youtube.com/watch?v=OcgL6P2bDyM</id>
+    <updated>2016-05-10T07:22:24Z</updated>
+    <author>
+      <name>Maciej Oczko</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;dependency&quot;&gt;dependency&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;injection&quot;&gt;injection&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;OcgL6P2bDyM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>

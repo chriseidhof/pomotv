@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv/"/>
   <link href="http://www.pomo.tv/recent.xml" rel="self"/>
-  <updated>2016-03-11T15:53:52Z</updated>
+  <updated>2016-05-10T07:22:12Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Building reactive apps with Realm</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=IFhkuSI6NBk"/>
+    <id>https://www.youtube.com/watch?v=IFhkuSI6NBk</id>
+    <updated>2016-05-10T07:22:12Z</updated>
+    <author>
+      <name>Marin Todorov</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;realm&quot;&gt;realm&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;reactive&quot;&gt;reactive&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;IFhkuSI6NBk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Continuous Integrations for iOS Apps</title>
     <link rel="alternate" href="https://vimeo.com/158290425"/>
     <id>https://vimeo.com/158290425</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
       <name>Pavan Adavi</name>
     </author>
@@ -36,7 +57,7 @@
     <title>A Swift Introduction to Reactive Cocoa</title>
     <link rel="alternate" href="https://vimeo.com/158447577"/>
     <id>https://vimeo.com/158447577</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
       <name>Vivek Gani</name>
     </author>
@@ -57,7 +78,7 @@
     <title>Universal Links, with a Nod to Other Web-Like Advances</title>
     <link rel="alternate" href="https://vimeo.com/151531189"/>
     <id>https://vimeo.com/151531189</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
       <name>Nathan Corvino</name>
     </author>
@@ -77,7 +98,7 @@
     <title>Ignore That Young Man From 2014</title>
     <link rel="alternate" href="https://vimeo.com/154146675"/>
     <id>https://vimeo.com/154146675</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
       <name>Nathaniel Irons</name>
     </author>
@@ -99,7 +120,7 @@
     <title>Fix issue</title>
     <link rel="alternate" href="https://vimeo.com/154148473"/>
     <id>https://vimeo.com/154148473</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
       <name>Tim Ekl</name>
     </author>
@@ -120,7 +141,7 @@
     <title>Runtime Hacking for Fun and Profit</title>
     <link rel="alternate" href="https://vimeo.com/151482623"/>
     <id>https://vimeo.com/151482623</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
       <name>Curt Clifton</name>
     </author>
@@ -141,7 +162,7 @@
     <title>Competing with Art</title>
     <link rel="alternate" href="https://vimeo.com/153679708"/>
     <id>https://vimeo.com/153679708</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
       <name>Allen Pike</name>
     </author>
@@ -162,7 +183,7 @@
     <title>Thank You for Bugging me</title>
     <link rel="alternate" href="https://vimeo.com/153709408"/>
     <id>https://vimeo.com/153709408</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
       <name>Chris Barajas</name>
     </author>
@@ -183,7 +204,7 @@
     <title>Protocol-Oriented DataSources</title>
     <link rel="alternate" href="https://vimeo.com/152193160"/>
     <id>https://vimeo.com/152193160</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
       <name>Niels van Hoorn</name>
     </author>
@@ -205,7 +226,7 @@
     <title>Swift JsonGen, a code generator</title>
     <link rel="alternate" href="https://vimeo.com/152054122"/>
     <id>https://vimeo.com/152054122</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
       <name>Tom Lokhorst</name>
     </author>
@@ -224,324 +245,291 @@
   </entry>
 
     <entry>
-    <title>Crypto? Been there, done that</title>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=FWHADBbn4Kc"/>
-    <id>https://www.youtube.com/watch?v=FWHADBbn4Kc</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <title>RxSwift: an elegant weapon for statically typed age</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=CBUb7V75h4U"/>
+    <id>https://www.youtube.com/watch?v=CBUb7V75h4U</id>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
-      <name>Marcin Krzyżanowski</name>
+      <name>Krzysztof Siejkowski</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;openpgp&quot;&gt;openpgp&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;cryptography&quot;&gt;cryptography&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;security&quot;&gt;security&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;rxswift&quot;&gt;rxswift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;reactive&quot;&gt;reactive&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Implementing OpenPGP and cryptography on iOS.&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;FWHADBbn4Kc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;CBUb7V75h4U&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Swift C Interoperability</title>
-    <link rel="alternate" href="https://vimeo.com/142850815"/>
-    <id>https://vimeo.com/142850815</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <title>Statically-Typed Swifty APIs</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=z9oF92dQ2DY"/>
+    <id>https://www.youtube.com/watch?v=z9oF92dQ2DY</id>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
-      <name>Chris Eidhof</name>
+      <name>Radek Pietruszewski</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;c&quot;&gt;c&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;interoperability&quot;&gt;interoperability&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;api&quot;&gt;api&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;typesystem&quot;&gt;typesystem&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;In this talk, we&#x27;ll look at Swift&#x27;s interoperability with C, and how to wrap C functions in a way that feels native to Swift.&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;142850815&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;z9oF92dQ2DY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Prototyping anything you can imagine</title>
-    <link rel="alternate" href="https://vimeo.com/142850816"/>
-    <id>https://vimeo.com/142850816</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <title>Rrrrrr… MVVM and Reactive Programming</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=WkOnvw4zC4A"/>
+    <id>https://www.youtube.com/watch?v=WkOnvw4zC4A</id>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
-      <name>Koen Bok</name>
+      <name>Szymon Kuczur</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;framer&quot;&gt;framer&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;prototyping&quot;&gt;prototyping&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;mvvm&quot;&gt;mvvm&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;reactive&quot;&gt;reactive&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;The future of design tools, prototyping and Framer.&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;142850816&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;WkOnvw4zC4A&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Making Apps in Stop-Motion</title>
-    <link rel="alternate" href="https://vimeo.com/95951952"/>
-    <id>https://vimeo.com/95951952</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <title>Beyond JSON</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=OUNpNo-oyQY"/>
+    <id>https://www.youtube.com/watch?v=OUNpNo-oyQY</id>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
-      <name>Giovanni Tarducci</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;We are in the special effects business without even realizing it.&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;95951952&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>NSURLProtocol, Foundation&#x27;s man-in-the-middle</title>
-    <link rel="alternate" href="https://vimeo.com/95956326"/>
-    <id>https://vimeo.com/95956326</id>
-    <updated>2016-03-11T15:53:52Z</updated>
-    <author>
-      <name>Matthew Robinson</name>
+      <name>Maxim Zaks</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;foundation&quot;&gt;foundation&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;networking&quot;&gt;networking&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;json&quot;&gt;json&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;bson&quot;&gt;bson&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Mattt Thompson described NSURLProtocol as &quot;an Apple-sanctioned man-in-the-middle attack.&quot;  Buried deep in Foundation&#x27;s URL Loading System, NSURLProtocol allows us to intercept requests for URLs from the API libraries we are more familiar with, e.g. AFNetworking, NSURLConnection, UIWebView, NSURLDownload.&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;95956326&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;OUNpNo-oyQY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>KVO Considered Awesome</title>
-    <link rel="alternate" href="https://vimeo.com/95999854"/>
-    <id>https://vimeo.com/95999854</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <title>3D Touch</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=F6u2ab3Vdns"/>
+    <id>https://www.youtube.com/watch?v=F6u2ab3Vdns</id>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
-      <name>Amy Worrall</name>
+      <name>Karol Kozub</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;kvo&quot;&gt;kvo&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;3dtouch&quot;&gt;3dtouch&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;A whirlwind tour through Key Value Coding (KVC), Key Value Observing (KVO), and Cocoa Bindings. Amy will explain what these technologies can do, when to use them, what their limitations are, and some tricks to work around common pitfalls. KVO has had a lot of bad press recently, but when used properly it can help you separate concerns and reduce the number of lines of code required for common operations.&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;95999854&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;F6u2ab3Vdns&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Legal Considerations For Contract Developers</title>
-    <link rel="alternate" href="https://vimeo.com/96004975"/>
-    <id>https://vimeo.com/96004975</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <title>Cash Rich, Time Poor</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=2h6cywhWawE"/>
+    <id>https://www.youtube.com/watch?v=2h6cywhWawE</id>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
-      <name>Damian Sullivan</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;legal&quot;&gt;legal&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Top legal tips for indie developers working on apps for clients, based on the very expensive mistakes I made in my first 5 years of developing apps for clients.&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96004975&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Red Meat and Gin</title>
-    <link rel="alternate" href="https://vimeo.com/96057339"/>
-    <id>https://vimeo.com/96057339</id>
-    <updated>2016-03-11T15:53:52Z</updated>
-    <author>
-      <name>Rich Siegel</name>
+      <name>Kamila Wojciechowska</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Bare Bones Software are widely recognized as one of the longest-lived indie Mac developers, having been in business since 1993. Their longevity stems from how they handle matters that Rich will cover in the talk: product concept, engineering discipline, customer service and support, ecosystem relations, living with Apple, and dealing with the unpredictable.&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96057339&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;2h6cywhWawE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Sound Debugging</title>
-    <link rel="alternate" href="https://vimeo.com/96070920"/>
-    <id>https://vimeo.com/96070920</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <title>tvOS: Don&#x27;t touch the screen</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=GhmiGZZmmrQ"/>
+    <id>https://www.youtube.com/watch?v=GhmiGZZmmrQ</id>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
-      <name>Markos Charatzas</name>
+      <name>Maciej Witaszek</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;debugging&quot;&gt;debugging&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;tvos&quot;&gt;tvOS&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;GhmiGZZmmrQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Taming Core Data</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=NfQFAjt-spY"/>
+    <id>https://www.youtube.com/watch?v=NfQFAjt-spY</id>
+    <updated>2016-05-10T07:22:12Z</updated>
+    <author>
+      <name>Arkadiusz Holko</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;core&quot;&gt;core&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;data&quot;&gt;data&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;NfQFAjt-spY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Achieving clarity in Swift</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=YA1C0Zcs9IQ"/>
+    <id>https://www.youtube.com/watch?v=YA1C0Zcs9IQ</id>
+    <updated>2016-05-10T07:22:12Z</updated>
+    <author>
+      <name>Radek Pietruszewski</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;design&quot;&gt;design&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;YA1C0Zcs9IQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Error Handling In Swift 2.0</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=kGIKwIOMK8A"/>
+    <id>https://www.youtube.com/watch?v=kGIKwIOMK8A</id>
+    <updated>2016-05-10T07:22:12Z</updated>
+    <author>
+      <name>Marius Rackwitz</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;error&quot;&gt;error&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;kGIKwIOMK8A&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>How we integrate and deploy mobile apps with Travis CI</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=lITbVPttDoc"/>
+    <id>https://www.youtube.com/watch?v=lITbVPttDoc</id>
+    <updated>2016-05-10T07:22:12Z</updated>
+    <author>
+      <name>Marcio Klepacz</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;ci&quot;&gt;ci&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;cd&quot;&gt;cd&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;lITbVPttDoc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Efficient Localisation</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=vz6Co9HFSag"/>
+    <id>https://www.youtube.com/watch?v=vz6Co9HFSag</id>
+    <updated>2016-05-10T07:22:12Z</updated>
+    <author>
+      <name>Edgar Neto</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;localization&quot;&gt;localization&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;vz6Co9HFSag&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Magic Behind Xcode Compilation.</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=w3jKBWkspNI"/>
+    <id>https://www.youtube.com/watch?v=w3jKBWkspNI</id>
+    <updated>2016-05-10T07:22:12Z</updated>
+    <author>
+      <name>Alexey Denisov</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
       &lt;a href=&quot;&#x2F;tags&#x2F;xcode&quot;&gt;xcode&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;compilation&quot;&gt;compilation&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;compiler&quot;&gt;compiler&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Sound debugging is about elevating Xcode&#x27;s ability to play sounds on a breakpoint to visualise code execution&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96070920&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;w3jKBWkspNI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>
   </entry>
 
     <entry>
-    <title>Tips and tricks for recording your meetup presentations</title>
-    <link rel="alternate" href="https://vimeo.com/96107143"/>
-    <id>https://vimeo.com/96107143</id>
-    <updated>2016-03-11T15:53:52Z</updated>
+    <title>Hidden gems in Swift</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=NP7PdeZv75w"/>
+    <id>https://www.youtube.com/watch?v=NP7PdeZv75w</id>
+    <updated>2016-05-10T07:22:12Z</updated>
     <author>
-      <name>Sean Woodhouse</name>
+      <name>Adrian Kashivskyy</name>
     </author>
     <content type="text/html">
       &lt;p class=&quot;video-meta&quot;&gt;
     Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;community&quot;&gt;community&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Today there are thousands of iOS and Mac developers meeting up and presenting awesome content all around the world. In this talk Sean will offer some helpful tips on recording, editing and publishing your meetup presentations for everyone to enjoy.&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96107143&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>What’s it like to fiddle Mail’s bits?</title>
-    <link rel="alternate" href="https://vimeo.com/96077948"/>
-    <id>https://vimeo.com/96077948</id>
-    <updated>2016-03-11T15:53:52Z</updated>
-    <author>
-      <name>Scott Little</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;plugin&quot;&gt;plugin&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Let me give you all a quick view from a totally different place than App Stores, nice simple Cocoa code and easily reusable Open Source projects. Writing Mail plugins is a pain in the ass that gives you tremendous challenges every day. I don’t recommend it, but I do enjoy it.&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96077948&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>While Nobody is Looking</title>
-    <link rel="alternate" href="https://vimeo.com/96086552"/>
-    <id>https://vimeo.com/96086552</id>
-    <updated>2016-03-11T15:53:52Z</updated>
-    <author>
-      <name>David Smith</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;business&quot;&gt;business&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;indie&quot;&gt;indie&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;There is a natural pull towards focussing on the visual design of an application. Your choice of color, typography and structure all directly impact how your user will experience your app. But what happens when your user isn’t looking? Designing applications for use by increasingly distracted users requires thinking about your customer from a completely different perspective. Building on lessons learned from years of building audio focused applications these are some guides for ensuring your design is usable in ANY context.&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96086552&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>The Kitchen Sink Database</title>
-    <link rel="alternate" href="https://vimeo.com/96172262"/>
-    <id>https://vimeo.com/96172262</id>
-    <updated>2016-03-11T15:53:52Z</updated>
-    <author>
-      <name>Charles Parnot</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;sync&quot;&gt;sync&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;A database is where you store your data. But in practice, your database scheme can quickly grow to become an untamed beast that makes you cry at night. To improve performance, you have the infamous `full_name` column living next to `first_name` and `last_name`; and then there’s `canonical_full_name` for proper search; and `needs_thumbnail` to keep track of thumbnail operations; and an extra table to normalize some relationships needed in the UI; and so on.  Every time you change the UI or add features, your database scheme gets more complicated. Maybe you did survive the software updates, the not-so-automatic migrations, the if statements littered around and the special `rebuildCache` methods. But now your f*^%$@ users want syncing, and you fear for your sanity. Here is the problem: your database is used both for **storing** the actual data and for **displaying** that data and managing the UI. Your data model is torn between two antagonistic goals, and you have a kitchen sink database. I propose a different approach where you explicitly separate those two functions, and with which you can ultimately get your sanity back.&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;96172262&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Not Invented Here</title>
-    <link rel="alternate" href="https://vimeo.com/97058344"/>
-    <id>https://vimeo.com/97058344</id>
-    <updated>2016-03-11T15:53:52Z</updated>
-    <author>
-      <name>Marcus S. Zarra</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    No tags yet. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chriseidhof&#x2F;pomotv&quot;&gt;Suggest tags&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;We often hear the phrase “Don’t re-invent the wheel.” But what does that really mean? In this session Marcus will be discussing his opinion on this often quoted phrase as well as a discussion of the impacts he is seeing of third party libraries.&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97058344&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Another approach to observation</title>
-    <link rel="alternate" href="https://vimeo.com/97102055"/>
-    <id>https://vimeo.com/97102055</id>
-    <updated>2016-03-11T15:53:52Z</updated>
-    <author>
-      <name>Tobias Klonk</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;objective-c&quot;&gt;objective-c&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;kvo&quot;&gt;kvo&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;In this session Tobias  introduces the audience to another possibility to implement the observer pattern in Cocoa, besides KVO and NotificationCenter.&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;97102055&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;NP7PdeZv75w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>

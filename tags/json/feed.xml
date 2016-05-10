@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/json"/>
   <link href="http://www.pomo.tv/tags/json/feed.xml" rel="self"/>
-  <updated>2016-03-11T15:54:13Z</updated>
+  <updated>2016-05-10T07:23:03Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Swift JsonGen, a code generator</title>
     <link rel="alternate" href="https://vimeo.com/152054122"/>
     <id>https://vimeo.com/152054122</id>
-    <updated>2016-03-11T15:54:13Z</updated>
+    <updated>2016-05-10T07:23:03Z</updated>
     <author>
       <name>Tom Lokhorst</name>
     </author>
@@ -27,6 +27,27 @@
   &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Tom Lokhorst talks about parsing JSON in Swift. Why is this such a problem? What libraries are there to solve this problem? And how he created a code generator to deal with JSON once and for all.&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;152054122&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Beyond JSON</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=OUNpNo-oyQY"/>
+    <id>https://www.youtube.com/watch?v=OUNpNo-oyQY</id>
+    <updated>2016-05-10T07:23:03Z</updated>
+    <author>
+      <name>Maxim Zaks</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;json&quot;&gt;json&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;bson&quot;&gt;bson&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;OUNpNo-oyQY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>

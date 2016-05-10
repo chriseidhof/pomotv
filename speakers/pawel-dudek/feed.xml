@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Paweł Dudek</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/pawel-dudek"/>
+  <link href="http://www.pomo.tv/speakers/pawel-dudek/feed.xml" rel="self"/>
+  <updated>2016-05-10T07:22:51Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Introduction to Behavior Driven Development. The whys and hows</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=GMW42938dEE"/>
+    <id>https://www.youtube.com/watch?v=GMW42938dEE</id>
+    <updated>2016-05-10T07:22:51Z</updated>
+    <author>
+      <name>Paweł Dudek</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;testing&quot;&gt;testing&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;bdd&quot;&gt;bdd&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;GMW42938dEE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

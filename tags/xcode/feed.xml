@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/xcode"/>
   <link href="http://www.pomo.tv/tags/xcode/feed.xml" rel="self"/>
-  <updated>2016-03-11T15:54:17Z</updated>
+  <updated>2016-05-10T07:23:12Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Continuous Integrations for iOS Apps</title>
     <link rel="alternate" href="https://vimeo.com/158290425"/>
     <id>https://vimeo.com/158290425</id>
-    <updated>2016-03-11T15:54:17Z</updated>
+    <updated>2016-05-10T07:23:12Z</updated>
     <author>
       <name>Pavan Adavi</name>
     </author>
@@ -36,7 +36,7 @@
     <title>Ignore That Young Man From 2014</title>
     <link rel="alternate" href="https://vimeo.com/154146675"/>
     <id>https://vimeo.com/154146675</id>
-    <updated>2016-03-11T15:54:17Z</updated>
+    <updated>2016-05-10T07:23:12Z</updated>
     <author>
       <name>Nathaniel Irons</name>
     </author>
@@ -58,7 +58,7 @@
     <title>Fix issue</title>
     <link rel="alternate" href="https://vimeo.com/154148473"/>
     <id>https://vimeo.com/154148473</id>
-    <updated>2016-03-11T15:54:17Z</updated>
+    <updated>2016-05-10T07:23:12Z</updated>
     <author>
       <name>Tim Ekl</name>
     </author>
@@ -76,10 +76,53 @@
   </entry>
 
     <entry>
+    <title>Magic Behind Xcode Compilation.</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=w3jKBWkspNI"/>
+    <id>https://www.youtube.com/watch?v=w3jKBWkspNI</id>
+    <updated>2016-05-10T07:23:12Z</updated>
+    <author>
+      <name>Alexey Denisov</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;xcode&quot;&gt;xcode&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;compilation&quot;&gt;compilation&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;compiler&quot;&gt;compiler&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;w3jKBWkspNI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Playing with Instruments</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=yzILC67e838"/>
+    <id>https://www.youtube.com/watch?v=yzILC67e838</id>
+    <updated>2016-05-10T07:23:12Z</updated>
+    <author>
+      <name>Bartosz Waresiak</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;xcode&quot;&gt;xcode&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;instruments&quot;&gt;instruments&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;yzILC67e838&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Sound Debugging</title>
     <link rel="alternate" href="https://vimeo.com/96070920"/>
     <id>https://vimeo.com/96070920</id>
-    <updated>2016-03-11T15:54:17Z</updated>
+    <updated>2016-05-10T07:23:12Z</updated>
     <author>
       <name>Markos Charatzas</name>
     </author>
@@ -101,7 +144,7 @@
     <title>Everything you didn&#x27;t know about Alcatraz</title>
     <link rel="alternate" href="https://vimeo.com/98274952"/>
     <id>https://vimeo.com/98274952</id>
-    <updated>2016-03-11T15:54:17Z</updated>
+    <updated>2016-05-10T07:23:12Z</updated>
     <author>
       <name>Marin Usalj</name>
     </author>
@@ -123,7 +166,7 @@
     <title>Making Sense of Xcode</title>
     <link rel="alternate" href="https://vimeo.com/144221404"/>
     <id>https://vimeo.com/144221404</id>
-    <updated>2016-03-11T15:54:17Z</updated>
+    <updated>2016-05-10T07:23:12Z</updated>
     <author>
       <name>Grant Paul</name>
     </author>
@@ -143,7 +186,7 @@
     <title>UI Testing in Xcode</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-406"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-406</id>
-    <updated>2016-03-11T15:54:17Z</updated>
+    <updated>2016-05-10T07:23:12Z</updated>
     <author>
       <name>Wil Turner</name>
     </author>
@@ -165,7 +208,7 @@
     <title>App Thinning in Xcode</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-404"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-404</id>
-    <updated>2016-03-11T15:54:17Z</updated>
+    <updated>2016-05-10T07:23:12Z</updated>
     <author>
       <name>Anders Bertelrud</name>
     </author>
@@ -185,7 +228,7 @@
     <title>What&#x27;s New in Xcode</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-104"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-104</id>
-    <updated>2016-03-11T15:54:17Z</updated>
+    <updated>2016-05-10T07:23:12Z</updated>
     <author>
       <name>Ken Orr</name>
     </author>
@@ -204,7 +247,7 @@
     <title>Undocumented Xcode</title>
     <link rel="alternate" href="https://vimeo.com/111942372"/>
     <id>https://vimeo.com/111942372</id>
-    <updated>2016-03-11T15:54:17Z</updated>
+    <updated>2016-05-10T07:23:12Z</updated>
     <author>
       <name>Helen McManus</name>
     </author>

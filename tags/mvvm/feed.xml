@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/mvvm"/>
   <link href="http://www.pomo.tv/tags/mvvm/feed.xml" rel="self"/>
-  <updated>2016-03-11T15:54:13Z</updated>
+  <updated>2016-05-10T07:23:04Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Rrrrrr… MVVM and Reactive Programming</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=WkOnvw4zC4A"/>
+    <id>https://www.youtube.com/watch?v=WkOnvw4zC4A</id>
+    <updated>2016-05-10T07:23:04Z</updated>
+    <author>
+      <name>Szymon Kuczur</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;mvvm&quot;&gt;mvvm&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;reactive&quot;&gt;reactive&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;WkOnvw4zC4A&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>iOS Architecture Patterns</title>
     <link rel="alternate" href="https://vimeo.com/153520720"/>
     <id>https://vimeo.com/153520720</id>
-    <updated>2016-03-11T15:54:13Z</updated>
+    <updated>2016-05-10T07:23:04Z</updated>
     <author>
       <name>Bohdan Orlov</name>
     </author>

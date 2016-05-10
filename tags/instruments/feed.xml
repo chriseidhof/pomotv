@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/instruments"/>
   <link href="http://www.pomo.tv/tags/instruments/feed.xml" rel="self"/>
-  <updated>2016-03-11T15:54:12Z</updated>
+  <updated>2016-05-10T07:23:02Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Playing with Instruments</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=yzILC67e838"/>
+    <id>https://www.youtube.com/watch?v=yzILC67e838</id>
+    <updated>2016-05-10T07:23:02Z</updated>
+    <author>
+      <name>Bartosz Waresiak</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;xcode&quot;&gt;xcode&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;instruments&quot;&gt;instruments&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;yzILC67e838&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Use your tools: App optimization with Instruments</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=N7ryA7rxsrg"/>
     <id>https://www.youtube.com/watch?v=N7ryA7rxsrg</id>
-    <updated>2016-03-11T15:54:12Z</updated>
+    <updated>2016-05-10T07:23:02Z</updated>
     <author>
       <name>Florian Kugler</name>
     </author>
