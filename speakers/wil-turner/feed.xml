@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/wil-turner"/>
   <link href="http://www.pomo.tv/speakers/wil-turner/feed.xml" rel="self"/>
-  <updated>2016-05-10T07:22:39Z</updated>
+  <updated>2016-05-17T11:46:14Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>UI Testing in Xcode</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-406"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-406</id>
-    <updated>2016-05-10T07:22:39Z</updated>
+    <updated>2016-05-17T11:46:14Z</updated>
     <author>
       <name>Wil Turner</name>
     </author>
@@ -36,7 +36,7 @@
     <title>Testing in Xcode 6</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-414"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-414</id>
-    <updated>2016-05-10T07:22:39Z</updated>
+    <updated>2016-05-17T11:46:14Z</updated>
     <author>
       <name>Brooke Callahan</name>
     </author>

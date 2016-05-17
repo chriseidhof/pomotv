@@ -5,16 +5,36 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/coreimage"/>
   <link href="http://www.pomo.tv/tags/coreimage/feed.xml" rel="self"/>
-  <updated>2016-05-10T07:22:55Z</updated>
+  <updated>2016-05-17T11:46:20Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Advanced image processing with Core Image</title>
+    <link rel="alternate" href="https://vimeo.com/161446915"/>
+    <id>https://vimeo.com/161446915</id>
+    <updated>2016-05-17T11:46:20Z</updated>
+    <author>
+      <name>Simon Gladman</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;coreimage&quot;&gt;coreimage&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;161446915&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>What&#x27;s New in Core Image</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-510"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-510</id>
-    <updated>2016-05-10T07:22:55Z</updated>
+    <updated>2016-05-17T11:46:20Z</updated>
     <author>
       <name>David Hayward</name>
     </author>
@@ -34,7 +54,7 @@
     <title>Functional Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=vbMjd-Ms-_o"/>
     <id>https://www.youtube.com/watch?v=vbMjd-Ms-_o</id>
-    <updated>2016-05-10T07:22:55Z</updated>
+    <updated>2016-05-17T11:46:20Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>

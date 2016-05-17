@@ -238,13 +238,22 @@
     <loc>http://www.pomo.tv/events/mobile-warsaw/february-2016/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/nslondon/february-2016/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/mobile-warsaw/march-2016/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/march-2016/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/mobile-warsaw/april-2016/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/mobile-warsaw/mce-meetup-night-2016/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/april-2016/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/speakers/chris-eidhof/</loc>
@@ -1870,6 +1879,12 @@
     <loc>http://www.pomo.tv/speakers/krzysztof-siejkowski/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/gergely-orosz/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/marisa-montaldi/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
@@ -2000,6 +2015,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/code-generation/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/code-injection/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/code-quality/</loc>
@@ -4622,5 +4640,29 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/mobile-warsaw/mce-meetup-night-2016/marin-todorov-building-reactive-apps-with-realm.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/february-2016/gergely-orosz-raimon-lapuente-sorry-objc-it-s-not-you-it-s-me.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/february-2016/maxim-cramer-live-design.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/march-2016/johannes-weiss-technical-detail-behind-the-apple-fbi-case.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/march-2016/daniel-haight-implementing-a-code-injection-framework.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/march-2016/simon-gladman-advanced-image-processing-with-core-image.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/april-2016/marisa-montaldi-designing-for-people-on-the-autistic-spectrum.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/april-2016/daniel-tomlinson-building-apis-in-swift.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/april-2016/michael-may-the-empathetic-programmer.html</loc>
   </url>
 </urlset>

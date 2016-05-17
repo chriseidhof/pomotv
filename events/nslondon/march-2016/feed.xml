@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>NSLondon March 2016</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//events/nslondon/march-2016"/>
+  <link href="http://www.pomo.tv/events/nslondon/march-2016/feed.xml" rel="self"/>
+  <updated>2016-05-17T11:46:09Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Advanced image processing with Core Image</title>
+    <link rel="alternate" href="https://vimeo.com/161446915"/>
+    <id>https://vimeo.com/161446915</id>
+    <updated>2016-05-17T11:46:09Z</updated>
+    <author>
+      <name>Simon Gladman</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;coreimage&quot;&gt;coreimage&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;161446915&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Implementing a code injection framework</title>
+    <link rel="alternate" href="https://vimeo.com/162067247"/>
+    <id>https://vimeo.com/162067247</id>
+    <updated>2016-05-17T11:46:09Z</updated>
+    <author>
+      <name>Daniel Haight</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;code-injection&quot;&gt;code injection&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;162067247&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Technical detail behind the Apple-FBI case</title>
+    <link rel="alternate" href="https://vimeo.com/161446917"/>
+    <id>https://vimeo.com/161446917</id>
+    <updated>2016-05-17T11:46:09Z</updated>
+    <author>
+      <name>Johannes Weiß</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;security&quot;&gt;security&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;161446917&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>
