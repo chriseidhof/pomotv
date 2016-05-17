@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/live-coding"/>
   <link href="http://www.pomo.tv/tags/live-coding/feed.xml" rel="self"/>
-  <updated>2016-05-17T11:46:24Z</updated>
+  <updated>2016-05-17T13:04:23Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Protocol-Oriented DataSources</title>
     <link rel="alternate" href="https://vimeo.com/152193160"/>
     <id>https://vimeo.com/152193160</id>
-    <updated>2016-05-17T11:46:24Z</updated>
+    <updated>2016-05-17T13:04:23Z</updated>
     <author>
       <name>Niels van Hoorn</name>
     </author>
@@ -27,6 +27,30 @@
   &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Niels van Hoorn talks about protocol-oriented datasources. Combining James Bond and Swift, Niels does a live coding deep dive into protocols, extensions and type aliases.&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;152193160&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Beyond the block based API: Building a simple future</title>
+    <link rel="alternate" href="https://www.skilled.io/thomasvisser/building-a-simple-future-library-in-swift"/>
+    <id>https://www.skilled.io/thomasvisser/building-a-simple-future-library-in-swift</id>
+    <updated>2016-05-17T13:04:23Z</updated>
+    <author>
+      <name>Thomas Visser</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.skilled.io&#x2F;thomasvisser&#x2F;building-a-simple-future-library-in-swift&quot;&gt;https:&#x2F;&#x2F;www.skilled.io&#x2F;thomasvisser&#x2F;building-a-simple-future-library-in-swift&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;futures&quot;&gt;futures&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;live-coding&quot;&gt;live coding&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;brightfutures&quot;&gt;BrightFutures&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;4iV-cmmF1iU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>

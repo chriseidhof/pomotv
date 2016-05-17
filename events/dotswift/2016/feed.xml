@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/dotswift/2016"/>
   <link href="http://www.pomo.tv/events/dotswift/2016/feed.xml" rel="self"/>
-  <updated>2016-05-17T11:46:09Z</updated>
+  <updated>2016-05-17T13:04:01Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>The Bright Future of Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/thomas-visser-the-bright-future-of-swift"/>
     <id>http://www.thedotpost.com/2016/01/thomas-visser-the-bright-future-of-swift</id>
-    <updated>2016-05-17T11:46:09Z</updated>
+    <updated>2016-05-17T13:04:01Z</updated>
     <author>
       <name>Thomas Visser</name>
     </author>
@@ -36,7 +36,7 @@
     <title>Swift [and the] Evolution</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/tj-usiyan-swift-and-the-evolution"/>
     <id>http://www.thedotpost.com/2016/01/tj-usiyan-swift-and-the-evolution</id>
-    <updated>2016-05-17T11:46:09Z</updated>
+    <updated>2016-05-17T13:04:01Z</updated>
     <author>
       <name>TJ Usiyan</name>
     </author>
@@ -57,7 +57,7 @@
     <title>Beyond JSON in Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/maxim-zaks-beyond-json"/>
     <id>http://www.thedotpost.com/2016/01/maxim-zaks-beyond-json</id>
-    <updated>2016-05-17T11:46:09Z</updated>
+    <updated>2016-05-17T13:04:01Z</updated>
     <author>
       <name>Maxim Zaks</name>
     </author>
@@ -79,7 +79,7 @@
     <title>Localization is hard</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/roy-marmelstein-localization-is-hard"/>
     <id>http://www.thedotpost.com/2016/01/roy-marmelstein-localization-is-hard</id>
-    <updated>2016-05-17T11:46:09Z</updated>
+    <updated>2016-05-17T13:04:01Z</updated>
     <author>
       <name>Roy Marmelstein</name>
     </author>
@@ -101,7 +101,7 @@
     <title>Going Swift and Beyond</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/ayaka-nonaka-going-swift-and-beyond-first-wave-swift"/>
     <id>http://www.thedotpost.com/2016/01/ayaka-nonaka-going-swift-and-beyond-first-wave-swift</id>
-    <updated>2016-05-17T11:46:09Z</updated>
+    <updated>2016-05-17T13:04:01Z</updated>
     <author>
       <name>Ayaka Nonaka</name>
     </author>
@@ -123,7 +123,7 @@
     <title>Tiny Networking</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/chris-eidhof-tiny-networking-in-swift"/>
     <id>http://www.thedotpost.com/2016/01/chris-eidhof-tiny-networking-in-swift</id>
-    <updated>2016-05-17T11:46:09Z</updated>
+    <updated>2016-05-17T13:04:01Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -145,7 +145,7 @@
     <title>Beyond Crusty: Real-World Protocols</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/rob-napier-beyond-crusty-real-world-protocols"/>
     <id>http://www.thedotpost.com/2016/01/rob-napier-beyond-crusty-real-world-protocols</id>
-    <updated>2016-05-17T11:46:09Z</updated>
+    <updated>2016-05-17T13:04:01Z</updated>
     <author>
       <name>Rob Napier</name>
     </author>

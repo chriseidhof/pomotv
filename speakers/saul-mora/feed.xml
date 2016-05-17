@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/saul-mora"/>
   <link href="http://www.pomo.tv/speakers/saul-mora/feed.xml" rel="self"/>
-  <updated>2016-05-17T11:46:10Z</updated>
+  <updated>2016-05-17T13:04:02Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Everyday Core Data</title>
     <link rel="alternate" href="https://vimeo.com/98275128"/>
     <id>https://vimeo.com/98275128</id>
-    <updated>2016-05-17T11:46:10Z</updated>
+    <updated>2016-05-17T13:04:02Z</updated>
     <author>
       <name>Saul Mora</name>
     </author>
@@ -31,10 +31,33 @@
   </entry>
 
     <entry>
+    <title>Cocoa APIs in a Swifty world</title>
+    <link rel="alternate" href="https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world"/>
+    <id>https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world</id>
+    <updated>2016-05-17T13:04:02Z</updated>
+    <author>
+      <name>Saul Mora</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.skilled.io&#x2F;saulmora&#x2F;cocoa-apis-in-a-swifty-world&quot;&gt;https:&#x2F;&#x2F;www.skilled.io&#x2F;saulmora&#x2F;cocoa-apis-in-a-swifty-world&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;cocoa&quot;&gt;cocoa&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;api-design&quot;&gt;API design&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;OCCcfY9U6DY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Object-Oriented Functional Programming</title>
     <link rel="alternate" href="https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/"/>
     <id>https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/</id>
-    <updated>2016-05-17T11:46:10Z</updated>
+    <updated>2016-05-17T13:04:02Z</updated>
     <author>
       <name>Saul Mora</name>
     </author>
@@ -56,7 +79,7 @@
     <title>Are we doing what we should be with our time?</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=FE4V9UjyZTI"/>
     <id>https://www.youtube.com/watch?v=FE4V9UjyZTI</id>
-    <updated>2016-05-17T11:46:10Z</updated>
+    <updated>2016-05-17T13:04:02Z</updated>
     <author>
       <name>Saul Mora</name>
     </author>

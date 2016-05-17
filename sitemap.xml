@@ -1885,10 +1885,28 @@
     <loc>http://www.pomo.tv/speakers/marisa-montaldi/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/gwendolyn-weston/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/nick-oneill/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/kristina-thai/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/3dtouch/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/api-design/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/apple-watch/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/brightfutures/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/acceptance-testing/</loc>
@@ -2045,6 +2063,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/compiler/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/compiler-optimization/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/conference/</loc>
@@ -2507,6 +2528,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/security/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/serialization/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/services/</loc>
@@ -4178,6 +4202,21 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/swift-summit/san-francisco-2015/javier-soto-simple-asynchronous-swift-code-with-reactivecocoa-4.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/swift-summit/san-francisco-2015/gwendolyn-weston-why-swift-is-swift.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/swift-summit/san-francisco-2015/nick-oneill-let-s-code-storage-for-structs.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/swift-summit/san-francisco-2015/kristina-thai-how-to-build-a-compelling-watch-app.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/swift-summit/san-francisco-2015/thomas-visser-beyond-the-block-based-api-building-a-simple-future.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/swift-summit/san-francisco-2015/saul-mora-cocoa-apis-in-a-swifty-world.html</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/funswift/2015/veronica-ray-you-used-to-inject-me-in-your-constructor.html</loc>

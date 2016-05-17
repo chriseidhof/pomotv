@@ -5,16 +5,39 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/cocoa"/>
   <link href="http://www.pomo.tv/tags/cocoa/feed.xml" rel="self"/>
-  <updated>2016-05-17T11:46:20Z</updated>
+  <updated>2016-05-17T13:04:17Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Cocoa APIs in a Swifty world</title>
+    <link rel="alternate" href="https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world"/>
+    <id>https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world</id>
+    <updated>2016-05-17T13:04:17Z</updated>
+    <author>
+      <name>Saul Mora</name>
+    </author>
+    <content type="text/html">
+        &lt;p class=&quot;video-meta&quot;&gt; Slides and Transcript:&lt;br&#x2F;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.skilled.io&#x2F;saulmora&#x2F;cocoa-apis-in-a-swifty-world&quot;&gt;https:&#x2F;&#x2F;www.skilled.io&#x2F;saulmora&#x2F;cocoa-apis-in-a-swifty-world&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;swift&quot;&gt;swift&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;cocoa&quot;&gt;cocoa&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;api-design&quot;&gt;API design&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;OCCcfY9U6DY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>What&#x27;s New in HealthKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-203"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-203</id>
-    <updated>2016-05-17T11:46:20Z</updated>
+    <updated>2016-05-17T13:04:17Z</updated>
     <author>
       <name>Shannon Tan</name>
     </author>
@@ -34,7 +57,7 @@
     <title>What&#x27;s New in Cocoa</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-202"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-202</id>
-    <updated>2016-05-17T11:46:20Z</updated>
+    <updated>2016-05-17T13:04:17Z</updated>
     <author>
       <name>Ali Ozer</name>
     </author>

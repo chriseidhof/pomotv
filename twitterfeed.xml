@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv/"/>
   <link href="http://www.pomo.tv/twitterfeed.xml" rel="self"/>
-  <updated>2016-05-17T11:46:03Z</updated>
+  <updated>2016-05-17T13:03:53Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>The Empathetic Programmer</title>
     <link rel="alternate" href="https://vimeo.com/164883550"/>
     <id>https://vimeo.com/164883550</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 The Empathetic Programmer - @CoderMay
     </content>
@@ -23,7 +23,7 @@ The Empathetic Programmer - @CoderMay
     <title>Building APIs in Swift</title>
     <link rel="alternate" href="https://vimeo.com/164738511"/>
     <id>https://vimeo.com/164738511</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Building APIs in Swift - @dantoml
     </content>
@@ -32,7 +32,7 @@ Building APIs in Swift - @dantoml
     <title>Designing for People on the Autistic Spectrum</title>
     <link rel="alternate" href="https://vimeo.com/164735055"/>
     <id>https://vimeo.com/164735055</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Designing for People on the Autistic Spectrum - @mantemarisa
     </content>
@@ -41,7 +41,7 @@ Designing for People on the Autistic Spectrum - @mantemarisa
     <title>Advanced image processing with Core Image</title>
     <link rel="alternate" href="https://vimeo.com/161446915"/>
     <id>https://vimeo.com/161446915</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Advanced image processing with Core Image - @FlexMonkey
     </content>
@@ -50,7 +50,7 @@ Advanced image processing with Core Image - @FlexMonkey
     <title>Implementing a code injection framework</title>
     <link rel="alternate" href="https://vimeo.com/162067247"/>
     <id>https://vimeo.com/162067247</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Implementing a code injection framework - @Daniel1of1
     </content>
@@ -59,7 +59,7 @@ Implementing a code injection framework - @Daniel1of1
     <title>Technical detail behind the Apple-FBI case</title>
     <link rel="alternate" href="https://vimeo.com/161446917"/>
     <id>https://vimeo.com/161446917</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Technical detail behind the Apple-FBI case - @johannesweiss
     </content>
@@ -68,7 +68,7 @@ Technical detail behind the Apple-FBI case - @johannesweiss
     <title>Live Design</title>
     <link rel="alternate" href="https://vimeo.com/161666031"/>
     <id>https://vimeo.com/161666031</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Live Design - @mennenia
     </content>
@@ -77,7 +77,7 @@ Live Design - @mennenia
     <title>Sorry Objc: It&#x27;s not you, it&#x27;s me</title>
     <link rel="alternate" href="https://vimeo.com/161661457"/>
     <id>https://vimeo.com/161661457</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Sorry Objc: It&#x27;s not you, it&#x27;s me - @wolffan, @GergelyOrosz
     </content>
@@ -86,7 +86,7 @@ Sorry Objc: It&#x27;s not you, it&#x27;s me - @wolffan, @GergelyOrosz
     <title>Building reactive apps with Realm</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=IFhkuSI6NBk"/>
     <id>https://www.youtube.com/watch?v=IFhkuSI6NBk</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Building reactive apps with Realm - @icanzilb
     </content>
@@ -95,7 +95,7 @@ Building reactive apps with Realm - @icanzilb
     <title>Continuous Integrations for iOS Apps</title>
     <link rel="alternate" href="https://vimeo.com/158290425"/>
     <id>https://vimeo.com/158290425</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Continuous Integrations for iOS Apps - @pavanadavi
     </content>
@@ -104,7 +104,7 @@ Continuous Integrations for iOS Apps - @pavanadavi
     <title>A Swift Introduction to Reactive Cocoa</title>
     <link rel="alternate" href="https://vimeo.com/158447577"/>
     <id>https://vimeo.com/158447577</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 A Swift Introduction to Reactive Cocoa - @vivekgani
     </content>
@@ -113,7 +113,7 @@ A Swift Introduction to Reactive Cocoa - @vivekgani
     <title>Universal Links, with a Nod to Other Web-Like Advances</title>
     <link rel="alternate" href="https://vimeo.com/151531189"/>
     <id>https://vimeo.com/151531189</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Universal Links, with a Nod to Other Web-Like Advances - @corvino
     </content>
@@ -122,7 +122,7 @@ Universal Links, with a Nod to Other Web-Like Advances - @corvino
     <title>Ignore That Young Man From 2014</title>
     <link rel="alternate" href="https://vimeo.com/154146675"/>
     <id>https://vimeo.com/154146675</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Ignore That Young Man From 2014 - @irons
     </content>
@@ -131,7 +131,7 @@ Ignore That Young Man From 2014 - @irons
     <title>Fix issue</title>
     <link rel="alternate" href="https://vimeo.com/154148473"/>
     <id>https://vimeo.com/154148473</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Fix issue - @timothyekl
     </content>
@@ -140,7 +140,7 @@ Fix issue - @timothyekl
     <title>Runtime Hacking for Fun and Profit</title>
     <link rel="alternate" href="https://vimeo.com/151482623"/>
     <id>https://vimeo.com/151482623</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Runtime Hacking for Fun and Profit - @curtclifton
     </content>
@@ -149,7 +149,7 @@ Runtime Hacking for Fun and Profit - @curtclifton
     <title>Competing with Art</title>
     <link rel="alternate" href="https://vimeo.com/153679708"/>
     <id>https://vimeo.com/153679708</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Competing with Art - @apike
 Allen spoke about the similarities between indie programmers and artists&#x2F;musicians. Thanks to advances our tools and the community it&#x27;s never been an easier time to get into programming, but that leads to a highly competitive hit-driven economy very similar to music, where it can be hard to get noticed. Sometimes we need to focus on our side projects not for the potential economic gains, but the creative outlet they provide.
@@ -159,7 +159,7 @@ Allen spoke about the similarities between indie programmers and artists&#x2F;mu
     <title>Thank You for Bugging me</title>
     <link rel="alternate" href="https://vimeo.com/153709408"/>
     <id>https://vimeo.com/153709408</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Thank You for Bugging me - @_Barajas
 Chris provides support for users of Rogue Amoeba’s fine audio software. There is no good substitute for human-to-human support, although technology can provide shortcuts. Chris talked about how technology and humanity intersect in the role of support, and how good support finds the strengths of each to keep a company and its customers happy.
@@ -169,7 +169,7 @@ Chris provides support for users of Rogue Amoeba’s fine audio software. There 
     <title>Protocol-Oriented DataSources</title>
     <link rel="alternate" href="https://vimeo.com/152193160"/>
     <id>https://vimeo.com/152193160</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Protocol-Oriented DataSources - @nvh
 Niels van Hoorn talks about protocol-oriented datasources. Combining James Bond and Swift, Niels does a live coding deep dive into protocols, extensions and type aliases.
@@ -179,7 +179,7 @@ Niels van Hoorn talks about protocol-oriented datasources. Combining James Bond 
     <title>Swift JsonGen, a code generator</title>
     <link rel="alternate" href="https://vimeo.com/152054122"/>
     <id>https://vimeo.com/152054122</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Swift JsonGen, a code generator - @tomlokhorst
 Tom Lokhorst talks about parsing JSON in Swift. Why is this such a problem? What libraries are there to solve this problem? And how he created a code generator to deal with JSON once and for all.
@@ -189,7 +189,7 @@ Tom Lokhorst talks about parsing JSON in Swift. Why is this such a problem? What
     <title>RxSwift: an elegant weapon for statically typed age</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=CBUb7V75h4U"/>
     <id>https://www.youtube.com/watch?v=CBUb7V75h4U</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 RxSwift: an elegant weapon for statically typed age - @_siejkowski
     </content>
@@ -198,7 +198,7 @@ RxSwift: an elegant weapon for statically typed age - @_siejkowski
     <title>Statically-Typed Swifty APIs</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=z9oF92dQ2DY"/>
     <id>https://www.youtube.com/watch?v=z9oF92dQ2DY</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Statically-Typed Swifty APIs - @radexp
     </content>
@@ -207,7 +207,7 @@ Statically-Typed Swifty APIs - @radexp
     <title>Rrrrrr… MVVM and Reactive Programming</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=WkOnvw4zC4A"/>
     <id>https://www.youtube.com/watch?v=WkOnvw4zC4A</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Rrrrrr… MVVM and Reactive Programming - @szymon_kr
     </content>
@@ -216,7 +216,7 @@ Rrrrrr… MVVM and Reactive Programming - @szymon_kr
     <title>Beyond JSON</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=OUNpNo-oyQY"/>
     <id>https://www.youtube.com/watch?v=OUNpNo-oyQY</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Beyond JSON - @iceX33
     </content>
@@ -225,7 +225,7 @@ Beyond JSON - @iceX33
     <title>3D Touch</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=F6u2ab3Vdns"/>
     <id>https://www.youtube.com/watch?v=F6u2ab3Vdns</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 3D Touch - @krlkzb
     </content>
@@ -234,7 +234,7 @@ Beyond JSON - @iceX33
     <title>Cash Rich, Time Poor</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=2h6cywhWawE"/>
     <id>https://www.youtube.com/watch?v=2h6cywhWawE</id>
-    <updated>2016-05-17T11:46:03Z</updated>
+    <updated>2016-05-17T13:03:53Z</updated>
     <content type="text/plain">
 Cash Rich, Time Poor - @kamelury
     </content>
