@@ -3850,3 +3850,19 @@ NSLondon March 2016:
     title: Advanced image processing with Core Image
     tags: [coreimage]
     vimeo: 161446915
+NSLondon April 2016:
+  - language: English
+    speakers: [Marisa Montaldi]
+    title: Designing for People on the Autistic Spectrum
+    tags: [design, accessibility]
+    vimeo: 164735055
+  - language: English
+    speakers: [Daniel Tomlinson]
+    title: Building APIs in Swift
+    tags: [swift, api]
+    vimeo: 164738511
+  - language: English
+    speakers: [Michael May]
+    title: The Empathetic Programmer
+    tags: [teams, legacy apps]
+    vimeo: 164883550
