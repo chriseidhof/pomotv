@@ -3823,3 +3823,30 @@ Mobile Warsaw MCE Meetup Night 2016:
     title: Building reactive apps with Realm
     tags: [realm,reactive]
     youtube: IFhkuSI6NBk
+NSLondon February 2016:
+  - language: English
+    speakers: [Raimon Lapuente, Gergely Orosz]
+    title: "Sorry Objc: It’s not you, it’s me"
+    tags: [swift]
+    vimeo: 161661457
+  - language: English
+    speakers: [Maxim Cramer]
+    title: Live Design
+    tags: [design]
+    vimeo: 161666031
+NSLondon March 2016:
+  - language: English
+    speakers: [Johannes Weiß]
+    title: Technical detail behind the Apple-FBI case
+    tags: [security]
+    vimeo: 161446917
+  - language: English
+    speakers: [Daniel Haight]
+    title: Implementing a code injection framework
+    tags: [code injection, frameworks]
+    vimeo: 162067247
+  - language: English
+    speakers: [Simon Gladman]
+    title: Advanced image processing with Core Image
+    tags: [coreimage]
+    vimeo: 161446915
