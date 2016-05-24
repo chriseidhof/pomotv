@@ -3896,3 +3896,19 @@ NSLondon April 2016:
     title: The Empathetic Programmer
     tags: [teams, legacy apps]
     vimeo: 164883550
+Munich iOS May 2016:
+  - language: English
+    speakers: [Elmar Kretzer]
+    title: Palau - NSUserDefaults in the age of Swift
+    tags: [swift, nsuserdefaults]
+    youtube: 290B44t4Jm0
+  - language: English
+    speakers: [Madhava Jay]
+    title:  Giving back with GitHub
+    tags: [frameworks, opensource]
+    youtube: ErG-8-TMXug
+  - language: English
+    speakers: [Stefan Mayer-Popp]
+    title: Framework based architecture using Cocoapods 
+    tags: [frameworks, architecture]
+    youtube: JTudKIEtlQQ
