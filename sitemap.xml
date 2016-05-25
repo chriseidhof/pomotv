@@ -256,6 +256,9 @@
     <loc>http://www.pomo.tv/events/nslondon/april-2016/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/munichios/may-2016/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/speakers/chris-eidhof/</loc>
   </url>
   <url>
@@ -1894,6 +1897,15 @@
     <loc>http://www.pomo.tv/speakers/kristina-thai/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/elmar-kretzer/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/madhava-jay/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/stefan-mayer-popp/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
@@ -2401,6 +2413,9 @@
     <loc>http://www.pomo.tv/tags/nsoperations/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/nsuserdefaults/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/object-oriented/</loc>
   </url>
   <url>
@@ -2417,6 +2432,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/openpgp/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/opensource/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/operators/</loc>
@@ -4703,5 +4721,14 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nslondon/april-2016/michael-may-the-empathetic-programmer.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/munichios/may-2016/elmar-kretzer-palau-nsuserdefaults-in-the-age-of-swift.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/munichios/may-2016/madhava-jay-giving-back-with-github.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/munichios/may-2016/stefan-mayer-popp-framework-based-architecture-using-cocoapods.html</loc>
   </url>
 </urlset>

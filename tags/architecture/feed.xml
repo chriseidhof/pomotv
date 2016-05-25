@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/architecture"/>
   <link href="http://www.pomo.tv/tags/architecture/feed.xml" rel="self"/>
-  <updated>2016-05-17T13:04:16Z</updated>
+  <updated>2016-05-25T13:25:29Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Framework based architecture using Cocoapods</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=JTudKIEtlQQ"/>
+    <id>https://www.youtube.com/watch?v=JTudKIEtlQQ</id>
+    <updated>2016-05-25T13:25:29Z</updated>
+    <author>
+      <name>Stefan Mayer-Popp</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;architecture&quot;&gt;architecture&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;JTudKIEtlQQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Using Elm&#x2F;React inspired architecture to build Cocoa apps in a functional way</title>
     <link rel="alternate" href="https://vimeo.com/153520719"/>
     <id>https://vimeo.com/153520719</id>
-    <updated>2016-05-17T13:04:16Z</updated>
+    <updated>2016-05-25T13:25:29Z</updated>
     <author>
       <name>Rheese Burgess</name>
     </author>
@@ -38,7 +59,7 @@
     <title>Quick introduction to RFP with zero theory</title>
     <link rel="alternate" href="https://vimeo.com/153520718"/>
     <id>https://vimeo.com/153520718</id>
-    <updated>2016-05-17T13:04:16Z</updated>
+    <updated>2016-05-25T13:25:29Z</updated>
     <author>
       <name>Mark Szulyovszky</name>
     </author>
@@ -62,7 +83,7 @@
     <title>iOS Architecture Patterns</title>
     <link rel="alternate" href="https://vimeo.com/153520720"/>
     <id>https://vimeo.com/153520720</id>
-    <updated>2016-05-17T13:04:16Z</updated>
+    <updated>2016-05-25T13:25:29Z</updated>
     <author>
       <name>Bohdan Orlov</name>
     </author>
@@ -83,7 +104,7 @@
     <title>iOS Architecture</title>
     <link rel="alternate" href="https://vimeo.com/101841366"/>
     <id>https://vimeo.com/101841366</id>
-    <updated>2016-05-17T13:04:16Z</updated>
+    <updated>2016-05-25T13:25:29Z</updated>
     <author>
       <name>Rui Peres</name>
     </author>
@@ -103,7 +124,7 @@
     <title>Good Intentions II: Enemy of the State</title>
     <link rel="alternate" href="https://vimeo.com/138034525"/>
     <id>https://vimeo.com/138034525</id>
-    <updated>2016-05-17T13:04:16Z</updated>
+    <updated>2016-05-25T13:25:29Z</updated>
     <author>
       <name>Jay Thrash</name>
     </author>
@@ -123,7 +144,7 @@
     <title>The Parse SDK: What&#x27;s inside?</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=q-Dwu7zHIWk"/>
     <id>https://www.youtube.com/watch?v=q-Dwu7zHIWk</id>
-    <updated>2016-05-17T13:04:16Z</updated>
+    <updated>2016-05-25T13:25:29Z</updated>
     <author>
       <name>Nikita Lutsenko</name>
     </author>
@@ -144,7 +165,7 @@
     <title>Future prooving your iOS apps</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=N5xLQGqmvhQ"/>
     <id>https://www.youtube.com/watch?v=N5xLQGqmvhQ</id>
-    <updated>2016-05-17T13:04:16Z</updated>
+    <updated>2016-05-25T13:25:29Z</updated>
     <author>
       <name>Pim Stolk</name>
     </author>

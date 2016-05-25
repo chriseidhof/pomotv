@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>www.pomo.tv</title>
+  <subtitle>Stefan Mayer-Popp</subtitle>
+  <id>http://www.pomo.tv/</id>
+  <link href="http://www.pomo.tv//speakers/stefan-mayer-popp"/>
+  <link href="http://www.pomo.tv/speakers/stefan-mayer-popp/feed.xml" rel="self"/>
+  <updated>2016-05-25T13:25:28Z</updated>
+  <author>
+    <name>www.pomo.tv</name>
+  </author>
+ 
+      <entry>
+    <title>Framework based architecture using Cocoapods</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=JTudKIEtlQQ"/>
+    <id>https://www.youtube.com/watch?v=JTudKIEtlQQ</id>
+    <updated>2016-05-25T13:25:28Z</updated>
+    <author>
+      <name>Stefan Mayer-Popp</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;frameworks&quot;&gt;frameworks&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;architecture&quot;&gt;architecture&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;JTudKIEtlQQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+
+
+</feed>

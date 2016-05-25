@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/value-types"/>
   <link href="http://www.pomo.tv/tags/value-types/feed.xml" rel="self"/>
-  <updated>2016-05-17T13:04:28Z</updated>
+  <updated>2016-05-25T13:25:43Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Safer Swift Code with Value Types</title>
     <link rel="alternate" href="https://vimeo.com/137543393"/>
     <id>https://vimeo.com/137543393</id>
-    <updated>2016-05-17T13:04:28Z</updated>
+    <updated>2016-05-25T13:25:43Z</updated>
     <author>
       <name>Benjamin Encz</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Functioning as a Functionalist</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=rJosPrqBqrA"/>
     <id>https://www.youtube.com/watch?v=rJosPrqBqrA</id>
-    <updated>2016-05-17T13:04:28Z</updated>
+    <updated>2016-05-25T13:25:43Z</updated>
     <author>
       <name>Andy Matuschak</name>
     </author>
