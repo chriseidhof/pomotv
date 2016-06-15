@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/boris-bugling"/>
   <link href="http://www.pomo.tv/speakers/boris-bugling/feed.xml" rel="self"/>
-  <updated>2016-05-25T13:25:15Z</updated>
+  <updated>2016-06-15T11:32:31Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Custom Playgrounds</title>
     <link rel="alternate" href="https://vimeo.com/100785878"/>
     <id>https://vimeo.com/100785878</id>
-    <updated>2016-05-25T13:25:15Z</updated>
+    <updated>2016-06-15T11:32:31Z</updated>
     <author>
       <name>Boris Bügling</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Open Sourcing Swift</title>
     <link rel="alternate" href="http://www.skilled.io/swiftsummit/open-sourcing-swift"/>
     <id>http://www.skilled.io/swiftsummit/open-sourcing-swift</id>
-    <updated>2016-05-25T13:25:15Z</updated>
+    <updated>2016-06-15T11:32:31Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -63,7 +63,7 @@
     <title>Bringing CocoaPods to Linux</title>
     <link rel="alternate" href="https://vimeo.com/145642898"/>
     <id>https://vimeo.com/145642898</id>
-    <updated>2016-05-25T13:25:15Z</updated>
+    <updated>2016-06-15T11:32:31Z</updated>
     <author>
       <name>Boris Bügling</name>
     </author>
@@ -83,7 +83,7 @@
     <title>Swift Panel: Where do we go from here?</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-panel-community-where-do-we-go/"/>
     <id>https://realm.io/news/swift-summit-panel-community-where-do-we-go/</id>
-    <updated>2016-05-25T13:25:15Z</updated>
+    <updated>2016-06-15T11:32:31Z</updated>
     <author>
       <name>Abizer Nasir</name>
     </author>
@@ -118,7 +118,7 @@
     <title>Swift Funtime</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-boris-bugling-runtime-funtime/"/>
     <id>https://realm.io/news/swift-summit-boris-bugling-runtime-funtime/</id>
-    <updated>2016-05-25T13:25:15Z</updated>
+    <updated>2016-06-15T11:32:31Z</updated>
     <author>
       <name>Boris Bügling</name>
     </author>
@@ -139,7 +139,7 @@
     <title>Extending Xcode</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=6LcflnBHyXs"/>
     <id>https://www.youtube.com/watch?v=6LcflnBHyXs</id>
-    <updated>2016-05-25T13:25:15Z</updated>
+    <updated>2016-06-15T11:32:31Z</updated>
     <author>
       <name>Boris Bügling</name>
     </author>
@@ -158,7 +158,7 @@
     <title>Objective-C funtime - know your runtime</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=vrEoUSuMu_c"/>
     <id>https://www.youtube.com/watch?v=vrEoUSuMu_c</id>
-    <updated>2016-05-25T13:25:15Z</updated>
+    <updated>2016-06-15T11:32:31Z</updated>
     <author>
       <name>Boris Bügling</name>
     </author>

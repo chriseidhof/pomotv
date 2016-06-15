@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/api"/>
   <link href="http://www.pomo.tv/tags/api/feed.xml" rel="self"/>
-  <updated>2016-05-25T13:25:29Z</updated>
+  <updated>2016-06-15T11:32:40Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Building APIs in Swift</title>
     <link rel="alternate" href="https://vimeo.com/164738511"/>
     <id>https://vimeo.com/164738511</id>
-    <updated>2016-05-25T13:25:29Z</updated>
+    <updated>2016-06-15T11:32:40Z</updated>
     <author>
       <name>Daniel Tomlinson</name>
     </author>
@@ -35,7 +35,7 @@
     <title>Statically-Typed Swifty APIs</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=z9oF92dQ2DY"/>
     <id>https://www.youtube.com/watch?v=z9oF92dQ2DY</id>
-    <updated>2016-05-25T13:25:29Z</updated>
+    <updated>2016-06-15T11:32:40Z</updated>
     <author>
       <name>Radek Pietruszewski</name>
     </author>
@@ -57,7 +57,7 @@
     <title>Work hard and REST</title>
     <link rel="alternate" href="https://vimeo.com/151043021"/>
     <id>https://vimeo.com/151043021</id>
-    <updated>2016-05-25T13:25:29Z</updated>
+    <updated>2016-06-15T11:32:40Z</updated>
     <author>
       <name>Csordas Csaba</name>
     </author>
@@ -79,7 +79,7 @@
     <title>Swift Interop</title>
     <link rel="alternate" href="https://www.skilled.io/chriseidhof/swift-interop"/>
     <id>https://www.skilled.io/chriseidhof/swift-interop</id>
-    <updated>2016-05-25T13:25:29Z</updated>
+    <updated>2016-06-15T11:32:40Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>

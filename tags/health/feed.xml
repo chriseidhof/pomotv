@@ -5,16 +5,37 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/health"/>
   <link href="http://www.pomo.tv/tags/health/feed.xml" rel="self"/>
-  <updated>2016-05-25T13:25:35Z</updated>
+  <updated>2016-06-15T11:32:45Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Health Data Apps with ResearchKit</title>
+    <link rel="alternate" href="https://vimeo.com/168695472"/>
+    <id>https://vimeo.com/168695472</id>
+    <updated>2016-06-15T11:32:45Z</updated>
+    <author>
+      <name>Brenden West</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;researchkit&quot;&gt;researchkit&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;health&quot;&gt;health&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;168695472&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Diagnosing Allergies</title>
     <link rel="alternate" href="https://vimeo.com/153826698"/>
     <id>https://vimeo.com/153826698</id>
-    <updated>2016-05-25T13:25:35Z</updated>
+    <updated>2016-06-15T11:32:45Z</updated>
     <author>
       <name>Emily Toop</name>
     </author>

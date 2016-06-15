@@ -241,6 +241,9 @@
     <loc>http://www.pomo.tv/events/nslondon/february-2016/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/march-2016/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/mobile-warsaw/march-2016/</loc>
   </url>
   <url>
@@ -250,10 +253,16 @@
     <loc>http://www.pomo.tv/events/mobile-warsaw/april-2016/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/april-2016/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/events/mobile-warsaw/mce-meetup-night-2016/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nslondon/april-2016/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/may-2016/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/events/munichios/may-2016/</loc>
@@ -1906,6 +1915,18 @@
     <loc>http://www.pomo.tv/speakers/stefan-mayer-popp/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/jake-savin/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/regine-horteur/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/david-hoang/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/brenden-west/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
@@ -1946,6 +1967,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/api/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/app/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/apple-pay/</loc>
@@ -2449,6 +2473,9 @@
     <loc>http://www.pomo.tv/tags/performance/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/personality/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/pip/</loc>
   </url>
   <url>
@@ -2465,6 +2492,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/programming-language/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/project-management/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/promises/</loc>
@@ -4730,5 +4760,17 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/munichios/may-2016/stefan-mayer-popp-framework-based-architecture-using-cocoapods.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/march-2016/jake-savin-how-to-fail-by-following-the-plan.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/april-2016/regine-horteur-app-delight-in-the-service-of-habit-forming.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/april-2016/david-hoang-designers-working-in-xcode.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/seattle-xcoders/may-2016/brenden-west-health-data-apps-with-researchkit.html</loc>
   </url>
 </urlset>
