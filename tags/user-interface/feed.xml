@@ -5,16 +5,39 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/user-interface"/>
   <link href="http://www.pomo.tv/tags/user-interface/feed.xml" rel="self"/>
-  <updated>2016-06-15T11:32:51Z</updated>
+  <updated>2016-06-20T07:19:31Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Utilising Motion Design to Enhance Your App</title>
+    <link rel="alternate" href="https://vimeo.com/170323220"/>
+    <id>https://vimeo.com/170323220</id>
+    <updated>2016-06-20T07:19:31Z</updated>
+    <author>
+      <name>Romaine Reid</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;user-interface&quot;&gt;user interface&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;user-experience&quot;&gt;user experience&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;animation&quot;&gt;animation&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;interaction-design&quot;&gt;interaction design&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;170323220&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Little Wins With UIAppearance</title>
     <link rel="alternate" href="https://vimeo.com/115883292"/>
     <id>https://vimeo.com/115883292</id>
-    <updated>2016-06-15T11:32:51Z</updated>
+    <updated>2016-06-20T07:19:31Z</updated>
     <author>
       <name>Raimon Lapuente</name>
     </author>
@@ -35,7 +58,7 @@
     <title>Beyond White: Embracing the iOS Design Aesthetic</title>
     <link rel="alternate" href="https://vimeo.com/137536119"/>
     <id>https://vimeo.com/137536119</id>
-    <updated>2016-06-15T11:32:51Z</updated>
+    <updated>2016-06-20T07:19:31Z</updated>
     <author>
       <name>Janie Clayton</name>
     </author>
@@ -56,7 +79,7 @@
     <title>Designing for @1x - @3x Without Going Crazy</title>
     <link rel="alternate" href="https://vimeo.com/137561771"/>
     <id>https://vimeo.com/137561771</id>
-    <updated>2016-06-15T11:32:51Z</updated>
+    <updated>2016-06-20T07:19:31Z</updated>
     <author>
       <name>Curtis Herbert</name>
     </author>
@@ -78,7 +101,7 @@
     <title>Power Up Your Animations!</title>
     <link rel="alternate" href="https://realm.io/news/altconf-marin-todorov-animations/"/>
     <id>https://realm.io/news/altconf-marin-todorov-animations/</id>
-    <updated>2016-06-15T11:32:51Z</updated>
+    <updated>2016-06-20T07:19:31Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>
@@ -100,7 +123,7 @@
     <title>Designing for Humans</title>
     <link rel="alternate" href="https://realm.io/news/altconf-dave-wiskus-designing-for-humans/"/>
     <id>https://realm.io/news/altconf-dave-wiskus-designing-for-humans/</id>
-    <updated>2016-06-15T11:32:51Z</updated>
+    <updated>2016-06-20T07:19:31Z</updated>
     <author>
       <name>Dave Wiskus</name>
     </author>

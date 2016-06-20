@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//speakers/nick-porcino"/>
   <link href="http://www.pomo.tv/speakers/nick-porcino/feed.xml" rel="self"/>
-  <updated>2016-06-15T11:32:35Z</updated>
+  <updated>2016-06-20T07:19:17Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Managing 3D Assets with Model I&#x2F;O</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-602"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-602</id>
-    <updated>2016-06-15T11:32:35Z</updated>
+    <updated>2016-06-20T07:19:17Z</updated>
     <author>
       <name>Nick Porcino</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Best Practices for Building SpriteKit Games</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2014-608"/>
     <id>https://developer.apple.com/videos/play/wwdc2014-608</id>
-    <updated>2016-06-15T11:32:35Z</updated>
+    <updated>2016-06-20T07:19:17Z</updated>
     <author>
       <name>Jacques Gasselin de Richebourg</name>
     </author>

@@ -268,6 +268,9 @@
     <loc>http://www.pomo.tv/events/munichios/may-2016/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/nslondon/may-2016/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/speakers/chris-eidhof/</loc>
   </url>
   <url>
@@ -1927,6 +1930,9 @@
     <loc>http://www.pomo.tv/speakers/brenden-west/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/romaine-reid/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
@@ -2167,6 +2173,9 @@
     <loc>http://www.pomo.tv/tags/design/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/design-patterns/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/developertools/</loc>
   </url>
   <url>
@@ -2318,6 +2327,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/integration/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/interaction-design/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/interface/</loc>
@@ -4772,5 +4784,11 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/seattle-xcoders/may-2016/brenden-west-health-data-apps-with-researchkit.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/may-2016/romaine-reid-utilising-motion-design-to-enhance-your-app.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/may-2016/roy-marmelstein-scandal-and-controversy-in-ios-development.html</loc>
   </url>
 </urlset>

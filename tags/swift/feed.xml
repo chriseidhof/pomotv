@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/swift"/>
   <link href="http://www.pomo.tv/tags/swift/feed.xml" rel="self"/>
-  <updated>2016-06-15T11:32:49Z</updated>
+  <updated>2016-06-20T07:19:30Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Palau - NSUserDefaults in the age of Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=290B44t4Jm0"/>
     <id>https://www.youtube.com/watch?v=290B44t4Jm0</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Elmar Kretzer</name>
     </author>
@@ -35,7 +35,7 @@
     <title>Building APIs in Swift</title>
     <link rel="alternate" href="https://vimeo.com/164738511"/>
     <id>https://vimeo.com/164738511</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Daniel Tomlinson</name>
     </author>
@@ -56,7 +56,7 @@
     <title>Sorry Objc: It&#x27;s not you, it&#x27;s me</title>
     <link rel="alternate" href="https://vimeo.com/161661457"/>
     <id>https://vimeo.com/161661457</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Raimon Lapuente</name>
     </author>
@@ -79,7 +79,7 @@
     <title>A Swift Introduction to Reactive Cocoa</title>
     <link rel="alternate" href="https://vimeo.com/158447577"/>
     <id>https://vimeo.com/158447577</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Vivek Gani</name>
     </author>
@@ -100,7 +100,7 @@
     <title>Statically-Typed Swifty APIs</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=z9oF92dQ2DY"/>
     <id>https://www.youtube.com/watch?v=z9oF92dQ2DY</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Radek Pietruszewski</name>
     </author>
@@ -122,7 +122,7 @@
     <title>Achieving clarity in Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=YA1C0Zcs9IQ"/>
     <id>https://www.youtube.com/watch?v=YA1C0Zcs9IQ</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Radek Pietruszewski</name>
     </author>
@@ -143,7 +143,7 @@
     <title>Error Handling In Swift 2.0</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=kGIKwIOMK8A"/>
     <id>https://www.youtube.com/watch?v=kGIKwIOMK8A</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Marius Rackwitz</name>
     </author>
@@ -164,7 +164,7 @@
     <title>Hidden gems in Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=NP7PdeZv75w"/>
     <id>https://www.youtube.com/watch?v=NP7PdeZv75w</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Adrian Kashivskyy</name>
     </author>
@@ -184,7 +184,7 @@
     <title>Crypto? Been there, done that</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=FWHADBbn4Kc"/>
     <id>https://www.youtube.com/watch?v=FWHADBbn4Kc</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Marcin Krzyżanowski</name>
     </author>
@@ -208,7 +208,7 @@
     <title>Swift and C Interop</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=p7wtjTnzErA"/>
     <id>https://www.youtube.com/watch?v=p7wtjTnzErA</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -229,7 +229,7 @@
     <title>Swift C Interoperability</title>
     <link rel="alternate" href="https://vimeo.com/142850815"/>
     <id>https://vimeo.com/142850815</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -252,7 +252,7 @@
     <title>Type Driven Development in Swift</title>
     <link rel="alternate" href="https://vimeo.com/121126581"/>
     <id>https://vimeo.com/121126581</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Johannes Weiß</name>
     </author>
@@ -273,7 +273,7 @@
     <title>Lessons learned wrapping an Objective-C framework in Swift</title>
     <link rel="alternate" href="https://vimeo.com/118832151"/>
     <id>https://vimeo.com/118832151</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -294,7 +294,7 @@
     <title>Beyond &quot;if let&quot;</title>
     <link rel="alternate" href="https://vimeo.com/118019963"/>
     <id>https://vimeo.com/118019963</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Joseph Lord</name>
     </author>
@@ -314,7 +314,7 @@
     <title>Thinking in Swift</title>
     <link rel="alternate" href="https://vimeo.com/105440181"/>
     <id>https://vimeo.com/105440181</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Abizer Nasir</name>
     </author>
@@ -334,7 +334,7 @@
     <title>A swift approach</title>
     <link rel="alternate" href="https://vimeo.com/103413459"/>
     <id>https://vimeo.com/103413459</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>
@@ -354,7 +354,7 @@
     <title>Switching Your Brain to Swift</title>
     <link rel="alternate" href="https://vimeo.com/137530879"/>
     <id>https://vimeo.com/137530879</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Greg Heo</name>
     </author>
@@ -374,7 +374,7 @@
     <title>Lenses in Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ofjehH9f-CU"/>
     <id>https://www.youtube.com/watch?v=ofjehH9f-CU</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Brandon Williams</name>
     </author>
@@ -397,7 +397,7 @@
     <title>Cocoa APIs in a Swifty world</title>
     <link rel="alternate" href="https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world"/>
     <id>https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Saul Mora</name>
     </author>
@@ -420,7 +420,7 @@
     <title>Beyond the block based API: Building a simple future</title>
     <link rel="alternate" href="https://www.skilled.io/thomasvisser/building-a-simple-future-library-in-swift"/>
     <id>https://www.skilled.io/thomasvisser/building-a-simple-future-library-in-swift</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Thomas Visser</name>
     </author>
@@ -444,7 +444,7 @@
     <title>How to build a Compelling Watch App</title>
     <link rel="alternate" href="https://www.skilled.io/kristinathai/how-to-build-a-compelling-watch-app"/>
     <id>https://www.skilled.io/kristinathai/how-to-build-a-compelling-watch-app</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Kristina Thai</name>
     </author>
@@ -466,7 +466,7 @@
     <title>Let&#x27;s Code: Storage for Structs</title>
     <link rel="alternate" href="https://www.skilled.io/nickoneill/lets-code-storage-for-structs"/>
     <id>https://www.skilled.io/nickoneill/lets-code-storage-for-structs</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Nick ONeill</name>
     </author>
@@ -488,7 +488,7 @@
     <title>Why Swift is swift</title>
     <link rel="alternate" href="https://www.skilled.io/purpleyay/why-swift-is-swift"/>
     <id>https://www.skilled.io/purpleyay/why-swift-is-swift</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Gwendolyn Weston</name>
     </author>
@@ -510,7 +510,7 @@
     <title>Simple Asynchronous Swift code with ReactiveCocoa 4</title>
     <link rel="alternate" href="https://www.skilled.io/javiersoto/simple-asynchronous-swift-code-with-reactivecocoa-4"/>
     <id>https://www.skilled.io/javiersoto/simple-asynchronous-swift-code-with-reactivecocoa-4</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Javier Soto</name>
     </author>
@@ -533,7 +533,7 @@
     <title>Making Swift even more functional</title>
     <link rel="alternate" href="https://www.skilled.io/veronicaray/making-swift-even-more-functional"/>
     <id>https://www.skilled.io/veronicaray/making-swift-even-more-functional</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Veronica Ray</name>
     </author>
@@ -555,7 +555,7 @@
     <title>Sharing Swift between iOS and OS X</title>
     <link rel="alternate" href="https://www.skilled.io/wilshipley/sharing-swift-between-ios-and-os-x"/>
     <id>https://www.skilled.io/wilshipley/sharing-swift-between-ios-and-os-x</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Wil Shipley</name>
     </author>
@@ -579,7 +579,7 @@
     <title>Tales of a rewrite at Lyft</title>
     <link rel="alternate" href="https://www.skilled.io/keithsmiley/tales-of-a-rewrite-at-lyft"/>
     <id>https://www.skilled.io/keithsmiley/tales-of-a-rewrite-at-lyft</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Keith Smiley</name>
     </author>
@@ -602,7 +602,7 @@
     <title>Lightweight, cross-platform code using Swift</title>
     <link rel="alternate" href="https://www.skilled.io/mikeellard/lightweight-cross-platform-code-using-swift"/>
     <id>https://www.skilled.io/mikeellard/lightweight-cross-platform-code-using-swift</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Michael Patrick Ellard</name>
     </author>
@@ -624,7 +624,7 @@
     <title>Swift Interop</title>
     <link rel="alternate" href="https://www.skilled.io/chriseidhof/swift-interop"/>
     <id>https://www.skilled.io/chriseidhof/swift-interop</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -648,7 +648,7 @@
     <title>Error Handling in Swift 2</title>
     <link rel="alternate" href="http://www.skilled.io/thomashanning/error-handling-in-swift-2"/>
     <id>http://www.skilled.io/thomashanning/error-handling-in-swift-2</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Thomas Hanning</name>
     </author>
@@ -670,7 +670,7 @@
     <title>Exploring Apple Pay with Swift</title>
     <link rel="alternate" href="http://www.skilled.io/wendylu/exploring-apple-pay-with-swift"/>
     <id>http://www.skilled.io/wendylu/exploring-apple-pay-with-swift</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Wendy Lu</name>
     </author>
@@ -692,7 +692,7 @@
     <title>Ready for the future</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=vPoXUZTMxNs"/>
     <id>https://www.youtube.com/watch?v=vPoXUZTMxNs</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Daniel Steinberg</name>
     </author>
@@ -713,7 +713,7 @@
     <title>Protocol Oriented MVVM</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=cGWBpra3YMc"/>
     <id>https://www.youtube.com/watch?v=cGWBpra3YMc</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Natasha Murashev</name>
     </author>
@@ -734,7 +734,7 @@
     <title>Apple&#x27;s Next Big Language</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ZUlRPs9ztRY"/>
     <id>https://www.youtube.com/watch?v=ZUlRPs9ztRY</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Daniel Jalkut</name>
     </author>
@@ -755,7 +755,7 @@
     <title>Tooling in Swift - Xcode Integration &amp; CI</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=LvV1W3BcB0o"/>
     <id>https://www.youtube.com/watch?v=LvV1W3BcB0o</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Stan Chang</name>
     </author>
@@ -777,7 +777,7 @@
     <title>Swift in Practice</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-411"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-411</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Ted Kremenek</name>
     </author>
@@ -797,7 +797,7 @@
     <title>Optimizing Swift Performance</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-409"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-409</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Nadav Rotem</name>
     </author>
@@ -823,7 +823,7 @@
     <title>Improving Your Existing Apps with Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-403"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-403</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Woody Lidstone</name>
     </author>
@@ -843,7 +843,7 @@
     <title>Swift and Objective-C Interoperability</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-401"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-401</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Jordan Rose</name>
     </author>
@@ -863,7 +863,7 @@
     <title>Protocol-Oriented Programming in Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-408"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-408</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Dave Abrahams</name>
     </author>
@@ -883,7 +883,7 @@
     <title>What&#x27;s New in Swift</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-106"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-106</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Chris Lattner</name>
     </author>
@@ -902,7 +902,7 @@
     <title>Playgrounds Are for Kids</title>
     <link rel="alternate" href="https://realm.io/news/altconf-daniel-steinberg-swift-playgrounds-education/"/>
     <id>https://realm.io/news/altconf-daniel-steinberg-swift-playgrounds-education/</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Daniel Steinberg</name>
     </author>
@@ -926,7 +926,7 @@
     <title>CryptoSwift: Cryptography You Can Do</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-marcin-krzyzanowski-cryptoswift-cryptography/"/>
     <id>https://realm.io/news/swift-summit-marcin-krzyzanowski-cryptoswift-cryptography/</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Marcin Krzyżanowski</name>
     </author>
@@ -949,7 +949,7 @@
     <title>The Bright Future of Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/thomas-visser-the-bright-future-of-swift"/>
     <id>http://www.thedotpost.com/2016/01/thomas-visser-the-bright-future-of-swift</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Thomas Visser</name>
     </author>
@@ -971,7 +971,7 @@
     <title>Swift [and the] Evolution</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/tj-usiyan-swift-and-the-evolution"/>
     <id>http://www.thedotpost.com/2016/01/tj-usiyan-swift-and-the-evolution</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>TJ Usiyan</name>
     </author>
@@ -992,7 +992,7 @@
     <title>Beyond JSON in Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/maxim-zaks-beyond-json"/>
     <id>http://www.thedotpost.com/2016/01/maxim-zaks-beyond-json</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Maxim Zaks</name>
     </author>
@@ -1014,7 +1014,7 @@
     <title>Localization is hard</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/roy-marmelstein-localization-is-hard"/>
     <id>http://www.thedotpost.com/2016/01/roy-marmelstein-localization-is-hard</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Roy Marmelstein</name>
     </author>
@@ -1036,7 +1036,7 @@
     <title>Going Swift and Beyond</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/ayaka-nonaka-going-swift-and-beyond-first-wave-swift"/>
     <id>http://www.thedotpost.com/2016/01/ayaka-nonaka-going-swift-and-beyond-first-wave-swift</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Ayaka Nonaka</name>
     </author>
@@ -1058,7 +1058,7 @@
     <title>Tiny Networking</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/chris-eidhof-tiny-networking-in-swift"/>
     <id>http://www.thedotpost.com/2016/01/chris-eidhof-tiny-networking-in-swift</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -1080,7 +1080,7 @@
     <title>Beyond Crusty: Real-World Protocols</title>
     <link rel="alternate" href="http://www.thedotpost.com/2016/01/rob-napier-beyond-crusty-real-world-protocols"/>
     <id>http://www.thedotpost.com/2016/01/rob-napier-beyond-crusty-real-world-protocols</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Rob Napier</name>
     </author>
@@ -1102,7 +1102,7 @@
     <title>Think Swiftly</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/dimitri-dupuis-latour-think-swiftly"/>
     <id>http://www.thedotpost.com/2015/02/dimitri-dupuis-latour-think-swiftly</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Dimitri Dupuis-Latour</name>
     </author>
@@ -1123,7 +1123,7 @@
     <title>Introspecting Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/jp-simard-introspecting-swift"/>
     <id>http://www.thedotpost.com/2015/02/jp-simard-introspecting-swift</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
@@ -1144,7 +1144,7 @@
     <title>Swift in Production</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/ash-furrow-swift-in-production"/>
     <id>http://www.thedotpost.com/2015/02/ash-furrow-swift-in-production</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Ash Furrow</name>
     </author>
@@ -1165,7 +1165,7 @@
     <title>Practical Functional Programming in Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/kyle-fuller-practical-functional-programming-in-swift"/>
     <id>http://www.thedotpost.com/2015/02/kyle-fuller-practical-functional-programming-in-swift</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>
@@ -1187,7 +1187,7 @@
     <title>Swiftly Building Better Apps</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/romain-huet-swiftly-building-better-apps"/>
     <id>http://www.thedotpost.com/2015/02/romain-huet-swiftly-building-better-apps</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Romain Huet</name>
     </author>
@@ -1208,7 +1208,7 @@
     <title>The Ugly American Learns Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/daniel-steinberg-the-ugly-american-learns-swift"/>
     <id>http://www.thedotpost.com/2015/02/daniel-steinberg-the-ugly-american-learns-swift</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Daniel Steinberg</name>
     </author>
@@ -1229,7 +1229,7 @@
     <title>Static vs. Dynamic Linking</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/marius-rackwitz-static-vs-dynamic-linking"/>
     <id>http://www.thedotpost.com/2015/02/marius-rackwitz-static-vs-dynamic-linking</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Marius Rackwitz</name>
     </author>
@@ -1250,7 +1250,7 @@
     <title>Switch to Swift?</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/corinne-kyrch-switch-to-swift"/>
     <id>http://www.thedotpost.com/2015/02/corinne-kyrch-switch-to-swift</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Corinne Krych</name>
     </author>
@@ -1271,7 +1271,7 @@
     <title>Fun with Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=KNJ_UPebGOQ"/>
     <id>https://www.youtube.com/watch?v=KNJ_UPebGOQ</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -1291,7 +1291,7 @@
     <title>Functioning as a Functionalist</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=rJosPrqBqrA"/>
     <id>https://www.youtube.com/watch?v=rJosPrqBqrA</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Andy Matuschak</name>
     </author>
@@ -1313,7 +1313,7 @@
     <title>Functional Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=vbMjd-Ms-_o"/>
     <id>https://www.youtube.com/watch?v=vbMjd-Ms-_o</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -1335,7 +1335,7 @@
     <title>Compiling Swift with Swift... and other bad ideas</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=F_fCLnMj89Y"/>
     <id>https://www.youtube.com/watch?v=F_fCLnMj89Y</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Mitchell Allison</name>
     </author>
@@ -1355,7 +1355,7 @@
     <title>Operators Overload</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ZRzroz8Uyj4"/>
     <id>https://www.youtube.com/watch?v=ZRzroz8Uyj4</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Francesco Frison</name>
     </author>
@@ -1376,7 +1376,7 @@
     <title>Laziness in Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=1w2WEs0UjAA"/>
     <id>https://www.youtube.com/watch?v=1w2WEs0UjAA</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Joachim Kurz</name>
     </author>
@@ -1397,7 +1397,7 @@
     <title>What the func?</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Yl21K64J7mw"/>
     <id>https://www.youtube.com/watch?v=Yl21K64J7mw</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Daniel Steinberg</name>
     </author>
@@ -1418,7 +1418,7 @@
     <title>Swift and C</title>
     <link rel="alternate" href="https://vimeo.com/107707576"/>
     <id>https://vimeo.com/107707576</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:30Z</updated>
     <author>
       <name>Mike Ash</name>
     </author>

@@ -5,16 +5,61 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv/"/>
   <link href="http://www.pomo.tv/recent.xml" rel="self"/>
-  <updated>2016-06-15T11:32:21Z</updated>
+  <updated>2016-06-20T07:19:04Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Scandal and Controversy in iOS Development</title>
+    <link rel="alternate" href="https://vimeo.com/170323222"/>
+    <id>https://vimeo.com/170323222</id>
+    <updated>2016-06-20T07:19:04Z</updated>
+    <author>
+      <name>Roy Marmelstein</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;storyboards&quot;&gt;storyboards&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;kvo&quot;&gt;kvo&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;design-patterns&quot;&gt;design patterns&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;170323222&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
+    <title>Utilising Motion Design to Enhance Your App</title>
+    <link rel="alternate" href="https://vimeo.com/170323220"/>
+    <id>https://vimeo.com/170323220</id>
+    <updated>2016-06-20T07:19:04Z</updated>
+    <author>
+      <name>Romaine Reid</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;user-interface&quot;&gt;user interface&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;user-experience&quot;&gt;user experience&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;animation&quot;&gt;animation&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;interaction-design&quot;&gt;interaction design&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;170323220&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Health Data Apps with ResearchKit</title>
     <link rel="alternate" href="https://vimeo.com/168695472"/>
     <id>https://vimeo.com/168695472</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Brenden West</name>
     </author>
@@ -35,7 +80,7 @@
     <title>Designers Working in Xcode</title>
     <link rel="alternate" href="https://vimeo.com/164957199"/>
     <id>https://vimeo.com/164957199</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>David Hoang</name>
     </author>
@@ -56,7 +101,7 @@
     <title>App Delight in the Service of Habit Forming</title>
     <link rel="alternate" href="https://vimeo.com/164957199"/>
     <id>https://vimeo.com/164957199</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Regine Horteur</name>
     </author>
@@ -77,7 +122,7 @@
     <title>How to Fail by Following the Plan</title>
     <link rel="alternate" href="https://vimeo.com/159888691"/>
     <id>https://vimeo.com/159888691</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Jake Savin</name>
     </author>
@@ -97,7 +142,7 @@
     <title>Framework based architecture using Cocoapods</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=JTudKIEtlQQ"/>
     <id>https://www.youtube.com/watch?v=JTudKIEtlQQ</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Stefan Mayer-Popp</name>
     </author>
@@ -118,7 +163,7 @@
     <title>Giving back with GitHub</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ErG-8-TMXug"/>
     <id>https://www.youtube.com/watch?v=ErG-8-TMXug</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Madhava Jay</name>
     </author>
@@ -139,7 +184,7 @@
     <title>Palau - NSUserDefaults in the age of Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=290B44t4Jm0"/>
     <id>https://www.youtube.com/watch?v=290B44t4Jm0</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Elmar Kretzer</name>
     </author>
@@ -160,7 +205,7 @@
     <title>The Empathetic Programmer</title>
     <link rel="alternate" href="https://vimeo.com/164883550"/>
     <id>https://vimeo.com/164883550</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Michael May</name>
     </author>
@@ -181,7 +226,7 @@
     <title>Building APIs in Swift</title>
     <link rel="alternate" href="https://vimeo.com/164738511"/>
     <id>https://vimeo.com/164738511</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Daniel Tomlinson</name>
     </author>
@@ -202,7 +247,7 @@
     <title>Designing for People on the Autistic Spectrum</title>
     <link rel="alternate" href="https://vimeo.com/164735055"/>
     <id>https://vimeo.com/164735055</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Marisa Montaldi</name>
     </author>
@@ -223,7 +268,7 @@
     <title>Advanced image processing with Core Image</title>
     <link rel="alternate" href="https://vimeo.com/161446915"/>
     <id>https://vimeo.com/161446915</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Simon Gladman</name>
     </author>
@@ -243,7 +288,7 @@
     <title>Implementing a code injection framework</title>
     <link rel="alternate" href="https://vimeo.com/162067247"/>
     <id>https://vimeo.com/162067247</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Daniel Haight</name>
     </author>
@@ -264,7 +309,7 @@
     <title>Technical detail behind the Apple-FBI case</title>
     <link rel="alternate" href="https://vimeo.com/161446917"/>
     <id>https://vimeo.com/161446917</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Johannes Weiß</name>
     </author>
@@ -284,7 +329,7 @@
     <title>Live Design</title>
     <link rel="alternate" href="https://vimeo.com/161666031"/>
     <id>https://vimeo.com/161666031</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Maxim Cramer</name>
     </author>
@@ -304,7 +349,7 @@
     <title>Sorry Objc: It&#x27;s not you, it&#x27;s me</title>
     <link rel="alternate" href="https://vimeo.com/161661457"/>
     <id>https://vimeo.com/161661457</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Raimon Lapuente</name>
     </author>
@@ -327,7 +372,7 @@
     <title>Building reactive apps with Realm</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=IFhkuSI6NBk"/>
     <id>https://www.youtube.com/watch?v=IFhkuSI6NBk</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>
@@ -348,7 +393,7 @@
     <title>Continuous Integrations for iOS Apps</title>
     <link rel="alternate" href="https://vimeo.com/158290425"/>
     <id>https://vimeo.com/158290425</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Pavan Adavi</name>
     </author>
@@ -370,7 +415,7 @@
     <title>A Swift Introduction to Reactive Cocoa</title>
     <link rel="alternate" href="https://vimeo.com/158447577"/>
     <id>https://vimeo.com/158447577</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Vivek Gani</name>
     </author>
@@ -391,7 +436,7 @@
     <title>Universal Links, with a Nod to Other Web-Like Advances</title>
     <link rel="alternate" href="https://vimeo.com/151531189"/>
     <id>https://vimeo.com/151531189</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Nathan Corvino</name>
     </author>
@@ -411,7 +456,7 @@
     <title>Ignore That Young Man From 2014</title>
     <link rel="alternate" href="https://vimeo.com/154146675"/>
     <id>https://vimeo.com/154146675</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Nathaniel Irons</name>
     </author>
@@ -433,7 +478,7 @@
     <title>Fix issue</title>
     <link rel="alternate" href="https://vimeo.com/154148473"/>
     <id>https://vimeo.com/154148473</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Tim Ekl</name>
     </author>
@@ -454,7 +499,7 @@
     <title>Runtime Hacking for Fun and Profit</title>
     <link rel="alternate" href="https://vimeo.com/151482623"/>
     <id>https://vimeo.com/151482623</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Curt Clifton</name>
     </author>
@@ -475,7 +520,7 @@
     <title>Competing with Art</title>
     <link rel="alternate" href="https://vimeo.com/153679708"/>
     <id>https://vimeo.com/153679708</id>
-    <updated>2016-06-15T11:32:21Z</updated>
+    <updated>2016-06-20T07:19:04Z</updated>
     <author>
       <name>Allen Pike</name>
     </author>
@@ -487,49 +532,6 @@
   &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Allen spoke about the similarities between indie programmers and artists&#x2F;musicians. Thanks to advances our tools and the community it&#x27;s never been an easier time to get into programming, but that leads to a highly competitive hit-driven economy very similar to music, where it can be hard to get noticed. Sometimes we need to focus on our side projects not for the potential economic gains, but the creative outlet they provide.&lt;&#x2F;p&gt;
   &lt;div class=&quot;video-content&quot;&gt;
     &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153679708&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Thank You for Bugging me</title>
-    <link rel="alternate" href="https://vimeo.com/153709408"/>
-    <id>https://vimeo.com/153709408</id>
-    <updated>2016-06-15T11:32:21Z</updated>
-    <author>
-      <name>Chris Barajas</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;support&quot;&gt;support&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Chris provides support for users of Rogue Amoeba’s fine audio software. There is no good substitute for human-to-human support, although technology can provide shortcuts. Chris talked about how technology and humanity intersect in the role of support, and how good support finds the strengths of each to keep a company and its customers happy.&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;153709408&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
-  &lt;&#x2F;div&gt;
-
-    </content>
-  </entry>
-
-    <entry>
-    <title>Protocol-Oriented DataSources</title>
-    <link rel="alternate" href="https://vimeo.com/152193160"/>
-    <id>https://vimeo.com/152193160</id>
-    <updated>2016-06-15T11:32:21Z</updated>
-    <author>
-      <name>Niels van Hoorn</name>
-    </author>
-    <content type="text/html">
-      &lt;p class=&quot;video-meta&quot;&gt;
-    Tags:
-      &lt;a href=&quot;&#x2F;tags&#x2F;protocols&quot;&gt;protocols&lt;&#x2F;a&gt;
-      &lt;a href=&quot;&#x2F;tags&#x2F;live-coding&quot;&gt;live coding&lt;&#x2F;a&gt;
-&lt;&#x2F;p&gt;
-  &lt;p class=&quot;video-meta&quot;&gt; Description:&lt;br&#x2F;&gt;Niels van Hoorn talks about protocol-oriented datasources. Combining James Bond and Swift, Niels does a live coding deep dive into protocols, extensions and type aliases.&lt;&#x2F;p&gt;
-  &lt;div class=&quot;video-content&quot;&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;152193160&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
   &lt;&#x2F;div&gt;
 
     </content>

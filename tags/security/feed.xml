@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/security"/>
   <link href="http://www.pomo.tv/tags/security/feed.xml" rel="self"/>
-  <updated>2016-06-15T11:32:49Z</updated>
+  <updated>2016-06-20T07:19:29Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Technical detail behind the Apple-FBI case</title>
     <link rel="alternate" href="https://vimeo.com/161446917"/>
     <id>https://vimeo.com/161446917</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:29Z</updated>
     <author>
       <name>Johannes Weiß</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Crypto? Been there, done that</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=FWHADBbn4Kc"/>
     <id>https://www.youtube.com/watch?v=FWHADBbn4Kc</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:29Z</updated>
     <author>
       <name>Marcin Krzyżanowski</name>
     </author>
@@ -58,7 +58,7 @@
     <title>Protecting iOS apps</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=aM6mrH1Mgnw"/>
     <id>https://www.youtube.com/watch?v=aM6mrH1Mgnw</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:29Z</updated>
     <author>
       <name>Błażej Marcinkiewicz</name>
     </author>
@@ -78,7 +78,7 @@
     <title>Android vs iOS security comparison</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=UfWJQJpj_kc"/>
     <id>https://www.youtube.com/watch?v=UfWJQJpj_kc</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:29Z</updated>
     <author>
       <name>Kamil Trzciński</name>
     </author>
@@ -98,7 +98,7 @@
     <title>Work hard and REST</title>
     <link rel="alternate" href="https://vimeo.com/151043021"/>
     <id>https://vimeo.com/151043021</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:29Z</updated>
     <author>
       <name>Csordas Csaba</name>
     </author>
@@ -120,7 +120,7 @@
     <title>The Modern Password and You</title>
     <link rel="alternate" href="https://vimeo.com/121127087"/>
     <id>https://vimeo.com/121127087</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:29Z</updated>
     <author>
       <name>Joel Parsons</name>
     </author>
@@ -140,7 +140,7 @@
     <title>iOS App Security: Common Mistakes and Best Practices</title>
     <link rel="alternate" href="https://vimeo.com/118833806"/>
     <id>https://vimeo.com/118833806</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:29Z</updated>
     <author>
       <name>Francesco Petrungaro</name>
     </author>
@@ -160,7 +160,7 @@
     <title>Data protection for mobile client-server architectures</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=zKvt0fv_mkc"/>
     <id>https://www.youtube.com/watch?v=zKvt0fv_mkc</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:29Z</updated>
     <author>
       <name>Anastasiia Voitova</name>
     </author>
@@ -180,7 +180,7 @@
     <title>Security and Your Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-706"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-706</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:29Z</updated>
     <author>
       <name>Ivan Krstic</name>
     </author>
@@ -200,7 +200,7 @@
     <title>CryptoSwift: Cryptography You Can Do</title>
     <link rel="alternate" href="https://realm.io/news/swift-summit-marcin-krzyzanowski-cryptoswift-cryptography/"/>
     <id>https://realm.io/news/swift-summit-marcin-krzyzanowski-cryptoswift-cryptography/</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:29Z</updated>
     <author>
       <name>Marcin Krzyżanowski</name>
     </author>
@@ -223,7 +223,7 @@
     <title>Securing iOS applications</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=qaeN-rk_YVU"/>
     <id>https://www.youtube.com/watch?v=qaeN-rk_YVU</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:29Z</updated>
     <author>
       <name>Max Bazaliy</name>
     </author>
@@ -243,7 +243,7 @@
     <title>Demystifying security best practices</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=2FHc9QTpsqQ"/>
     <id>https://www.youtube.com/watch?v=2FHc9QTpsqQ</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:29Z</updated>
     <author>
       <name>Conrad Stoll</name>
     </author>

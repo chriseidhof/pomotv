@@ -5,16 +5,38 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/storyboards"/>
   <link href="http://www.pomo.tv/tags/storyboards/feed.xml" rel="self"/>
-  <updated>2016-06-15T11:32:49Z</updated>
+  <updated>2016-06-20T07:19:29Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Scandal and Controversy in iOS Development</title>
+    <link rel="alternate" href="https://vimeo.com/170323222"/>
+    <id>https://vimeo.com/170323222</id>
+    <updated>2016-06-20T07:19:29Z</updated>
+    <author>
+      <name>Roy Marmelstein</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;storyboards&quot;&gt;storyboards&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;kvo&quot;&gt;kvo&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;design-patterns&quot;&gt;design patterns&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;170323222&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>What&#x27;s New in Storyboards</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-215"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-215</id>
-    <updated>2016-06-15T11:32:49Z</updated>
+    <updated>2016-06-20T07:19:29Z</updated>
     <author>
       <name>Kyle Sluder</name>
     </author>
