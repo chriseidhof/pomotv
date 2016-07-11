@@ -271,6 +271,9 @@
     <loc>http://www.pomo.tv/events/nslondon/may-2016/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/nslondon/june-2016/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/speakers/chris-eidhof/</loc>
   </url>
   <url>
@@ -1933,6 +1936,9 @@
     <loc>http://www.pomo.tv/speakers/romaine-reid/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/speakers/eduardo-aguilar/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
   </url>
   <url>
@@ -2168,6 +2174,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/dependency-injection/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/deployment/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/design/</loc>
@@ -2419,6 +2428,9 @@
     <loc>http://www.pomo.tv/tags/marketing/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/tags/mdm/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/tags/media/</loc>
   </url>
   <url>
@@ -2621,6 +2633,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/swift/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/tags/swiftpm/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/swizzling/</loc>
@@ -4790,5 +4805,14 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nslondon/may-2016/roy-marmelstein-scandal-and-controversy-in-ios-development.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/june-2016/eduardo-aguilar-overcoming-technical-difficulties.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/june-2016/honza-dvorsky-swift-package-manager.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/nslondon/june-2016/rob-elkin-altconf-behind-the-scenes.html</loc>
   </url>
 </urlset>

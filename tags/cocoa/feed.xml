@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/cocoa"/>
   <link href="http://www.pomo.tv/tags/cocoa/feed.xml" rel="self"/>
-  <updated>2016-06-20T07:19:23Z</updated>
+  <updated>2016-07-11T21:31:49Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Cocoa APIs in a Swifty world</title>
     <link rel="alternate" href="https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world"/>
     <id>https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world</id>
-    <updated>2016-06-20T07:19:23Z</updated>
+    <updated>2016-07-11T21:31:49Z</updated>
     <author>
       <name>Saul Mora</name>
     </author>
@@ -37,7 +37,7 @@
     <title>What&#x27;s New in HealthKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-203"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-203</id>
-    <updated>2016-06-20T07:19:23Z</updated>
+    <updated>2016-07-11T21:31:49Z</updated>
     <author>
       <name>Shannon Tan</name>
     </author>
@@ -57,7 +57,7 @@
     <title>What&#x27;s New in Cocoa</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-202"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-202</id>
-    <updated>2016-06-20T07:19:23Z</updated>
+    <updated>2016-07-11T21:31:49Z</updated>
     <author>
       <name>Ali Ozer</name>
     </author>

@@ -5,16 +5,39 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/enterprise"/>
   <link href="http://www.pomo.tv/tags/enterprise/feed.xml" rel="self"/>
-  <updated>2016-06-20T07:19:24Z</updated>
+  <updated>2016-07-11T21:31:50Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
  
       <entry>
+    <title>Overcoming Technical Difficulties</title>
+    <link rel="alternate" href="https://vimeo.com/174225591"/>
+    <id>https://vimeo.com/174225591</id>
+    <updated>2016-07-11T21:31:50Z</updated>
+    <author>
+      <name>Eduardo Aguilar</name>
+    </author>
+    <content type="text/html">
+      &lt;p class=&quot;video-meta&quot;&gt;
+    Tags:
+      &lt;a href=&quot;&#x2F;tags&#x2F;deployment&quot;&gt;deployment&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;enterprise&quot;&gt;enterprise&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;mdm&quot;&gt;mdm&lt;&#x2F;a&gt;
+      &lt;a href=&quot;&#x2F;tags&#x2F;xcode-server&quot;&gt;xcode server&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+  &lt;div class=&quot;video-content&quot;&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;174225591&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;p&gt;
+  &lt;&#x2F;div&gt;
+
+    </content>
+  </entry>
+
+    <entry>
     <title>Supporting the Enterprise with OS X Automation</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-306"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-306</id>
-    <updated>2016-06-20T07:19:24Z</updated>
+    <updated>2016-07-11T21:31:50Z</updated>
     <author>
       <name>Sal Soghoian</name>
     </author>

@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/reactive"/>
   <link href="http://www.pomo.tv/tags/reactive/feed.xml" rel="self"/>
-  <updated>2016-06-20T07:19:28Z</updated>
+  <updated>2016-07-11T21:31:55Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Building reactive apps with Realm</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=IFhkuSI6NBk"/>
     <id>https://www.youtube.com/watch?v=IFhkuSI6NBk</id>
-    <updated>2016-06-20T07:19:28Z</updated>
+    <updated>2016-07-11T21:31:55Z</updated>
     <author>
       <name>Marin Todorov</name>
     </author>
@@ -35,7 +35,7 @@
     <title>RxSwift: an elegant weapon for statically typed age</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=CBUb7V75h4U"/>
     <id>https://www.youtube.com/watch?v=CBUb7V75h4U</id>
-    <updated>2016-06-20T07:19:28Z</updated>
+    <updated>2016-07-11T21:31:55Z</updated>
     <author>
       <name>Krzysztof Siejkowski</name>
     </author>
@@ -56,7 +56,7 @@
     <title>Rrrrrr… MVVM and Reactive Programming</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=WkOnvw4zC4A"/>
     <id>https://www.youtube.com/watch?v=WkOnvw4zC4A</id>
-    <updated>2016-06-20T07:19:28Z</updated>
+    <updated>2016-07-11T21:31:55Z</updated>
     <author>
       <name>Szymon Kuczur</name>
     </author>
