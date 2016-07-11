@@ -3946,3 +3946,19 @@ NSLondon May 2016:
     title: Scandal and Controversy in iOS Development
     tags: [storyboards, kvo, design patterns]
     vimeo: 170323222
+NSLondon June 2016:
+  - language: English
+    speakers: [Eduardo Aguilar]
+    title: Overcoming Technical Difficulties
+    tags: [deployment, enterprise, mdm, xcode server]
+    vimeo: 174225591
+  - language: English
+    speakers: [Honza Dvorsky]
+    title: Swift Package Manager
+    tags: [swift, swiftpm, dependencies, build, testing]
+    vimeo: 174225592
+  - language: English
+    speakers: [Rob Elkin]
+    title: "AltConf: Behind the Scenes"
+    tags: [conference, legal]
+    vimeo: 174225593
