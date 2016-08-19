@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/functional-programming"/>
   <link href="http://www.pomo.tv/tags/functional-programming/feed.xml" rel="self"/>
-  <updated>2016-07-11T21:31:51Z</updated>
+  <updated>2016-08-19T09:31:51Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Using Elm&#x2F;React inspired architecture to build Cocoa apps in a functional way</title>
     <link rel="alternate" href="https://vimeo.com/153520719"/>
     <id>https://vimeo.com/153520719</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Rheese Burgess</name>
     </author>
@@ -38,7 +38,7 @@
     <title>Quick introduction to RFP with zero theory</title>
     <link rel="alternate" href="https://vimeo.com/153520718"/>
     <id>https://vimeo.com/153520718</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Mark Szulyovszky</name>
     </author>
@@ -62,7 +62,7 @@
     <title>Introduction to Functional Programming</title>
     <link rel="alternate" href="https://vimeo.com/100786088"/>
     <id>https://vimeo.com/100786088</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Johannes Weiß</name>
     </author>
@@ -82,7 +82,7 @@
     <title>Practical Declarative Programming</title>
     <link rel="alternate" href="https://vimeo.com/138035285"/>
     <id>https://vimeo.com/138035285</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>
@@ -103,7 +103,7 @@
     <title>Lenses in Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ofjehH9f-CU"/>
     <id>https://www.youtube.com/watch?v=ofjehH9f-CU</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Brandon Williams</name>
     </author>
@@ -126,7 +126,7 @@
     <title>Going swiftly to a Functional world</title>
     <link rel="alternate" href="https://vimeo.com/146774666"/>
     <id>https://vimeo.com/146774666</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Ana Márquez</name>
     </author>
@@ -149,7 +149,7 @@
     <title>Functions, a love affair</title>
     <link rel="alternate" href="https://vimeo.com/144139236"/>
     <id>https://vimeo.com/144139236</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Josh Abernathy</name>
     </author>
@@ -169,7 +169,7 @@
     <title>Poor man&#x27;s functional programming</title>
     <link rel="alternate" href="https://vimeo.com/144208456"/>
     <id>https://vimeo.com/144208456</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Miguel A. Quinones</name>
     </author>
@@ -189,7 +189,7 @@
     <title>Object-Oriented Functional Programming</title>
     <link rel="alternate" href="https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/"/>
     <id>https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Saul Mora</name>
     </author>
@@ -211,7 +211,7 @@
     <title>Practical Functional Programming in Swift</title>
     <link rel="alternate" href="http://www.thedotpost.com/2015/02/kyle-fuller-practical-functional-programming-in-swift"/>
     <id>http://www.thedotpost.com/2015/02/kyle-fuller-practical-functional-programming-in-swift</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Kyle Fuller</name>
     </author>
@@ -233,7 +233,7 @@
     <title>Immutable Models on iOS</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=DK3vO3fUnlo"/>
     <id>https://www.youtube.com/watch?v=DK3vO3fUnlo</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Adam Ernst</name>
     </author>
@@ -253,7 +253,7 @@
     <title>The Functional Way</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=tohEJSq9gds"/>
     <id>https://www.youtube.com/watch?v=tohEJSq9gds</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Natasha Murashev</name>
     </author>
@@ -273,7 +273,7 @@
     <title>Functioning as a Functionalist</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=rJosPrqBqrA"/>
     <id>https://www.youtube.com/watch?v=rJosPrqBqrA</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Andy Matuschak</name>
     </author>
@@ -295,7 +295,7 @@
     <title>Functional Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=vbMjd-Ms-_o"/>
     <id>https://www.youtube.com/watch?v=vbMjd-Ms-_o</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Chris Eidhof</name>
     </author>
@@ -317,7 +317,7 @@
     <title>Laziness in Swift</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=1w2WEs0UjAA"/>
     <id>https://www.youtube.com/watch?v=1w2WEs0UjAA</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Joachim Kurz</name>
     </author>
@@ -338,7 +338,7 @@
     <title>What the func?</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Yl21K64J7mw"/>
     <id>https://www.youtube.com/watch?v=Yl21K64J7mw</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Daniel Steinberg</name>
     </author>
@@ -359,7 +359,7 @@
     <title>RACify Non-Reactive Code</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sek0ohbboNU"/>
     <id>https://www.youtube.com/watch?v=sek0ohbboNU</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Dave Lee</name>
     </author>
@@ -379,7 +379,7 @@
     <title>The Future Of ReactiveCocoa</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ICNjRS2X8WM"/>
     <id>https://www.youtube.com/watch?v=ICNjRS2X8WM</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Justin Spahr-Summers</name>
     </author>
@@ -399,7 +399,7 @@
     <title>Modularity à la Taliban</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=kuZ5eR2JcSo"/>
     <id>https://www.youtube.com/watch?v=kuZ5eR2JcSo</id>
-    <updated>2016-07-11T21:31:51Z</updated>
+    <updated>2016-08-19T09:31:51Z</updated>
     <author>
       <name>Jon Sterling</name>
     </author>

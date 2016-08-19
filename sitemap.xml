@@ -274,6 +274,9 @@
     <loc>http://www.pomo.tv/events/nslondon/june-2016/</loc>
   </url>
   <url>
+    <loc>http://www.pomo.tv/events/cocoaheads-düsseldorf/august-2016/</loc>
+  </url>
+  <url>
     <loc>http://www.pomo.tv/speakers/chris-eidhof/</loc>
   </url>
   <url>
@@ -1937,6 +1940,9 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/speakers/eduardo-aguilar/</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/speakers/bastian-andelefski/</loc>
   </url>
   <url>
     <loc>http://www.pomo.tv/tags/3d/</loc>
@@ -4814,5 +4820,8 @@
   </url>
   <url>
     <loc>http://www.pomo.tv/events/nslondon/june-2016/rob-elkin-altconf-behind-the-scenes.html</loc>
+  </url>
+  <url>
+    <loc>http://www.pomo.tv/events/cocoaheads-düsseldorf/august-2016/bastian-andelefski-mvvm-c-a-simple-way-to-navigate.html</loc>
   </url>
 </urlset>

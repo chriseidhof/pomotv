@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//tags/systemframeworks"/>
   <link href="http://www.pomo.tv/tags/systemframeworks/feed.xml" rel="self"/>
-  <updated>2016-07-11T21:31:57Z</updated>
+  <updated>2016-08-19T09:31:56Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>What&#x27;s New in Notifications</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-720"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-720</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Michele Campeotto</name>
     </author>
@@ -33,7 +33,7 @@
     <title>Your App and Next Generation Networks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-719"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-719</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Prabhakar Lakhera</name>
     </author>
@@ -55,7 +55,7 @@
     <title>Building Responsive and Efficient Apps with GCD</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-718"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-718</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Anthony Chivetta</name>
     </author>
@@ -78,7 +78,7 @@
     <title>What&#x27;s New in Network Extension and VPN</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-717"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-717</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Jamie Wood</name>
     </author>
@@ -100,7 +100,7 @@
     <title>CloudKit Tips and Tricks</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-715"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-715</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Nihar Sharma</name>
     </author>
@@ -120,7 +120,7 @@
     <title>What&#x27;s New in Core Location</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-714"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-714</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Adam Driscoll</name>
     </author>
@@ -140,7 +140,7 @@
     <title>Introducing Watch Connectivity</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-713"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-713</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Chris Jensen</name>
     </author>
@@ -163,7 +163,7 @@
     <title>Low Energy, High Performance: Compression and Accelerate</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-712"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-712</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Eric Bienville</name>
     </author>
@@ -182,7 +182,7 @@
     <title>Networking with NSURLSession</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-711"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-711</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Luke Case</name>
     </author>
@@ -202,7 +202,7 @@
     <title>CloudKit JS and Web Services</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-710"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-710</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Chris Edstrom</name>
     </author>
@@ -222,7 +222,7 @@
     <title>Introducing App Search</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-709"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-709</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Vipul Prakash</name>
     </author>
@@ -246,7 +246,7 @@
     <title>Debugging Energy Issues</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-708"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-708</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Abhinav Pathak</name>
     </author>
@@ -268,7 +268,7 @@
     <title>Achieving All-day Battery Life</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-707"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-707</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Jon Andrews</name>
     </author>
@@ -290,7 +290,7 @@
     <title>Security and Your Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-706"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-706</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Ivan Krstic</name>
     </author>
@@ -310,7 +310,7 @@
     <title>What&#x27;s New in Core Motion</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-705"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-705</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Anil Kandangath</name>
     </author>
@@ -330,7 +330,7 @@
     <title>What&#x27;s New in CloudKit</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-704"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-704</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Olivier Bonnet</name>
     </author>
@@ -349,7 +349,7 @@
     <title>Privacy and Your App</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-703"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-703</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Katie Skinner</name>
     </author>
@@ -368,7 +368,7 @@
     <title>Apple Pay Within Apps</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-702"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-702</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Nick Shearer</name>
     </author>
@@ -388,7 +388,7 @@
     <title>Wallet - The home for Apple Pay and more</title>
     <link rel="alternate" href="https://developer.apple.com/videos/play/wwdc2015-701"/>
     <id>https://developer.apple.com/videos/play/wwdc2015-701</id>
-    <updated>2016-07-11T21:31:57Z</updated>
+    <updated>2016-08-19T09:31:56Z</updated>
     <author>
       <name>Danvin Ruangchan</name>
     </author>

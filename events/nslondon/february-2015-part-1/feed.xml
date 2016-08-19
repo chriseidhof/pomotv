@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/nslondon/february-2015-part-1"/>
   <link href="http://www.pomo.tv/events/nslondon/february-2015-part-1/feed.xml" rel="self"/>
-  <updated>2016-07-11T21:31:32Z</updated>
+  <updated>2016-08-19T09:31:31Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>iOS App Security: Common Mistakes and Best Practices</title>
     <link rel="alternate" href="https://vimeo.com/118833806"/>
     <id>https://vimeo.com/118833806</id>
-    <updated>2016-07-11T21:31:32Z</updated>
+    <updated>2016-08-19T09:31:31Z</updated>
     <author>
       <name>Francesco Petrungaro</name>
     </author>
@@ -34,7 +34,7 @@
     <title>Lessons learned wrapping an Objective-C framework in Swift</title>
     <link rel="alternate" href="https://vimeo.com/118832151"/>
     <id>https://vimeo.com/118832151</id>
-    <updated>2016-07-11T21:31:32Z</updated>
+    <updated>2016-08-19T09:31:31Z</updated>
     <author>
       <name>JP Simard</name>
     </author>
