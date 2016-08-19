@@ -3962,6 +3962,17 @@ NSLondon June 2016:
     title: "AltConf: Behind the Scenes"
     tags: [conference, legal]
     vimeo: 174225593
+NSLondon July 2016:
+  - language: English
+    speakers: [Juan Delgado]
+    title: Product vs Craft
+    tags: [project management]
+    vimeo: 178441743
+  - language: English
+    speakers: [Kyle Fuller]
+    title: Testing without Xcode
+    tags: [testing, swift, swiftpm, cross-platform]
+    vimeo: 178934003
 CocoaHeads Düsseldorf August 2016:
   - language: English
     speakers: [Bastian Andelefski]
