@@ -5,7 +5,7 @@
   <id>http://www.pomo.tv/</id>
   <link href="http://www.pomo.tv//events/uikonf/2014"/>
   <link href="http://www.pomo.tv/events/uikonf/2014/feed.xml" rel="self"/>
-  <updated>2016-08-19T09:31:29Z</updated>
+  <updated>2016-08-19T10:22:05Z</updated>
   <author>
     <name>www.pomo.tv</name>
   </author>
@@ -14,7 +14,7 @@
     <title>Designing custom interfaces</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=jQ4i9EQFlNE"/>
     <id>https://www.youtube.com/watch?v=jQ4i9EQFlNE</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Christopher Downer</name>
     </author>
@@ -33,7 +33,7 @@
     <title>Mobile Backends as a Service</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=ImL1vlIM_VU"/>
     <id>https://www.youtube.com/watch?v=ImL1vlIM_VU</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Katrin Apel</name>
     </author>
@@ -52,7 +52,7 @@
     <title>Image performance</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=khoabTSgOFA"/>
     <id>https://www.youtube.com/watch?v=khoabTSgOFA</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Nick Lockwood</name>
     </author>
@@ -71,7 +71,7 @@
     <title>OpenGL(ES) demystified</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=8OHYX2RxBuo"/>
     <id>https://www.youtube.com/watch?v=8OHYX2RxBuo</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>David Rönnqvist</name>
     </author>
@@ -90,7 +90,7 @@
     <title>TextKit for the rest of us</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=cNUsaJ3Tmuo"/>
     <id>https://www.youtube.com/watch?v=cNUsaJ3Tmuo</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Max Seelemann</name>
     </author>
@@ -109,7 +109,7 @@
     <title>Beyond VoiceOver</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=OC_pmEW_GjE"/>
     <id>https://www.youtube.com/watch?v=OC_pmEW_GjE</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Sally Shepard</name>
     </author>
@@ -128,7 +128,7 @@
     <title>We´re not &quot;doing a startup&quot;</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=TI0RDxyUmvo"/>
     <id>https://www.youtube.com/watch?v=TI0RDxyUmvo</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Rachel Andrew</name>
     </author>
@@ -147,7 +147,7 @@
     <title>Building better transitions</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=44-2vmqQBl0"/>
     <id>https://www.youtube.com/watch?v=44-2vmqQBl0</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Eric Allam</name>
     </author>
@@ -166,7 +166,7 @@
     <title>Reverse engineering iOS apps</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=vlaIIYpZUnM"/>
     <id>https://www.youtube.com/watch?v=vlaIIYpZUnM</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Max Bazaliy</name>
     </author>
@@ -185,7 +185,7 @@
     <title>Modular iOS apps</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=WLfvsemTZuc"/>
     <id>https://www.youtube.com/watch?v=WLfvsemTZuc</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Piet Brauer</name>
     </author>
@@ -204,7 +204,7 @@
     <title>High performance Core Data</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Du8ggtwNTaM"/>
     <id>https://www.youtube.com/watch?v=Du8ggtwNTaM</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Matthew Morey</name>
     </author>
@@ -224,7 +224,7 @@
     <title>Techniques for writing DSLs in Objective-C</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=vv88YvH6Eqs"/>
     <id>https://www.youtube.com/watch?v=vv88YvH6Eqs</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Luis Solano</name>
     </author>
@@ -244,7 +244,7 @@
     <title>Demystifying security best practices</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=2FHc9QTpsqQ"/>
     <id>https://www.youtube.com/watch?v=2FHc9QTpsqQ</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Conrad Stoll</name>
     </author>
@@ -264,7 +264,7 @@
     <title>CocoaPods</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=TDAKOYQ7B-4"/>
     <id>https://www.youtube.com/watch?v=TDAKOYQ7B-4</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Orta Therox</name>
     </author>
@@ -283,7 +283,7 @@
     <title>Inheriting code from other people</title>
     <link rel="alternate" href="https://www.youtube.com/watch?v=p_GqpSt7gh0"/>
     <id>https://www.youtube.com/watch?v=p_GqpSt7gh0</id>
-    <updated>2016-08-19T09:31:29Z</updated>
+    <updated>2016-08-19T10:22:05Z</updated>
     <author>
       <name>Michele Titolo</name>
     </author>
