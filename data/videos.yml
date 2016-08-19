@@ -3962,3 +3962,9 @@ NSLondon June 2016:
     title: "AltConf: Behind the Scenes"
     tags: [conference, legal]
     vimeo: 174225593
+CocoaHeads Düsseldorf August 2016:
+  - language: English
+    speakers: [Bastian Andelefski]
+    title: MVVM-C A simple way to navigate
+    tags: [design patterns, architecture, mvvm]
+    vimeo: 177566153
