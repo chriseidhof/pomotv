@@ -57,7 +57,7 @@ UIKonf 2013:
 XOXO 2013:
   - language: English
     speakers: [Marco Arment]
-    tags: [ios, indie, buisiness, competition, emotion]
+    tags: [ios, indie, business, competition, emotion]
     youtube: D2RoYvcqhgM
     title: Fear and Competition
 UIKonf 2014:
@@ -2392,7 +2392,7 @@ WWDC 2015:
   - language: English
     speakers: [Tim Oriol]
     title: "What's New in SpriteKit"
-    tags: [graphics, games, sprikit]
+    tags: [graphics, games, spritekit]
     wwdc: "wwdc2015-604"
     direct-link: "http://devstreaming.apple.com/videos/wwdc/2015/604gq12qghmv39znb/604/604_whats_new_in_spritekit.pdf?dl=1"
   - language: English
