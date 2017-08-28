@@ -3979,3 +3979,16 @@ CocoaHeads Düsseldorf August 2016:
     title: MVVM-C A simple way to navigate
     tags: [design patterns, architecture, mvvm]
     vimeo: 177566153
+CocoaHeadsNL July 2017:
+  - language: English
+    speakers: [Dan Ursu]
+    title: Automate Everything
+    description: Setting up your own CI solution in 24 hours. Including fastlane, Danger and Git.
+    tags: [ci, fastlane, git, danger]
+    vimeo: 227875900
+  - language: English
+    speakers: [Antoine van der Lee]
+    title: Building the new WeTransfer app
+    description: WeTransfer build a new mobile app and Antoine talks about their working culture, open sourcing, their CI setup and taking proper time to setup your environment for effective development.
+    tags: [ci, danger]
+    vimeo: 227875466
