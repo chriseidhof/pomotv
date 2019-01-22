@@ -6,7 +6,7 @@ layout: false
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <% pages.each do |p| %>
   <url>
-    <loc><%= (site_url + p.destination_path).gsub(/\/index.html$/,'/') %></loc>
+    <loc><%= (config[:site_url] + p.destination_path).gsub(/\/index.html$/,'/') %></loc>
   </url>
 <% end %>
 </urlset>

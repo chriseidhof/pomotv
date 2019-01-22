@@ -59,19 +59,19 @@ helpers TagHelpers
 
 ignore 'lib/*'
 
-set :github_repo_url, 'https://github.com/chriseidhof/pomotv'
+config[:github_repo_url] = 'https://github.com/chriseidhof/pomotv'
 
 # Used in atom feeds that need a full URL, avoid using otherwise 
-set :site_url, 'http://www.pomo.tv/'
-set :site_name, 'www.pomo.tv'
+config[:site_url] = 'http://www.pomo.tv/'
+config[:site_name] = 'www.pomo.tv'
 
 
 
-set :css_dir, 'stylesheets'
+config[:css_dir] = 'stylesheets'
 
-set :js_dir, 'javascripts'
+config[:js_dir] = 'javascripts'
 
-set :images_dir, 'images'
+config[:images_dir] = 'images'
 
 data.editions.each do |metadata|
   name = "#{metadata[:event]} #{metadata[:edition]}"

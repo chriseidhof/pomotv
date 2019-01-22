@@ -8,7 +8,7 @@
       <%= link_to tag, "/tags/#{slug_for_tag(tag)}" %>
     <% end %>
   <% else %>
-    No tags yet. <%= link_to "Suggest tags", github_repo_url %>
+    No tags yet. <%= link_to "Suggest tags", config[:github_repo_url] %>
   <% end %>
 </p>
 <% if video['description'] %>
