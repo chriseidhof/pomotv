@@ -50,14 +50,15 @@ require 'middleman-search'
 #   end
 # end
 
-require "source/lib/video_helpers"
-require "source/lib/speaker_helpers"
-require "source/lib/tag_helpers"
+require "lib/video_helpers"
+require "lib/speaker_helpers"
+require "lib/tag_helpers"
 helpers VideoHelpers
 helpers SpeakerHelpers
 helpers TagHelpers
-
-ignore 'lib/*'
+include VideoHelpers
+include SpeakerHelpers
+include TagHelpers
 
 config[:github_repo_url] = 'https://github.com/chriseidhof/pomotv'
 
