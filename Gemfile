@@ -24,7 +24,7 @@ gem 'dotenv'
 gem 'yt'
 
 # Search with lunr.js
-gem 'middleman-search', '~> 0.10.0'
+gem 'middleman-search', :git => "https://github.com/sn3p/middleman-search.git", :branch => "update-lunr"
 
 # Validates the feeds
 gem 'feedvalidator'

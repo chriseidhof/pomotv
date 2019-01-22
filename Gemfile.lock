@@ -1,3 +1,13 @@
+GIT
+  remote: https://github.com/sn3p/middleman-search.git
+  revision: 6077d7b76d010ade046a32711536cab3601e4910
+  branch: update-lunr
+  specs:
+    middleman-search (0.10.0)
+      middleman-core (>= 3.2)
+      nokogiri (~> 1.6)
+      therubyracer (~> 0.12.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -82,10 +92,6 @@ GEM
       em-websocket (~> 0.5.1)
       middleman-core (>= 3.3)
       rack-livereload (~> 0.3.15)
-    middleman-search (0.10.0)
-      middleman-core (>= 3.2)
-      nokogiri (~> 1.6)
-      therubyracer (~> 0.12.2)
     mini_portile2 (2.4.0)
     minitest (5.11.3)
     nokogiri (1.10.1)
@@ -136,7 +142,7 @@ DEPENDENCIES
   middleman-blog
   middleman-gh-pages (~> 0.4.1)
   middleman-livereload (~> 3.4.6)
-  middleman-search (~> 0.10.0)
+  middleman-search!
   tzinfo-data
   wdm (~> 0.1.0)
   yt
