@@ -12,17 +12,10 @@ include SpeakerHelpers
 include TagHelpers
 
 config[:github_repo_url] = 'https://github.com/chriseidhof/pomotv'
-
-# Used in atom feeds that need a full URL, avoid using otherwise 
-config[:site_url] = 'http://www.pomo.tv/'
+config[:site_url] = 'http://www.pomo.tv/' # Used in atom feeds that need a full URL, avoid using otherwise 
 config[:site_name] = 'www.pomo.tv'
-
-
-
 config[:css_dir] = 'stylesheets'
-
 config[:js_dir] = 'javascripts'
-
 config[:images_dir] = 'images'
 
 @app.data.editions.each do |metadata|
