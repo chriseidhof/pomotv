@@ -5,7 +5,7 @@ module VideoHelpers
   def editions
     @@editions ||= Hash.new
     return @@editions unless @@editions.empty?
-    data.editions.each do |metadata|
+    @app.data.editions.each do |metadata|
       name = "#{metadata[:event]} #{metadata[:edition]}"
       @@editions[name] = metadata
     end

@@ -2,13 +2,13 @@
 # the following line to use "http://" instead
 source 'https://rubygems.org'
 
-gem "middleman", "~>3.3.12"
+gem "middleman", "~>4.3.2"
 
 # Live-reloading plugin
-gem "middleman-livereload", "~> 3.1.0"
+gem "middleman-livereload", "~> 3.4.6"
 
 # Publish to github pages
-gem 'middleman-gh-pages', :git => "https://github.com/orta/middleman-gh-pages.git"
+gem 'middleman-gh-pages', "~> 0.4.1"
 gem 'middleman-blog'
 
 # For faster file watcher updates on Windows:
@@ -24,7 +24,7 @@ gem 'dotenv'
 gem 'yt'
 
 # Search with lunr.js
-gem 'middleman-search', '~> 0.5.0'
+gem 'middleman-search', :git => "https://github.com/sn3p/middleman-search.git", :branch => "update-lunr"
 
 # Validates the feeds
 gem 'feedvalidator'
